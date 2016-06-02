@@ -961,7 +961,7 @@ Vuoi chiuderla?"</string>
     <string name="wifi_p2p_frequency_conflict_message">Il telefono verrà momentaneamente scollegato dalla rete Wi-Fi durante il collegamento a %1$s.</string>
     <string name="select_character">Inserisci carattere</string>
     <string name="sms_control_title">Invio SMS</string>
-    <string name="sms_control_message">"%1$s sta inviando molti SMS. Vuoi consentire all'applicazione di continuare a inviare messaggi?"</string>
+    <string name="sms_control_message">"&lt;b>%1$s&lt;/b> sta inviando molti SMS. Vuoi consentire all'applicazione di continuare a inviare messaggi?"</string>
     <string name="sms_control_yes">Consenti</string>
     <string name="sms_control_no">Nega</string>
     <string name="sms_short_code_confirm_message"><b>%1$s</b> vorrebbe inviare un messaggio a <b>%2$s</b>.</string>
