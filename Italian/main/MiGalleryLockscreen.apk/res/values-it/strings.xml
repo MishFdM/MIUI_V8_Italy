@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galleria</string>
+    <string name="cancel">Esci</string>
+    <string name="change_time">Intervallo</string>
+    <string name="day">1 giorno</string>
+    <string name="declaration">"Utilizzando questo prodotto, accetti &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Informativa sulla Privacy&lt;/a>. Questa applicazione deve collegarsi ad internet per funzionare correttamente</string>
+    <string name="declaration_title">Termini di utilizzo</string>
+    <string name="hour_1">1 ora</string>
+    <string name="hour_3">3 ore</string>
+    <string name="lockscreen_magazine_subscribe">%1$s follower</string>
+    <string name="lockscreen_magazine_summary">Ricevi ogni giorno sfondi direttamente sulla Schermata di blocco.</string>
+    <string name="lockscreen_magazine_system_subscribe">%1$s sfondi</string>
+    <string name="lockscreen_magazine_system_title">Predefinito</string>
+    <string name="lockscreen_magazine_title">Temi Schermata di blocco quotidiani</string>
+    <string name="no_long_show">Non mostrare più</string>
+    <string name="ok">OK</string>
+    <string name="resource_apply">Applica</string>
+    <string name="resource_no_network_text">"Impossibile collegarsi alla rete</string>
+    <string name="setting_head">Impostazioni</string>
+    <string name="theme_apply_failured">Impossibile applicare lo sfondo alla Schermata di blocco</string>
+    <string name="theme_apply_success">Tema applicato</string>
+    <string name="theme_applying">Installazione…</string>
+    <string name="wlan_download">Solo Wi-Fi</string>
+</resources>

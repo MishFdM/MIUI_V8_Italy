@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="page_layout_margins_normal">
+        <item>234</item>
+        <item>464</item>
+        <item>654</item>
+        <item>845</item>
+        <item>84</item>
+        <item>168</item>
+        <item>263</item>
+        <item>373</item>
+        <item>518</item>
+        <item>597</item>
+        <item>709</item>
+        <item>-1</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_medium">
+        <item>234</item>
+        <item>464</item>
+        <item>654</item>
+        <item>845</item>
+        <item>84</item>
+        <item>169</item>
+        <item>262</item>
+        <item>372</item>
+        <item>517</item>
+        <item>597</item>
+        <item>708</item>
+        <item>-1</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_large">
+        <item>234</item>
+        <item>464</item>
+        <item>654</item>
+        <item>845</item>
+        <item>84</item>
+        <item>169</item>
+        <item>255</item>
+        <item>366</item>
+        <item>517</item>
+        <item>591</item>
+        <item>702</item>
+        <item>-1</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_huge">
+        <item>234</item>
+        <item>466</item>
+        <item>656</item>
+        <item>847</item>
+        <item>84</item>
+        <item>170</item>
+        <item>252</item>
+        <item>374</item>
+        <item>546</item>
+        <item>621</item>
+        <item>744</item>
+        <item>-1</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_godzilla">
+        <item>234</item>
+        <item>466</item>
+        <item>656</item>
+        <item>847</item>
+        <item>84</item>
+        <item>170</item>
+        <item>251</item>
+        <item>372</item>
+        <item>546</item>
+        <item>620</item>
+        <item>743</item>
+        <item>-1</item>
+        <item>-1</item>
+    </integer-array>
+</resources>

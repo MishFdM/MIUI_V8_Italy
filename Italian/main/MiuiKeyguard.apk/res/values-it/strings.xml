@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Elimina</string>
+    <string name="unlockscreen_recharging_message">In carica, al %d%%</string>
+    <string name="unlockscreen_recharge_completed">Carica completa</string>
+    <string name="unlockscreen_low_battery">Collegare il caricabatteria</string>
+    <string name="lockscreen_charging_msg">In carica</string>
+    <string name="emergency_call_string">Emergenza</string>
+    <string name="forget_password_string">Pwd dimenticata</string>
+    <string name="input_puk_code">Ins.il PUK</string>
+    <string name="unlocking_sim_card">Sblocco carta SIM</string>
+    <string name="input_pin_code">Ins.il PIN</string>
+    <string name="incorrect_pukcode_remaining_attempts">Codice PUK errato, hai ancora %d tentativi</string>
+    <string name="incorrect_pincode_remaining_attempts">Codice PIN errato, hai ancora %d tentativi</string>
+    <string name="incorrect_pukcode">Codice PUK errato</string>
+    <string name="incorrect_pincode">Codice PIN errato</string>
+    <string name="open_wifi_settings">Apri connessione di rete</string>
+    <string name="lock_screen_date">EEE, dd MMMM</string>
+    <string name="lock_screen_date_12">EEE, dd MMMM</string>
+    <string name="lockscreen_glogin_password_hint">Password</string>
+    <string name="lockscreen_glogin_checking_password">Verifica in corso…</string>
+    <string name="login_website_in_case_forget_password">Per resettare la tua password, va su i.xiaomi.com.</string>
+    <string name="experimental_validate_thanks">Grazie!</string>
+    <string name="experimental_validate_warning">"Grazie per l'aiuto a rendere migliore MIUI!"</string>
+    <string name="experimental_validate">Validazione</string>
+    <string name="experimental_try_string">Prova</string>
+    <string name="experimental_validate_username">Nome utente</string>
+    <string name="experimental_validate_password">Password</string>
+    <string name="experimental_validate_progress">Accesso in corso…</string>
+    <string name="experimental_validate_fail">Accesso fallito</string>
+    <string name="lockscreen_glogin_invalid_input">Nome utente o password non validi.</string>
+    <string name="find_device_turn_off_flight_mode">Disattiva modalità Aereo</string>
+    <string name="phone_locked_string">Il telefono è bloccato</string>
+    <string name="phone_locked_timeout_seconds_string">Prego riprovare tra %s secondi</string>
+    <string name="phone_locked_timeout_minutes_string">Prego riprovare tra %s minuti</string>
+    <string name="input_password_hint_text">Inserisci la password</string>
+    <string name="unlock_sim_string">Sblocca SIM</string>
+    <string name="lockscreen_glogin_submit_button">Accesso</string>
+    <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
+    <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>
+    <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
+    <string name="lockscreen_access_pattern_detected">Sequenza completa</string>
+    <string name="default_lockscreen_unlock_hint_text">Scorri in alto per sbloccare</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Hai inserito la password sbagliata per %d volte. Dopo altri %d tentativi errati, ti verrà chiesto di sbloccare il tuo telefono accedendo al tuo account.
+
+ Riprova tra %d secondi."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Hai eseguito %d tentativi errati di sbloccare il telefono. Dopo altri %d tentativi errati, il telefono sarà ripristinato alle impostazioni di fabbrica e tutti i dati utente andranno persi."</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Hai eseguito %d tentativi errati di sbloccare il telefono. Il telefono sarà ripristinato alle impostazioni di fabbrica.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato con dispositivo Bluetooth</string>
+    <string name="missed_call_text">%d chiamate perse</string>
+    <string name="wrong_password">Password non corretta</string>
+    <string name="keyguard_torch_cover_text">Premi a lungo il tasto accensione per tenere accesa la Torcia</string>
+    <string name="confirm_pin_msg">Inserisci di nuovo PIN</string>
+    <string name="invalid_confirm_pin_hint">I PIN non corrispondono</string>
+    <string name="unlock_string">Sblocca</string>
+    <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
+    <string name="open_remote_center_hint_text">Scorri a destra per aprire il Telefono</string>
+    <string name="click_to_enter_text">Tocca per sbloccare</string>
+    <string name="fingerprint_try_again_text">Prova di nuovo</string>
+    <string name="fingerprint_not_identified_title">Impossibile leggere le impronte digitali</string>
+    <string name="fingerprint_not_identified_msg">Inserisci la password per sbloccare il dispositivo.</string>
+    <string name="invalid_sim_pin_hint">Digita un PIN tra 4 e 8 numeri</string>
+    <string name="invalid_sim_puk_hint">Il codice PUK dovrebbe essere di 8 o più numeri</string>
+    <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
+    <string name="fingerprint_lockout_msg">"Aspetta un minuto e riprova a sbloccare con l'impronta"</string>
+</resources>

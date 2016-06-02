@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Raffreddamento</item>
+        <item>Riscaldamento</item>
+        <item>Deumidificazione</item>
+        <item>Aria</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Il tuo dispositivo può accoppiarsi solo con Mi TV, Mi Box e qualche altro dispositivo Android tramite Wi-Fi.</item>
+        <item>"Accertati di aver selezionato il modello A/C corretto nel processo di accoppiamento. Segui le indicazioni sul tuo dispositivo finché l'accoppiamento non sarà completato."</item>
+        <item>Al momento solo Mi 4 può essere utilizzato come comando IR.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="question">
+        <item>Perché il mio telefono continua a cercare dispositivi wireless?</item>
+        <item>Perchéposso soltanto accendere il mio A/C e non spegnerlo?</item>
+        <item>Posso utilizzare Mi 3, Mi 2 e Redmi come comando IR?</item>
+    </string-array>
+</resources>

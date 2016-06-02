@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Sereno</item>
+        <item>Parzialmente nuvoloso</item>
+        <item>Nuvoloso</item>
+        <item>Nebbia</item>
+        <item>Violento temporale</item>
+        <item>Acquazzone</item>
+        <item>Temporale</item>
+        <item>Forte temporale</item>
+        <item>Rovescio</item>
+        <item>Pioggia intensa</item>
+        <item>Pioggia moderata</item>
+        <item>Pioggia leggera</item>
+        <item>Alternanza di pioggia e sole</item>
+        <item>Bufera di neve</item>
+        <item>Neve</item>
+        <item>Nevicata pesante</item>
+        <item>Nevicata moderata</item>
+        <item>Nevicata leggera</item>
+        <item>Tempesta di sabbia violenta</item>
+        <item>Tempesta di sabbia</item>
+        <item>Sabbia</item>
+        <item>Ventilato</item>
+        <item>Grandine</item>
+        <item>Polvere</item>
+        <item>Foschia</item>
+        <item>Pioggia gelata</item>
+        <item>Nessun dato</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Debole</item>
+        <item>Medio</item>
+        <item>Forte</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Indicato</item>
+        <item>Non indicato</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Indicato</item>
+        <item>Non indicato</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>
+</resources>

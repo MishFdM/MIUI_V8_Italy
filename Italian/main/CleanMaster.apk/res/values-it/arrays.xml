@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Dimensione</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Dimensione</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Utilizzate di frequente</item>
+        <item>Dimensione</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Tutti i giorni</item>
+        <item>Ogni 3 giorni</item>
+        <item>Ogni 7 giorni</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Mostra</item>
+        <item>Non mostrare</item>
+        <item>Mostra più tardi</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Elimina questo file</item>
+        <item>Mostra posizione file</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Elimina questo file</item>
+        <item>Mostra posizione file</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>Elimina questo file</item>
+        <item>Apri</item>
+    </string-array>
+    <string-array name="empty_floder_clean_menu">
+        <item>Pulisci</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Pulisci</item>
+        <item>Installa</item>
+        <item>Mostra nella cartella</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>Aggiungi alle eccezioni</item>
+    </string-array>
+    <string-array name="long_add_app_menu">
+        <item>Aggiungi app alle eccezioni</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Disinstalla</item>
+    </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Ogni 7 giorni</item>
+        <item>Ogni 15 giorni</item>
+        <item>Ogni 30 giorni</item>
+    </string-array>
+</resources>

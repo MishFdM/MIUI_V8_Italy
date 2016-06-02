@@ -1,0 +1,7 @@
+<strings>
+<string name="date_time" value="E, dd MMMM"/>
+<string name="language" value="it"/>
+<string name="desc_date_format" value="E, dd MMMM"/>
+<string name="desc_time" value="'ore' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', tocca due volte per leggere l'ora'"/>
+</strings>
+

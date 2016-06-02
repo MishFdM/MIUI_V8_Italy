@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Elimina %1$d file</item>
+        <item quantity="zero">Elimina %1$d file</item>
+        <item quantity="one">Elimina %1$d file</item>
+        <item quantity="two">Elimina %1$d file</item>
+        <item quantity="few">Elimina %1$d file</item>
+        <item quantity="many">Elimina %1$d file</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" e %1$d cartelle?"</item>
+        <item quantity="zero">" e %1$d cartelle?"</item>
+        <item quantity="one">" e %1$d cartella?"</item>
+        <item quantity="two">" e %1$d cartelle?"</item>
+        <item quantity="few">" e %1$d cartelle?"</item>
+        <item quantity="many">" e %1$d cartelle?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d elementi</item>
+        <item quantity="zero">%d elemento</item>
+        <item quantity="one">%d elementi</item>
+        <item quantity="two">%d elementi</item>
+        <item quantity="few">%d elementi</item>
+        <item quantity="many">%d elementi</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Ancora %1$d file da scaricare</item>
+        <item quantity="zero">Ancora %1$d file da scaricare</item>
+        <item quantity="one">Ancora %1$d file da scaricare</item>
+        <item quantity="two">Ancora %1$d file da scaricare</item>
+        <item quantity="few">Ancora %1$d file da scaricare</item>
+        <item quantity="many">Ancora %1$d file da scaricare</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Ancora %1$d file da caricare</item>
+        <item quantity="zero">Ancora %1$d file da caricare</item>
+        <item quantity="one">Ancora %1$d file da caricare</item>
+        <item quantity="two">Ancora %1$d file da caricare</item>
+        <item quantity="few">Ancora %1$d file da caricare</item>
+        <item quantity="many">Ancora %1$d file da caricare</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="zero">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
+        <item quantity="two">%1$d selezionati</item>
+        <item quantity="few">%1$d selezionati</item>
+        <item quantity="many">%1$d selezionati</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d elementi)</item>
+        <item quantity="zero"> (%1$d elementi)</item>
+        <item quantity="one"> (%1$d elemento)</item>
+        <item quantity="two"> (%1$d elementi)</item>
+        <item quantity="few"> (%1$d elementi)</item>
+        <item quantity="many"> (%1$d elementi)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d elementi)</item>
+        <item quantity="zero"> (%1$d elementi)</item>
+        <item quantity="one"> (%1$d elemento)</item>
+        <item quantity="two"> (%1$d elementi)</item>
+        <item quantity="few"> (%1$d elementi)</item>
+        <item quantity="many"> (%1$d elementi)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d elementi</item>
+        <item quantity="zero"> %1$d elementi</item>
+        <item quantity="one"> %1$d elemento</item>
+        <item quantity="two"> %1$d elementi</item>
+        <item quantity="few"> %1$d elementi</item>
+        <item quantity="many"> %1$d elementi</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">App %1$s file associati (%2$d elementi)</item>
+        <item quantity="zero">App %1$s file associati (%2$d elementi)</item>
+        <item quantity="one">App %1$s file associati (%2$d elemento)</item>
+        <item quantity="two">App %1$s file associati (%2$d elementi)</item>
+        <item quantity="few">App %1$s file associati (%2$d elementi)</item>
+        <item quantity="many">App %1$s file associati (%2$d elementi)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%1$s file associati (%2$d elementi)</item>
+        <item quantity="zero">%1$s file associati (%2$d elementi)</item>
+        <item quantity="one">%1$s file associati (%2$d elemento)</item>
+        <item quantity="two">%1$s file associati (%2$d elementi)</item>
+        <item quantity="few">%1$s file associati (%2$d elementi)</item>
+        <item quantity="many">%1$s file associati (%2$d elementi)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Tag %1$s file associati (%2$d elementi)</item>
+        <item quantity="zero">Tag %1$s file associati (%2$d elementi)</item>
+        <item quantity="one">Tag %1$s file associati (%2$d elemento)</item>
+        <item quantity="two">Tag %1$s file associati (%2$d elementi)</item>
+        <item quantity="few">Tag %1$s file associati (%2$d elementi))</item>
+        <item quantity="many">Tag %1$s file associati (%2$d elementi)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minuti fa</item>
+        <item quantity="zero">%1$d minuti fa</item>
+        <item quantity="one">%1$d min fa</item>
+        <item quantity="two">%1$d min fa</item>
+        <item quantity="few">%1$d min fao</item>
+        <item quantity="many">%1$d min fa</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ore fa</item>
+        <item quantity="zero">%1$d ore fa</item>
+        <item quantity="one">%1$d ora fa</item>
+        <item quantity="two">%1$d ore fa</item>
+        <item quantity="few">%1$d ore fa</item>
+        <item quantity="many">%1$d ore fao</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d giorni fa</item>
+        <item quantity="zero">%1$d giorni fa</item>
+        <item quantity="one">%1$d giorno fa</item>
+        <item quantity="two">%1$d giorni fa</item>
+        <item quantity="few">%1$d giorni fa</item>
+        <item quantity="many">%1$d giorni fa</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">trovato %1$d nuovi file</item>
+        <item quantity="zero">trovato %1$d nuovi file</item>
+        <item quantity="one">trovato %1$d nuovo file</item>
+        <item quantity="two">trovato %1$d nuovi file</item>
+        <item quantity="few">trovato %1$d nuovi file</item>
+        <item quantity="many">trovato %1$d nuovi file</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="zero">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="one">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="two">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="few">Ricevuto %1$d file dall\'App %2$s</item>
+        <item quantity="many">Ricevuto %1$d file dall\'App %2$s</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Ricevuto %1$d file da WeChat</item>
+        <item quantity="zero">Ricevuto %1$d file da WeChat</item>
+        <item quantity="one">Ricevuto %1$d file da WeChat</item>
+        <item quantity="two">Ricevuto %1$d file da WeChat</item>
+        <item quantity="few">Ricevuto %1$d file da WeChat</item>
+        <item quantity="many">Ricevuto %1$d file da WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d file Video di WeChat stanno per scadere</item>
+        <item quantity="zero">%1$d file Video di WeChat stanno per scadere</item>
+        <item quantity="one">%1$d file Video di WeChat sta per scadere</item>
+        <item quantity="two">%1$d file Video di WeChat stanno per scadere</item>
+        <item quantity="few">%1$d file Video di WeChat stanno per scadere</item>
+        <item quantity="many">%1$d file Video di WeChat stanno per scadere</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
+        <item quantity="zero">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
+        <item quantity="one">%1$d file Video di WeChat sta per essere cancellato, Vuoi fare un backup?</item>
+        <item quantity="two">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
+        <item quantity="few">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
+        <item quantity="many">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="zero">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="one">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="two">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="few">%1$d nuovi adesivi WeChat oggi</item>
+        <item quantity="many">%1$d nuovi adesivi WeChat oggi</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Backup di %1$d video WeChat.</item>
+        <item quantity="zero">Backup di %1$d video WeChat.</item>
+        <item quantity="one">Backup di %1$d video WeChat.</item>
+        <item quantity="two">Backup di %1$d video WeChat.</item>
+        <item quantity="few">Backup di %1$d video WeChat.</item>
+        <item quantity="many">Backup di %1$d video WeChat.</item>
+    </plurals>
+    <plurals name="remote_video_update">
+        <item quantity="other">Trovati %1$d nuovi video</item>
+        <item quantity="zero">Trovati %1$d nuovi video</item>
+        <item quantity="one">Trovato %1$d nuovo video</item>
+        <item quantity="two">Trovati %1$d nuovi video</item>
+        <item quantity="few">Trovati %1$d nuovi video</item>
+        <item quantity="many">Trovati %1$d nuovi video</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other"> Download</item>
+        <item quantity="zero"> Download</item>
+        <item quantity="one"> Download</item>
+        <item quantity="two"> Download</item>
+        <item quantity="few"> Download</item>
+        <item quantity="many"> Download</item>
+    </plurals>
+</resources>

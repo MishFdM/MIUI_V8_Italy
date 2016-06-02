@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Notifica</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Allarme</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minuti</item>
+        <item>1 minuto</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>20 minuti</item>
+        <item>25 minuti</item>
+        <item>30 minuti</item>
+        <item>45 minuti</item>
+        <item>1 ora</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+        <item>12 ore</item>
+        <item>1 giorno</item>
+        <item>2 giorni</item>
+        <item>1 settimana</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Mai</item>
+        <item>0 minuti</item>
+        <item>1 minuto</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>20 minuti</item>
+        <item>25 minuti</item>
+        <item>30 minuti</item>
+        <item>45 minuti</item>
+        <item>1 ora</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+        <item>12 ore</item>
+        <item>1 giorno</item>
+        <item>2 giorni</item>
+        <item>1 settimana</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Predefinito</item>
+        <item>Sabato</item>
+        <item>Domenica</item>
+        <item>Lunedì</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Occupato</item>
+        <item>Disponibile</item>
+        <item>Incerto</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Predefinito</item>
+        <item>Privato</item>
+        <item>Pubblico</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>primo</item>
+        <item>secondo</item>
+        <item>terzo</item>
+        <item>quarto</item>
+        <item>ultimo</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Senza risposta</item>
+        <item>Si</item>
+        <item>Forse</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Solo questo evento</item>
+        <item>Questo ed eventi futuri</item>
+        <item>Tutti gli eventi</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Questo ed eventi futuri</item>
+        <item>Tutti gli eventi</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Solo questa occorrenza</item>
+        <item>Tutti gli eventi della serie</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Giorno</item>
+        <item>Settimana</item>
+        <item>Mese</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Solo se rifiutato</item>
+        <item>Se rifiutato o non risposto</item>
+    </string-array>
+
+    <string-array name="repeat_by_nth_sun">
+        <item>ogni prima Domenica</item>
+        <item>ogni seconda Domenica</item>
+        <item>ogni terza Domenica</item>
+        <item>ogni quarta Domenica</item>
+        <item>ogni ultima Domenica</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ogni primo Lunedì</item>
+        <item>ogni secondo Lunedì</item>
+        <item>ogni terzo Lunedì</item>
+        <item>ogni quarto Lunedì</item>
+        <item>ogni ultimo Lunedì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ogni primo Martedì</item>
+        <item>ogni secondo Martedì</item>
+        <item>ogni terzo Martedì</item>
+        <item>ogni quarto Martedì</item>
+        <item>ogni ultimo Martedì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ogni primo Mercoledì</item>
+        <item>ogni secondo Mercoledì</item>
+        <item>ogni terzo Mercoledì</item>
+        <item>ogni quarto Mercoledì</item>
+        <item>ogni ultimo Mercoledì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ogni primo Giovedì</item>
+        <item>ogni secondo Giovedì</item>
+        <item>ogni terzo Giovedì</item>
+        <item>ogni quarto Giovedì</item>
+        <item>ogni ultimo Giovedì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ogni primo Venerdì</item>
+        <item>ogni secondo Venerdì</item>
+        <item>ogni terzo Venerdì</item>
+        <item>ogni quarto Venerdì</item>
+        <item>ogni ultimo Venerdì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ogni primo Sabato</item>
+        <item>ogni secondo Sabato</item>
+        <item>ogni terzo Sabato</item>
+        <item>ogni quarto Sabato</item>
+        <item>ogni ultimo Sabato</item>
+    </string-array>
+        <string-array name="quick_response_defaults">
+        <item>Sto arrivando di corsa, sono in ritardo di qualche minuto.</item>
+        <item>Sarò li in 10 minuti circa.</item>
+        <item>Vai pure ed inizia senza di me.</item>
+        <item>"Mi dispiace, non ce la faccio. Dovremo rimandare."</item>
+    </string-array>
+</resources>

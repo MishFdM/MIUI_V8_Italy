@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Security service plugin</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Annulla</string>
+    <string name="privacy_declare_dialog_title">Condizioni del Servizio</string>
+    <string name="privacy_prompt_traffic_purchase_message">Le informazioni relative al tuo numero di telefono e al tuo operatore verranno crittografate e caricate sui server Xiaomi per fornire maggiori dettagli sulle possibilità di acquisto.</string>
+    <string name="miuishare_title_more">Altro</string>
+    <string name="miuishare_title_share">Condividi</string>
+    <string name="miuishare_wechat_timeline_title">Momenti WeChat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_not_available">Impossibile collegarsi alla rete</string>
+    <string name="no_network_btn">Prova di nuovo</string>
+    <string name="main_toolbar_purchase">RIcarica</string>
+    <string name="usage_sorted_loading_text">Solo un secondo…</string>
+    <string name="month_report_activity_label">Report mensile</string>
+    <string name="month_report_disconnect_tip">Impossibile collegarsi alla rete</string>
+    <string name="month_report_click_reconnect_network">Prova di nuovo</string>
+    <string name="month_report_warning_dialog_title">Report di sicurezza mensile</string>
+    <string name="month_report_warning_dialog_description">"Per vedere il report mensile attiva questa funzione nelle impostazioni dell'app Sicurezza."</string>
+    <string name="month_report_warning_dialog_positive">Attiva</string>
+    <string name="month_report_history_activity_label">Cronologia report</string>
+    <string name="month_report_result_share">Condividi</string>
+    <string name="month_report_share_img_fail">Impossibile condividere</string>
+    <string name="month_report_share_loading">Solo un secondo…</string>
+    <string name="month_report_network_dialog_title">Impossibile recuperare informazioni sul report</string>
+    <string name="month_report_network_dialog_description">Consenti a questa app di collegarsi ad internet per ricevere informazioni sui report?</string>
+    <string name="month_report_network_dialog_positive">Consenti</string>
+    <string name="month_report_follow_service_title">Aggiornamenti di sicurezza</string>
+    <string name="month_report_follow_service_summary">"Rimani aggiornato sulle informazioni e le novità sulla sicurezza seguendo l'account ufficiale dell'app Sicurezza MIUI."</string>
+    <string name="month_report_follow_service_positive">Segui</string>
+    <string name="month_report_follow_service_negative">No grazie</string>
+    <string name="app_not_installed_toast">Applicazione non installata sul tuo dispositivo</string>
+    <string name="empty">" "</string>
+    <string name="share">Condividi</string>
+    <string name="open_browser">Apri nel browser</string>
+    <string name="title_share_link">Condividi URL</string>
+    <string name="pm_lable_name">Informazioni sui permessi di root</string>
+</resources>

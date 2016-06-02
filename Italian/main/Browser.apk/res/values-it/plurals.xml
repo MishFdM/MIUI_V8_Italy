@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_num_days">
+        <item quantity="other">Ultimi %d giorni</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d di %2$d</item>
+        <item quantity="one">1 risultato</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Cancellare %1$d video?</item>
+        <item quantity="one">Cancellare %1$d video?</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d video rimossi correttamente.</item>
+        <item quantity="one">%1$d video rimosso correttamente.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Eliminare %1$d elementi dalla cronologia?</item>
+        <item quantity="one">Eliminare %1$d elemento dalla cronologia?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d elementi rimosi dalla cronologia.</item>
+        <item quantity="one">%1$d elemento rimosso dalla cronologia.</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d risultati</item>
+        <item quantity="one">%d risultato</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d pubblicità bloccate</item>
+        <item quantity="one">%d pubblicità bloccata</item>
+    </plurals>
+</resources>

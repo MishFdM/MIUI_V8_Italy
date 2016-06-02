@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d min fa</item>
+        <item quantity="zero">%1$d min fa</item>
+        <item quantity="one">%1$d min fa</item>
+        <item quantity="two">%1$d min fa</item>
+        <item quantity="few">%1$d min fa</item>
+        <item quantity="many">%1$d min fa</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ore fa</item>
+        <item quantity="zero">%1$d ore fa</item>
+        <item quantity="one">%1$d ora fa</item>
+        <item quantity="two">%1$d ore fa</item>
+        <item quantity="few">%1$d ore fa</item>
+        <item quantity="many">%1$d ore fa</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d giorni fa</item>
+        <item quantity="zero">%1$d giorni fa</item>
+        <item quantity="one">%1$d giorno fa</item>
+        <item quantity="two">%1$d giorni fa</item>
+        <item quantity="few">%1$d giorni fa</item>
+        <item quantity="many">%1$d giorni fa</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Scaricato da %1$d persone</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Scaricato da %1$d persone</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Scaricato da %1$d persone</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d visualizzazioni</item>
+        <item quantity="zero">%1$d visualizzazioni</item>
+        <item quantity="one">%1$d visualizzazione</item>
+        <item quantity="two">%1$d visualizzazioni</item>
+        <item quantity="few">%1$d visualizzazioni</item>
+        <item quantity="many">%1$d visualizzazioni</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d gruppi</item>
+        <item quantity="one">%d gruppo</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Puoi rimuovere dati non importanti da %d app</item>
+        <item quantity="one">Puoi rimuovere dati non importanti da %d app</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d app installate, puoi rimuovere le app utilizzate raramente</item>
+        <item quantity="one">%d app installata, puoi rimuoverla</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Trovati %d file di grandi dimensioni, puoi rimuovere quelli non importanti</item>
+        <item quantity="one">Trovato %d file di grandi dimensioni, puoi rimuoverlo</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Trovate %d foto, puoi rimuovere quelle duplicate o ridondanti</item>
+        <item quantity="one">Trovata %d foto, puoi rimuoverla se duplicata o ridondante</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Trovati %d APK, puoi eliminare quelli non necessari.</item>
+        <item quantity="one">Trovato %d APK, puoi eliminarlo.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Trovati %d video, puoi eliminare quelli non necessari.​</item>
+        <item quantity="one">Trovato %d video, puoi eliminarlo.</item>
+    </plurals>
+</resources>

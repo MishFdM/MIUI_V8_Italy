@@ -1,0 +1,20 @@
+version: 3.0.9-bz
+apkFileName: Contacts.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 16
+  - 18
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '17'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '100'
+  versionName: 4.4.4-6.1.7
+sharedLibrary: false
+doNotCompress:
+- arsc
+- webp

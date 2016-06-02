@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Media</string>
+    <string name="app_label">Archiviazione media</string>
+    <string name="upgrade_msg">Aggiornamento database dei media.</string>
+    <string name="artist_label">Artista</string>
+    <string name="ringtone_default">Suoneria di default</string>
+    <string name="notification_sound_default">Suoneria notifiche di default</string>
+    <string name="alarm_sound_default">Suoneria allarme di default</string>
+    <string name="root_images">Immagini</string>
+    <string name="root_videos">Video</string>
+    <string name="root_audio">Audio</string>
+</resources>

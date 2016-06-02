@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_memory_clean">
+        <item>Dopo 1 minuto</item>
+        <item>Dopo 5 minuti</item>
+        <item>Dopo 10 minuti</item>
+        <item>Dopo 30 minuti</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Questa settimana "</item>
+        <item>"Oggi "</item>
+        <item>"Questo mese "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Ieri "</item>
+        <item>"Oggi "</item>
+        <item>"Questo mese "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Questa settimana: "</item>
+        <item>"Oggi: "</item>
+        <item>"Questo mese: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ieri: "</item>
+        <item>"Oggi: "</item>
+        <item>"Questo mese: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Ieri (dati)</item>
+        <item>Oggi (dati)</item>
+        <item>Questo mese (dati)</item>
+        <item>Ieri Wi-Fi</item>
+        <item>Oggi Wi-Fi</item>
+        <item>Questo mese Wi-Fi</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Ieri (dati)</item>
+        <item>Oggi (dati)</item>
+        <item>Questo mese (dati)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sec</item>
+        <item>4 sec</item>
+        <item>5 sec</item>
+        <item>6 sec</item>
+        <item>7 sec</item>
+        <item>8 sec</item>
+        <item>9 sec</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Utilizzo dati "</item>
+        <item>"Utilizzo Wi-Fi "</item>
+        <item>"Dati risparmiati "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Utilizzo dati "</item>
+        <item>"Utilizzo Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Utilizzo dati "</item>
+        <item>"Utilizzo Wi-Fi "</item>
+        <item>"Dati risparmiati "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Ricevi automaticamente</item>
+        <item>Imposta manualmente</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Mostra avviso</item>
+        <item>Avvisa e disattiva i dati mobili</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Più utilizzate</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Nessuno</item>
+        <item>Basso</item>
+        <item>Medio</item>
+        <item>Alto</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Sempre</item>
+        <item>Solo per le eccezioni</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Dopo 1 minuto</item>
+        <item>Dopo 5 minuti</item>
+        <item>Dopo 10 minuti</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 secondi</item>
+        <item>30 secondi</item>
+        <item>1 minuto</item>
+        <item>2 minuti</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Alte prestazioni</item>
+        <item>Bilanciato</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Disattiva</item>
+        <item>Attiva</item>
+        <item>Non modificare</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nessuna vibrazione</item>
+        <item>Vibra quando silenzioso</item>
+        <item>Vibra sempre</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una volta</item>
+        <item>Ogni giorno</item>
+        <item>Giorni lavorativi</item>
+        <item>Infrasettimanale</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una volta</item>
+        <item>Tutti i giorni</item>
+        <item>Infrasettimanale</item>
+        <item>Personalizzato</item>
+    </string-array>
+</resources>

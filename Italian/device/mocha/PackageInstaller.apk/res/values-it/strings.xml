@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) will replace the currently installed version (%3$s). Your user data will be saved.
+Install new version?"</string>
+    <string name="uninstall_confirm_question">Uninstall this app?</string>
+    <string name="uninstall_failed_retained_app_msg">"Couldn't uninstall app."</string>
+    <string name="safe_relative">Safety permissions</string>
+    <string name="privacy_relative">Privacy permissions</string>
+    <string name="other_relative">Other permissions</string>
+    <string name="perm_action_accept">Allow</string>
+    <string name="perm_action_prompt">Ask</string>
+    <string name="perm_action_reject">Deny</string>
+    <string name="main_title">Install app</string>
+    <string name="installer_name">Source: %1$s</string>
+    <string name="warn_title">App looks suspicious</string>
+    <string name="warn_message">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using this app.</string>
+    <string name="progress_verifying">Verifying…</string>
+    <string name="update_title">%1$s is up to date.</string>
+    <string name="update_time">%4$s released on %2$s/%3$s/%1$s.</string>
+    <string name="update_log_default">No change log.</string>
+    <string name="permission_warn_title">This app is from an unknown source.</string>
+    <string name="permission_warn_hint">The app will get access to:</string>
+    <string name="button_continue_install">Continue</string>
+    <string name="button_install_lastest">Install</string>
+    <string name="button_install_official">Install</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_next">Next</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_remove">Delete</string>
+    <string name="virus_scan_install"><u>Install anyway</u></string>
+    <string name="virus_scan_is_virus">This app contains a virus.</string>
+    <string name="virus_scan_is_risk">"This app poses a risk to your device's security."</string>
+    <string name="virus_scan_clear">Remove</string>
+    <string name="app_name">Installazione pacchetti</string>
+    <string name="install">Installa</string>
+    <string name="done">Fine</string>
+    <string name="cancel">Annulla</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="installing">Installazione…</string>
+    <string name="install_done">Applicazione installata.</string>
+    <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
+    <string name="install_failed">Applicazione non installata.</string>
+    <string name="install_failed_invalid_apk">Il pacchetto potrebbe essere danneggiato.</string>
+    <string name="install_failed_inconsistent_certificates">È già installato un pacchetto con lo stesso nome e con una firma in conflitto.</string>
+    <string name="install_failed_older_sdk">Il pacchetto funziona soltanto su versioni più recenti di Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">Questa applicazione non è compatibile con il tuo tablet.</string>
+    <string name="install_failed_file_not_found">"Il pacchetto specificato è stato eliminato prima del completamento dell'installazione."</string>
+    <string name="launch">Apri</string>
+    <string name="unknown_apps_dlg_text">"For security reasons, your pad doesn't allow you to install apps from third party sources by default.We cannot guarantee the safety or validity of any of the apps that you download from third party sources.You assume full responsibility any damage or loss that may as a result of subsequent use.
+
+You can toggle this setting in Settings > Security > Unknown sources."</string>
+    <string name="ok">OK</string>
+    <string name="settings">Impostazioni</string>
+    <string name="manage_applications">Gestisci applicazioni</string>
+    <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione.
+Tutti i dati utente precedenti verranno salvati."</string>
+    <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema.
+Tutti i dati utente precedenti verranno salvati."</string>
+    <string name="out_of_space_dlg_text">Impossibile installare %1$s. Libera dello spazio e riprova.</string>
+    <string name="app_not_found_dlg_text">"Impossibile trovare l'applicazione nell'elenco di applicazioni installate."</string>
+    <string name="uninstall_application_title">Disinstalla applicazione</string>
+    <string name="uninstall_update_title">Disinstalla aggiornamento</string>
+    <string name="uninstall_activity_text">%1$s fa parte della seguente applicazione:</string>
+    <string name="uninstall_application_text_all_users">Vuoi disinstallare questa applicazione per <b>tutti</b>" gli utenti? L'applicazione e i relativi dati verranno rimossi da "<b>tutti</b> gli utenti configurati sul dispositivo.</string>
+    <string name="uninstall_update_text">Vuoi sostituire questa applicazione con la versione di fabbrica?</string>
+    <string name="uninstalling">Disinstallazione…</string>
+    <string name="uninstall_done">Disinstallazione completata.</string>
+    <string name="uninstall_failed">Disinstallazione non riuscita.</string>
+    <string name="uninstall_failed_device_policy_manager">Impossibile disinstallare: il pacchetto è un amministratore dispositivo attivo.</string>
+    <string name="manage_device_administrators">Gestisci amministratori dispositivo</string>
+    <string name="Parse_error_dlg_title">Errore di analisi</string>
+    <string name="all">Tutti permessi</string>
+    <string name="activity_package_delete_confirm_title">Important Warning</string>
+    <string name="button_text_cancel">Annulla</string>
+    <string name="button_text_delete">Elimina</string>
+    <string name="button_text_next_step_timer">Avanti (%d)</string>
+    <string name="button_text_next_step">Avnti</string>
+    <string name="button_text_delete_timer">Elimina (%d)</string>
+    <string name="package_delete_confirm_step_1">Delete %s?</string>
+    <string name="package_delete_confirm_step_2">Deleting this app may cause your system to become unstable.</string>
+    <string name="package_delete_confirm_step_3">"You won't be able to open this app after you delete it."</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d passi per entrare in versione Ultimate</item>
+        <item quantity="one">%1$d passo per entrare in versione Ultimate</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">%1$d passi per uscire dalla versione Ultimate</item>
+        <item quantity="one">%1$d passo per uscire dalla versione Ultimate</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Completa %1$d passi per sbloccare tutti gli elementi</item>
+        <item quantity="one">Completa %1$d passo per sbloccare tutti gli elementi</item>
+    </plurals>
+</resources>

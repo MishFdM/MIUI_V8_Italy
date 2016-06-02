@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">Non vuoi mostrare questi volti?</item>
+        <item quantity="one">Non vuoi mostrare questo volto?</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s nuovi volti potrebbero appartenere a %2$s >></item>
+        <item quantity="one">%1$s nuovo volto potrebbe appartenere a %2$s >></item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d anni</item>
+        <item quantity="one">%d anno</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d mesi</item>
+        <item quantity="one">%d mese</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d foto di %2$s da aggiungere</item>
+        <item quantity="one">%1$d foto di %2$s da aggiungere</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d foto di %2$s da aggiungere</item>
+        <item quantity="one">%1$d foto di %2$s da aggiungere</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Già condiviso con %d persone</item>
+        <item quantity="one">Già condiviso con %d persona</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Eliminare %1$d foto %2$s?</item>
+        <item quantity="one">ELiminare questa foto %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Eliminare %1$d video %2$s?</item>
+        <item quantity="one">Eliminare questo video %2$s?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Eliminare %1$d elementi %2$s?</item>
+        <item quantity="one">Eliminare %1$d elemento %2$s?</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d elementi totali)</item>
+        <item quantity="one">(%d elemento totale)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elementi | %2$s</item>
+        <item quantity="one">%1$d elemento | %2$s</item>
+    </plurals>
+    <plurals name="backuped">
+        <item quantity="other">Backup eseguito per %1$d elementi</item>
+        <item quantity="one">Backup eseguito per %1$d elemento</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d elementi in attesa di backup</item>
+        <item quantity="one">%1$d elemento in attesa di backup</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Errore di rete. %1$d elementi in attesa di backup</item>
+        <item quantity="one">Errore di rete. %1$d elemento in attesa di backup</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Sincronizzazione disattivata. %1$d elementi in attesa di backup</item>
+        <item quantity="one">Sincronizzazione disattivata. %1$d elemento in attesa di backup</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Spazio esaurito su Mi Cloud. %1$d elementi in attesa di backup</item>
+        <item quantity="one">Spazio esaurito su Mi Cloud. %1$d elemento in attesa di backup</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Spazio interno non sufficiente. %1$d elementi in attesa di backup</item>
+        <item quantity="one">Spazio interno non sufficiente. %1$d elemento in attesa di backup</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d foto in attesa di sincronizzazione</item>
+        <item quantity="one">1 foto da caricare</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d video in attesa di sincronizzazione</item>
+        <item quantity="one">1 video da caricare</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d elementi in attesa di sincronizzazione</item>
+        <item quantity="one">1 elemento in attesa di sincronizzazione</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Sincronizzazione di %1$d foto…</item>
+        <item quantity="one">Sincronizzazione di 1 foto…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Sincronizzazione di %1$d video…</item>
+        <item quantity="one">Sincronizzazione di 1 video…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Sincronizzazione di %1$d elementi…</item>
+        <item quantity="one">Sincronizzazione di 1 elemento…</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Errore download per %1$d file</item>
+        <item quantity="one">Errore download per %1$d file</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+</resources>

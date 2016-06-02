@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Predefinito</item>
+        <item>Modalità nascosta</item>
+        <item>Modalità lettura</item>
+        <item>Modalità multimedia</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>App in primo piano</item>
+        <item>Schermo attivo</item>
+        <item>Schermo spento</item>
+        <item>Schermo spento da più di 10 minuti</item>
+        <item>Entra in modalità schermo intero</item>
+        <item>Esci da modalità schermo intero</item>
+        <item>App in background</item>
+        <item>Telefono in carica</item>
+        <item>Telefono non in carica</item>
+        <item>Telefono in sospensione</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Massima luminosità schermo</item>
+        <item>Massima frequenza CPU</item>
+        <item>Modalità schermo</item>
+        <item>Utilizzo CPU</item>
+        <item>Connessione dati</item>
+        <item>Posizione</item>
+        <item>Prima notifica</item>
+        <item>Notifica primo messaggio</item>
+        <item>Notifica keyguard</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Nessuna</item>
+        <item>Predefinita</item>
+        <item>Immagine</item>
+        <item>Film</item>
+        <item>Risparmio batteria</item>
+        <item>Bilanciato</item>
+        <item>Prestazioni</item>
+        <item>Attiva</item>
+        <item>Disattiva</item>
+        <item>Immediatamente</item>
+        <item>Dopo 10 min</item>
+        <item>Dopo 30 min</item>
+        <item>Quando lo schermo è disattivato</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Selezionati</item>
+        <item>Deselezionati</item>
+        <item>Altri selezionati</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Personalizzati</item>
+        <item>Suggeriti</item>
+    </string-array>
+</resources>
