@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Ottenimento indirizzo IP…</item>
+        <item>Connesso</item>
+        <item>Sospeso</item>
+        <item>Disconnessione…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo reti deboli</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione a %1$s…</item>
+        <item>Autenticazione con %1$s…</item>
+        <item>Ottenimento indirizzo IP da %1$s…</item>
+        <item>Connesso a %1$s</item>
+        <item>Sospeso</item>
+        <item>Disconnessione da %1$s…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo reti deboli</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Sole</item>
+        <item>Nuvoloso</item>
+        <item>Coperto</item>
+        <item>Nebbia</item>
+        <item>Forte temporale</item>
+        <item>Acquazzone</item>
+        <item>Temporale</item>
+        <item>Burrasca</item>
+        <item>Pioggia</item>
+        <item>Forte pioggia</item>
+        <item>Pioggia moderata</item>
+        <item>Pioggia leggera</item>
+        <item>Pioggia e neve</item>
+        <item>Nevischio</item>
+        <item>Neve</item>
+        <item>Grande nevicata</item>
+        <item>Nevicata moderata</item>
+        <item>Nevicata leggera</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Sabbia</item>
+        <item>Ventoso</item>
+        <item>Grandine</item>
+        <item>Polvere</item>
+        <item>Foschia</item>
+        <item>Nevischio</item>
+        <item></item>
+    </string-array>
+</resources>
