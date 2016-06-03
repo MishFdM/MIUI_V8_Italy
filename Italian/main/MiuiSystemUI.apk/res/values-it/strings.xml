@@ -265,14 +265,14 @@ scorri in basso per bloccare"</string>
     <string name="long_screenshot_stop">Interrompi</string>
     <string name="long_screenshot_processing">Elaborazione...</string>
     <string name="long_screenshot_top_msg">Screenshot lungo in esecuzione...</string>
-    <string name="long_screenshot_out_of_memory_error">Fallito a causa dell'immagine troppo grande</string>
+    <string name="long_screenshot_out_of_memory_error">"Fallito a causa dell'immagine troppo grande"</string>
     <string name="float_incall_message">Messaggio</string>
     <string name="float_incall_ignore">Ignora</string>
     <string name="notification_manager">GEstione notifiche</string>
     <string name="notification_manager_des">Filtra e gestisci le notifiche</string>
     <string name="quick_settings_more_settings">Altre impostazioni</string>
     <string name="quick_settings_done">Fatto</string>
-    <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile/string>
+    <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Seleziona una rete vicina</string>
     <string name="quick_settings_connect_success">Connesso</string>
