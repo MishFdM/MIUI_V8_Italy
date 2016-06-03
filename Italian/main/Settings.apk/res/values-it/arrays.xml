@@ -45,6 +45,7 @@
         <item>L</item>
         <item>XL</item>
         <item>XXL</item>
+        <item>XXXL</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Molto lenta</item>
@@ -125,14 +126,6 @@
         <item>Sempre</item>
         <item>Solo quando collegato</item>
         <item>Mai</item>
-    </string-array>
-    <string-array name="data_usage_data_range">
-        <item>Ultimi 30 giorni</item>
-        <item>Imposta ciclo di utilizzo...</item>
-    </string-array>
-    <string-array name="sim_card_data_range">
-        <item>Ultimi 4 numeri</item>
-        <item>Primi 4 numeri</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatica</item>
@@ -328,12 +321,8 @@
         <item>Predefinito</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
-        <item>Sans-serif monospace</item>
         <item>Serif</item>
-        <item>Serif monospace</item>
-        <item>Casual</item>
-        <item>Cursive</item>
-        <item>Small capitals</item>
+        <item>Monospace</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Molto piccolo</item>
@@ -343,39 +332,16 @@
         <item>Molto grande</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>Predefinito</item>
         <item>Nessuno</item>
         <item>Contorno</item>
         <item>Ombreggiatura</item>
-        <item>In rilievo</item>
-        <item>Incavato</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Predefiniti</item>
         <item>Bianco su nero</item>
         <item>Nero su bianco</item>
         <item>Giallo su nero</item>
         <item>Giallo su blu</item>
         <item>Personalizzato</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>64 Kb</item>
-        <item>256 Kb</item>
-        <item>1 MB</item>
-        <item>4 MB</item>
-        <item>16 MB</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>64 Kb</item>
-        <item>256 Kb</item>
-        <item>1 MB</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Non verificare mai</item>
@@ -437,6 +403,7 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Disattivo</item>
+        <item>Su schermo sotto forma di barre</item>
         <item>Su schermo sotto forma di linee</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
@@ -487,33 +454,6 @@
         <item>medio</item>
         <item>basso</item>
         <item>critico</item>
-    </string-array>
-    <string-array name="entries_zen_mode">
-        <item>Disattivato</item>
-        <item>Interruzioni limitate</item>
-        <item>Nessuna interruzione</item>
-    </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>Normale</item>
-        <item>Moderato</item>
-        <item>Basso</item>
-        <item>Critico</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>Persistente</item>
-        <item>Attività top</item>
-        <item>Importante (primo piano)</item>
-        <item>Importante (background)</item>
-        <item>Backup</item>
-        <item>Pesante</item>
-        <item>Servizio (in esecuzione)</item>
-        <item>Servizio (riavvio)</item>
-        <item>Ricevitore</item>
-        <item>Home</item>
-        <item>Ultima attività</item>
-        <item>Cache (attività)</item>
-        <item>Cache (client attività)</item>
-        <item>Cache (vuota)</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
@@ -610,7 +550,7 @@
     <string-array name="msd_pc_system">
         <item>Windows XP e versioni precedenti di Windows</item>
         <item>Windows Vista e versioni più recenti di Windows</item>
-        <item>OSX</item>
+        <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
@@ -737,19 +677,13 @@
         <item>4,0\"</item>
         <item>3,5\"</item>
     </string-array>
-    <string-array name="lock_screen_secure_after_timeout_values">
-        <item>0</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-    </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Subito</item>
-        <item>30 secondi</item>
         <item>1 minuto</item>
         <item>2 minuti</item>
         <item>5 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Nascondi animazioni di sistema</item>
@@ -763,33 +697,20 @@
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
     </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>Alta (2K)</item>
+<string-array name="screen_resolution_entries">
+        <item>Nativa (2K)</item>
         <item>Normale (720p)</item>
     </string-array>
     <string-array name="screen_resolution_values">
         <item>1440</item>
         <item>720</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
-    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
-        <item>ag</item>
         <item>ar</item>
-        <item>bs</item>
         <item>bh</item>
-        <item>bd</item>
-        <item>bb</item>
         <item>be</item>
-        <item>bz</item>
         <item>bo</item>
         <item>bw</item>
         <item>br</item>
@@ -799,10 +720,6 @@
         <item>cd</item>
         <item>cr</item>
         <item>ci</item>
-        <item>cu</item>
-        <item>cz</item>
-        <item>dm</item>
-        <item>do</item>
         <item>ec</item>
         <item>eg</item>
         <item>sv</item>
@@ -812,20 +729,15 @@
         <item>fr</item>
         <item>gf</item>
         <item>gh</item>
-        <item>gd</item>
         <item>gt</item>
         <item>gy</item>
-        <item>ht</item>
         <item>hn</item>
         <item>hk</item>
         <item>in</item>
         <item>id</item>
         <item>ir</item>
         <item>iq</item>
-        <item>il</item>
-        <item>jm</item>
         <item>jo</item>
-        <item>kz</item>
         <item>ke</item>
         <item>kw</item>
         <item>lb</item>
@@ -834,43 +746,27 @@
         <item>lt</item>
         <item>mw</item>
         <item>my</item>
-        <item>mr</item>
-        <item>mu</item>
         <item>mx</item>
         <item>ma</item>
         <item>mz</item>
         <item>mm</item>
         <item>na</item>
-        <item>np</item>
         <item>ni</item>
         <item>ng</item>
-        <item>kp</item>
         <item>om</item>
-        <item>pk</item>
-        <item>ps</item>
         <item>pa</item>
         <item>py</item>
         <item>pe</item>
         <item>ph</item>
-        <item>pl</item>
         <item>qa</item>
-        <item>ro</item>
         <item>ru</item>
         <item>rw</item>
         <item>sa</item>
         <item>sn</item>
         <item>sg</item>
-        <item>sk</item>
-        <item>so</item>
         <item>za</item>
         <item>gs</item>
         <item>kr</item>
-        <item>es</item>
-        <item>lk</item>
-        <item>kn</item>
-        <item>lc</item>
-        <item>vc</item>
-        <item>sd</item>
         <item>sr</item>
         <item>sz</item>
         <item>ch</item>
@@ -880,59 +776,24 @@
         <item>th</item>
         <item>tn</item>
         <item>tr</item>
-        <item>tt</item>
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
-        <item>us</item>
         <item>uy</item>
-        <item>uz</item>
         <item>ve</item>
         <item>vn</item>
         <item>ye</item>
         <item>zm</item>
         <item>zw</item>
     </string-array>
-    <string-array name="broadcast_locales">
-        <item>AG</item>
-        <item>AR</item>
-        <item>BO</item>
-        <item>BS</item>
-        <item>BB</item>
-        <item>BZ</item>
-        <item>BR</item>
-        <item>CL</item>
-        <item>CO</item>
-        <item>EC</item>
-        <item>GF</item>
-        <item>GD</item>
-        <item>GY</item>
-        <item>IN</item>
-        <item>IL</item>
-        <item>PY</item>
-        <item>PE</item>
-        <item>SR</item>
-        <item>KN</item>
-        <item>LC</item>
-        <item>VC</item>
-        <item>TW</item>
-        <item>TT</item>
-        <item>UY</item>
-        <item>VE</item>
-    </string-array>
-    <string-array name="ncc_locales">
-        <item>TW</item>
-    </string-array>
     <string-array name="common_password_business_keys">
-        <item>miui_keyguard</item>
+        <item>keyguard</item>
         <item>childrenmode</item>
-        <item>file_explorer</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Blocco schermo</item>
+        <item>Blocco tastiera</item>
         <item>Modalità genitore</item>
-        <item>File explorer</item>
-        <item>App lock</item>
+		<item>File explorer</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>
