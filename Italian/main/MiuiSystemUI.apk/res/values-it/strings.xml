@@ -4,6 +4,9 @@
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="app_label">UI di sistema</string>
     <string name="status_bar_no_recent_apps">Nessuna applicazione in esecuzione</string>
+    <string name="recent_task_lock_text">Blocca</string>
+    <string name="recent_task_unlock_text">Sblocca</string>
+    <string name="recent_task_app_info_text">Info</string>
     <string name="battery_low_title">"Collega l'alimentatore"</string>
     <string name="battery_low_percent_format">%d%% rimanente</string>
     <string name="invalid_charger">"Ricarica tramite USB non supportata.
@@ -51,11 +54,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="accessibility_data_three_bars">Dati: tre barre.</string>
     <string name="accessibility_data_four_bars">Dati: quattro barre</string>
     <string name="accessibility_data_signal_full">Massimo segnale dati.</string>
-    <string name="accessibility_no_wifi">Nessuna connessione Wi-Fi.</string>
-    <string name="accessibility_wifi_one_bar">Wi-Fi: una barra.</string>
-    <string name="accessibility_wifi_two_bars">Wi-Fi: due barre.</string>
-    <string name="accessibility_wifi_three_bars">Wi-Fi: tre barre.</string>
-    <string name="accessibility_wifi_signal_full">Massimo segnale Wi-Fi.</string>
     <string name="accessibility_no_wimax">Nessun segnale WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX: una barra.</string>
     <string name="accessibility_wimax_two_bars">WiMAX: due barre.</string>
@@ -95,6 +93,10 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="screen_pinning_negative">No grazie</string>
     <string name="accessibility_managed_profile">Profilo di lavoro</string>
     <string name="managed_profile_foreground_toast">Stai utilizzando il tuo profilo di lavoro</string>
+    <string name="status_bar_safepay_scanning">Rilevamento ambiente di pagamento...</string>
+    <string name="status_bar_safepay_safe">Ambiente sicuro.</string>
+    <string name="status_bar_safepay_risk">Ambiente di pagamento a rischio!</string>
+    <string name="status_bar_safepay_unknown">Sicurezza ambiente sconosciuta.</string>
     <string name="status_bar_date_format">d/M, E</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
@@ -106,8 +108,8 @@ scorri in basso per bloccare"</string>
     <string name="description_direction_up">Scorri in alto per %s.</string>
     <string name="description_direction_left">Scorri a sinistra per %s.</string>
     <string name="description_target_search">Cerca</string>
-    <string name="status_bar_date_format_12">"EEEE
-d MMMM"</string>
+    <string name="status_bar_date_format_12">d/M, E</string>
+    <string name="status_bar_clock_date_format">d/M, E</string>
     <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
     <string name="status_bar_recent_memory_info2"/>
     <string name="usb_mode_notification">Archivio USB</string>
@@ -202,6 +204,8 @@ d MMMM"</string>
     <string name="block_record_notification_text">%1$s. Tocca per vedere</string>
     <string name="block_record_notification_more_text">%1$s %2$d app. Tocca per vedere</string>
     <string name="notification_hidden_text">Contenuti nascosti</string>
+    <string name="block_notification_text">Nascondi</string>
+    <string name="block_notification_content_text">"%1$s notifiche non verranno più mostrate. Puoi modificare nelle Impostazioni."</string>
     <string name="notification_otg_mouse_in">Mouse connesso</string>
     <string name="notification_otg_keyboard_in">Tastiera connessa</string>
     <string name="notification_otg_gamestick_in">Gamepad connesso</string>
@@ -229,6 +233,8 @@ d MMMM"</string>
     <string name="status_bar_recording_pause">La registrazione è in pausa.</string>
     <string name="usb_share_net_info">Utilizza la connessione internet del computer</string>
     <string name="battery_profiles">Profili utilizzo batteria</string>
+    <string name="enable_power_save_mode">Attiva Risparmio Batteria</string>
+    <string name="save_mode_btn_ok">OK</string>
     <string name="oldman_airplane_mode_text">aereo</string>
     <string name="oldman_incall_text">in chiamata</string>
     <string name="notification_template_text">" ha una notifica. Tocca per leggere."</string>
@@ -247,5 +253,32 @@ d MMMM"</string>
     <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>
     <string name="account_info">Accesso non eseguito</string>
     <string name="notification_header_title">Notifiche</string>
+    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="weather_publish_time">Aggiornato %1$s</string>
+    <string name="no_weather_description">Recupera info meteo></string>
+    <string name="weather_description_no_aqi">%1$s ></string>
+    <string name="weather_description">%1$s | %2$s ></string>
+    <string name="screenshot_long_screenshot">Screesnshot lungo</string>
+    <string name="screenshot_edit">Modifica</string>
+    <string name="screenshot_send">Invia</string>
+    <string name="long_screenshot_not_support_msg">Questa ap non supporta lo screenshot lungo.</string>
+    <string name="long_screenshot_stop">Interrompi</string>
+    <string name="long_screenshot_processing">Elaborazione...</string>
+    <string name="long_screenshot_top_msg">Screenshot lungo in esecuzione...</string>
+    <string name="long_screenshot_out_of_memory_error">Fallito a causa dell'immagine troppo grande</string>
+    <string name="float_incall_message">Messaggio</string>
+    <string name="float_incall_ignore">Ignora</string>
+    <string name="notification_manager">GEstione notifiche</string>
+    <string name="notification_manager_des">Filtra e gestisci le notifiche</string>
+    <string name="quick_settings_more_settings">Altre impostazioni</string>
+    <string name="quick_settings_done">Fatto</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile/string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_nearby">Seleziona una rete vicina</string>
+    <string name="quick_settings_connect_success">Connesso</string>
+    <string name="quick_settings_connecting">Connessione in corso</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
     <string name="lland">L Land</string>
+    <string name="mland">Marshmallow Land</string>
 </resources>

@@ -9,6 +9,7 @@
     <string name="search_in_app_store">Cerca nel Play Store</string>
     <string name="send_secret_code">Invia codice</string>
     <string name="xiaomi_search_label">Risultati</string>
+    <string name="search_suggestion">Suggerimenti</string>
     <string name="distance_unit_meter">m</string>
     <string name="distance_unit_kilometer">km</string>
     <string name="cta_declaration_title">Termini del Servizio</string>
@@ -19,7 +20,11 @@
     <string name="default_hint">Cerca App, Musica, Video, Libri…</string>
     <string name="network_unavailable">Non collegato ad internet</string>
     <string name="connect_and_retry">Collegati ad internet e riprova</string>
-    <string name="web_search_results">Risultati ricerca web</string>
+    <string name="web_search_results">Baidu</string>
+    <string name="search_group_fold">Nascondi</string>
+    <string name="search_group_unfold">Altro</string>
+    <string name="common_setting">Impostazioni generali</string>
+    <string name="recent_apps">App recenti</string>
     <string name="apps_search_activity" />
     <string name="xiaomi_suggest_base" />
     <string name="xiaomi_hot_query" />

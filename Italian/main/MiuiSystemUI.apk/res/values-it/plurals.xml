@@ -9,4 +9,8 @@
         <item quantity="other">Nascondere le notifiche di %d app?</item>
         <item quantity="one">Nascondere le notifiche di questa app?</item>
     </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Sereno</item>
+        <item quantity="one">Sole</item>
+    </plurals>
 </resources>
