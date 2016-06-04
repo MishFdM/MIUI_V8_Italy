@@ -6,9 +6,6 @@
     <string name="sina_token_expired_warning">Account Weibo scaduto: si prega di riassociare</string>
     <string name="sina_token_invalid_warning">Account Weibo non valido: si prega di riassociare</string>
     <string name="sina_share_fail_content_repeat">Impossibile condividere, contenuto già esistente\u2026</string>
-    <string name="search_title_notes">@string/app_name</string>
-    <string name="search_keyword_notes">Notes;Memo</string>
-    <string name="search_path_notes">Settings/System apps/Notes</string>
     <string name="dlg_move_message">Moving…</string>
     <string name="dlg_stick_message">Pinning…</string>
     <string name="dlg_privacy_message">Hiding…</string>
