@@ -79,12 +79,10 @@
     <string name="cancel_receive_confirm">Annulla</string>
     <string name="cancel_receive_stop">Continua a ricevere</string>
     <string name="cancel_confirm_title">Trasferimento non completato, annullare adesso?"</string>
-    <string name="title_activity_p2p_group_client">P2pGroupClientActivity</string>
     <string name="file_not_support">Questo tipo di file non è supportato</string>
     <string name="help">help</string>
     <string name="send_file_time_format_m">m:s</string>
     <string name="send_file_time_format_s">s</string>
-    <string name="title_activity_intro">IntroActivity</string>
     <string name="intro_midrop">Mi Drop</string>
     <string name="intro_page1_text1">Condividi file con i dispositivi vicini</string>
     <string name="intro_page1_text2">Adesso è più facile che mai</string>
