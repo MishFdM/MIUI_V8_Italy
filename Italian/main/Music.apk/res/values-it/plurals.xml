@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="download_finished">
+        <item quantity="other">&amp;lt;font color=\"red\">%d brani&amp;lt;/font> scaricati</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d brano&amp;lt;/font> scaricato</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&amp;lt;font color=\"red\">%d brani&amp;lt;/font> in download</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d brano&amp;lt;/font> download</item>
+    </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d brani correlati</item>
         <item quantity="one">%d brano correlati</item>
