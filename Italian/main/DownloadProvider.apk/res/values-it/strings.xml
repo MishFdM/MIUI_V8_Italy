@@ -36,6 +36,12 @@
     <string name="download_apk_desktop_pause">In pausa</string>
     <string name="download_apk_desktop_running">In download</string>
     <string name="download_apk_desktop_installing">Installazione in corso</string>
+    <string name="xl_speedup_experience_notify_title">Xunlei membership</string>
+    <string name="xl_speedup_experience_notify_context">"Speed is boosted for every download when you're a Xunlei member"</string>
+    <string name="xl_speedup_notify_button_experience">Try for free</string>
+    <string name="xl_speedup_notify_button_member">Become a member</string>
+    <string name="notify_disabled_net_by_app">Internet connection restricted by Security app</string>
+    <string name="notify_only_wifi_download">Waiting for WLAN</string>
     <string name="app_label">Download Manager</string>
     <string name="permlab_downloadManager">Accesso alla gestione dei download.</string>
     <string name="permdesc_downloadManager">"Consente all'applicazione di accedere a gestione dei download e di utilizzarla per scaricare file. Le applicazioni dannose possono farne uso per disturbare i download e accedere a informazioni private."</string>
