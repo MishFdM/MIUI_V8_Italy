@@ -31,8 +31,10 @@
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Test da Microfono post. ad Altoparlante</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Test da Microfono princ. a Ricevitore</string>
+    <string name="cit_x5_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
     <string name="cit_audio_lb_phonecall_title">Test Simulazione chiamata</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Test da Microfono sup. ad Altoparlante</string>
+    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Test Microfono frontale</string>
     <string name="cit_headset_plug_detect_title">Test Rilevamento Cuffie</string>
     <string name="cit_headset_button_check_title">Test Cuffie</string>
     <string name="cit_headset_loopback_check_title">Test loopback cuffie</string>
@@ -53,6 +55,7 @@
     <string name="cit_tool_modem_offline_log">Apri/Chiudi Log offline</string>
     <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
     <string name="cit_tool_modem_bugreport">Forza Coredump Modem</string>
+    <string name="cit_tool_modem_mbn">Change Modem Config</string>
     <string name="cit_tool_nfc">Test NFC</string>
     <string name="cit_tool_nfc_st">Nfc ST:</string>
     <string name="cit_tool_nfc_st_confreq">freq:</string>
@@ -100,12 +103,14 @@ Hold the phone as if you are making a call, speak to main microphone, you should
     <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
 Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
+    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Test del microfono superiore. Avvicina il dispositivo e parla al microfono superiore: dovresti sentire la tua voce nell'altoparlante"</string>
     <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
 
 Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
     <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
 
  Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Test del microfono frontale. Avvicina il dispositivo e parla al microfono del ricevitore: dovresti sentire la tua voce nell'altoparlante"</string>
     <string name="cit_sd_plugin_check_summary">The text \"SD card detected, remove SD card now\" should be displayed below.</string>
     <string name="cit_sd_plugout_check_summary">When you remove the SD card, the text \"SD card has been removed, insert SD card now\" should be displayed below.</string>
     <string name="cit_keyboard_test_summary">When you push the buttons, the corresponding text on screen should turn green (note: the Home and the Power buttons are not included in the test).</string>
@@ -243,6 +248,8 @@ Tocca lo schermo per attivare il GPS…"</string>
     <string name="cit_batterylight_blue">Blue</string>
     <string name="cit_torch_on">Turn on flash light</string>
     <string name="cit_torch_off">Turn off flash light</string>
+    <string name="cit_blue_torch_on">Turn on blue flash light</string>
+    <string name="cit_yellow_torch_on">Turn on yellow flash light</string>
     <string name="cit_button_light_on">Buttons light on</string>
     <string name="cit_button_light_off">Buttons light off</string>
     <string name="cit_notificationlight">Notification light</string>
@@ -326,8 +333,4 @@ Tocca lo schermo per attivare il GPS…"</string>
     <string name="cit_tool_wifi_rxn_test_bw">banda:</string>
     <string name="cit_tool_wifi_tx_n_bandwidth">banda:</string>
     <string name="cit_tool_wifi_tx_st_chan">canale:</string>
-    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Test Microfono frontale</string>
-    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Test del microfono superiore. Avvicina il dispositivo e parla al microfono superiore: dovresti sentire la tua voce nell'altoparlante"</string>
-    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Test del microfono frontale. Avvicina il dispositivo e parla al microfono del ricevitore: dovresti sentire la tua voce nell'altoparlante"</string>
-    <string name="cit_x5_audio_lb_top_to_speaker_title">Test Microfono superiore</string>
 </resources>
