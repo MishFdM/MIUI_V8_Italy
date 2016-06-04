@@ -82,6 +82,7 @@
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>
     <string name="oneshot_alarm">Elimina dopo la disattivazione</string>
+    <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>
@@ -111,7 +112,6 @@
     <string name="day_concat">". "</string>
     <string name="analog_gadget">Orologio</string>
     <string name="settings">Impostazioni</string>
-    <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>
     <string name="snooze_duration_title">Durata sospensione</string>
     <string name="auto_silence_title">Disattivazione automatica</string>
     <string name="auto_silence_never">Disattivato</string>
