@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pull_to_refresh_pull_label">Trascina er aggiornare…</string>
-    <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
-    <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_action_bar_home_description">Vai alla home</string>
     <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -108,6 +105,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="miuichromium_error_page_diagnose_protocol">Errore protocollo rete</string>
     <string name="miuichromium_error_page_diagnose_connection">Impossibile collegarsi alla rete</string>
     <string name="miuichromium_error_page_diagnose_certificate">Impossibile veirficare il protocollo di rete</string>
+    <string name="miuichromium_error_page_diagnose_proxy_server">Proxy server error</string>
     <string name="save_password_message">Vuoi che il browser ricordi questa password?</string>
     <string name="save_password_notnow">Non adesso</string>
     <string name="save_password_remember">Ricorda</string>
@@ -174,6 +172,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="media_error_nomemory">La memoria del dispositivo è piena</string>
     <string name="media_error_action_refresh">Aggiorna</string>
     <string name="media_error_action_replace_video_source">Sostituisci fonte video</string>
+    <string name="media_error_network_unreachable">Network Unreachable</string>
     <string name="video_buffering_percent_string">Buffering</string>
     <string name="v5_select_all">Seleziona tutti</string>
     <string name="v5_deselect_all">Deseleziona tutti</string>
@@ -210,7 +209,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="cloud_sync_closed_toast">Impossibile aggiornare perché la sincronizzazione è disattivata</string>
     <string name="close_cloud_tab_tip">Chiudere la scheda cloud su %s?</string>
     <string name="search_label">Browser</string>
-    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+    <string name="homepage_base">https://www.google.com/webhp?client={CID}&source=android-home</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>
@@ -223,6 +222,26 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="error_console_header_text_maximized">Console JavaScript</string>
     <string name="error_console_eval_text_hint">Esegui JavaScript</string>
     <string name="error_console_eval_button_text">Esegui</string>
+    <string name="pref_data_preload_value_never">NEVER</string>
+    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
+    <string name="pref_data_preload_value_always">ALWAYS</string>
+    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
+    <string name="pref_images_preload_value_never">0</string>
+    <string name="pref_images_preload_value_wifi_only">1</string>
+    <string name="pref_images_preload_value_always">2</string>
+    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
+    <string name="pref_video_preload_value_never">NEVER</string>
+    <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
+    <string name="pref_video_preload_value_always">ALWAYS</string>
+    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
+    <string name="pref_link_prefetch_value_never">NEVER</string>
+    <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
+    <string name="pref_link_prefetch_value_always">ALWAYS</string>
+    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
+    <string name="alisdk_message_1_name">MESSAGE_NOT_FOUND_ERROR</string>
+    <string name="search_title_browser">Browser</string>
+    <string name="search_keyword_browser">Browser</string>
+    <string name="search_path_browser">Settings/System apps/Browser</string>
     <string name="application_name">Browser</string>
     <string name="miui_startpage">Pagina iniziale</string>
     <string name="page_info">Info pagina</string>
@@ -291,6 +310,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="cancel">Annulla</string>
     <string name="ok">OK</string>
     <string name="edit">Modifica</string>
+    <string name="replace">Replace</string>
+    <string name="isreplace">File already exists, replace?</string>
     <string name="rlz_access_point">Y1</string>
     <string name="uploads_disabled">Il caricamento dei file è disabilitato.</string>
     <string name="dont_remind_again">Ricorda la mia scelta</string>
@@ -330,6 +351,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="find_on_page_next">Avanti</string>
     <string name="find_on_page_cancel">Annulla</string>
     <string name="title_bar_loading">Caricamento…</string>
+    <string name="navigationbar_rightbutton_actiontext_cancle">Cancel</string>
+    <string name="navigationbar_rightbutton_actiontext_search">Search</string>
+    <string name="navigationbar_rightbutton_actiontext_go">Go</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">"Scorri verso l'alto per chiudere"</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Scorri verso il basso per chiudere</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">"Questa è l'ultima scheda"</string>
@@ -590,6 +614,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_adblock_counts">%d bloccati</string>
     <string name="pref_clear_adblock_statistics_dlg">Azzerare il conteggio pubblicità bloccate?</string>
     <string name="adblock_notification">%d pubblicità bloccate</string>
+    <string name="adblock_force_updating_rules_toast">Updating Ad blocker</string>
+    <string name="adblock_rules_updated_toast">Complete</string>
+    <string name="adblock_rules_not_updated_toast">Failed</string>
     <string name="miui_quicksearch_enable_pref_title">Barra di ricerca nel pannello delle notifiche</string>
     <string name="miui_quicksearch_enable_pref_summary">Mostra sempre la barra di ricerca nel pannello delle notifiche</string>
     <string name="pref_accessibility_title">Accessibilità</string>
@@ -670,6 +697,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_save_bandwidth_mode_title">Riduzione uso dei dati</string>
     <string name="adjust_text_zoom_toast">Cambiare lo zoom del testo può provocare problemi alla visualizzazione di alcuni siti</string>
     <string name="pref_extras_reset_default_title">Ripristina impostazioni predefinite</string>
+    <string name="pref_extras_send_feedback">Send feedback</string>
     <string name="pref_extras_title_version">Versione</string>
     <string name="pref_auto_update_under_wifi">Aggiorna automaticamente con Wi-Fi</string>
     <string name="pref_version_info">Info versione</string>
@@ -706,11 +734,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
     <string name="aqi_quality_index_break">AQI %1$s</string>
-    <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
-    <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
-    <string name="nav_bottom_bar_back">Indietro</string>
-    <string name="nav_screen_container_tab_normal">Scheda normale</string>
-    <string name="nav_screen_container_tab_incognito">Scheda incognito</string>
     <string name="pref_notifications_title">Notifiche</string>
     <string name="pref_notifications_hint">Notifiche</string>
     <string name="pref_notifications_receive">Avvisi per nuove notifiche</string>
@@ -718,11 +741,11 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_enable_news">Nuovi avvisi</string>
     <string name="pref_enable_novels">Libri</string>
     <string name="pref_enable_videos">Video</string>
-    <string name="no_space_alert_title">Download in pausa</string>
-    <string name="no_space_alert_text">Spazio di archiviazione non sufficiente</string>
-    <string name="no_space_alert_cancel">Più tardi</string>
-    <string name="no_space_alert_clean">Libera spazio</string>
-    <string name="no_space_clean_failed">Non è possibile liberare spazio sul dispositivo​</string>
+    <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
+    <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
+    <string name="nav_bottom_bar_back">Indietro</string>
+    <string name="nav_screen_container_tab_normal">Scheda normale</string>
+    <string name="nav_screen_container_tab_incognito">Scheda incognito</string>
     <string name="more_option">Altre opzioni</string>
     <string name="action_menu_current_version">Versione attuale</string>
     <string name="current_version_pad">Tablet</string>
@@ -732,6 +755,11 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_nav_mode_summary_phone">Telefono</string>
     <string name="pref_nav_mode_summary_pad">Tablet</string>
     <string name="unsecurity_url_toast">Questo sito non è sicuro</string>
+    <string name="no_space_alert_title">Download in pausa</string>
+    <string name="no_space_alert_text">Spazio di archiviazione non sufficiente</string>
+    <string name="no_space_alert_cancel">Più tardi</string>
+    <string name="no_space_alert_clean">Libera spazio</string>
+    <string name="no_space_clean_failed">Non è possibile liberare spazio sul dispositivo​</string>
     <string name="download_title">Download</string>
     <string name="download_in_process">Dowload in corso…</string>
     <string name="download_completed">Scaricati</string>
@@ -775,8 +803,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="download_filter_audio">Musica</string>
     <string name="download_filter_others">Altro</string>
     <string name="dialog_confirm_delete_checkbox_message">Elimina il file sulla memoria interna</string>
-    <string name="dialog_confirm_delete_downloads_message">ELiminare %s operazioni?</string>
-    <string name="dialog_confirm_delete_the_download_item_message">ELiminare questa operazione?</string>
+    <string name="dialog_confirm_delete_downloads_message">Eliminare %s operazioni?</string>
+    <string name="dialog_confirm_delete_the_download_item_message">Eliminare questa operazione?</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_btn_select_all">Seleziona tutto</string>
     <string name="download_btn_select_none">Deseleziona tutto</string>
@@ -784,6 +812,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="download_memory_info_total">" totale ​%s"</string>
     <string name="go_supermarket_button">Vai</string>
     <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nellì'app Store"</string>
+    <string name="pull_to_refresh_pull_label">Trascina er aggiornare…</string>
+    <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
     <string name="login_failed_toast">Accesso fallito, aggiornare.</string>
     <string name="custom_head_card_text">"Pensa sempre che qualcosa di stupendo
 sta per accadere"</string>
@@ -794,4 +824,6 @@ finestra riservata​"</string>
     <string name="send_comment_button">invia</string>
     <string name="reply_comment_title">risposta: %s</string>
     <string name="send_comment_title">commenti</string>
+    <string name="pay_success_toast">Pay success</string>
+    <string name="pay_failed_toast">Pay failed</string>
 </resources>
