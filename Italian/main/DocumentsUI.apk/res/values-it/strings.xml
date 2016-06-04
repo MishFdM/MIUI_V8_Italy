@@ -13,7 +13,14 @@
     <string name="menu_save">Salva</string>
     <string name="menu_share">Condividi</string>
     <string name="menu_delete">Elimina</string>
-    <string name="mode_selected_count">%1$d selezionati</string>
+    <string name="menu_select_all">Seleziona tutto</string>
+    <string name="menu_copy">Copia in…</string>
+    <string name="menu_advanced_show">Mostra memoria interna</string>
+    <string name="menu_advanced_hide">Nascondi memoria interna</string>
+    <string name="menu_file_size_show">Mostra dimensione file</string>
+    <string name="menu_file_size_hide">Nascondi dimensione file</string>
+    <string name="button_select">Seleziona</string>
+    <string name="button_copy">Copia</string>
     <string name="sort_name">Nome</string>
     <string name="sort_date">Modifica</string>
     <string name="sort_size">Dimensione</string>
@@ -28,11 +35,14 @@
     <string name="root_type_shortcut">Collegamenti</string>
     <string name="root_type_device">Dispositivi</string>
     <string name="root_type_apps">Altre applicazioni</string>
-    <string name="pref_advanced_devices">Mostra dispositivi avanzati</string>
-    <string name="pref_file_size">Mostra dimensioni file</string>
-    <string name="pref_device_size">Mostra dimensione dispositivo</string>
     <string name="empty">Nessun elemento</string>
     <string name="toast_no_application">Impossibile aprire il file</string>
     <string name="toast_failed_delete">Impossibile eliminare alcuni documenti</string>
     <string name="share_via">Condividi con</string>
+    <string name="copy_notification_title">Copia file</string>
+    <string name="copy_remaining">%s mancante</string>
+    <string name="copy_preparing">Preparazione copia…</string>
+    <string name="notification_touch_for_details">Tocca per visualizzare dettagli</string>
+    <string name="retry">Riprova</string>
+    <string name="copy_failure_alert_content">Questi file non sono stati copiati %1$s</string>
 </resources>
