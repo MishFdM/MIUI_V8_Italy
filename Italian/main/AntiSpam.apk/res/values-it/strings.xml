@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="empty_activity_title">" "</string>
     <string name="app_name">AntiSpam</string>
     <string name="fw_blocked">Blacklist</string>
     <string name="fw_blocked_count">"Bloccati "</string>
     <string name="fw_blocked_join">" e "</string>
     <string name="tab_title">Blacklist</string>
-    <string name="tab_block_log">Registro</string>
     <string name="tab_blacklist">Blacklist</string>
     <string name="tab_sms">Messaggi</string>
     <string name="tab_call">Chiamate</string>
-    <string name="bl_block_info" formatted="false">Bloccato: Numero %d, dettagli %d</string>
     <string name="bl_no_block_call">Tutte le chiamate bloccate verranno registrate qui</string>
     <string name="bl_no_block_sms">Tutti i messaggi bloccati verranno registrati qui</string>
     <string name="bl_no_blacklist">Blacklist vuota</string>
@@ -51,11 +47,6 @@
     <string name="dlg_remove_address_blacklist">Rimuovere questo elemento dalla blacklist e ripristinare i relativi messaggi?</string>
     <string name="dlg_remove_address_whitelist">Rimuovere questo elemento dalle eccezioni?</string>
     <string name="dlg_remove_blacklist_ok">Rimuovi</string>
-    <string name="dlg_clear_blacklist">Eliminare blacklist?</string>
-    <string name="dlg_clear_blacklist_ok">Elimina</string>
-    <string name="dlg_bl_add_manual">Aggiungi manualmente numero alla blacklist</string>
-    <string name="dlg_add_manual_ok">Aggiungi</string>
-    <string name="dlg_add_manual_hint">Aggiungi numero di telefono</string>
     <string name="dlg_import_blacklist">Importazione nella blacklist</string>
     <string name="dlg_remove_blacklist_ing">Rimozione dalla blacklist…</string>
     <string name="dlg_import_whitelist">Inserimento nelle eccezioni…</string>
@@ -77,7 +68,6 @@
     <string name="menu_clear_all_call">Rimuovere tutte le chiamate bloccate</string>
     <string name="menu_clear_current_sms">Rimuovere tutti i messaggi bloccati da questo numero</string>
     <string name="menu_clear_current_call">Rimuovere tutte le chiamate bloccate da questo numero</string>
-    <string name="menu_no_block">Non bloccare</string>
     <string name="menu_mark">Seleziona</string>
     <string name="menu_call">Chiama</string>
     <string name="menu_sms">Invia messaggio</string>
@@ -86,9 +76,6 @@
     <string name="menu_bl_sms_log">Controlla il registro dei messaggi bloccati</string>
     <string name="menu_bl_remove">Rimuovi dalla blacklist</string>
     <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
-    <string name="menu_bl_clear">Cancella blacklist</string>
-    <string name="menu_bl_add_manual">Aggiungi</string>
-    <string name="menu_bl_add_contact">Contatti</string>
     <string name="menu_add_new_contact">Salva</string>
     <string name="menu_add_into_contact">Aggiungi a contatto esistente</string>
     <string name="menu_add">Aggiungi</string>
@@ -109,7 +96,6 @@
     <string name="st_block_private_call_button">Blocca numeri privati in entrata</string>
     <string name="st_filter_sms_button">Filtra messaggi spam</string>
     <string name="st_filter_keywords_setting_title">Imposta filtro parole</string>
-    <string name="st_filter_keywords_title">Filtra le parole chiave nei messaggi</string>
     <string name="st_filter_keywords_setting_summary1">I messaggi da numeri sconosciuti contenenti le seguenti parole verranno bloccati.</string>
     <string name="st_filter_keywords_setting_summary2">"
 (Usa la virgola per separare le parole)."</string>
@@ -123,9 +109,7 @@
     <string name="label_callwait">Chiamata in attesa</string>
     <string name="open_callwait">Attiva</string>
     <string name="close_callwait">Disattiva</string>
-    <string name="sure">Conferma</string>
     <string name="cancle">Annulla</string>
-    <string name="addwhitelist">Aggiungi alle eccezioni</string>
     <string name="st_hint_add_phonenumber">Inserisci numero di telefono</string>
     <string name="st_hint_add_head_number">Aggiungi prefisso</string>
     <string name="st_message_SMSpass">Consenti messaggi</string>
@@ -134,8 +118,6 @@
     <string name="Phonepass">Consenti chiamate</string>
     <string name="st_message_SMS_AntiSpam">Blocca messaggi</string>
     <string name="st_message_phone_AntiSpam">Blocca chiamate</string>
-    <string name="ACaddnumtitle">Aggiungi prefisso telefonico alle eccezioni</string>
-    <string name="NACaddnumtitle">Aggiungi numero telefonico alle eccezioni</string>
     <string name="st_title_addblacklist">Aggiungi alla blacklist</string>
     <string name="st_title_editblacklist">Modifica blacklist</string>
     <string name="st_title_addwhitelist">Aggiungi alle eccezioni</string>
@@ -154,7 +136,6 @@
     <string name="st_title_call_wait_setting">Impostazioni chiamata in attesa</string>
     <string name="st_title_call_wait">Chiamata in attesa</string>
     <string name="st_title_sim_card">%1$s-SIM %2$s</string>
-    <string name="st_title_sim_unknown">Sconosciuta</string>
     <string name="st_title_not_sim">Vuoto</string>
     <string name="st_sum_call_wait">Se il segnale di occupato non è quello predefinito potrebbe confondere il chiamante.</string>
     <string name="sim_not_ready">SIM non pronta</string>
@@ -168,8 +149,6 @@
     <string name="hint_antispam_mode_edit">Modalità personalizzata</string>
     <string name="st_title_adress">Seleziona località</string>
     <string name="st_title_adress_num">%d selezionato</string>
-    <string name="NACaddnumcontent">Inserire numero di telefono</string>
-    <string name="ACaddnumcontent">Inserisci le prime cifre del numero, il sistema lo completerà</string>
     <string name="SMS_BLACKLIST">Blacklist Messaggi</string>
     <string name="SMS_PREFIX">Blacklist Prefissi</string>
     <string name="SMS_DEFAULT">Blacklist Intelligente</string>
@@ -180,48 +159,22 @@
     <string name="Call_PREFIX">Blacklist Prefissi</string>
     <string name="Call_ADRESS">Blacklist Località</string>
     <string name="Call_PRIVATE_CALL">Chiamate private</string>
-    <string name="Call_DEFAULT">Blacklist Intelligente</string>
     <string name="PAST_BLOCK">Bloccato in precedenza</string>
     <string name="STRANGER_BLOCK">Blacklist Sconosciuti</string>
-    <string name="AD_AntiSpam">Blocco pubblicità</string>
-    <string name="AD_SCANNING">Scansione…</string>
-    <string name="AD_BLOCK_ALL">Blocca tutto</string>
-    <string name="AD_SCAN_BUTTON">Scansiona</string>
-    <string name="AD_NOT_BLOCK">Non bloccata</string>
-    <string name="AD_BLOCKED">Bloccata</string>
-    <string name="AD_COUNT">%d bloccatti</string>
-    <string name="AD_TITLE_COUNT">%d applicazioni contengono adware</string>
-    <string name="AD_TITLE_NON_COUNT">Nessun adware rilevato</string>
-    <string name="AD_BLOCK">Blocca pubblicità</string>
-    <string name="AD_ALLOW">Consenti pubblicità</string>
-    <string name="AD_Unistall">Disinstalla</string>
-    <string name="AD_APPInfo">Informazioni applicazione</string>
-    <string name="AD_Info">Plug-in pubblicitari</string>
-    <string name="AD_Info_Hint">Gli adware vengono utilizzati da società di terze parti per inviare pubblicità al tuo dispositivo.</string>
-    <string name="ad_relative_setting">Impostazioni</string>
-    <string name="ad_install_monitor">Controllo installazione</string>
-    <string name="ad_install_monitor_hint">Controlla gli adware quando installi le applicazioni</string>
-    <string name="ad_update_setting">Impostazioni aggiornamento blocco pubblicità</string>
-    <string name="ad_update_title">Aggiornamento automatico</string>
+    <string name="MALICIOUS_URL">Collegamenti dannosi</string>
     <string name="ad_update_time">Ultimo aggiornamento: %s</string>
     <string name="ad_update_time_unKnown">Ultimo aggiornamento: sconosciuto</string>
-    <string name="ad_block_hint">%d bloccati</string>
-    <string name="ad_single_block_hint">Bloccato</string>
-    <string name="ad_permission_hint">"L'utilizzo di Ad Blocker potrebbe influire sul funzionamento di alcune applicazioni."</string>
     <string name="sms_delete_title">Rimuovi Messaggio</string>
     <string name="call_delete_title">Rimuovi chiamata</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
     <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
     <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
     <string name="report">Segnala</string>
-    <string name="report_sms">Segnala messaggi</string>
     <string name="report_only">Scegli un messaggio da segnalare</string>
     <string name="report_success">Messaggio segnalato</string>
     <string name="report_error">Impossibile segnalare il messaggio</string>
-    <string name="report_error_not_net">Impossibile connettersi alla rete</string>
     <string name="report_warning">"Segnalare %1$s SMS a Xiaomi? Questi messaggi ed i numeri telefonici associati verranno inviati ai server Mi per l'analisi. Ogni informazione personale resterà comunque anonima."</string>
     <string name="report_warning_title">Segnala SMS</string>
-    <string name="menu_report_block">Segna come spam</string>
     <string name="st_sub_title_customize_mode_name">Nome modalità</string>
     <string name="read_all_sms">Segna come già letto</string>
     <string name="loding">Caricamento dati</string>
@@ -237,8 +190,6 @@
     <string name="st_title_settings_other_group">Impostazioni addizionali</string>
     <string name="st_title_show_antispamnotification">Notifiche blacklist</string>
     <string name="st_title_mode_choose_group">Seleziona modalità</string>
-    <string name="st_title_adblock_group">Blocca pubblicità</string>
-    <string name="st_title_adblock_setting">Impostazioni blocco pubblicità</string>
     <string name="st_antispam_mode_smart">Blocco intelligente</string>
     <string name="st_antispam_mode_blacklist">Numeri bloccati</string>
     <string name="st_antispam_mode_only_contacts">Consenti solo contatti</string>
@@ -258,7 +209,6 @@
     <string name="st_antispam_mode_only_contacts_sum">Consenti solo chiamate e messaggi da numeri dai contatti</string>
     <string name="st_antispam_mode_only_whitelist_sum">Consenti solo chiamate e messaggi dai numeri della lista eccezioni</string>
     <string name="st_antispam_mode_only_all_deny_sum">Blocca tutte le chiamate ed i messaggi</string>
-    <string name="st_antispam_mode_customize_sum">Crea le tue impostazioni</string>
     <string name="st_antispam_mode_denyownself_sum">Modalità blocco personalizzata</string>
     <string name="st_antispam_notification_sum">Mostra notifiche quando chiamate o messaggi vengono bloccati</string>
     <string name="st_antispam_des_anti">Blocca</string>
@@ -273,13 +223,11 @@
     <string name="info_unantispam_phone">Consenti chiamate</string>
     <string name="info_unantispam_phone_sms">Consenti messaggi e chiamate</string>
     <string name="st_antispam_delete">Elimina</string>
-    <string name="baidu_thanks">Powered by Baidu</string>
     <string name="info_antispam_current_mode">%s</string>
     <string name="note_list_none">Nessuna lista da modificare</string>
     <string name="note_sms_none">Nessun messaggio da modificare</string>
     <string name="note_call_none">Nessun dato da modificare</string>
     <string name="note_keyword_none">Nessuna parola da modificare</string>
-    <string name="note_preference_delete">Modalità in uso, impossibile eliminare</string>
     <string name="block_message_number">Messaggi spam: %d</string>
     <string name="block_phone_number">Chiamate spam: %d</string>
     <string name="info_antispam_close">AntiSpam disattivato</string>
@@ -290,21 +238,22 @@
     <string name="mark_fraud_block">Segnalato come truffa</string>
     <string name="mark_agent_block">Segnalato come venditore</string>
     <string name="mark_sell_block">Segnalato come televendita</string>
+    <string name="mark_harass_block">Segnalato come indesiderato</string>
     <string name="mark_fraud_block_large">Truffa</string>
     <string name="mark_agent_block_large">Venditore</string>
     <string name="mark_sell_block_large">Televendita</string>
-    <string name="mark_harass_block">Segnalato come indesiderato</string>
+    <string name="mark_harass_block_large">Disturbi</string>
     <string name="mark_number_info">Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai realmente cercando qualcosa da acquistare). Blocca soltanto i numeri da cui non vuoi mai ricevere chiamate.</string>
     <string name="dlg_title_not_open_stranger_identify">Attiva identificazione numeri sconosciuti</string>
     <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'identificazione dei numeri sconosciuti in \"Telefono > Impostazioni\" prima di segnalare un numero."</string>
     <string name="button_to_setting">Impostazioni</string>
-    <string name="button_text_delete">Elimina</string>
     <string name="special_number_group">Blocco numeri speciali</string>
     <string name="st_title_markednumber_group">Blocca numeri segnalati</string>
     <string name="st_title_other_group">Altro</string>
     <string name="call_transfer_block">Blocco chiamate inoltrate</string>
     <string name="call_transfer_block_type">Blocca chiamate inoltrate</string>
     <string name="call_transfer_info">Blocca chiamate inoltrate da numeri sconosciuti</string>
+    <string name="button_text_delete">Elimina</string>
     <string name="repeated_marked_number_title">Non bloccare chiamate segnalate più volte</string>
     <string name="repeated_marked_number_summary">Non bloccare la seconda chiamata dallo stesso numero entro 3 minuti.</string>
     <string name="mark_fraud_time_setting">Blocca i numeri segnalati come fraudolenti più di un certo numero di volte</string>
@@ -327,11 +276,6 @@
     <string name="antispam_notificaiton_type_show_all">Tutte le chiamate</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Solo chiamate non in blacklist</string>
     <string name="antispam_notificaiton_type_show_none">Mai</string>
-    <string name="quiet_off_mode">Consenti sempre gli indesiderati</string>
-    <string name="quiet_important_interruptions_mode">Consenti solo le eccezioni</string>
-    <string name="quiet_mode">Silenzia gli indesiderati</string>
-    <string name="quiet">Silenzia</string>
-    <string name="quiet_group">Non disturbare</string>
     <string name="name">Nome</string>
     <string name="nickname">Nickname</string>
     <string name="phone">Telefono</string>
@@ -343,4 +287,5 @@
     <string name="website">Sito web</string>
     <string name="address">Indirizzo</string>
     <string name="note">Note</string>
+    <string name="antispam_xpace_text">Si prega di passare allo spazio amministratore per le impostazioni antispam</string>
 </resources>
