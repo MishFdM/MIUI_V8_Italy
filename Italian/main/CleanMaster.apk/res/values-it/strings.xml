@@ -6,7 +6,15 @@
     <string name="name_optimizer">Informativa sulla Privacy di Cheetah Mobile</string>
     <string name="title_optimizer">Pulizia</string>
     <string name="header_optimizer">Utilizzando questa funzione accetti %s.</string>
+    <string name="byteShort">B</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="megabyteShort">MB</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="terabyteShort">TB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="update_date_format">dd-MM-yyyy</string>
     <string name="activity_title_garbage_cleanup">Pulizia</string>
+    <string name="activity_title_scanfinish">Scan complete</string>
     <string name="empty_title_garbage_cache">Cache vuota</string>
     <string name="empty_title_ad">Nessuna pubblicità trovata</string>
     <string name="empty_title_apk">Nessun pacchetto di installazione trovato</string>
@@ -260,12 +268,6 @@
     <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
     <string name="pref_title_open_optimizer_memory_scan">Pulizia memoria</string>
     <string name="toast_select_white_need_remove">Seleziona gli elementi da rimuovere</string>
-    <string name="pref_title_auto_deepclean_and_alert">Pulizia profonda</string>
-    <string name="pref_summary_auto_deepclean_and_alert">Notifica app non tulizzate</string>
-    <string name="notification_summary_of_apps_cleanup">Le app non utilizzate occupano %s di spazio</string>
-    <string name="notification_title_of_apps_cleanup">App non utilizzate</string>
-    <string name="pref_title_apps_check_time">Frequenza</string>
-    <string name="pref_title_apps_check_size">Limite spazio di archiviazione</string>
     <string name="network_not_available">Impossibile collegarsi alla rete</string>
     <string name="no_network_btn">Riprova</string>
     <string name="name_debuglog_dir">Bsp Debug Log</string>
@@ -393,7 +395,10 @@
     <string name="pref_category_title_engine_settings">Impostazioni definizione scansione</string>
     <string name="pref_title_choose_engine">Definizioni</string>
     <string name="recommend_the_following">Esegui le seguenti azioni per ottenere il massimo dal tuo dispositivo</string>
+    <string name="open_debug_mode">Click %1$d to open debug switch</string>
+    <string name="close_debug_mode">Click %1$d to close debug switch</string>
     <string name="news_change">Cambia</string>
     <string name="long_click_dialog_title">Avviso</string>
     <string name="long_click_dialog_summary">Tieni premuto per aggiungere eccezioni.</string>
+    <string name="function_app_lock_title">%d apps contain privacy risks​</string>
 </resources>
