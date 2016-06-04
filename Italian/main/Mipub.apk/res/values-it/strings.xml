@@ -184,6 +184,7 @@
     <string name="title_show_sms_template">Controlla gli SMS per il codice di verifica</string>
     <string name="pref_show_sms_template_summary">Copia e incolla automaticamente i codici di verifica</string>
     <string name="sp_mark_as_read_title">Segna come tutti letti</string>
+    <string name="message_list_all_read">Mark all as read</string>
     <string name="pref_key_mx_feedback">Feedback</string>
     <string name="pref_summary_mx_feedback">Segnala bug e lascia il tuo feedback</string>
     <string name="feedback_description_hint">Lascia qui il tuo feedback</string>

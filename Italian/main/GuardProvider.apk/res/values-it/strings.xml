@@ -18,19 +18,19 @@
     <string name="tencent_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
     <string name="tencent_dialog_cloudscan">Carica e scansiona i nomi delle app di dettagli utilizzando le definizioni online dei virus.</string>
     <string name="tencent_dialog_dbupdate">Aggiorna automaticamente le definizioni dei virus</string>
-    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&l=en_US</string>
+    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="avl_dialog_title">"Informativa sulla Privacy di AVL"</string>
     <string name="avl_dialog_header">"Questa funzione crittografa ed invia l'ID del tuo dispositivo ai server di AVL (%s)."</string>
     <string name="avl_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
     <string name="avl_dialog_cloudscan"/>
     <string name="avl_dialog_dbupdate"/>
-    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&l=en_US</string>
+    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_dialog_title">"Avast's Privacy Policy"</string>
     <string name="avast_dialog_header">"This feature encrypts and uploads your device's ID to Avast's servers (%s)."</string>
     <string name="avast_dialog_policy">view Privacy Policy</string>
     <string name="avast_dialog_cloudscan"/>
     <string name="avast_dialog_dbupdate"/>
-    <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&l=en_US</string>
+    <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">The virus is an adware. It automatically renders advertisements.</string>
     <string name="avast_virus_type_cryportor_description">The virus is a cryptor. It is a malicious software that transmitted by means of replicating itself in storage space.</string>
     <string name="avast_virus_type_dropper_description">The virus is a dropper. It carries the code that install other malicious virus.</string>
