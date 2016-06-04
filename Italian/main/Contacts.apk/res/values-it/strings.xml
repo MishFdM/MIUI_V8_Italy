@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_export_dir">/mnt/sdcard</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_extensions_to_consider" />
-    <string name="config_prohibited_phone_number_regexp" />
-    <string name="help_url_people_main" />
-    <string name="help_url_people_add" />
-    <string name="help_url_people_edit" />
     <string name="launcherDialer">Telefono</string>
     <string name="people">Contatti</string>
     <string name="contactsList">Contatti</string>
@@ -244,7 +235,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
     <string name="description_view_contact_detail">Visualizza contatto</string>
     <string name="no_sdcard_message">Nessun archivio trovato.</string>
     <string name="import_from_sdcard">Importa da archivio</string>
-    <string name="export_to_storage">Esporta in archivio</string>
     <string name="export_to_sdcard">Esporta su SD</string>
     <string name="share_visible_contacts">Condividi contatti visibili</string>
     <string name="import_one_vcard_string">Importa un file vCard</string>
@@ -376,7 +366,7 @@ Motivo: \"%s\""</string>
     <string name="sms_assistant">SMS a %s</string>
     <string name="sms_mms">SMS a MMS</string>
     <string name="sms">SMS</string>
-    <string name="eventTypeCustom">Personalizza</string>    
+    <string name="eventTypeCustom">Personalizza</string>
     <string name="email_home">Invia email a indirizzo casa</string>
     <string name="email_mobile">Invia email a indirizzo cellulare</string>
     <string name="email_work">Invia email a indirizzo lavoro</string>
@@ -574,14 +564,20 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="dialog_voicemail_airplane_mode_message">Per chiamare la segreteria, disattiva prima la modalità Aereo.</string>
     <string name="action_menu_overflow_description">Altre opzioni</string>
     <string name="yellowpage_search_the_yellowpage">Cerca nella cartella</string>
-    <string name="storage_sd_card">Scheda SD</string>
-    <string name="storage_sd_card_description">Scheda SD</string>
-    <string name="storage_usb_description">Archivio USB</string>
-    <string name="storage_internal_description">Memoria interna</string>
+    <string name="convenient_service">Services</string>
+    <string name="useful_numbers">Useful numbers</string>
+    <string name="service_more">More</string>
+    <string name="data_charge">Top up mobile data</string>
+    <string name="data_already_used">Used data</string>
+    <string name="data_left">Remaining data</string>
+    <string name="data_unit">MB</string>
+    <string name="set_data_package">Set data plan first</string>
+    <string name="button_join_service_number">Add service number</string>
+    <string name="button_my_center">Profile</string>
     <string name="import_from_sim">Importa da SIM</string>
     <string name="export_to_sim_title">Esportazione…</string>
-    <string name="import_from_sim2">Importa da SIM 2</string>
     <string name="import_from_sim1">Importa da SIM 1</string>
+    <string name="import_from_sim2">Importa da SIM 2</string>
     <string name="sim_no_contact">Nessun contatto sulla SIM</string>
     <string name="sim_indexed_contact_not_exist">La posizione %1$d sulla SIM non è valida: deve essere compresa tra %2$d e %3$d.</string>
     <string name="sim_contact_search_error">Si è verificato un errore</string>
@@ -628,6 +624,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="preview_incall_show_entry">Anteprima video</string>
     <string name="play_incall_show_entry">Riproduci video</string>
     <string name="add_display_photo_entry">Aggiungi foto profilo</string>
+    <string name="play_add_incall_show_entry">Play or add video</string>
     <string name="contact_detail_profile_switch_on">Mostra la foto profilo dei contatti</string>
     <string name="contact_detail_profile_switch_on_subtitle">Tocca per attivare le schede contatti</string>
     <string name="contact_detail_profile_switch_off">Schede contatti disattivate</string>
@@ -659,6 +656,7 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_alertdialog_message">Mostra questo nome ai contatti quando chiedi di scambiare le schede.</string>
     <string name="miprofile_alertdialog_edit">Inserisci nome</string>
     <string name="miprofile_switch_off_alertdialog_message">Non potrai scambiare schede contatti con altre persone. I tuoi contatti non potranno vedere il tuo profilo video."</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">Aggiungi numero di telefono</string>
     <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzione."</string>
     <string name="miprofile_bind_account_alertdialog_positive">Aggiungi numero</string>
@@ -698,6 +696,7 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_nick_name_edit_dialog_message">Il nickname verrà mostrato nel registro chiamate e nei dettagli</string>
     <string name="miprofile_nick_name_edit_dialog_hint">"Inserisci un nickname come 'Mish' ad esempio"</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
+    <string name="miprofile_nick_name_edit">Edit card nick name</string>
     <string name="in_call_show">Video</string>
     <string name="my_in_call_show">I miei video</string>
     <string name="contacts_in_call_show">Video di %s</string>
@@ -766,6 +765,12 @@ Le schede contatti sono disattivate"</string>
     <string name="dialer_empty_text_no_search_result">Nessun contatto trovato</string>
     <string name="dialer_empty_text_loading">Caricamento…</string>
     <string name="dialer_empty_text_no_call_log">Nessun contatto recente</string>
+    <string name="callrecordview_menu_recharge">Top up</string>
+    <string name="callrecordview_menu_mobiledata">Purchase data</string>
+    <string name="callrecordview_menu_voip">VoIP</string>
+    <string name="callrecordview_menu_livetalk">Top-up package</string>
+    <string name="callrecordview_menu_ip">Auto IP dialing</string>
+    <string name="callrecordview_menu_blocklist">Blocklist</string>
     <string name="callrecordview_menu_settings">Impostazioni</string>
     <string name="callrecordview_menu_show">Filtro</string>
     <string name="callrecordview_menu_paste">Incolla</string>
@@ -775,6 +780,7 @@ Le schede contatti sono disattivate"</string>
     <string name="t9_search_guide_zhuyin">Digita 7 e 5 per cercare Steve Jobs</string>
     <string name="date_time_set">Imposta</string>
     <string name="service_provider">Cartella</string>
+    <string name="service_provider_detail">Directory details</string>
     <string name="zero_items_selected">Seleziona voci</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="deselect_all">Deseleziona tutto</string>
@@ -806,6 +812,7 @@ Le schede contatti sono disattivate"</string>
     <string name="edit_contact_card_title">Modifica dettagli contatto</string>
     <string name="preview_contact_card_title">Importazione contatti…</string>
     <string name="import_contact_card_button">Importa contatto</string>
+    <string name="import_contact_card_aggregate_suggestion_button">Merge cards</string>
     <string name="success_message_import_from_account">Contato importato</string>
     <string name="unknown_contact_name">Contatto sconosciuto</string>
     <string name="contactDetailCalllog">Registro chiamate</string>
@@ -816,8 +823,8 @@ Le schede contatti sono disattivate"</string>
     <string name="details_list_group_header_more_action">Altro</string>
     <string name="photo_fragment">Foto</string>
     <string name="photo_load_failed">Impossibile caricare la foto</string>
-    <string name="empty_divider_title" />
-    <string name="noContactHelpTextAccountsInfo" />
+    <string name="empty_divider_title"/>
+    <string name="noContactHelpTextAccountsInfo"/>
     <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina i dati dei contatti usando il Mi Account"</string>
     <string name="recent_contacts_label">Recenti</string>
     <string name="noRecentContacts">Nessun contatto recente</string>
@@ -852,7 +859,8 @@ Le schede contatti sono disattivate"</string>
     <string name="import_vcard_description">Importa contatti dalla tua scheda SD</string>
     <string name="export_vcard_description">Esporta vCard sulla scheda SD</string>
     <string name="import_vcard_dialog_message">Importare vCard?</string>
-    <string name="export_sim_contact_finish_failure">Trasferiti: %1$d Rimasti: %2$d</string>
+    <string name="export_to_sim_prepare_title">Preparing…</string>
+    <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining</string>
     <string name="pref_title_account_import">Importa da account</string>
     <string name="pref_title_import_from_account">Importa da un Mi Account</string>
     <string name="pref_summary_import_from_account">Trasferisci contatti da Google o Exchange al tuo Mi Account</string>
@@ -897,7 +905,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="preference_dial_pad_touch_tone_human">Voce</string>
     <string name="ic_menu_done">Fatto</string>
     <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
-    <string name="preference_contacts_recovery_introduction">Ripristina contatti</string>
     <string name="share_over_limit">Limite superato, impossibile condividere</string>
     <string name="preference_key_trash_bin_title">Cerca tra i backup dei contatti eliminati di recente</string>
     <string name="account_default">Dispositivo</string>
@@ -1038,7 +1045,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="device_import_progress_end_message">Importazione completata</string>
     <string name="device_import_progress_message">Importazione…</string>
     <string name="device_import_failed_message">Importazione fallita</string>
-    <string name="hint_distance" />
+    <string name="hint_distance"/>
     <string name="hint_more_contact">Unisci contatti duplicati</string>
     <string name="device_import_account_dialog_title">Scegli un account</string>
     <string name="device_import_account_dialog_title_suffix">"
@@ -1087,6 +1094,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="confirm_delete_sim_entry_miui_title">Elimina</string>
     <string name="importing_sim_contacts_miui_prepare">"Preparazione per l'impostazione…"</string>
     <string name="deleting_sim_entry_miui_prepare">"Preparazione per l'eliminazione…"</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
     <string name="delete_selected_sim_entry_miui">Elimina i contatti selezionati</string>
     <string name="import_selected_sim_entries_miui">Importa i contatti selezionati</string>
     <string name="add_blacklist_dialog_title">Blocca</string>
@@ -1099,6 +1108,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="clear_digits">Cancella numero di telefono</string>
     <string name="call_record_setting_miui">Impostazioni registrazione</string>
     <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
+    <string name="clear_copy_number_description">Clear copied number</string>
     <string name="select_groups">Seleziona gruppi</string>
     <string name="sim_capacity_content" formatted="false">Capacità totale %d | %d usata</string>
     <string name="sim_error_generic_failure">Si è verificato un errore</string>
@@ -1141,11 +1151,12 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="imei_invalid">IMEI non valido</string>
     <string name="meid_invalid">MEID non valido</string>
     <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
+    <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
     <string name="firewall_setting">Blacklist</string>
     <string name="solar_calendar">Solare</string>
     <string name="lunar_calendar">Lunare</string>
-    <string name="lunar_leap" />
-    <string name="lunar_yue" />
+    <string name="lunar_leap"/>
+    <string name="lunar_yue"/>
     <string name="menu_edit_mode">Modalità modifica</string>
     <string name="clip_dialog_title">Comporre il numero copiato?</string>
     <string name="edit_contact_photo">Modifica immagine del contatto</string>
@@ -1157,14 +1168,16 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
     <string name="phone_call_type_voip">VoIP</string>
+    <string name="phone_call_type_livetalk">LiveTalk</string>
     <string name="cloud_recommend_msg">Tocca per sincronizzare i contatti con Mi Cloud.</string>
-    <string name="unknow_phone_number_call_failed">Impossibile chiamare il numero sconosciuto</string>
-    <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
     <string name="voip_recommend_msg">Tocca per utilizzare Mi Voice</string>
     <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizzo con Mi Cloud</string>
     <string name="cloud_state_loading">Attendi…</string>
     <string name="cloud_state_disabled">La sincronizzazione con Mi Cloud è disattivata</string>
+    <string name="unknow_phone_number_call_failed">Impossibile chiamare il numero sconosciuto</string>
+    <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
+    <string name="pref_rcs_backup_restore_title">Backup & recovery settings</string>
     <string name="more_call_logs">Per altri dati sul Registro chiamate vai su <u>http://i.mi.com</u></string>
     <string name="transfer_accounts">Trasferisci account</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
@@ -1173,12 +1186,18 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="voip_audio_description">Tocca per effettuare una chiamata VoIP</string>
     <string name="voip_video_description">Tocca per effettuate una video chiamata VoIP</string>
     <string name="menu_newContactButton">Aggiungi</string>
-    <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
+    <string name="dialer_digits_copy_number_label">Copied number</string>
+    <string name="dialer_copy_view_delete_description">Clear copied number</string>
+    <string name="contact_detail_action_item_calllog">Call history</string>
+    <string name="contact_detail_action_item_nocalllog">No history</string>
+    <string name="dialer_menu_title">Menu options</string>
+    <string name="profile_binded_numbers">%s</string>
     <string name="hybrid_network_unavaliable">"Impossibile collegarsi alla rete"</string>
     <string name="hybrid_data_error">Si è verificato un errore</string>
     <string name="hybrid_locating_fail">Impossibile trovare la tua posizione</string>
     <string name="hybrid_check_network">Impostazioni di rete</string>
     <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
     <string name="hybrid_try_again">Riprova</string>
+    <string name="contacts_hybrid_activity_label">Recover contacts</string>
 </resources>
