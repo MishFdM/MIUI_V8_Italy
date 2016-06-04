@@ -209,7 +209,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="cloud_sync_closed_toast">Impossibile aggiornare perché la sincronizzazione è disattivata</string>
     <string name="close_cloud_tab_tip">Chiudere la scheda cloud su %s?</string>
     <string name="search_label">Browser</string>
-    <string name="homepage_base">https://www.google.com/webhp?client={CID}&source=android-home</string>
+    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>
@@ -222,23 +222,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="error_console_header_text_maximized">Console JavaScript</string>
     <string name="error_console_eval_text_hint">Esegui JavaScript</string>
     <string name="error_console_eval_button_text">Esegui</string>
-    <string name="pref_data_preload_value_never">NEVER</string>
-    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_data_preload_value_always">ALWAYS</string>
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
-    <string name="pref_images_preload_value_never">0</string>
-    <string name="pref_images_preload_value_wifi_only">1</string>
-    <string name="pref_images_preload_value_always">2</string>
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
-    <string name="pref_video_preload_value_never">NEVER</string>
-    <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_video_preload_value_always">ALWAYS</string>
-    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
-    <string name="pref_link_prefetch_value_never">NEVER</string>
-    <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_link_prefetch_value_always">ALWAYS</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
-    <string name="alisdk_message_1_name">MESSAGE_NOT_FOUND_ERROR</string>
     <string name="search_title_browser">Browser</string>
     <string name="search_keyword_browser">Browser</string>
     <string name="search_path_browser">Settings/System apps/Browser</string>
