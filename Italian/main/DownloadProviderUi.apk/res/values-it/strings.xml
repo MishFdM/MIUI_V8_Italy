@@ -275,7 +275,7 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="sniff_terms_check_text">Agree to Terms of Service</string>
     <string name="sniff_terms_msg_bold_new">Terms of Service</string>
     <string name="sniff_terms_agree_new">Agree</string>
-    <string name="sniff_result_website_intro">Totale <font color=\"#6699ff\">%1$d</font> elementi | Fonte: %2$s</string>
+    <string name="sniff_result_website_intro">Totale &lt;font color=\"#6699ff\">%1$d&lt;/font> elementi | Fonte: %2$s</string>
     <string name="sniff_result_num_prefix">Trovati</string>
     <string name="sniff_result_num_video_suffix">elementi</string>
     <string name="sniff_result_num_website_suffix">siti web</string>
