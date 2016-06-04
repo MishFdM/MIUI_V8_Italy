@@ -212,7 +212,7 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="Dashboard_Log_Clear_Content">Tutti i registri verranno cancellati. Sei sicuro di voler procedere?</string>
     <string name="Privacy_Perm_Count">Autorizzati: %1$d Negati: %2$d</string>
     <string name="Privacy_AppPerm_Count">%1$d autorizzazioni</string>
-    <string name="Privacy_AppPerm_Count_Trust">%1$d autorizzazioni - <font color=#478800>Sicure</font></string>
+    <string name="Privacy_AppPerm_Count_Trust">%1$d autorizzazioni - &lt;font color=#478800>Sicure&lt;/font></string>
     <string name="Privacy_App_Trust">Mi fido di questa App</string>
     <string name="Privacy_App_Trust_Summary_Off">MIUI controllerà questa App</string>
     <string name="Privacy_App_Trust_Summary_On">MIUI non controllerà questa App</string>
