@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Drop</string>
+    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Impostazioni</string>
+    <string name="title_activity_p2p_group_owner">P2pGroupOwnerActivity</string>
+    <string name="title_activity_p2p_legacy_station">P2pLegacyStationActivity</string>
+    <string name="title_activity_bonjour">BonjourActivity</string>
     <string name="Start">Avvia</string>
     <string name="Stop">Interrompi</string>
     <string name="StartScan">StartScan</string>
     <string name="StopScan">StopScan</string>
     <string name="Connect">Connessione</string>
     <string name="Disconnect">Disconnessione</string>
+    <string name="action_p2pgo">P2pGroupOwner</string>
+    <string name="action_p2pls">P2pLegacyStation</string>
+    <string name="action_bonjour">Bonjour</string>
     <string name="Register">registrati</string>
     <string name="Unregister">annulla registrazione</string>
+    <string name="title_activity_main">MainActivity</string>
     <string name="TestSender">Test Mittente</string>
     <string name="TestReceiver">Test Destinatario</string>
     <string name="TestP2pGo">Test P2pGroupOwner</string>
     <string name="TestP2pGc">Test P2pGroupClient</string>
     <string name="TestP2pLs">Test P2pLegacyStation</string>
     <string name="TestBonjour">Test Bonjour</string>
+    <string name="title_activity_reception">ReceptionActivity</string>
     <string name="transmission_click_send">invia</string>
     <string name="newText">Nuovo messaggio</string>
     <string name="transmission_connect">Impossibile trovare destinatario</string>
@@ -79,10 +88,12 @@
     <string name="cancel_receive_confirm">Annulla</string>
     <string name="cancel_receive_stop">Continua a ricevere</string>
     <string name="cancel_confirm_title">Trasferimento non completato, annullare adesso?"</string>
+    <string name="title_activity_p2p_group_client">P2pGroupClientActivity</string>
     <string name="file_not_support">Questo tipo di file non è supportato</string>
     <string name="help">help</string>
     <string name="send_file_time_format_m">m:s</string>
     <string name="send_file_time_format_s">s</string>
+    <string name="title_activity_intro">IntroActivity</string>
     <string name="intro_midrop">Mi Drop</string>
     <string name="intro_page1_text1">Condividi file con i dispositivi vicini</string>
     <string name="intro_page1_text2">Adesso è più facile che mai</string>
