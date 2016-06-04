@@ -474,7 +474,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="delete_file_error">Non è stato possibile eliminare il file</string>
     <string name="notification_content_hint">Tocca per visualizzare</string>
     <string name="notification_wechat_title">Notificami quando un video WeChat sta per scadere</string>
-    <string name="notification_name_combine">zh_cn=%1$s&zh_tw=%2$s&=%3$s</string>
+    <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
     <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
     <string name="notification_wechat_sticker_hint">Mostra notifiche quando sono disponibili nuovi adesivi WeChat</string>
     <string name="notification_wechat_sticker_switch_title">Notifiche nuovi adesivi</string>

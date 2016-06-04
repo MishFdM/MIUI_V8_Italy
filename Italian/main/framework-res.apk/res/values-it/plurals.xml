@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">Ti restano %d tentativi prima che la SIM venga bloccata.</item>
-        <item quantity="one">Ti resta %d tentativo prima che la SIM venga bloccata.</item>
+        <item quantity="other">Hai ancora %d tentativi a disposizione prima che la SIM venga bloccata.</item>
+        <item quantity="one">Hai ancora %d tentativo a disposizione prima che la SIM venga bloccata.</item>
     </plurals>
     <plurals name="num_seconds_ago">
         <item quantity="other">%d secondi fa</item>
@@ -24,19 +24,19 @@
         <item quantity="one">ieri</item>
     </plurals>
     <plurals name="in_num_seconds">
-        <item quantity="other">da %d secondi</item>
-        <item quantity="one">da 1 secondo</item>
+        <item quantity="other">tra %d secondi</item>
+        <item quantity="one">tra 1 secondo</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">da %d minuti</item>
-        <item quantity="one">da 1 minuto</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">da %d ore</item>
-        <item quantity="one">da 1 ora</item>
+        <item quantity="other">tra %d ore</item>
+        <item quantity="one">tra 1 ora</item>
     </plurals>
     <plurals name="in_num_days">
-        <item quantity="other">da %d giorni</item>
+        <item quantity="other">tra %d giorni</item>
         <item quantity="one">domani</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
@@ -96,7 +96,23 @@
         <item quantity="one">1 corrispondenza</item>
     </plurals>
     <plurals name="restr_pin_countdown">
-        <item quantity="other">Riprova tra %d secondi</item>
-        <item quantity="one">RIprova tra 1 secondo</item>
+        <item quantity="other">Riprova tra %d s.</item>
+        <item quantity="one">Riprova fra 1 s.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">Per %1$d minuti (fino a %2$s)</item>
+        <item quantity="one">Per un minuto (fino a %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">Per %1$d ore (fino a %2$s)</item>
+        <item quantity="one">"Per un'ora (fino a %2$s)"</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">Per %d minuti</item>
+        <item quantity="one">Per un minuto</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">Per %d ore</item>
+        <item quantity="one">"Per un'ora"</item>
     </plurals>
 </resources>
