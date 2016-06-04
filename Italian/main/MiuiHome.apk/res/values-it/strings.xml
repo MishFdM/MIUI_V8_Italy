@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--This Italian translation is licensed under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
-    <string name="sharedUserId" />
-    <string name="process" />
+    <string name="sharedUserId"/>
+    <string name="process"/>
     <string name="application_name">Launcher di sistema</string>
     <string name="folder_name">Cartella</string>
     <string name="unnamed_folder_name">Nuova cartella</string>
@@ -21,7 +20,6 @@
     <string name="image_too_small_message">"L'immagine originale non è abbastanza grande"</string>
     <string name="failed_to_load_image">"Impossibile caricare l'immagine"</string>
     <string name="wallpaper_success_message">Sfondo applicato con successo</string>
-    <string name="is_setting_wallpaper_toast">Applico lo sfondo…</string>
     <string name="is_setting_wallpaper_message">Applico lo sfondo…</string>
     <string name="current_wallpaper">Attuale</string>
     <string name="menu_item_add_item">Inserire nella schermata Home</string>
@@ -76,6 +74,12 @@
     <string name="cant_remove_retained_app">Impossibile rimuovere questa applicazione</string>
     <string name="uninstall_dialog_message">La disinstallazione rimuoverà tutti i dati</string>
     <string name="uninstall_dialog_title_format">Vuoi disinstallare \"%s\"?</string>
+    <string name="uninstall_xspace_dialog_title_format">Uninstall cloned \"%s\"</string>
+    <string name="uninstall_xspace_dialog_message">Uninstalling cloned app will remove all app data.</string>
+    <string name="uninstall_with_xspace_dialog_message">Corresponding cloned apps will be removed together with app data.</string>
+    <string name="confirm_uninstall_dialog_title">Corresponding cloned apps will be removed.</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Cloned app will be uninstalled together with this one.</string>
+    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Cloned apps will be uninstalled together with these ones.</string>
     <string name="uninstall_dialog_title_multi_format" formatted="false">Vuoi disinstallare %s ed altre %d applicazioni?</string>
     <string name="uninstall">Disinstalla</string>
     <string name="uninstall_result_multi_succeeded">%1$d applicazioni disinstallate</string>
@@ -104,9 +108,13 @@
     <string name="default_folder_title_recommend">Preferiti</string>
     <string name="default_folder_title_game">Giochi</string>
     <string name="default_folder_title_security">Sistema</string>
+    <string name="default_folder_title_telcel">Telcel</string>
+    <string name="default_folder_title_claro">Claro</string>
     <string name="wallpaper_settings">Impostazioni sfondo</string>
     <string name="choose_wallpaper">Scegli sfondo</string>
     <string name="current_preview">Anteprima</string>
+    <string name="normal_wallpaper">Wallpaper</string>
+    <string name="lock_screen_wallpaper">Lock screen wallpaper</string>
     <string name="wallpaper">Sfondo</string>
     <string name="mi_wallpaper">Sfondo MIUI</string>
     <string name="show_all">Mostra tutto</string>
@@ -126,7 +134,7 @@
     <string name="pref_keep_in_memory_title">Mantieni in memoria</string>
     <string name="pref_keep_in_memory_summary">"Mantieni l'applicazione in memoria, in questo modo non verrà terminata."</string>
     <string name="pref_render_in_truecolor_title">Grafica di alta qualità</string>
-    <string name="pref_render_in_truecolor_summary">Disabilitando questa opzione aumenterai le performance grafiche</string>   
+    <string name="pref_render_in_truecolor_summary">Disabilitando questa opzione aumenterai le performance grafiche</string>
     <string name="pref_enable_drawing_cache_title">Utilizzo Cache</string>
     <string name="pref_enable_drawing_cache_summary">Disattiva per liberare memoria, ma le animazioni saranno meno fluide</string>
     <string name="pref_icon_shadow_title">Ombra icone</string>
@@ -262,4 +270,9 @@
     <string name="share">Condividi</string>
     <string name="settings">Impostazioni</string>
     <string name="apply">Applica</string>
+    <string name="change_wallpaper">Change</string>
+    <string name="lock_screen">Lock screen</string>
+    <string name="home_screen">Home screen</string>
+    <string name="wallpaper_scroll_type_tips">Wallpaper scroll</string>
+    <string name="no_detail_page">No details page</string>
 </resources>
