@@ -3,7 +3,6 @@
     <string name="SMTP_independent_verification_text">Verifica SMTP independente</string>
     <string name="SMTP_password_text">Password</string>
     <string name="SMTP_username_text">Nome utente</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Account duplicato</string>
     <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -288,7 +287,6 @@
     <string name="contextmenu_send_mail">Invia email</string>
     <string name="contextmenu_sharelink">Condividi link</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="conversation_folder_moved">Spostata in %1$s</string>
     <string name="conversation_item_mark_read">Letta</string>
     <string name="conversation_item_mark_unread">Non letta</string>
@@ -365,7 +363,6 @@
     <string name="email_setting">Email Setting</string>
     <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
     <string name="email_sina">Sina Mail</string>
-    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="empty_account_tip">"Impossibile trovare l'account"</string>
     <string name="empty_email_tip">Impossibile inviare email vuota</string>
     <string name="empty_spam">Svuota spam</string>
@@ -437,7 +434,6 @@
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="forward_download_failed_ticker">Impossibile inoltrare uno o più allegati.</string>
     <string name="forward_download_failed_title">Allegato non inoltrato</string>
-    <string name="forward_subject_label">Fwd:</string>
     <string name="from_heading">"Da: "</string>
     <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
     <string name="general_preference_confirm_send_label">Conferma prima di inviare</string>
@@ -457,7 +453,6 @@
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Sign in to Gmail</string>
     <string name="header_category_account">Account</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Altro</string>
     <string name="header_label_general_preferences">Generali</string>
     <string name="help_and_info">Guida</string>
@@ -489,7 +484,6 @@
     <string name="invalid_recipient_title">Destinatario non valido</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">Continua a cercare sul server</string>
     <string name="load_more">Carica altro</string>
     <string name="loading_conversation">Caricamento…</string>
@@ -515,14 +509,6 @@
     <string name="mailbox_name_display_starred">Speciali</string>
     <string name="mailbox_name_display_trash">Cestino</string>
     <string name="mailbox_name_display_unread">Da leggere</string>
-    <string name="mailbox_name_server_all_unread">Unread</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_junk">Junk</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_starred">Starred</string>
-    <string name="mailbox_name_server_trash">Trash</string>
     <string name="mailbox_settings_activity_title">Opzioni di sincronizzazione</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Opzioni di sincronizzazione (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Giorni da sincronizzare</string>
@@ -711,7 +697,6 @@
     <string name="policy_screen_timeout">Richiedi dispos. inattivo per blocco schermo</string>
     <string name="policy_text_truncation">Restringi dimensione email testo</string>
     <string name="pop3_name">POP3</string>
-    <string name="prefDefault_autoAdvance">list</string>
     <string name="preference_eas_tips">Tocca Attiva per configurare il server email.</string>
     <string name="preference_imap_tips"/>
     <string name="preference_pop_tips">Gli allegati verranno scaricati inseme alle email come previsto dal protocollo POP3. Fai attenzione quando utilizzi la connessione dati mobile.</string>
@@ -778,8 +763,6 @@
     <string name="quote_divider_qq_en">------------------ Originale ------------------</string>
     <string name="quote_divider_qq_zh">------------------ Messaggio originale ------------------</string>
     <string name="quoted_text">Includi testo citato</string>
-    <string name="quoted_text_background_color_string">@android:color/white</string>
-    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="quoted_text_label">Testo citato</string>
     <string name="re_download_message_button">Tocca per scaricare di nuovo</string>
     <string name="re_download_message_info">"Impossibile scaricare l'email"</string>
@@ -800,11 +783,7 @@
     <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
-    <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">Segnala phishing</string>
-    <string name="report_rendering_improvement">Looks good</string>
-    <string name="report_rendering_improvement_desc">This message looks good.</string>
-    <string name="report_rendering_problem">Looks bad</string>
     <string name="report_rendering_problem_desc">This message looks bad.</string>
     <string name="report_spam">Segnala come spam</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
@@ -945,11 +924,9 @@
     <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
 Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
-    <string name="wait_help_context">wait</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altro</string>
-    <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
     <string name="wipe_account_fail_description">Allow</string>
     <string name="wipe_account_fail_title">"Couldn't delete personal info"</string>
     <string name="wrong_password">Password errata</string>
