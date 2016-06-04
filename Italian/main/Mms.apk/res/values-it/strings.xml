@@ -118,9 +118,6 @@
     <string name="pref_title_mms_delete">Limiti MMS</string>
     <string name="pref_messages_to_save">Imposta il numero di messaggi da salvare</string>
     <string name="pref_title_storage_status">Stato memoria messaggi</string>
-    <string name="prefDefault_vibrateWhen">never</string>
-    <string name="prefDefault_vibrate_true">always</string>
-    <string name="prefDefault_vibrate_false">never</string>
     <string name="pref_title_mms_auto_retrieval">Recupero automatico</string>
     <string name="pref_summary_mms_auto_retrieval">Prova automaticamente a recuperare il messaggio</string>
     <string name="pref_title_mms_retrieval_during_roaming">Reinvio automatico in roaming</string>

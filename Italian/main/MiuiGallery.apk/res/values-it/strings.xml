@@ -965,7 +965,6 @@
     <string name="welcome_to_slim">"Benvenuto nell'album slim"</string>
     <string name="slim_introduce">Sostituisci foto/video ad alta risoluzione in locale con versioni ottimizzate dopo il caricamento su Mi Cloud. Le foto ad alta risoluzione saranno archiviate su Mi Cloud. Puoi risparmiare fino al 90% di spazio (è necessario un Mi Account).</string>
     <string name="slim_introduce_with_specific_size">Sostituisci foto/video ad alta risoluzione in locale con versioni ottimizzate dopo il caricamento su Mi Cloud. Le foto ad alta risoluzione saranno archiviate su Mi Cloud. Risparmi %1$s (è necessario un Mi Account).</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="next">Avanti</string>
     <string name="login_and_enable_service">"Esegui l'accesso ed utilizza Mi Cloud"</string>

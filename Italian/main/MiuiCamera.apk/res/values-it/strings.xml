@@ -32,7 +32,6 @@
     <string name="pref_video_quality_entry_vga">VGA (480p)</string>
     <string name="pref_video_quality_entry_wqvga">Wide QVGA (240p)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Intervallo time-lapse</string>
-    <string name="pref_video_time_lapse_frame_interval_default">120</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">Intervallo di 0.06 secondi (2x)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">Intervallo di 0.12 secondi (4x)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Intervallo di 0.3 secondi (10x)</string>
@@ -73,8 +72,6 @@
     <string name="pref_camera_picturesize_entry_1024x768">0,8 MP (1024x768)</string>
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
-    <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
-    <string name="pref_camera_picture_format_value_raw">raw</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
@@ -168,15 +165,6 @@
     <string name="pref_camera_iso_entry_iso800">ISO 800</string>
     <string name="pref_camera_iso_entry_iso1600">ISO 1600</string>
     <string name="pref_camera_iso_entry_iso3200">ISO 3200</string>
-    <string name="pref_camera_iso_value_auto">auto</string>
-    <string name="pref_camera_iso_value_iso100">ISO100</string>
-    <string name="pref_camera_iso_value_iso200">ISO200</string>
-    <string name="pref_camera_iso_value_iso400">ISO400</string>
-    <string name="pref_camera_iso_value_iso800">ISO800</string>
-    <string name="pref_camera_iso_value_iso1600">ISO1600</string>
-    <string name="pref_camera_iso_value_iso3200">ISO3200</string>
-    <string name="pref_camera_antibanding_title">Antibanding</string>
-    <string name="pref_camera_antibanding_60">60hz</string>
     <string name="pref_camera_antibanding_entry_0">Disattivato</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -192,10 +180,6 @@
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
-    <string name="pref_camera_hfr_value_off">off</string>
-    <string name="pref_camera_hfr_value_2x">60</string>
-    <string name="pref_camera_hfr_value_3x">90</string>
-    <string name="pref_camera_hfr_value_4x">120</string>
     <string name="pref_video_speed_title">Velocità video</string>
     <string name="pref_video_speed_entry_normal">Normale</string>
     <string name="pref_video_speed_entry_fast">Veloce</string>
@@ -231,9 +215,6 @@
     <string name="pref_camera_skinToneEnhancement_entry_auto">Miglioramento automatico</string>
     <string name="pref_camera_skinToneEnhancement_entry_enable">Abilita</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">Disattiva</string>
-    <string name="pref_camera_skinToneEnhancement_value_auto">auto</string>
-    <string name="pref_camera_skinToneEnhancement_value_enable">enable</string>
-    <string name="pref_camera_skinToneEnhancement_value_disable">disable</string>
     <string name="pref_camera_zsl_entry_off">Disattivato</string>
     <string name="pref_camera_zsl_entry_on">Attivato</string>
     <string name="pref_camera_facedetection_title">Rileva volti</string>
