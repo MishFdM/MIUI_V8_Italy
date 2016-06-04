@@ -656,7 +656,6 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_alertdialog_message">Mostra questo nome ai contatti quando chiedi di scambiare le schede.</string>
     <string name="miprofile_alertdialog_edit">Inserisci nome</string>
     <string name="miprofile_switch_off_alertdialog_message">Non potrai scambiare schede contatti con altre persone. I tuoi contatti non potranno vedere il tuo profilo video."</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">Aggiungi numero di telefono</string>
     <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzione."</string>
     <string name="miprofile_bind_account_alertdialog_positive">Aggiungi numero</string>
@@ -1177,7 +1176,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="cloud_state_disabled">La sincronizzazione con Mi Cloud è disattivata</string>
     <string name="unknow_phone_number_call_failed">Impossibile chiamare il numero sconosciuto</string>
     <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
-    <string name="pref_rcs_backup_restore_title">Backup & recovery settings</string>
+    <string name="pref_rcs_backup_restore_title">Backup &amp; recovery settings</string>
     <string name="more_call_logs">Per altri dati sul Registro chiamate vai su <u>http://i.mi.com</u></string>
     <string name="transfer_accounts">Trasferisci account</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
