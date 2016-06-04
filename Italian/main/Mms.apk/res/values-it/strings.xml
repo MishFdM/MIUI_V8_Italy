@@ -2,6 +2,9 @@
 <resources>
     <string name="conversation_style">bubble</string>
     <string name="prefDefault_ringtone_repeat">1</string>
+    <string name="search_title_mms">Messaging</string>
+    <string name="search_keyword_mms">Messaging</string>
+    <string name="search_path_mms">Settings/System apps/Messaging</string>
     <string name="pref_summary_manage_sim_messages">Gestisci i messaggi sulla tua scheda SIM</string>
     <string name="pref_title_manage_sim_messages">Gestisci messaggi SIM</string>
     <string name="confirm_delete_all_SIM_messages">Tutti i messaggi sulla SIM verranno eliminati.</string>
@@ -85,8 +88,8 @@
     <string name="too_many_attachments">"C'è un limite di %1$s allegati. Verranno aggiunti solo i primi %2$s."</string>
     <string name="adding_attachments_title">Aggiunta di allegati</string>
     <string name="adding_attachments">"Attendi il termine dell'aggiunta degli elementi alla presentazione."</string>
-    <string name="recipients_over_size">Troppi destinatari.</string>
     <string name="over_max_mms_size">Mms troppo grande.</string>
+    <string name="recipients_over_size">Troppi destinatari.</string>
     <string name="preview">Anteprima</string>
     <string name="preview_slideshow">Anteprima</string>
     <string name="replace_image">Sostituisci immagine</string>
@@ -115,6 +118,9 @@
     <string name="pref_title_mms_delete">Limiti MMS</string>
     <string name="pref_messages_to_save">Imposta il numero di messaggi da salvare</string>
     <string name="pref_title_storage_status">Stato memoria messaggi</string>
+    <string name="prefDefault_vibrateWhen">never</string>
+    <string name="prefDefault_vibrate_true">always</string>
+    <string name="prefDefault_vibrate_false">never</string>
     <string name="pref_title_mms_auto_retrieval">Recupero automatico</string>
     <string name="pref_summary_mms_auto_retrieval">Prova automaticamente a recuperare il messaggio</string>
     <string name="pref_title_mms_retrieval_during_roaming">Reinvio automatico in roaming</string>
@@ -130,10 +136,10 @@
     <string name="confirm_restore_all_title">Ripristinare tutti i messaggi da questo numero?</string>
     <string name="confirm_no_block_title">Non bloccare numero e ripristinare tutti i messaggi?</string>
     <string name="confirm_no_block_positive">Non bloccare e ripristina</string>
-    <string name="confirm_restore_checkbox">Ripristina i messaggi bloccati</string>   
-    <string name="confirm_restore_title">Ripristinare tutti i messaggi selezionati?</string>    
+    <string name="confirm_restore_checkbox">Ripristina i messaggi bloccati</string>
+    <string name="confirm_restore_title">Ripristinare tutti i messaggi selezionati?</string>
     <string name="confirm_restore_message">Ripristinare i messaggi selezionati?</string>
-    <string name="confirm_restore_positive">Ripristina</string>    
+    <string name="confirm_restore_positive">Ripristina</string>
     <string name="delete_unlocked">Elimina messaggi bloccati</string>
     <string name="delete">Elimina</string>
     <string name="stick">Evidenzia</string>
@@ -296,12 +302,12 @@
     <string name="pref_sms_theme_title">Impostazioni tema</string>
     <string name="pref_time_auto_group_title">Gruppo</string>
     <string name="pref_time_auto_group_summary">Raggruppa per orario</string>
-    <string name="pref_time_auto_group_disabled_summary">Non supportato nella dimensione di carattere attuale</string>    
+    <string name="pref_time_auto_group_disabled_summary">Non supportato nella dimensione di carattere attuale</string>
     <string name="bookmark_list_title">Preferiti</string>
     <string name="delete_bookmark">Elimina messaggio</string>
     <string name="view_bookmark">Mostra messaggio originale</string>
     <string name="bookmark_confirm_delete_message">Gli elementi selezionati saranno eliminati</string>
-    <string name="bookmark_empty">Nessun modello</string>   
+    <string name="bookmark_empty">Nessun modello</string>
     <string name="phrase_list_title">Modelli</string>
     <string name="new_phrase">Nuovo modello</string>
     <string name="edit_phrase">Modifica modello</string>
@@ -390,8 +396,8 @@
     <string name="msg_type_hint_mms">Messaggio multimediale</string>
     <string name="msg_type_hint_sms_omit">SMS</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
-    <string name="msg_type_hint_mx_omit">Mi Msg</string>
     <string name="msg_type_hint_mx">Messaggio Mi Cloud</string>
+    <string name="msg_type_hint_mx_omit">Mi Msg</string>
     <string name="mx_reactivate">Riattiva messaggi Mi Cloud</string>
     <string name="mx_activate_error_title">Impossibile attivare la carta SIM</string>
     <string name="mx_activate_error_sim_change">Sembra che tu abbia cambiato le SIM. Per attivare i messaggi cloud, il tuo dispositivo deve inviare un SMS ai server di Xiaomi.</string>
@@ -405,7 +411,7 @@
     <string name="mx_activate_int_hint_server">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
     <string name="need_download">Sincronizzazione…</string>
     <string name="found_wild_messages_title">Scarica messaggi</string>
-    <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite Mi Cloud. Vuoi scaricarli?</string>
+    <string name="found_wild_messages_guide_settings_desc">Sync messages from Mi Cloud in Messaging Settings.</string>
     <string name="found_wild_messages_guide_cloud_desc">Per sincronizzare i messaggi da Mi Cloud accedi al tuo Mi Account ed attiva la sincronizzazione SMS.</string>
     <string name="found_wild_messages_guide_sync_not_started">Sincronizzazion non ancora avviata</string>
     <string name="found_old_messages_title">Aggiorna Messaggi</string>
@@ -490,6 +496,7 @@
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
     <string name="sp_mark_as_read">Segnare tutti i messaggi come già letti?</string>
     <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso…</string>
+    <string name="sp_mark_as_read_menu_title">Mark as read</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">Messaggi di tutti i servizi</string>
     <string name="sp_category_bank">Messaggi dei servizi bancari</string>
@@ -543,14 +550,6 @@
     <string name="festival_continue">OK</string>
     <string name="festival_never_remind">Non mostrare di nuovo</string>
     <string name="pref_title_festival_networking">Notifica connessione</string>
-    <string name="hms_add_image_progress_message">Elaborazione…</string>
-    <string name="view_hms_attachment_fail">Impossibile scaricare immagine</string>
-    <string name="mx_type_guide">Invia e ricevi messaggi gratuitamente con gli utenti che utilizzano questa funzione</string>
-    <string name="mx_dspt_provision">Mi Cloud Message ti consente di inviare messaggi ad altri utenti MIUI senza costi. Il tuo operatore potrebbe addebitarti il costo di un SMS necessario per attivare questo servizio.</string>
-    <string name="mx_dspt_provision_ex">"Invia messaggi e chiama altri utenti MIUI senza costi aggiuntivi con il tuo operatore. VoIP supportato da Weihui. Leggi l'informativa sulla privacy di Weihui."</string>
-    <string name="mx_dspt_provision_ex2">Informativa sulla privacy</string>
-    <string name="mx_activate_dlg_title">Attiva Mi Message</string>
-    <string name="mx_activate_dlg_title_ex">Attiva Mi Message e Voce</string>
     <string name="resource_price_free">Gratis</string>
     <string name="menu_send_as_common">Invia come SMS</string>
     <string name="message_sent">Inviato</string>
@@ -569,7 +568,15 @@
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[picture]</string>
     <string name="audio_download_failed">Download audio fallito</string>
+    <string name="hms_add_image_progress_message">Elaborazione…</string>
+    <string name="view_hms_attachment_fail">Impossibile scaricare immagine</string>
     <string name="hms_uri_param_err">"L'URL non può essere vuoto"</string>
+    <string name="mx_type_guide">Invia e ricevi messaggi gratuitamente con gli utenti che utilizzano questa funzione</string>
+    <string name="mx_dspt_provision">Mi Cloud Message ti consente di inviare messaggi ad altri utenti MIUI senza costi. Il tuo operatore potrebbe addebitarti il costo di un SMS necessario per attivare questo servizio.</string>
+    <string name="mx_dspt_provision_ex">"Invia messaggi e chiama altri utenti MIUI senza costi aggiuntivi con il tuo operatore. VoIP supportato da Weihui. Leggi l'informativa sulla privacy di Weihui."</string>
+    <string name="mx_dspt_provision_ex2">Informativa sulla privacy</string>
+    <string name="mx_activate_dlg_title">Attiva Mi Message</string>
+    <string name="mx_activate_dlg_title_ex">Attiva Mi Message e Voce</string>
     <string name="pref_title_sms_validity_period">Periodo di validità SMS</string>
     <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>
     <string name="open_url_with_web">Aprire questo link nel browser?</string>
@@ -584,9 +591,15 @@
     <string name="storage_dialog_database">Database:</string>
     <string name="storage_dialog_available_space">Spazio disponibile:</string>
     <string name="storage_unavailable">Spazio non disponibile</string>
+    <string name="remind_follow">Follow this number?</string>
+    <string name="network_error">Network error</string>
+    <string name="follow_finished">Following number</string>
+    <string name="service_unavailiable">Service unavailable</string>
+    <string name="already_followed">"You're already following this number"</string>
+    <string name="follow_forbidden">"Can't follow this number"</string>
     <string name="security_alert_desc">"Il mittente non è tra i tuoi contatti. "<u><font color="red">Segnala questo numero</font></u></string>
-    <string name="security_alert_desc_highlight">Segnala questo numero</string>   
- <string name="security_alert_dialog_title">Segnala</string>
+    <string name="security_alert_desc_highlight">Segnala questo numero</string>
+    <string name="security_alert_dialog_title">Segnala</string>
     <string name="security_alert_dialog_desc">Segnala questo numero (%s) ed i relativi messaggi inviandoli a Xiaomi per una verifica.</string>
     <string name="sms_report_failed">Impossibile inviare segnalazione</string>
     <string name="sms_report_success">Segnalazione inviata</string>
@@ -625,9 +638,28 @@
     <string name="title_red_package">Buona fortuna</string>
     <string name="title_send_red_package">Controlla Pacchetto Rosso</string>
     <string name="title_recv_red_package">Ottieni Pacchetto Rosso</string>
+    <string name="fake_cell_alert_hint">Looks like this message was sent from the phone number which is different from the one displayed. Be cautious of the SMS containing financial requests.</string>
+    <string name="fake_cell_safe_hint">This message is safe</string>
+    <string name="fake_cell_checking_hint">Safety checking…</string>
     <string name="delete_wild_sims">Elimina numeri</string>
     <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
     <string name="delete_wild_sims_confirm">Tutti i numeri associati a questo contatto verranno eliminati dal telefono. Puoi ripristinarli su i.mi.com.</string>
+    <string name="url_scanning">Url scanning…</string>
+    <string name="url_result_safe">This url is safe</string>
+    <string name="url_fraud_title">Fraud suspicious</string>
+    <string name="url_fraud_risky_alert">"The website you are trying to visit may be a fraud link, are you sure to move on? 
+%s"</string>
+    <string name="url_fraud_dangerous_alert">"The website you are trying to visit is a fraud link, can be harmful to your device and your property, are you sure to move on? 
+%s"</string>
+    <string name="url_fraud_visit"><u>Visit anyway</u></string>
+    <string name="url_fraud_insurance">Fraud insurance</string>
+    <string name="sms_card_partner_label">"Sms card partner: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="add_to_browser_favorite_success">aggiunto</string>
     <string name="add_to_browser_favorite_failed">non aggiunto</string>
+    <string name="i_know">OK</string>
+    <string name="second_mms">second message</string>
+    <string name="second_mms_notice">only display second message</string>
+    <string name="second_mms_introduction">please go to second space</string>
+    <string name="second_mms_switch">switch user</string>
 </resources>
