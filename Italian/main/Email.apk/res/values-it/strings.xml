@@ -784,7 +784,6 @@
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
     <string name="report_phishing">Segnala phishing</string>
-    <string name="report_rendering_problem_desc">This message looks bad.</string>
     <string name="report_spam">Segnala come spam</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
     <string name="request_permission_activity">Permission Request</string>
