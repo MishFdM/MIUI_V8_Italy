@@ -13,9 +13,9 @@ visita %s"</string>
     <string name="open_wifi_connect_summary">Tocca per vedere i dettagli.</string>
     <string name="settings_license_activity_title">Licenza open source</string>
     <string name="settings_license_activity_loading">Caricamento…</string>
-    <string name="settings_license_activity_unavailable">Si è verificato un problemanel caricamento della licenza.</string>
+    <string name="settings_license_activity_unavailable">Si è verificato un problema nel caricamento della licenza.</string>
     <string name="settings_safetylegal_title">Informazioni si sicurezza</string>
     <string name="settings_safetylegal_activity_title">Informazioni di sicurezza</string>
-    <string name="settings_safetylegal_activity_unreachable">Non hai una connessione di rete. Pervedere adesso le informazioni, vai su %s da un qualsiasi computer collegato ad Internet.</string>
+    <string name="settings_safetylegal_activity_unreachable">Non hai una connessione di rete. Per vedere adesso le informazioni, vai su %s da un qualsiasi computer collegato ad Internet.</string>
     <string name="settings_safetylegal_activity_loading">Caricamento...</string>
 </resources>

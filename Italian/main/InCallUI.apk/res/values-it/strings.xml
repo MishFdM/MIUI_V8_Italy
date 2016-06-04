@@ -58,6 +58,8 @@
     <string name="onscreen_merge_calls_text">Unisci chiamate</string>
     <string name="onscreen_mute_text">Muto</string>
     <string name="onscreen_swap_calls_text">Cambia</string>
+    <string name="onscreen_note_calls_text">Note</string>
+    <string name="onscreen_mi_support_calls_text">MiSupport</string>
     <string name="call_record_button_label">Registrazione %s</string>
     <string name="call_record_wait_label">In attesa</string>
     <string name="contacts_icon_label">Contatti</string>
@@ -128,6 +130,8 @@
     <string name="select_voice_call_sim">Scegli SIM</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">Impossibile utilizzare la SIM %2$d mentre la SIM %1$d è in uso.</string>
+    <string name="select_one_sim_title">Can only use SIM %1$d</string>
+    <string name="can_not_use">"Can't use"</string>
     <string name="call_description_recording">Registrazione…</string>
     <string name="call_recording_error_privacy">Impossibile registrare in modalità Ospite</string>
     <string name="call_recording_error_sd_access">Impossibile accedere alla scheda SD</string>
@@ -143,6 +147,7 @@
     <string name="call_recording_deny_permission_msg">Hai limitato i permessi di registrazione, impossibile registrare.</string>
     <string name="call_contacts_deny_permission_msg">Hai limitato i permessi di lettura dei contatti, impossibile mostrare le informazioni del contatto.</string>
     <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
+    <string name="antispam_local_marked">Local marked</string>
     <string name="antispam_provider">Identificato da %s</string>
     <string name="antispam_notification_title">Numero sconosciuto</string>
     <string name="suspect_info">"Verifica sempre l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
@@ -207,4 +212,13 @@
     <string name="incoming_answer_voice_text">Risposta vocale</string>
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
+    <string name="call_button_tools_text">Feature</string>
+    <string name="call_button_dialer_text">Keyboard</string>
+    <string name="select_audio_dialog_title">Please select answering mode</string>
+    <string name="incoming_circle_text_reject_p">Rejecting slide</string>
+    <string name="incoming_circle_text_reject">Loosen reject</string>
+    <string name="incoming_circle_text_answer_p">Answering slide</string>
+    <string name="incoming_circle_text_answer">Loosen answer</string>
+    <string name="incoming_circle_text_message_p">SMS reply slide</string>
+    <string name="incoming_circle_text_message">Loosen SMS reply</string>
 </resources>
