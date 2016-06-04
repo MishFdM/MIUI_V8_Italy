@@ -6,7 +6,7 @@
     <string name="sina_token_expired_warning">Account Weibo scaduto: ricollegarsi</string>
     <string name="sina_token_invalid_warning">Account Weibo non valido: ricollegarsi</string>
     <string name="sina_share_fail_content_repeat">Impossibile condividere, contenuto già esistente"</string>
-    <string name="xmpp_server_addr" />
+    <string name="xmpp_server_addr"/>
     <string name="app_name">Mi Cloud</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="sync_item_sms_title">Sincronizza SMS</string>
@@ -139,7 +139,7 @@ Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="master_alert_notif_title">Ultima sincronizzazione: %s giorni fa</string>
     <string name="master_alert_notif_content">Impossibile sincronizzare</string>
     <string name="sub_alert_notif_title">Sincronizzazione disabilitata</string>
-    <string name="alert_notif_title_dspt">Abilita la sincronizzazione per tenere aggiornati i tuoi contenuti su Mi Cloud.</string>
+    <string name="sub_alert_notif_content">Turn on MiCloud</string>
     <string name="noRemind">Non ricordarmelo più</string>
     <string name="restoreSync">Abilita sincronizzazione</string>
     <string name="enableAll">Abilita tutto</string>
@@ -216,10 +216,10 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
     <string name="contact">Contatti</string>
     <string name="sms">SMS</string>
     <string name="photo">Foto</string>
-    <string name="micloud_first_login_title" />
-    <string name="micloud_first_login_summary" />
+    <string name="micloud_first_login_title"/>
+    <string name="micloud_first_login_summary"/>
     <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
-    <string name="micloud_unlogin_for_time_summary" />
+    <string name="micloud_unlogin_for_time_summary"/>
     <string name="micloud_main_sync_stop">Sincronizzazione interrotta</string>
     <string name="micloud_main_sync_pause">Sincronizzazione in pausa</string>
     <string name="micloud_main_sync_exception">Errore di sincronizzazione</string>
@@ -235,8 +235,6 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
     <string name="micloud_main_suggest_setting">"In attesa di connessione Wi-Fi per sincronizzare.
 Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_sync_pending">In attesa di sincronizzazione</string>
-    <string name="micloud_main_title_not_synced">Non sincronizzato</string>
-    <string name="micloud_main_message_not_synced">%s dati non sincronizzati</string>
     <string name="micloud_main_data_unsynced">%d non sincronizzato</string>
     <string name="micloud_main_detail">Mostra dettagli</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
@@ -257,6 +255,11 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_query_error_title">Impossibile recuperare i dati di sincronizzazione</string>
     <string name="micloud_main_query_error_message">Non è possibile garantire che la sincronizzazione sia stata completata</string>
     <string name="micloud_main_not_sync">%d elementiin attesa di sincronizzazione</string>
+    <string name="micloud_main_multi_user_error_title">MiCloud stops</string>
+    <string name="micloud_main_multi_user_error_message">"You login the same account with the first space and micloud stops. If you want to backup data:
+
+1.Use another accout
+2.Transfer data to first space"</string>
     <string name="micloud_detail_syncing">Sincronizzazione</string>
     <string name="micloud_detail_upload_syncing">Upload %s</string>
     <string name="micloud_detail_download_syncing">Download %s</string>
@@ -414,8 +417,6 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_sync_alert_dialog_message">Sincronizza le tue foto, i contatti, le note ed altro sui tuoi dispositivi.</string>
     <string name="micloud_sync_alert_dialog_negative">Annulla</string>
     <string name="micloud_sync_alert_dialog_positive">OK</string>
-    <string name="micloud_battery_low_notification_title">Batteria quasi scarica</string>
-    <string name="micloud_battery_low_notification_message">Metti in carica per sincronizzare</string>
     <string name="micloud_upgrade_member">Ottieni spazio aggiuntivo</string>
     <string name="micloud_notif_title_depend_wifi">%d in attesa di sincronizzazione</string>
     <string name="micloud_notif_content_depend_wifi">Collegato ad una rete Wi-Fi per sincronizzare.</string>
@@ -434,6 +435,8 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_notif_content_sync_not_finish">Dettagli</string>
     <string name="micloud_notif_title_clipboard_push">COntenuto copiato negli appunti</string>
     <string name="micloud_notif_content_clipboard_push">Puoi incollarlo ovunque.</string>
+    <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
+    <string name="micloud_notif_content_multi_user_error">You login the same account with original space.</string>
     <string name="micloud_find_device_guide_title">"Accedi a %s per localizzare, bloccare o formattare il tuo dispositivo."</string>
     <string name="micloud_find_device_guide_content">Quando cambi SIM, verrà inviato automaticamente un SMS per riattivare questa funzione.</string>
     <string name="micloud_find_device_guide_button">Attiva Trova Dispositivo</string>
@@ -456,11 +459,20 @@ Ultimo backup: %2$s"</string>
     <string name="activate_finddevice">Collegato alla rete per attivare il dispositvo</string>
     <string name="account_related">Il dispositivo è associato ad un Mi Account esistente (%s). Collegato alla rete per verificare il dipspositivo.</string>
     <string name="connect_network">Collegato al Wi-Fi o inserisci una SIM</string>
+    <string name="trying_to_connect_to_network">Connecting to the network…</string>
     <string name="detect_sim_card">Ricerca ancora una SIM</string>
     <string name="connect_wlan">Collegato al Wi-Fi</string>
     <string name="soundrecorder_sync_records">Sincronizza con Mi Cloud</string>
     <string name="soundrecorder_sync_only_in_wifi">Usa solo Wi-Fi per sincronizzare</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Non verrà utilizzata la rete dati mobile per download e upload delle registrazioni</string>
+    <string name="micloud_wipe_data_confirm_label">Remove data from Mi Cloud</string>
+    <string name="micloud_wipe_data_confirm_title">Remove items synced with Mi Cloud from the phone after you sign out?</string>
+    <string name="micloud_wipe_data_retain">Leave</string>
+    <string name="micloud_wipe_data_remove">Remove</string>
+    <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
+    <string name="wipe_data_dialog_msg">"%s weren't synced and will stay on your phone."</string>
+    <string name="wipe_data_dialog_button_check_sync">Check if synced</string>
+    <string name="wipe_data_dialog_msg_and_on">, and some other items</string>
     <string name="micloud_request_permission_title">Mi Cloud richiede i permessi</string>
     <string name="micloud_request_permission_content">Mi Cloud ha necessità dei permessi per la sincronizzazione dei dati. Consenti a Mi Cloud di accedere a Calendario, Contactti, Mi Account, stato SIM, registro chiamate e messaggi.</string>
     <string name="micloud_request_permission_confirm">Ho capito</string>
