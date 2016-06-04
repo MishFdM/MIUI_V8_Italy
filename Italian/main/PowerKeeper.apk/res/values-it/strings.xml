@@ -31,7 +31,7 @@
     <string name="alter_message_delete">Eliminare?</string>
     <string name="alter_message_switch_mode">Cambiare modalità?</string>
     <string name="alter_message_switch_mode_message">Quando cambi modalità, le impostazioni precedenti non saranno più applicate a questa app.</string>
-    <string name="alter_message_open_hide_title">"Gestire l'utilizzo della batteria delle app?"</string>
+    <string name="alter_message_abandon_title">Abbandoni cambiamenti?</string>
     <string name="power_configure_screen_brightness_enable">Imposta luminosità schermo</string>
     <string name="power_dialog_event_trigger_title">Evento</string>
     <string name="power_dialog_cpu_state_title">Utilizzo CPU</string>
@@ -117,8 +117,6 @@
     <string name="power_config_mode_title">Modalità di risparmio</string>
     <string name="power_config_disable_title">Disattivato</string>
     <string name="power_config_disable_description">MIUI non limiterà le attività in background</string>
-    <string name="power_config_normal_title">Standard</string>
-    <string name="power_config_normal_description">"L'accesso alla posizione e i servizi di rete in background verranno limitati"</string>
     <string name="power_config_enhance_title">Avanzate</string>
     <string name="power_config_enhance_description">MIUI limiterà ogni attività in background quando possibile</string>
     <string name="power_config_ultimate_title">Ultimate</string>
