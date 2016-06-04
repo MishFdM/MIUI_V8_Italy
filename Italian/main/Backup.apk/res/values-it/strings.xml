@@ -96,7 +96,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="task_stopped_exception">Processo fallito</string>
     <string name="sdcard_no_enough_space">Spazio su SD insufficiente</string>
     <string name="sdcard_no_enough_space_message">Spazio sulla Scheda SD in esaurimento, il backup potrebbe non andare a buon fine. Libera spazio sulla SD.</string>
-    <string name="data_no_enough_space">Spazio insufficiente, liberare spazio nella memoria interna e riprovare</string>
+    <string name="data_no_enough_space_message">Non hai abbastanza spazio nella memoria interna del dispositivo.</string>
     <string name="task_running_hint">Il servizio è attivo in background, riprova il ripristino.</string>
     <string name="task_running_dialog">Backup e ripristino sono in corso in background, premere Ok per visualizzarli</string>
     <string name="task_running_backup_hint">Servizio in esecuzione in background, provare di nuovo!</string>
