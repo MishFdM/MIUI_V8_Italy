@@ -18,6 +18,7 @@
     <string name="miuishare_no_network">Nessuna rete per condividere</string>
     <string name="app_label">Pagine Gialle</string>
     <string name="phone_info_divider">" ｜ "</string>
+    <string name="info_divider">|</string>
     <string name="express_info_divider">" / "</string>
     <string name="colon">": "</string>
     <string name="call">Chiama</string>
@@ -55,9 +56,9 @@
     <string name="sending_shortcut">Invio in corso…</string>
     <string name="send_shortcut_failed">Invio fallito</string>
     <string name="send_shortcut_success">Inviato con successo</string>
-    <string name="group_name_banner" />
-    <string name="group_name_basic" />
-    <string name="group_name_title" />
+    <string name="group_name_banner"/>
+    <string name="group_name_basic"/>
+    <string name="group_name_title"/>
     <string name="group_name_service">Servizio</string>
     <string name="group_name_gallery">Galleria</string>
     <string name="group_name_more">Varie</string>
@@ -65,7 +66,7 @@
     <string name="group_name_shop_recommendation">Nelle vicinanze</string>
     <string name="group_name_data_source">Sorgente</string>
     <string name="group_name_management">Gestisci</string>
-    <string name="group_name_enroll" />
+    <string name="group_name_enroll"/>
     <string name="photo_count">%d totale</string>
     <string name="all_services">Tutto</string>
     <string name="no_price">Nessuna informazione sui prezzi</string>
@@ -111,7 +112,7 @@
     <string name="confirm_to_remove_blacklist">Aggiungere il numero selezionato alla blacklist?</string>
     <string name="custom_mark_category">Personalizza</string>
     <string name="mark_number_dialog_maintitle">Segna come spam e carica</string>
-    <string name="mark_number_custom_dialog_maintitle">Conferma o correggi la selezione</string>
+    <string name="mark_number_dialog_subtitle">%1$s (flagged by %2$d people)</string>
     <string name="mark_number_marked_subtitle">Etichettato come %s</string>
     <string name="mark_number_marked_maintitle">Modifica</string>
     <string name="mark_title_null_hint">Il valore non può essere vuoto</string>
@@ -207,6 +208,7 @@ Totale: RMB%3$s"</string>
     <string name="login_before_use">"Devi eseguire l'accesso prima di ricaricare."</string>
     <string name="open_installed_app">Apri</string>
     <string name="express_inquiry">Tracciamento</string>
+    <string name="express_inquiry_and_send">Tracking and sending</string>
     <string name="express_inquiry_serial_number_indication">Numero tracciamento</string>
     <string name="express_inquiry_button_text">Traccia</string>
     <string name="express_inquiry_serial_number_prefix">Numero: %s</string>
@@ -215,12 +217,13 @@ Totale: RMB%3$s"</string>
     <string name="express_inquiry_internal_failure">"Si è verificato un errore.
 Verifica il tuo numero di tracciamento."</string>
     <string name="express_inquiry_data_owner_prefix">Informazioni di tracciamento fornite da</string>
-    <string name="express_inquiry_data_owner_suffix" />
+    <string name="express_inquiry_data_owner_suffix"/>
     <string name="scan">Scansiona</string>
     <string name="express_inqiury_select_logistics">Seleziona corriere</string>
     <string name="expresss_inquiry_frequently_used_logistics">Usati con frequenza</string>
     <string name="expresss_inquiry_all_logistics">Tutti</string>
     <string name="express_inquiry_history">Cronologia</string>
+    <string name="express_show_all_inquiry_history">Show all inquiry history</string>
     <string name="express_inquiry_delivered">Consegnato</string>
     <string name="express_inquiry_no_history">Nessuna cronologia</string>
     <string name="express_inquiry_delete_warning_single">Eliminare i dati selezionati?</string>
@@ -241,6 +244,14 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="express_inquiry_trace_user_notice_content">Ti notificheremo ogni cambio di stato del tuo ordine.</string>
     <string name="express_inquiry_trace_device_login_notice">"Stai utilizzando questo servizio su di un altro dispositivo. Se vuoi ricevere informazioni sull stato dell'ordine su questo dispositivo devi verificare il tuo Mi Account."</string>
     <string name="express_inquiry_clipboard_number_message">Tracciare il numero copiato?</string>
+    <string name="express_inquiry_status_on_the_way">On the way</string>
+    <string name="express_inquiry_status_delivered">Delivered</string>
+    <string name="express_inquiry_status_difficult_goods">Difficult goods</string>
+    <string name="express_inquiry_status_receipted">Recevied</string>
+    <string name="express_inquiry_status_sign_out">Sign out</string>
+    <string name="express_inquiry_status_dispatch">Dispatching</string>
+    <string name="express_inquiry_status_return">Return</string>
+    <string name="express_inquiry_status_unknown">Unknown</string>
     <string name="express_send">Naviga</string>
     <string name="express_sender_info">Informazioni mittente</string>
     <string name="express_addressee_info">Info destinatario</string>
@@ -318,6 +329,9 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="express_send_mms">Invia</string>
     <string name="express_send_mms_format">Ti è stato inviato un pacco da %1$s, il numero di tracciamento è %2$s.</string>
     <string name="express_copied">NUmero di tracciamento copiato</string>
+    <string name="more_express_numbers">More courier numbers</string>
+    <string name="add_to_desktop">Add to desktop</string>
+    <string name="express_shortcut_name">Query or send express</string>
     <string name="remind_user_suspect_number_title">Fai attenzione alle telefonate fraudolente</string>
     <string name="remind_user_suspect_number_message">Alcuni criminali possono rubare le identità di altre persone per compiere truffe, se non sei sicuro/a, richiama per sicurezza. Banche, attività di e-commerce e corrieri non chiedono chiedono password o dati bancari</string>
     <string name="remind_another_time">Non chiedere per questo numero"</string>
@@ -402,6 +416,9 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="yellowpage_navigation_network_location_enable_later">Non adesso</string>
     <string name="yellowpage_navigation_network_location_enabled">"L'accesso alla posizione è attivo, puoi disattivarlo nelle impostazioni"</string>
     <string name="share">Condividi</string>
+    <string name="didi_back">Back</string>
+    <string name="didi_close">Quit</string>
+    <string name="title_activity_di_di_web">DiDi</string>
     <string name="sina_share_pendding">Invio in corso…</string>
     <string name="sina_share_success">Inviato</string>
     <string name="sina_share_fail">Impossibile inviare</string>
