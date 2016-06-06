@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="passport_account_label">Mi Account</string>
     <string name="passport_login_prompt">Un Mi Account. Tutti i servizi Mi.</string>
     <string name="passport_login_using_other_ways"><u>Altre modalità di accesso</u></string>
     <string name="passport_find_device_activate_account">Attiva account</string>
@@ -16,7 +17,7 @@
     <string name="passport_pwd_generate_failure">Impossibile generare la password</string>
     <string name="passport_use_generated_pwd_title">Non dimenticare la password!</string>
     <string name="passport_use_generated_pwd_message">Non dimenticare la password. Puoi utilizzarla per accedere ad altri servizi Mi.</string>
-    <string name="i_know">Ho capito</string>
+    <string name="passport_i_know">I know</string>
     <string name="passport_account_hint_text">Email o numero di telefono</string>
     <string name="passport_phone_num_hint_text">Numero di telefono</string>
     <string name="passport_login">Accedi con un account esistente</string>
@@ -97,6 +98,7 @@ Per attivare il tuo account, segui il
     <string name="passport_retry">Avanti</string>
     <string name="passport_back">Indietro</string>
     <string name="passport_find_device_display_id">Sblocca numero:%s</string>
+    <string name="passport_miui_provision_find_status_text">此手机已经关联到小米帐号（%1$s）,若不激活，则无法使用此手机。(解锁编号:%2$s)</string>
     <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_reging">Creazione account…</string>
@@ -105,9 +107,9 @@ Per attivare il tuo account, segui il
     <string name="passport_email_reg_success_summary">%1$s è stato collegato con il tuo account. Puoi utilizzarlo per accedere o recuperare la password.</string>
     <string name="passport_area_code_title">Prefisso internazionale</string>
     <string name="passport_area_code_hot">I più comuni</string>
-    <string name="passport_user_agreement_p1">Accetta </string>
+    <string name="passport_user_agreement_p1">Accetta </string>
     <string name="passport_user_agreement_p2">Accordo Utente</string>
-    <string name="passport_user_agreement_p3"> e </string>
+    <string name="passport_user_agreement_p3"> e </string>
     <string name="passport_user_agreement_p4">Informativa sulla Privacy</string>
     <string name="passport_privacy_policy">Informativa sulla Privacy</string>
     <string name="passport_user_agreement">Accordo Utente</string>
@@ -165,6 +167,8 @@ Per attivare il tuo account, segui il
     <string name="passport_wait_for_sms_prompt">Iniziare daccapo adesso? Il messaggio di verifica potrebbe impiegare fino a 10 minuti per essere consegnato.</string>
     <string name="passport_imei_permission_denied_title">Richiesta permessi IMEI</string>
     <string name="passport_imei_permission_denied_message">"Abbiamo richiesto i permessi per l'acquisizione del codice IMEI del tuo dispositivo. Mi Account utilizza l'IMEI per identificare il dispositivo a cui accedi o da cui esci, per aiutare a mantenere sicuro il tuo Mi Account."</string>
+    <string name="passport_registered_phone_user_ID">user ID:%s</string>
+    <string name="passport_registered_phone_user_name">user Name:%s</string>
     <string name="app_name">Mi Account</string>
     <string name="account">Account</string>
     <string name="micloud_account_name">Mi Account</string>
@@ -172,15 +176,7 @@ Per attivare il tuo account, segui il
     <string name="turning_off_find_device">Disattivazione Trova Telefono…</string>
     <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova Telefono</string>
     <string name="no_response_retry">Nessuna risposta, riprova.</string>
-    <string name="alert_title_remove_account">Elimina account</string>
-    <string name="remove_account_notice">Cosa vuoi fare con i dati precedentemente sincronizzati (contatti, registro delle chiamate e note)?</string>
-    <string name="data_keep_in_device">Mantieni attivo su questo dispositivo</string>
-    <string name="data_wipe_from_device">Elimina da questo dispositivo</string>
     <string name="removing_account">Rimozione account…</string>
-    <string name="wipe_data_dialog_title">"Alcuni contenuti non sono stati sincronizzati"</string>
-    <string name="wipe_data_dialog_msg">%s contenuti saranno persi se prosegui.</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
-    <string name="delete_bank_card_failed">Pagamento fallito, riprovare</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>
@@ -238,6 +234,7 @@ Per attivare il tuo account, segui il
     <string name="locating_current_location">Localizzazione</string>
     <string name="location_service_not_working">Servizio di localizzazione non funzionante</string>
     <string name="select_location_title">Seleziona la tua località</string>
+    <string name="mi_pay_identity">Identity</string>
     <string name="account_user_using_weibo_avatar">Usa la foto profilo di Sina Weibo</string>
     <string name="account_user_using_qq_avatar">Usa la foto profilo di QQ</string>
     <string name="account_user_using_facebook_avatar">Usa la foto profilo di Facebook</string>
@@ -352,6 +349,9 @@ Assicurati di ricordare le risposte."</string>
     <string name="cta_declaration_ignore">Ignora</string>
     <string name="cta_declaration_agree_and_continue">OK</string>
     <string name="cta_declaration_exit">Esci</string>
+    <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
+    <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your Default space Mi Account."</string>
+    <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space.To avoid this, don't turn on sync with Mi Cloud"</string>
     <string name="find_device_access_denied">Impossibile recuperare lo stato, accesso negato</string>
     <string name="find_device_account_error">"Impossibile recuperarelo stato a causa di un errore con l'account"</string>
     <string name="find_device_null_credential_error">Impossibile recuperare le informazioni sul dispositivo, contatta il servizio clienti Xiaomi</string>
