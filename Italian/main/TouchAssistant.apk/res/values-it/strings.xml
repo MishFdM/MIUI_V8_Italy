@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="alipay_package">com.eg.android.AlipayGphone</string>
     <string name="app_name">Assistente Touch</string>
     <string name="app_not_installed">Non installato</string>
     <string name="applications">Applicazioni</string>
@@ -13,7 +12,8 @@
     <string name="hide_touch_assistant_intro">"Nascondi l'Assistente Touch in alcune app."</string>
     <string name="name_alipay_payment_code">Pagamento veloce Alipay</string>
     <string name="name_alipay_scan">Scansiona codice Alipay</string>
-    <string name="name_kill_processes">Pulizia memoria</string>
+    <string name="name_long_press_power_key">Tieni premuto il tasto power</string>
+    <string name="name_memory_clean">Pulisci cache</string>
     <string name="name_music_next_song">Prossimo brano</string>
     <string name="name_music_prev_song">Brano precedente</string>
     <string name="name_music_toggle">Riproduzione/Pausa</string>
@@ -35,8 +35,4 @@
     <string name="pref_category_system">Impostazioni di sistema</string>
     <string name="restore_default">Ripristina predefinite</string>
     <string name="restore_intro">Ripristina le impostazioni rpedefinite, che includono funzioni e ordini. Questo non eliminerà i dati sul tuo telefono.</string>
-    <string name="vector_large_circle">M200,100 a100,100 0 1,0 1,0 z</string>
-    <string name="vector_large_crossA">M160,160 L240,240</string>
-    <string name="vector_large_crossB">M240,160 L160,240</string>
-    <string name="wechat_package">com.tencent.mm</string>
 </resources>
