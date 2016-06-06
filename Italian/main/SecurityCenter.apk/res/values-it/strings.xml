@@ -1419,8 +1419,8 @@ o inserisci la password"</string>
     <string name="scan_status_safe">Secure</string>
     <string name="scan_status_risk">Risky</string>
     <string name="header_info_scan_progress">%d%%</string>
-    <string name="safepay_alert_dialog_title_risk"><font color=#ec2700>Risk found! Interrupt current payment!</font></string>
-    <string name="safepay_alert_dialog_title_unknown">"<font color=#f59c00>Couldn't check payment security. Connect to the internet and try again.</font>"</string>
+    <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700>Risk found! Interrupt current payment!&lt;/font></string>
+    <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00>Couldn't check payment security. Connect to the internet and try again.&lt;/font>"</string>
     <string name="safepay_alert_dialog_button_risk">Fix</string>
     <string name="safepay_alert_dialog_button_unknown">Check again</string>
     <string name="safepay_alert_dialog_button_continue">Proceed</string>
