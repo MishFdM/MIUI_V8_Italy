@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Strumenti SIM</string>
-    <string name="app_name2">Strumenti SIM2</string>
-    <string name="app_name3">Strumenti SIM3</string>
     <string name="menu_end_session">Fine Sessione</string>
     <string name="help">Aiuto</string>
     <string name="menu_back">Indietro</string>
@@ -27,4 +25,9 @@
     <string name="default_close_channel_msg">Canale chiuso</string>
     <string name="stk_dialog_accept">SI</string>
     <string name="stk_dialog_reject">NO</string>
+    <string name="no_sim_card_inserted">Si prega di inserire la SIM prima di avviare Strumenti SIM.</string>
+    <string name="stk_intent_permission">Consenti Strumenti SIM</string>
+    <string name="sim_type_sim_name">Strumenti SIM</string>
+    <string name="sim_type_usim_name">Strumenti USIM</string>
+    <string name="sim_type_uim_name">Strumenti UIM</string>
 </resources>

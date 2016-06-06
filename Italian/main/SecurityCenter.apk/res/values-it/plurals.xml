@@ -56,6 +56,26 @@
         <item quantity="other">"%d minuti "</item>
         <item quantity="one">"%d minuto "</item>
     </plurals>
+ <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Fra %1$d minuti</item>
+        <item quantity="one">Fra %1$d minuto</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Risolti %d problemi batteria</item>
+        <item quantity="one">Risolto %d problema batteria</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Trovati %d problemi batteria</item>
+        <item quantity="one">Trovato %d problema batteria</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d problemi batteria</item>
+        <item quantity="one">%d problema batteria</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d elementi possono essere ottimizzati</item>
+        <item quantity="one">%d elemento può essere ottimizzato</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d app possono autoavviarsi</item>
         <item quantity="one">%d app può autoavviarsi</item>
@@ -128,5 +148,21 @@
         <item quantity="other">%d app trovate</item>
         <item quantity="zero">0 app trovate</item>
         <item quantity="one">%d app trovata</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s rischi di pagamento</item>
+        <item quantity="one">%s rischio di pagamento</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s pagamenti app sono protetti</item>
+        <item quantity="one">%s pagamento app è protetto</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s app sono protette</item>
+        <item quantity="one">%s app è protetta</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s app non protette</item>
+        <item quantity="one">%s app non protetta</item>
     </plurals>
 </resources>

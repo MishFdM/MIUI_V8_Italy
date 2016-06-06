@@ -36,4 +36,5 @@
     <string name="open_browser">Apri nel browser</string>
     <string name="title_share_link">Condividi URL</string>
     <string name="pm_lable_name">Informazioni sui permessi di root</string>
+    <string name="pc_activity_title">Ottimizza batteria</string>
 </resources>

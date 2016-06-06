@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="auto_memory_clean">
-        <item>Dopo 1 minuto</item>
-        <item>Dopo 5 minuti</item>
-        <item>Dopo 10 minuti</item>
-        <item>Dopo 30 minuti</item>
-        <item>Mai</item>
-    </string-array>
     <string-array name="date_of_traffic_cmcc">
         <item>"Questa settimana "</item>
         <item>"Oggi "</item>
@@ -86,34 +79,17 @@
         <item>Solo per le eccezioni</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="lock_mode">
+        <item>When device is locked</item>
+        <item>When device is locked or after exiting app</item>
+        <item>When device is locked​ or in 1 minute after exiting app</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Dopo 1 minuto</item>
         <item>Dopo 5 minuti</item>
         <item>Dopo 10 minuti</item>
+        <item>Dopo 30 minuti</item>
         <item>Mai</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 secondi</item>
-        <item>30 secondi</item>
-        <item>1 minuto</item>
-        <item>2 minuti</item>
-        <item>5 minuti</item>
-        <item>10 minuti</item>
-        <item>Mai</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Alte prestazioni</item>
-        <item>Bilanciato</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Disattiva</item>
-        <item>Attiva</item>
-        <item>Non modificare</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Nessuna vibrazione</item>
-        <item>Vibra quando silenzioso</item>
-        <item>Vibra sempre</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una volta</item>
