@@ -619,12 +619,12 @@ For more info check the message you received from your carrier"</string>
     <string name="tc_diagnostic_status_no_network">"<font color="#ED9523">Nessuna connessione rete</font>"</string>
     <string name="tc_diagnostic_status_timeout">"<font color="#CC0000">Timeout</font>"</string>
     <string name="tc_diagnostic_status_error_brand">Rete operatore non trovata</string>
-    <string name="tc_diagnostic_status_success_brand">"<font color="#3EC234">La rete operatore non risponde</font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"<font color='#CC0000'>Result: Wrong location<br/><br/>Set location: <xliff:g id=location example=BeiJing>%1$s</xliff:g><br/>Actual location: <xliff:g id=location example=ShangHai>%2$s</xliff:g></font>"</string>
-    <string name="tc_diagnostic_operator_result">"<font color='#CC0000'>Result: Wrong carrier<br/><br/>Set carrier: <xliff:g id=operator example=CMCC>%1$s</xliff:g><br/>Actual carrier: <xliff:g id=location example=UNICOM>%2$s</xliff:g></font>"</string>
-    <string name="tc_diagnostic_brand_result">"<font color='#CC0000'>Result: Wrong carrier brand<br/><br/>Set brand: <xliff:g id=brand example=UNICOM 3G>%1$s</xliff:g><br/>Actual brand: <xliff:g id=location example=UNICOM 4G>%2$s</xliff:g></font>"</string>
-    <string name="tc_diagnostic_result">"<font color='#CC0000'>Result: Couldn't complete diagnostics<br/><br/>Report this issue to help MIUI improve diagnostic tools</font>"</string>
-    <string name="tc_diagnostic_success_result">"<font color='#CC0000'>Result: Carrier network and brand set correctly<br/><br/>Couldn't complete adjustment:<br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.<br/>2. Network assistant wasn't updated.<br/><br/>Report this issue to help MIUI improve diagnostic tools</font>"</string>
+   <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Carrier network responds&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Result: Wrong location&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Actual location: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Result: Wrong carrier&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Actual carrier: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Result: Wrong carrier brand&lt;br/>&lt;br/>Set brand: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Actual brand: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Result: Couldn't complete diagnostics&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Result: Carrier network and brand set correctly&lt;br/>&lt;br/>Couldn't complete adjustment:&lt;br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/>2. Network assistant wasn't updated.&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
     <string name="tc_diagnostic_notification_title">Diagnostica operatore</string>
     <string name="tc_diagnostic_notification_summary">"Impossibile regolare 5 volte di fila. Toccare per avviare la diagnostica."</string>
     <string name="tc_diagnostic_upload_success">Grazie per il tuo feedback!</string>
@@ -903,47 +903,6 @@ For more info check the message you received from your carrier"</string>
     <string name="resource_applicationlock">App lock</string>
     <string name="keywords_applicationlock">Password;Privacy;App lock;Access;Protection</string>
     <string name="path_applicationlock">System apps/Security</string>
-    <string name="preference_key_create_shortcut">key_create_shortcut</string>
-    <string name="preference_key_about_version">key_about_version</string>
-    <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
-    <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
-    <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
-    <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
-    <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
-    <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
-    <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
-    <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
-    <string name="preference_key_shortcut_safepay">key_shortcut_safepay</string>
-    <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
-    <string name="category_key_power_usage_details">key_power_usage_details</string>
-    <string name="category_key_power_usage_packages">key_power_usage_packages</string>
-    <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
-    <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
-    <string name="preference_key_module_network_assistant">key_network_assistant</string>
-    <string name="preference_key_module_antipam">module_antipam</string>
-    <string name="preference_key_module_power_center">module_power_center</string>
-    <string name="preference_key_module_antivirus">key_module_antivirus</string>
-    <string name="preference_key_module_permissions">key_module_permissions</string>
-    <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
-    <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
-    <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
-    <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
-    <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
-    <string name="preference_key_permission_manager">key_permission_manager</string>
-    <string name="preference_key_root_manager">key_root_manager</string>
-    <string name="preference_key_cta_settings">key_cta_settings</string>
-    <string name="preference_key_app_permission_control">key_app_permission_control</string>
-    <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
-    <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
-    <string name="preference_category_key_reference_settings">key_reference_settings</string>
-    <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
-    <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
-    <string name="preference_key_month_report_switch">key_month_report_switch</string>
-    <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
-    <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
-    <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-    <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
-    <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
     <string name="app_name_securitycenter">Sicurezza</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
@@ -1009,7 +968,6 @@ For more info check the message you received from your carrier"</string>
     <string name="system_check_content">%1$d contenuti sospetti</string>
     <string name="memory_check_content_none">Vuoto</string>
     <string name="system_check_content_none">Sicuro</string>
-    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">Pulizia di %1$d processi per liberare %2$s di memoria</string>
     <string name="cache_header_title">Pulizia di %1$d file in cache per liberare %2$s di spazio</string>
     <string name="activity_title_virus">Virus</string>
