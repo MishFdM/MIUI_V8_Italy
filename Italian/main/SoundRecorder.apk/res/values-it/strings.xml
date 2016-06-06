@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="path_soundrecorder_setting">System apps/Recorder</string>
+    <string name="search_app">Recorder</string>
+    <string name="search_led_indicator">Lock screen notifications</string>
+    <string name="search_tip_rename">Name recordings manually</string>
+    <string name="search_led_indicator_prompt">While recording, show in status bar and pulse notification light at lock screen</string>
+    <string name="search_scenes">Recording type</string>
+    <string name="search_silent_mode">Mute ringer when recording</string>
+    <string name="search_enable_earpiece_title">Use receiver to play audio</string>
+    <string name="search_quliaty_title">Recording quality</string>
     <string name="app_name">Registratore</string>
     <string name="recording">Registrazione</string>
     <string name="recording_stopped">Registrazione interrotta</string>
@@ -26,13 +35,14 @@
     <string name="no_file">Vuoto</string>
     <string name="alert_message_delete_record_title">Elimina registrazione</string>
     <string name="alert_message_delete_record">Vuoi eliminare la registrazione selezionata?</string>
+    <string name="share">Share</string>
     <string name="rename">Rinomina</string>
     <string name="delete">Elimina</string>
+    <string name="details">Details</string>
     <string name="deleting_message">Eliminazione…</string>
     <string name="rename_dialog_title">Rinomina questa registrazione</string>
     <string name="rename_duplicate">Nome già presente, inserire di nuovo:</string>
     <string name="rename_no_more_tip">Interrompi i suggerimenti</string>
-    <string name="record_picker_title">Seleziona una registrazione</string>
     <string name="dialog_title_storage_full">Mancanza di spazio di archiviazione, eliminare alcuni file ?</string>
     <string name="dialog_content_storage_full">A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file tramite File Manager, procedere adesso ?</string>
     <string name="status_bar_recording">Registrazione…</string>
@@ -40,7 +50,7 @@
     <string name="status_bar_recording_pause">Registrazione in pausa</string>
     <string name="low_battery_error">La batteria è a meno del 5%, per assicurarsi di non perdere la registrazione per uno spegnimento improvviso la registrazione è stata interrotta e salvata. Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
     <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
+    <string name="record_name_minute"/>
     <string name="sound_recorder_settings">Impostazioni di registrazione</string>
     <string name="preference_led_indicator">Notifica a schermo spento</string>
     <string name="preference_tip_rename">"Rinominare dopo l'interruzione della registrazione"</string>
@@ -69,9 +79,6 @@
     <string name="record_downloading_notification">Download in corso…</string>
     <string name="record_downloading_notification_count">%d in download</string>
     <string name="record_downloading_notification_complete">Download completato</string>
-    <string name="sync_records">Sincronizza con Mi Cloud</string>
-    <string name="sync_only_in_wifi">Sincronizza solo se sei in Wi-Fi</string>
-    <string name="sync_only_in_wifi_summary">"Il registratore utilizzerà la tua connessione dati per scaricare o caricare registrazioni quando l'opzione è disattivata"</string>
     <string name="wifi_recommended_title">Avviso traffico</string>
     <string name="wifi_recommended_body" formatted="false">"L'utilizzo della rete dati mobile per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
     <string name="button_queue_for_wifi">Coda</string>
@@ -84,6 +91,7 @@
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">Inserisci scheda SD adesso</string>
     <string name="record_back_pressed_hint">Premi di nuovo Indietro per interrompere la registrazione</string>
+    <string name="record_mark_point">Mark %s</string>
     <string name="record_quliaty_preference_title">Qualità di registrazione</string>
     <string name="cloud_record_tip">Sincronizza le registrazioni con Mi Cloud.</string>
     <string name="cloud_record_open">Sincronizza le registrazioni</string>
@@ -91,4 +99,32 @@
     <string name="cloud_status_full_dialog_msg">La memoria del tuo Mi Cloud è piena, impossibile sincronizzare le registrazioni. Aggiorna il tuo account per avere più spazio a disposizione.</string>
     <string name="cloud_status_full_dialog_cancel">Non adesso</string>
     <string name="cloud_status_full_dialog_ok">Aggiorna</string>
+    <string name="text_btn_recording">Recording</string>
+    <string name="text_btn_pause">Pause</string>
+    <string name="text_btn_play">Playback</string>
+    <string name="text_btn_mark">Mark</string>
+    <string name="text_btn_list">List</string>
+    <string name="text_btn_complete">Complete</string>
+    <string name="text_btn_recognize">Recognition</string>
+    <string name="text_btn_wave">Wave</string>
+    <string name="text_finish">Confirm</string>
+    <string name="new_record_name">New record</string>
+    <string name="export_to_note">Export Note</string>
+    <string name="mark_point_list_title">Mark point List</string>
+    <string name="speech_recognition_running_tip">running</string>
+    <string name="speech_recognition_complete">complete</string>
+    <string name="invalid_argument">Illegal argument</string>
+    <string name="playback_delete_records">Delete the record</string>
+    <string name="playback_share_records">Share the record</string>
+    <string name="recording_quality_high">High quality</string>
+    <string name="recording_quality_standard">Standard quality</string>
+    <string name="recording_quality_low">Low quality</string>
+    <string name="share_dialog_title">Share with</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="recognition_error_stopped">Recognition Stop</string>
+    <string name="recognition_error_cancel">Canceled</string>
+    <string name="recognition_error_format">Illegal audio format</string>
+    <string name="recognition_error_internal">Internal error</string>
+    <string name="recognition_error_engine">Recognition Engine out of order</string>
+    <string name="recognition_error_engine_singleton">Recognition Engine is busy</string>
 </resources>
