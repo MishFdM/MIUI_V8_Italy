@@ -24,7 +24,7 @@
         <item quantity="one">Eliminare %1$d elemento dalla cronologia?</item>
     </plurals>
     <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d elementi rimosi dalla cronologia.</item>
+        <item quantity="other">%1$d elementi rimossi dalla cronologia.</item>
         <item quantity="one">%1$d elemento rimosso dalla cronologia.</item>
     </plurals>
     <plurals name="find_on_page_matches">

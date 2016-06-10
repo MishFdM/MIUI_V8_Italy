@@ -61,7 +61,7 @@
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="date_picker_dialog_clear">Cancella</string>
     <string name="autofill_popup_content_description">MOstra popup riempimento automatico</string>
-    <string name="password_generation_popup_content_description">Mostra popup generazione apssword</string>
+    <string name="password_generation_popup_content_description">Mostra popup generazione password</string>
     <string name="private_browsing_warning">Questa funzione non è supportata su questa versione di  Android.</string>
     <string name="license_activity_title">System WebView licenses</string>
     <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
@@ -104,8 +104,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="miuichromium_error_page_diagnose_website">Il sito è offline</string>
     <string name="miuichromium_error_page_diagnose_protocol">Errore protocollo rete</string>
     <string name="miuichromium_error_page_diagnose_connection">Impossibile collegarsi alla rete</string>
-    <string name="miuichromium_error_page_diagnose_certificate">Impossibile veirficare il protocollo di rete</string>
-    <string name="miuichromium_error_page_diagnose_proxy_server">Proxy server error</string>
+    <string name="miuichromium_error_page_diagnose_certificate">Impossibile verificare il protocollo di rete</string>
+    <string name="miuichromium_error_page_diagnose_proxy_server">Errore server proxy</string>
     <string name="save_password_message">Vuoi che il browser ricordi questa password?</string>
     <string name="save_password_notnow">Non adesso</string>
     <string name="save_password_remember">Ricorda</string>
@@ -122,8 +122,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
     <string name="data_traffic_prompt_message">"L'utilizzo della rete dati mobile per la navigazione aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
     <string name="data_traffic_prompt_change">"L'utilizzo della rete dati mobile per la visione dei video aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
-    <string name="data_traffic_prompt_message_short">"L'utilizzo dello streaming video su rete dati mobile potrebbe causare il superamento della sglia prevista dal tuo piano dati."</string>
-    <string name="video_play_error">Errore di riprduzione video</string>
+    <string name="data_traffic_prompt_message_short">"L'utilizzo dello streaming video su rete dati mobile potrebbe causare il superamento della soglia prevista dal tuo piano dati."</string>
+    <string name="video_play_error">Errore di riproduzione video</string>
     <string name="video_buffering_percent">"Caricamento "</string>
     <string name="video_float_window_playing">Riproduzione video</string>
     <string name="video_float_window">PopUp</string>
@@ -172,8 +172,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="media_error_nomemory">La memoria del dispositivo è piena</string>
     <string name="media_error_action_refresh">Aggiorna</string>
     <string name="media_error_action_replace_video_source">Sostituisci fonte video</string>
-    <string name="media_error_network_unreachable">Network Unreachable</string>
-    <string name="video_buffering_percent_string">Buffering</string>
+    <string name="media_error_network_unreachable">Rete non disponibile</string>
+    <string name="video_buffering_percent_string">Caricamento</string>
     <string name="v5_select_all">Seleziona tutti</string>
     <string name="v5_deselect_all">Deseleziona tutti</string>
     <string name="v5_edit_mode_title_empty">0 selezionati</string>
@@ -181,9 +181,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="clear_video_download">Cancella i video</string>
     <string name="video_downloading_group">Download in corso</string>
     <string name="video_downloaded_group">Scaricati</string>
-    <string name="video_download_start">Inizio downlaod video</string>
+    <string name="video_download_start">Inizio download video</string>
     <string name="video_download_failed">Download fallito</string>
-    <string name="video_download_exists">Downlaod video iniziato</string>
+    <string name="video_download_exists">Download video iniziato</string>
     <string name="video_download_complete">Download video completato</string>
     <string name="video_download_unsupport">Video non supportato</string>
     <string name="video_download_unknown_size">Dimensione sconosciuta</string>
@@ -262,7 +262,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="is_last_tab">"Questa è l'ultima scheda"</string>
     <string name="is_first_history_item">Questa è la prima voce in cronologia</string>
     <string name="is_last_history_item">"Questa è l'ultima voce in cronologia"</string>
-    <string name="ssl_certificate">Certificato di sicurezzae</string>
+    <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="ssl_untrusted">"Questo certificato non proviene da un'autorità attendibile."</string>
     <string name="ssl_mismatch">Il nome del sito non corrisponde al nome nel certificato.</string>
@@ -279,7 +279,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="allow">Consenti</string>
     <string name="block">Blocca</string>
     <string name="show_security_tip_dialog_title">Termini del Servizio</string>
-    <string name="show_weather_location_getter_tip_dialog_description">I servizi Meteo hanno bisogno delle informazioni sulla tua posizione per fornire dati aggiornati nel browser. Puoi disattivarequesta funzione nelle Impostazioni.</string>
+    <string name="show_weather_location_getter_tip_dialog_description">I servizi Meteo hanno bisogno delle informazioni sulla tua posizione per fornire dati aggiornati nel browser. Puoi disattivare questa funzione nelle Impostazioni.</string>
     <string name="show_check_security_url_check_tip_dialog_description">"L'indirizzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzione nelle Impostazioni."</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Connetti a questa rete</string>
@@ -293,8 +293,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="cancel">Annulla</string>
     <string name="ok">OK</string>
     <string name="edit">Modifica</string>
-    <string name="replace">Replace</string>
-    <string name="isreplace">File already exists, replace?</string>
+    <string name="replace">Sostituisci</string>
+    <string name="isreplace">File già esistente, sostituirlo?</string>
     <string name="rlz_access_point">Y1</string>
     <string name="uploads_disabled">Il caricamento dei file è disabilitato.</string>
     <string name="dont_remind_again">Ricorda la mia scelta</string>
@@ -334,9 +334,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="find_on_page_next">Avanti</string>
     <string name="find_on_page_cancel">Annulla</string>
     <string name="title_bar_loading">Caricamento…</string>
-    <string name="navigationbar_rightbutton_actiontext_cancle">Cancel</string>
-    <string name="navigationbar_rightbutton_actiontext_search">Search</string>
-    <string name="navigationbar_rightbutton_actiontext_go">Go</string>
+    <string name="navigationbar_rightbutton_actiontext_cancle">Annulla</string>
+    <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
+    <string name="navigationbar_rightbutton_actiontext_go">Vai</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">"Scorri verso l'alto per chiudere"</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Scorri verso il basso per chiudere</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">"Questa è l'ultima scheda"</string>
@@ -597,9 +597,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_adblock_counts">%d bloccati</string>
     <string name="pref_clear_adblock_statistics_dlg">Azzerare il conteggio pubblicità bloccate?</string>
     <string name="adblock_notification">%d pubblicità bloccate</string>
-    <string name="adblock_force_updating_rules_toast">Updating Ad blocker</string>
+    <string name="adblock_force_updating_rules_toast">Aggiornamento Ad blocker</string>
     <string name="adblock_rules_updated_toast">Complete</string>
-    <string name="adblock_rules_not_updated_toast">Failed</string>
+    <string name="adblock_rules_not_updated_toast">Fallito</string>
     <string name="miui_quicksearch_enable_pref_title">Barra di ricerca nel pannello delle notifiche</string>
     <string name="miui_quicksearch_enable_pref_summary">Mostra sempre la barra di ricerca nel pannello delle notifiche</string>
     <string name="pref_accessibility_title">Accessibilità</string>
@@ -680,7 +680,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_save_bandwidth_mode_title">Riduzione uso dei dati</string>
     <string name="adjust_text_zoom_toast">Cambiare lo zoom del testo può provocare problemi alla visualizzazione di alcuni siti</string>
     <string name="pref_extras_reset_default_title">Ripristina impostazioni predefinite</string>
-    <string name="pref_extras_send_feedback">Send feedback</string>
+    <string name="pref_extras_send_feedback">Invia feedback</string>
     <string name="pref_extras_title_version">Versione</string>
     <string name="pref_auto_update_under_wifi">Aggiorna automaticamente con Wi-Fi</string>
     <string name="pref_version_info">Info versione</string>
@@ -697,7 +697,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="version_check_button_resume_download">Riprendi il download</string>
     <string name="version_check_button_download_failed">Riprendi il download</string>
     <string name="version_update_file_download_toast">Download in corso</string>
-    <string name="version_update_file_not_found">Nessun aggiornaemnto trovato</string>
+    <string name="version_update_file_not_found">Nessun aggiornamento trovato</string>
     <string name="version_check_button_update">Aggiorna</string>
     <string name="version_dialog_buttion_update">Aggiorna</string>
     <string name="version_dialog_buttion_ok">OK</string>
@@ -744,7 +744,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="no_space_alert_clean">Libera spazio</string>
     <string name="no_space_clean_failed">Non è possibile liberare spazio sul dispositivo​</string>
     <string name="download_title">Download</string>
-    <string name="download_in_process">Dowload in corso…</string>
+    <string name="download_in_process">Download in corso…</string>
     <string name="download_completed">Scaricati</string>
     <string name="download_status_failed">Impossibile scaricare</string>
     <string name="download_status_pending">In attesa</string>
@@ -777,7 +777,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="menu_title_clear_all">Cancella tutto</string>
     <string name="menu_title_open_file_management">Apri File Explorer</string>
     <string name="open_file_explorer_failed">Impossibile aprire File Explorer"</string>
-    <string name="retry_after_network_available">Impossibile colelgarsi alla rete</string>
+    <string name="retry_after_network_available">Impossibile collegarsi alla rete</string>
     <string name="download_filter_all">Tutto</string>
     <string name="download_filter_application">App</string>
     <string name="download_filter_video">Video</string>
@@ -794,8 +794,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="download_memory_info_avai">" disponibile %s|"</string>
     <string name="download_memory_info_total">" totale ​%s"</string>
     <string name="go_supermarket_button">Vai</string>
-    <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nellì'app Store"</string>
-    <string name="pull_to_refresh_pull_label">Trascina er aggiornare…</string>
+    <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nell'App Store"</string>
+    <string name="pull_to_refresh_pull_label">Trascina per aggiornare…</string>
     <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
     <string name="login_failed_toast">Accesso fallito, aggiornare.</string>
     <string name="custom_head_card_text">"Pensa sempre che qualcosa di stupendo
@@ -807,6 +807,6 @@ finestra riservata​"</string>
     <string name="send_comment_button">invia</string>
     <string name="reply_comment_title">risposta: %s</string>
     <string name="send_comment_title">commenti</string>
-    <string name="pay_success_toast">Pay success</string>
-    <string name="pay_failed_toast">Pay failed</string>
+    <string name="pay_success_toast">Pagamento eseguito</string>
+    <string name="pay_failed_toast">Pagamento fallito</string>
 </resources>
