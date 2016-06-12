@@ -23,7 +23,7 @@
     <string name="map_acceptance_dialog_title">"%1$s vorrebbe accedere alle cartelle del telefono. Concedere l'accesso a %2$s?"</string>
     <string name="map_acceptance_dialog_header">Accesso cartelle telefono</string>
     <string name="map_session_key_dialog_title">Inserisci la chiave per la sessione con %1$s</string>
-    <string name="map_session_key_dialog_header">E' necessaria una chiave di sessione bluetooth</string>
+    <string name="map_session_key_dialog_header">"E' necessaria una chiave di sessione bluetooth"</string>
     <string name="map_acceptance_timeout_message">Era previsto un tempo limitato per accettare la connessione con %1$s</string>
     <string name="map_authentication_timeout_message">Era previsto un tempo limitato per inserire la chiave di sessione con %1$s</string>
     <string name="map_notif_ticker">Richiesta connessione bluetooth</string>
