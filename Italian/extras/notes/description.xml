@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="notes" size="2:2">
+	<version>1</version>
+	<uiVersion>1</uiVersion>
+	<title>Notes</title>
+	<titles>
+		<title locale="zh_CN">便签</title>
+		<title locale="zh_TW">便條</title>
+		<title locale="in_ID">Catatan</title>
+		<title locale="it_IT">Note</title>
+		<title locale="ms_MY">Nota</title>
+		<title locale="vi_VN">Ghi chú </title>
+		<title locale="ru_RU">Заметки</title>
+		<title locale="pt_BR">Anotações</title>
+		<title locale="th_TH">บันทึก</title>
+		<title locale="tr_TR">Notlar</title>
+		<title locale="hi_IN">नोट्स</title>
+		<title locale="ta_IN">குறிப்புகள்</title>
+		<title locale="te_IN">గమనికలు</title>
+		<title locale="kn_IN">ಟಿಪ್ಪಣಿಗಳು</title>
+		<title locale="bn_IN">নোট</title>
+		<title locale="ml_IN">കുറിപ്പുകള്‍</title>
+		<title locale="mr_IN">नोट्स</title>
+		<title locale="as_IN">টোকাসমূহ</title>
+		<title locale="gu_IN">નોટ્સ</title>
+		<title locale="pa_IN">ਨੋਟਸ</title>
+		<title locale="fr_FR">Notes</title>
+		<title locale="de_DE">Notizen</title>
+		<title locale="es_US">Notas</title>
+	</titles>
+</MIUI-Theme>
