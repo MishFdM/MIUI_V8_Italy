@@ -41,7 +41,7 @@
         <item quantity="one">%d elemento calendario</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d blocklist entries</item>
-        <item quantity="one">%d blocklist entry</item>
+        <item quantity="other">%d elementi bloccati</item>
+        <item quantity="one">%d elemento bloccato</item>
     </plurals>
 </resources>

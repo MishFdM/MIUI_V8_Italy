@@ -53,8 +53,8 @@
         <item quantity="one">%1$d selezionato</item>
     </plurals>
     <plurals name="number_of_items_available">
-        <item quantity="other">%1$d rimaenti</item>
-        <item quantity="one">%1$d rimamente</item>
+        <item quantity="other">%1$d rimanenti</item>
+        <item quantity="one">%1$d rimanente</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d preferiti</item>

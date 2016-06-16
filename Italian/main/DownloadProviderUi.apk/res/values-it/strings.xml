@@ -60,7 +60,7 @@
     <string name="restart_download">Riavvia</string>
     <string name="continue_download">Continue</string>
     <string name="open_download">Apri</string>
-    <string name="open_folder">Open folder</string>
+    <string name="open_folder">Apri cartella</string>
     <string name="paused_by_app">Pausa manuale</string>
     <string name="paused_queued_for_wifi">In attesa di connessione Wi-Fi</string>
     <string name="paused_waiting_for_network">In attesa di connessione di rete</string>
@@ -79,7 +79,7 @@
     <string name="pref_summary_any_bytes_popup">Metti sempre in coda con rete Wi-Fi</string>
     <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
     <string name="download">Download</string>
-    <string name="rank">Rankings</string>
+    <string name="rank">Classifica</string>
     <string name="download_in_process">In corso</string>
     <string name="download_complete">Scaricati</string>
     <string name="downloading_empty">Nessun contenuto in download</string>
@@ -175,8 +175,8 @@
     <string name="pref_download_revert_default">Predefinito</string>
     <string name="file_picker">Scegli un percorso</string>
     <string name="new_add_bt">Aggiungi torrent</string>
-    <string name="pref_sniff_shortcut">Create Home screen shortcut for web search</string>
-    <string name="sniff_shortcut_name">Web search</string>
+    <string name="pref_sniff_shortcut">Crea un collegamento in Home per la ricerca web</string>
+    <string name="sniff_shortcut_name">Ricerca web</string>
     <string name="third_web_title">Salva</string>
     <string name="third_web_filename_hint">Nome file</string>
     <string name="third_web_filesize">Dimensione:</string>
@@ -270,11 +270,11 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="sniff_terms_agree">Accetta</string>
     <string name="sniff_terms_title">Attenzione</string>
     <string name="sniff_terms_msg_bold">Condizioni di Utilizzo</string>
-    <string name="sniff_terms_msg_a">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it.</string>
-    <string name="sniff_terms_msg_b">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it. If you agree to the Terms, tap the check mark below.</string>
-    <string name="sniff_terms_check_text">Agree to Terms of Service</string>
-    <string name="sniff_terms_msg_bold_new">Terms of Service</string>
-    <string name="sniff_terms_agree_new">Agree</string>
+    <string name="sniff_terms_msg_a">Questa funzione è fornita da uno sviluppatore di terze parti. Devi accettare i Termini del Servizio prima di utilizzarla.</string>
+    <string name="sniff_terms_msg_b">Questa funzione di ricerca è fornita da uno sviluppatore di terze parti. Devi accettare i Termini del Servizio prima di utilizzarla. Se accetti, tocca il simbolo di spunta.</string>
+    <string name="sniff_terms_check_text">Accetto i Termini del Servizio</string>
+    <string name="sniff_terms_msg_bold_new">Termini del Servizio</string>
+    <string name="sniff_terms_agree_new">Accetto</string>
     <string name="sniff_result_website_intro">Totale &lt;font color=\"#6699ff\">%1$d&lt;/font> elementi | Fonte: %2$s</string>
     <string name="sniff_result_num_prefix">Trovati</string>
     <string name="sniff_result_num_video_suffix">elementi</string>
