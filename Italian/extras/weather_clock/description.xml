@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="clock" size="4:2">
+	<version>1</version>
+	<uiVersion>1</uiVersion>
+	<title>Weather clock</title>
+	<titles>
+		<title locale="zh_CN">天气时钟</title>
+		<title locale="zh_TW">天氣時鐘</title>
+		<title locale="in_ID">Cuaca jam</title>
+		<title locale="it_IT">Meteo</title>
+		<title locale="ms_MY">Cuaca jam</title>
+		<title locale="vi_VN">Đ.hồ T.tiết</title>
+		<title locale="ru_RU">Часы с погодой</title>
+		<title locale="pt_BR">Relógio+Clima</title>
+		<title locale="th_TH">นาฬิกาพยากรณ์อากาศ</title>
+		<title locale="tr_TR">Hava durumu saat</title>
+		<title locale="hi_IN">मौसम घड़ी</title>
+		<title locale="ta_IN">வானிலை கடிகாரம்</title>
+		<title locale="te_IN">వాతావరణ గడియారం</title>
+		<title locale="kn_IN">ಹವಾಮಾನ ಗಡಿಯಾರ</title>
+		<title locale="bn_IN">আবহাওয়া ঘড়ি</title>
+		<title locale="ml_IN">കാലാവസ്ഥാ ക്ലോക്ക്</title>
+		<title locale="mr_IN">हवामान घड्याळ</title>
+		<title locale="as_IN">বতৰ ঘড়ী</title>
+		<title locale="gu_IN">હવામાન ઘડિયાળ</title>
+		<title locale="pa_IN">ਮੌਸਮ ਘੜੀ</title>
+		<title locale="fr_FR">Horloge météo</title>
+		<title locale="de_DE">Wetteruhr</title>
+		<title locale="es_US">Reloj meteorológico</title>
+	</titles>
+</MIUI-Theme>

@@ -323,7 +323,7 @@
     <string name="title_of_auto_launch_manage">Avvio automatico</string>
     <string name="tips_of_auto_launch_manage">"Previene l'avvio automatico delle app utilizzate raramente"</string>
     <string name="title_of_app_manage">Applicazioni</string>
-    <string name="tips_of_app_manage">Elimina app utilizzate raramente per risparmire spazio</string>
+    <string name="tips_of_app_manage">Elimina app utilizzate raramente per risparmiAre spazio</string>
     <string name="title_of_traffic_notification">Statistiche dati nelle notifiche</string>
     <string name="tips_of_traffic_notification">Mostra le statistiche dei dati nel pannello delle notifiche</string>
     <string name="title_of_package_set">Impostazioni piano dati</string>
@@ -395,10 +395,10 @@
     <string name="pref_category_title_engine_settings">Impostazioni definizione scansione</string>
     <string name="pref_title_choose_engine">Definizioni</string>
     <string name="recommend_the_following">Esegui le seguenti azioni per ottenere il massimo dal tuo dispositivo</string>
-    <string name="open_debug_mode">Click %1$d to open debug switch</string>
-    <string name="close_debug_mode">Click %1$d to close debug switch</string>
+    <string name="open_debug_mode">Tocca %1$d per aprire la funzione debug</string>
+    <string name="close_debug_mode">TOcca %1$d per chiudere la funzione debug</string>
     <string name="news_change">Cambia</string>
     <string name="long_click_dialog_title">Avviso</string>
     <string name="long_click_dialog_summary">Tieni premuto per aggiungere eccezioni.</string>
-    <string name="function_app_lock_title">%d apps contain privacy risks​</string>
+    <string name="function_app_lock_title">%d app contengono rischi per la privacy</string>
 </resources>

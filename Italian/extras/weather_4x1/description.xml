@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="weather" size="4:1">
+	<version>1</version>
+	<uiVersion>1</uiVersion>
+	<title>Weather4x1</title>
+	<titles>
+		<title locale="zh_CN">天气4x1</title>
+		<title locale="zh_TW">天氣4x1</title>
+		<title locale="in_ID">Cuaca4x1</title>
+		<title locale="it_IT">Meteo 4x1</title>
+		<title locale="ms_MY">Cuaca4x1</title>
+		<title locale="vi_VN">Thời tiết4x1</title>
+		<title locale="ru_RU">Погода 4x1</title>
+		<title locale="pt_BR">Clima4x1</title>
+		<title locale="th_TH">พยากรณ์อากาศ4x1</title>
+		<title locale="tr_TR">Hava durumu4x1</title>
+		<title locale="hi_IN">मौसम4x1</title>
+		<title locale="ta_IN">வானிலை4x1</title>
+		<title locale="te_IN">వాతావరణం4x1</title>
+		<title locale="kn_IN">ಹವಾಮಾನ4x1</title>
+		<title locale="bn_IN">আবহাওয়া4x1</title>
+		<title locale="ml_IN">കാലാവസ്ഥ4x1</title>
+		<title locale="mr_IN">हवामान4x1</title>
+		<title locale="as_IN">বতৰ4x1</title>
+		<title locale="gu_IN">હવામાન4x1</title>
+		<title locale="pa_IN">ਮੌਸਮ4x1</title>
+		<title locale="fr_FR">Météo 4x1</title>
+		<title locale="de_DE">Wetter 4x1</title>
+		<title locale="es_US">Tiempo4x1</title>
+	</titles>
+</MIUI-Theme>

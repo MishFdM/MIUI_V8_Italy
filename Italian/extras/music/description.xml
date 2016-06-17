@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="player" size="4:2">
+	<version>1</version>
+	<uiVersion>1</uiVersion>
+	<title>Music</title>
+	<titles>
+		<title locale="zh_CN">音乐</title>
+		<title locale="zh_TW">音樂</title>
+		<title locale="in_ID">Musik</title>
+		<title locale="it_IT">Musica</title>
+		<title locale="ms_MY">Muzik</title>
+		<title locale="vi_VN">Nhạc</title>
+		<title locale="ru_RU">Музыка</title>
+		<title locale="pt_BR">Música</title>
+		<title locale="th_TH">เพลง</title>
+		<title locale="tr_TR">Müzik</title>
+		<title locale="hi_IN">संगीत</title>
+		<title locale="ta_IN">இசை</title>
+		<title locale="te_IN">సంగీతం</title>
+		<title locale="kn_IN">ಸಂಗೀತ</title>
+		<title locale="bn_IN">সঙ্গীত</title>
+		<title locale="ml_IN">സംഗീതം</title>
+		<title locale="mr_IN">संगीत</title>
+		<title locale="as_IN">সংগীত</title>
+		<title locale="gu_IN">મ્યૂઝિક</title>
+		<title locale="pa_IN">ਸੰਗੀਤ</title>
+		<title locale="fr_FR">Musique</title>
+		<title locale="de_DE">Musik</title>
+		<title locale="es_US">Música</title>
+	</titles>
+</MIUI-Theme>
