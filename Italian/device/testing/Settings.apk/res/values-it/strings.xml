@@ -1043,7 +1043,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="wrong_pin_code_pukked">"Codice PIN della SIM errato. Devi contattare l'operatore per sbloccare il dispositivo."</string>
     <string name="pin_failed">Operazione con PIN della SIM non riuscita.</string>
     <string name="device_info_settings">Stato dispositivo</string>
-    <string name="system_update_settings_list_item_title">Aggiornamenti sistema</string>
+    <string name="system_update_settings_list_item_title">Aggiornamenti</string>
     <string name="system_update_settings_list_item_summary"/>
     <string name="firmware_version">Versione di Android</string>
     <string name="security_patch">Livello patch sicurezza Android</string>
