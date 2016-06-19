@@ -2,12 +2,12 @@
 <resources>
 
     <string-array name="calendar_remind_string_array">
-        <item>Tonight</item>
-        <item>Tomorrow</item>
+        <item>Stanotte</item>
+        <item>Domani</item>
         <item>Weekend</item>
-        <item>Next week</item>
-        <item>Next month</item>
-        <item>Pick date</item>
+        <item>Prossima settimana</item>
+        <item>Mese prossimo</item>
+        <item>Scegli data</item>
     </string-array>
     <string-array name="compose_modes">
         <item>Rispondi</item>
@@ -77,7 +77,7 @@
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Grazie,</item>
-        <item>Cordiali slauti</item>
+        <item>Cordiali saluti</item>
         <item>Inviato dal mio</item>
         <item>Email originale</item>
         <item>Inviato dal mio</item>

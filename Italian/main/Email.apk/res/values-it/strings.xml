@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="SMTP_independent_verification_text">Verifica SMTP independente</string>
+    <string name="SMTP_independent_verification_text">Verifica SMTP indipendente</string>
     <string name="SMTP_password_text">Password</string>
     <string name="SMTP_username_text">Nome utente</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
@@ -17,7 +17,7 @@
     <string name="account_security_policy_explanation_fmt">Il server %s richiede che tu consenta il controllo remoto di alcune funzionalità di sicurezza del tuo dispositivo Android.</string>
     <string name="account_security_title">Sicurezza dispositivo</string>
     <string name="account_set_up_change_type_note">"Se vuoi modificare la tipologia di tra POP3 e IMAP, devi prima eliminare l'account e configurare di nuovo i dati di accesso."</string>
-    <string name="account_setting">Accounts</string>
+    <string name="account_setting">Account</string>
     <string name="account_setting_keywords">Accounts;mail accounts</string>
     <string name="account_settings_action">Impostazioni account</string>
     <string name="account_settings_background_attachments_label">Scarica allegati</string>
@@ -30,7 +30,7 @@
     <string name="account_settings_enforced_summary">Nessuno</string>
     <string name="account_settings_incoming_summary">Nome utente, password e altre impostazioni del server in entrata</string>
     <string name="account_settings_login_dialog_content_fmt">Il nome utente o la password per %s non sono corretti. Aggiornarli ora?</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Accesso a %s fallito; il server dice: %s Do you want to update your username and/or password?</string>
+    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Accesso a %s fallito; il server dice: %s Vuoi aggiornare il nome utente e/o la password?</string>
     <string name="account_settings_login_dialog_title">Impossibile accedere</string>
     <string name="account_settings_mail_check_frequency_label">Frequenza di controllo Posta in arrivo</string>
     <string name="account_settings_mibill_resolve_label">Analizza email</string>
@@ -90,7 +90,7 @@
     <string name="account_setup_failed_dlg_title">Impossibile completare</string>
     <string name="account_setup_failed_dlg_todo1">"Imposa l'account come mostrato sotto o prova ad accedere con EXCHANGE."</string>
     <string name="account_setup_failed_dlg_todo2">"Imposta l'account come mostrato sotto"</string>
-    <string name="account_setup_failed_dlg_unknown_auth_message">Errore sconociuto.</string>
+    <string name="account_setup_failed_dlg_unknown_auth_message">Errore sconosciuto.</string>
     <string name="account_setup_failed_ioerror">Impossibile stabilire la connessione al server.</string>
     <string name="account_setup_failed_protocol_unsupported">"Hai digitato l'indirizzo di un server sbagliato o il server richiede una versione di protocollo non supportata da Email."</string>
     <string name="account_setup_failed_security">Impossibile stabilire la connessione al server a causa di un errore di sicurezza.</string>
@@ -160,8 +160,8 @@
     <string name="archive">Archivia</string>
     <string name="archived">Archiviata</string>
     <string name="att_download_failed_content">Download fallito</string>
-    <string name="att_download_failed_network_slow">Velocità di connessionetroppo lenta, riprova più tardi</string>
-    <string name="att_download_failed_permission_denied">"Don't have permissions to access external storage"</string>
+    <string name="att_download_failed_network_slow">Velocità di connessione troppo lenta, riprova più tardi</string>
+    <string name="att_download_failed_permission_denied">Mancanza dei permessi per accedere alla memoria esterna</string>
     <string name="att_download_failed_title">Download allegato fallito</string>
     <string name="att_file_not_exists">File %s non trovato</string>
     <string name="att_mgr_no_attachment">Nessun allegato</string>
@@ -196,7 +196,7 @@
     <string name="auto_advance_label">Avanzamento automatico</string>
     <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
     <string name="auto_sync_off">Sincron. automatica disattivata.</string>
-    <string name="battery_saver">Battery saver</string>
+    <string name="battery_saver">Risparmio batteria</string>
     <string name="battery_saver_keywords">battery saver;mail battery</string>
     <string name="bcc">Ccn</string>
     <string name="bcc_heading">"Ccn: "</string>
@@ -205,7 +205,7 @@
     <string name="body_hint">Scrivi email</string>
     <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_quickreply">Risposta veloce</string>
-    <string name="bottom_bar_more_share">Share</string>
+    <string name="bottom_bar_more_share">Condividi</string>
     <string name="bottom_bar_no_quickreply_toast">Nessuna risposta veloce</string>
     <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">Promemoria</string>
@@ -230,7 +230,7 @@
     <string name="clear_display_images_whitelist_dialog_message">Non visualizza più le immagini in linea nei messaggi da mittenti precedentemente approvati.</string>
     <string name="clear_display_images_whitelist_dialog_title">Vuoi revocare i consensi immagini?</string>
     <string name="clear_display_images_whitelist_title">Revoca consenso immagini</string>
-    <string name="click_download_all_content">[ Tap to download content ]</string>
+    <string name="click_download_all_content">[ Tocca per scaricare ]</string>
     <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
@@ -240,9 +240,9 @@
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="confirm">OK</string>
-    <string name="confirm_before_delete">Confirm before deleting</string>
+    <string name="confirm_before_delete">Conferma prima di eliminare</string>
     <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
-    <string name="confirm_before_send">Confirm before sending</string>
+    <string name="confirm_before_send">Conferma prima di inviare</string>
     <string name="confirm_before_send_keywords">confirm before sending;send confirm</string>
     <string name="confirm_delete_conversation_title">Elimina</string>
     <string name="confirm_discard_text">Eliminare questo messaggio?</string>
@@ -253,7 +253,7 @@
     <string name="confirm_send_message_with_no_body">Nessun testo presente nel corpo del messaggio.</string>
     <string name="confirm_send_message_with_no_subject">"Nessun testo presente nell'oggetto del messaggio."</string>
     <string name="confirm_send_title">Inviare il messaggio?</string>
-    <string name="contact_edit_set_black_list_filtering">Filtering…</string>
+    <string name="contact_edit_set_black_list_filtering">Filtro…</string>
     <string name="contact_edit_set_black_list_from">Elimina tutte le email da questo mittente</string>
     <string name="contact_edit_set_black_list_receive">Elimina tutte le email con questo destinatario</string>
     <string name="contact_edit_set_black_list_receive_summary">Elimina tutte le mail che contengono questo destinatario, anche nel campo Cc</string>
@@ -290,10 +290,10 @@
     <string name="conversation_folder_moved">Spostata in %1$s</string>
     <string name="conversation_item_mark_read">Letta</string>
     <string name="conversation_item_mark_unread">Non letta</string>
-    <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
-    <string name="conversation_view">Conversation view</string>
+    <string name="conversation_photo_welcome_text">"Tocca l'immagine di un mittente per selezionare la conversazione."</string>
+    <string name="conversation_view">Mostra conversazione</string>
     <string name="conversation_view_keywords">conversation view;mail conversation</string>
-    <string name="copied">Copied</string>
+    <string name="copied">Copiato</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>
     <string name="create_action">Crea nuova</string>
@@ -309,7 +309,7 @@
     <string name="default_signature">Inviato tramite Xiaomi</string>
     <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
     <string name="delete">Elimina</string>
-    <string name="delete_message_flow">Delete message flow</string>
+    <string name="delete_message_flow">Elimina flusso messaggio</string>
     <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
     <string name="deleted">Eliminata</string>
     <string name="device_activity_btn_str">Invio per attivare</string>
@@ -319,10 +319,10 @@
     <string name="device_not_activiey_lint1">Il gestore del dispositivo non è attivato</string>
     <string name="device_not_activiey_lint2">Il servizio exchange non funziona correttamente</string>
     <string name="dialog_account_auto_sync_setting_no_open">"Sincronizzazione mail disattivata, impossibile ricevere nuovi messaggi."</string>
-    <string name="dialog_auto_sync_setting_no_open">"La sincronizzazione è disattivata, impossibile ircevere nuovi messaggi."</string>
-    <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
+    <string name="dialog_auto_sync_setting_no_open">"La sincronizzazione è disattivata, impossibile ricevere nuovi messaggi."</string>
+    <string name="dialog_change_sync_lookback">La mail ricevuta %s verrà eliminata automaticamente. Tocca per modificare.</string>
     <string name="dialog_gmail_proxy_server_is_error">Errore del server proxy Gmail.</string>
-    <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
+    <string name="dialog_insufficient_space_on_external">"Impossibile scaricare allegato. Spazio insufficiente sulla memoria esterna."</string>
     <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna on sufficiente</string>
     <string name="disable_admin_warning">"AVVISO. La disattivazione dell'autorità dell'applicazione Email per l'amministrazione del dispositivo comporterà l'eliminazione di tutti gli account email che la richiedono, compresi i relativi messaggi email, contatti, eventi di calendario e altri dati."</string>
     <string name="discard">Elimina</string>
@@ -389,7 +389,7 @@
     <string name="fetching_attachment">Recupero allegato</string>
     <string name="file_deleted_success">File eliminato correttamente!</string>
     <string name="file_not_found">File non trovato sul server di posta!</string>
-    <string name="file_not_found_redownload">"Couldn't find file"</string>
+    <string name="file_not_found_redownload">Impossibile trovare il file</string>
     <string name="file_rar_not_support">File .rar protetti non supportati!</string>
     <string name="filtered_tag">[%1$s]%2$s</string>
     <string name="folder_drafts_name_cn0">草稿</string>
@@ -417,8 +417,8 @@
     <string name="folder_sent_name_en0">Inviata</string>
     <string name="folder_sent_name_en1">Messaggi inviati</string>
     <string name="folder_sent_name_en2">Messaggio inviato</string>
-    <string name="folder_sent_name_en3">Sent Items</string>
-    <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
+    <string name="folder_sent_name_en3">Posta inviata</string>
+    <string name="folder_sent_name_en4">[Gmail]/Posta inviata</string>
     <string name="folder_shortcut_widget_label">Cartella email</string>
     <string name="folder_synchronization_mail_settings">Impostazioni di sincronizzazione delle cartelle</string>
     <string name="folder_trash_name_cn0">已删除</string>
@@ -427,7 +427,7 @@
     <string name="folder_trash_name_en0">Cestino</string>
     <string name="folder_trash_name_en1">Messaggi eliminati</string>
     <string name="folder_trash_name_en2">Messaggio eliminato</string>
-    <string name="folder_trash_name_en3">[Gmail]/Bin</string>
+    <string name="folder_trash_name_en3">[Gmail]/Cestino</string>
     <string name="forward">Inoltra</string>
     <string name="forward_attachment">Avanti</string>
     <string name="forward_attribution">---------- Messaggio inoltrato ----------<br/>Da: %1$s<br/>Data: %2$s<br/>Oggetto: %3$s<br/>A: %4$s<br/></string>
@@ -475,7 +475,7 @@
     <string name="info_switch_summary">Apri la cartella delle NEWS</string>
     <string name="info_switch_title">Cartella NEWS</string>
     <string name="info_sync_error">Errore di sincronizzazione, riprova più tardi.</string>
-    <string name="information_subscribe_first_intro">Questa è laprima volta che utilizzi 「Subscribe」 , seleziona alcuni tag ti tuo interesse, così possiamo darti suggerimenti appropriati~</string>
+    <string name="information_subscribe_first_intro">Questa è la prima volta che utilizzi 「Subscribe」 , seleziona alcuni tag ti tuo interesse, così possiamo darti suggerimenti appropriati~</string>
     <string name="inline_picture_deleted">"Impossibile trovare l'immagine,download in corso…"</string>
     <string name="input_password_prompt">Inserisci la tua password</string>
     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
@@ -548,7 +548,7 @@
     <string name="menu_att_mgr_order_size">Ordina per dimensione</string>
     <string name="menu_change_folders">Cambia cartelle</string>
     <string name="menu_compose">Scrivi</string>
-    <string name="menu_discovery">Discover</string>
+    <string name="menu_discovery">Scopri</string>
     <string name="menu_folder_options">Sincronizza opzioni</string>
     <string name="menu_move_to">Sposta in</string>
     <string name="menu_move_to_inbox">Sposta in Posta in arrivo</string>
@@ -559,7 +559,7 @@
     <string name="menu_search">Cerca</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="merged_mailbox_compose_select_account">Seleziona account</string>
-    <string name="message_compose_insert_quick_response_list_title">Insert quick reply</string>
+    <string name="message_compose_insert_quick_response_list_title">Inserisci risposta veloce</string>
     <string name="message_count_spacer">  </string>
     <string name="message_decode_error">Si è verificato un errore durante la decodifica del messaggio.</string>
     <string name="message_details_title">Dettagli messaggio</string>
@@ -617,7 +617,7 @@
     <string name="okay_action">OK</string>
     <string name="outbox_alert_button_no_resend">Non inviare</string>
     <string name="outbox_alert_button_resend">Invia di nuovo</string>
-    <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
+    <string name="outbox_alert_certificate_error">Eccezione certificato E-mail, si prega di aggiornare</string>
     <string name="outbox_alert_description_auth_error">Errore di autorizzazione sincronizzazione della posta in arrivo</string>
     <string name="outbox_alert_description_cannot_authenticate">%s Errore sistema mail</string>
     <string name="outbox_alert_description_email_size_error">"È stata raggiunta la dimensione massima per le Email."</string>
@@ -632,7 +632,7 @@
     <string name="outbox_alert_edit_resend">Modifica e reinvia</string>
     <string name="outbox_alert_failed_edit_resend">Invio fallito, modifica e reinvia</string>
     <string name="outbox_alert_mailbox_not_found">Indirizzo email non trovato</string>
-    <string name="outbox_alert_rw_io_error">Mail read-write excetpion, please try to write and send it again</string>
+    <string name="outbox_alert_rw_io_error">Eccezione lettura-scrittura email, si prega di scrivere ed inviare di nuovo</string>
     <string name="outbox_alert_select_operation">Selezionare operazione</string>
     <string name="outbox_alert_title_sent_failed">Impossibile inviare email</string>
     <string name="outbox_no_mails">Nessuna mail in uscita</string>
@@ -645,16 +645,16 @@
     <string name="password_expired_dialog_content_fmt">I dati relativi a %s stanno per essere cancellati dal dispositivo. È possibile ripristinarli modificando il PIN o la password di blocco dello schermo. Continuare?</string>
     <string name="password_expired_dialog_title">Password blocco schermo scaduta</string>
     <string name="password_expired_ticker">Il PIN o la password di blocco dello schermo sono scaduti.</string>
-    <string name="path_about_account_setting">Email/Setting/Accounts</string>
-    <string name="path_about_add_account">Email/Setting/Add account</string>
-    <string name="path_about_battery_saver">Email/Setting/Battery saver</string>
-    <string name="path_about_confirm_before_delete">Email/Setting/Confirm before deleting</string>
-    <string name="path_about_confirm_before_send">Email/Setting/Confirm before sending</string>
-    <string name="path_about_conversation_view">Email/Setting/Conversation view</string>
-    <string name="path_about_delete_message_flow">Email/Setting/Delete message flow</string>
-    <string name="path_about_email_setting">Email/Setting</string>
-    <string name="path_about_send_feed_back">Email/Setting/Send feedback</string>
-    <string name="path_about_upload_logs">Email/Setting/Upload logs</string>
+    <string name="path_about_account_setting">Email/Impostazioni/Account</string>
+    <string name="path_about_add_account">Email/Impostazioni/Aggiungi account</string>
+    <string name="path_about_battery_saver">Email/Impostazioni/Risparmio batteria</string>
+    <string name="path_about_confirm_before_delete">Email/Impostazioni/Conferma prima di eliminare</string>
+    <string name="path_about_confirm_before_send">Email/Impostazioni/Conferma prima di inviare</string>
+    <string name="path_about_conversation_view">Email/Impostazioni/Mostra conversazione</string>
+    <string name="path_about_delete_message_flow">Email/Impostazioni/Elimina scambio messaggi</string>
+    <string name="path_about_email_setting">Email/Impostazioni</string>
+    <string name="path_about_send_feed_back">Email/Impostazioni/Invia feedback</string>
+    <string name="path_about_upload_logs">Email/Impostazioni/Carica log</string>
     <string name="perference_change_pw_notnull_tips">La password non può essere vuota</string>
     <string name="perference_change_pw_ok_tips">Password modificata</string>
     <string name="perference_setup_pop_del">Rimuovi email dal server</string>
@@ -673,9 +673,9 @@
     <string name="policy_bluetooth_restricted">Limita utilizzo Bluetooth</string>
     <string name="policy_calendar_age">Limita numero di eventi calendario sincronizzati</string>
     <string name="policy_dont_allow_attachments">Non consentire allegati</string>
-    <string name="policy_dont_allow_browser">Non consentire browsers</string>
+    <string name="policy_dont_allow_browser">Non consentire browser</string>
     <string name="policy_dont_allow_camera">Non consentire uso fotocamera dispositivo</string>
-    <string name="policy_dont_allow_consumer_email">Non consentire email consumer</string>
+    <string name="policy_dont_allow_consumer_email">Non consentire email consumatore</string>
     <string name="policy_dont_allow_html">Non consentire email HTML</string>
     <string name="policy_dont_allow_internet_sharing">Non consentire condivisione Internet</string>
     <string name="policy_dont_allow_irda">Non consentire comunicazioni infrarosse</string>
@@ -714,7 +714,7 @@
     <string name="protocol_legacy_imap">imap</string>
     <string name="protocol_pop3">pop3</string>
     <string name="pull_to_refresh">Trascina per aggiornare</string>
-    <string name="pull_up_to_load_more">Pull up to load more</string>
+    <string name="pull_up_to_load_more">Trascina in alto per caricare altre</string>
     <string name="push_wps_better_confirm_download">Scarica</string>
     <string name="push_wps_better_confirm_exit">Altre app da aprire</string>
     <string name="push_wps_better_confirm_message">WPS Office può supportare meglio questo formato, rendendo il tuo lavoro più efficiente</string>
@@ -725,15 +725,15 @@
     <string name="push_wps_confirm_message">Nessuna applicazione può aprire questo allegato, si consiglia WPS Office</string>
     <string name="push_wps_confirm_title">Si consiglia WPS Office</string>
     <string name="push_wps_no_response_app">"Nessuna risposta dall'app"</string>
-    <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
-    <string name="questionnair_confirm_delete">Remove</string>
-    <string name="questionnair_instability">Crashes frequently</string>
-    <string name="questionnair_not_send">"Can't send mail"</string>
-    <string name="questionnair_not_sync">Unstable sync</string>
-    <string name="questionnair_other_reasons">Other</string>
-    <string name="questionnair_title">Remove account?</string>
-    <string name="questionnair_ui_not_pretty">"Don't like the app's design"</string>
-    <string name="questionnair_waste_resource">Not enough storage space</string>
+    <string name="questionnair_body_invisibility">Messaggi non visualizzati</string>
+    <string name="questionnair_confirm_delete">Rimuovi</string>
+    <string name="questionnair_instability">Crasha con frequenza</string>
+    <string name="questionnair_not_send">Impossibile inviare email</string>
+    <string name="questionnair_not_sync">Impossibile sincronizzare</string>
+    <string name="questionnair_other_reasons">Altro</string>
+    <string name="questionnair_title">Rimuovere account?</string>
+    <string name="questionnair_ui_not_pretty">"Non mi piace il design dell'app"</string>
+    <string name="questionnair_waste_resource">Spazio non sufficiente</string>
     <string name="quick_1">Grazie.</string>
     <string name="quick_2">Per me va bene.</string>
     <string name="quick_3">Lo leggerò più tardi e ti farò sapere.</string>
@@ -797,7 +797,7 @@
     <string name="saving">Salvataggio…</string>
     <string name="sdcard_cannot_use">Scheda di memoria non utilizzabile</string>
     <string name="search_hint">Cerca email</string>
-    <string name="search_result">"Results "</string>
+    <string name="search_result">"Risultati "</string>
     <string name="search_tabs_name_all">Tutti</string>
     <string name="search_tabs_name_recipient">Destinatario</string>
     <string name="search_tabs_name_sender">Mittente</string>
@@ -910,7 +910,7 @@
     <string name="upload_log_success">Log caricati correttamente</string>
     <string name="upload_log_title">Caricare adesso i log?</string>
     <string name="upload_log_yes">Carica</string>
-    <string name="upload_logs">Upload logs</string>
+    <string name="upload_logs">Carica log</string>
     <string name="upload_logs_keywords">upload logs</string>
     <string name="uploading_logs">Caricamento…</string>
     <string name="validation_failed_prompt">Validazione fallita, imposta il server %s</string>
@@ -920,14 +920,14 @@
     <string name="veiled_summary_unknown_person"/>
     <string name="via_domain">tramite %1$s</string>
     <string name="view_more_conversations">Mostra altre conversazioni</string>
-    <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
-Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
+    <string name="wait_for_manual_sync_body">"Questo account non è impostato per la sincronizzazione automatica.
+Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modifica impostazioni di sincronizzazione</b> per impostare questo account per la sincronizzazione automatica.</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altro</string>
-    <string name="wipe_account_fail_description">Allow</string>
-    <string name="wipe_account_fail_title">"Couldn't delete personal info"</string>
+    <string name="wipe_account_fail_description">Consenti</string>
+    <string name="wipe_account_fail_title">Impossibile eliminare informazioni personali</string>
     <string name="wrong_password">Password errata</string>
     <string name="yes">Sì</string>
     <string name="yidianzixun">Yi Dian Zixun</string>
