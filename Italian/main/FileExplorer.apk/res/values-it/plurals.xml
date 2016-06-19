@@ -41,12 +41,12 @@
         <item quantity="many">Ancora %1$d file da caricare</item>
     </plurals>
     <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d files left to transmit</item>
-        <item quantity="zero">%1$d files left to transmit</item>
-        <item quantity="one">%1$d file left to transmit</item>
-        <item quantity="two">%1$d files left to transmit</item>
-        <item quantity="few">%1$d files left to transmit</item>
-        <item quantity="many">%1$d files left to transmit</item>
+        <item quantity="other">%1$d file da trasferire</item>
+        <item quantity="zero">%1$d file da trasferire</item>
+        <item quantity="one">%1$d file da trasferire</item>
+        <item quantity="two">%1$d file da trasferire</item>
+        <item quantity="few">%1$d file da trasferire</item>
+        <item quantity="many">%1$d file da trasferire</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d selezionati</item>
@@ -109,7 +109,7 @@
         <item quantity="zero">%1$d minuti fa</item>
         <item quantity="one">%1$d min fa</item>
         <item quantity="two">%1$d min fa</item>
-        <item quantity="few">%1$d min fao</item>
+        <item quantity="few">%1$d min fa</item>
         <item quantity="many">%1$d min fa</item>
     </plurals>
     <plurals name="hours_ago">
@@ -118,7 +118,7 @@
         <item quantity="one">%1$d ora fa</item>
         <item quantity="two">%1$d ore fa</item>
         <item quantity="few">%1$d ore fa</item>
-        <item quantity="many">%1$d ore fao</item>
+        <item quantity="many">%1$d ore fa</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d giorni fa</item>
@@ -201,51 +201,51 @@
         <item quantity="many"> Download</item>
     </plurals>
     <plurals name="video_play_num">
-        <item quantity="other">%1$s views</item>
-        <item quantity="zero">%1$s views</item>
-        <item quantity="one">%1$s view</item>
-        <item quantity="two">%1$s views</item>
-        <item quantity="few">%1$s views</item>
-        <item quantity="many">%1$s views</item>
+        <item quantity="other">%1$s visualizzazioni</item>
+        <item quantity="zero">%1$s visualizzazioni</item>
+        <item quantity="one">%1$s visualizzazione</item>
+        <item quantity="two">%1$s visualizzazioni</item>
+        <item quantity="few">%1$s visualizzazioni</item>
+        <item quantity="many">%1$s visualizzazioni</item>
     </plurals>
     <plurals name="video_num">
-        <item quantity="other">%1$s videos</item>
-        <item quantity="zero">%1$s videos</item>
+        <item quantity="other">%1$s video</item>
+        <item quantity="zero">%1$s video</item>
         <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s videos</item>
-        <item quantity="few">%1$s videos</item>
-        <item quantity="many">%1$s videos</item>
+        <item quantity="two">%1$s video</item>
+        <item quantity="few">%1$s video</item>
+        <item quantity="many">%1$s video</item>
     </plurals>
     <plurals name="follower_num">
-        <item quantity="other">followers</item>
-        <item quantity="zero">followers</item>
+        <item quantity="other">follower</item>
+        <item quantity="zero">follower</item>
         <item quantity="one">follower</item>
-        <item quantity="two">followers</item>
-        <item quantity="few">followers</item>
-        <item quantity="many">followers</item>
+        <item quantity="two">follower</item>
+        <item quantity="few">follower</item>
+        <item quantity="many">follower</item>
     </plurals>
     <plurals name="user_upload_items">
-        <item quantity="other">videos</item>
-        <item quantity="zero">videos</item>
+        <item quantity="other">video</item>
+        <item quantity="zero">video</item>
         <item quantity="one">video</item>
-        <item quantity="two">videos</item>
-        <item quantity="few">videos</item>
-        <item quantity="many">videos</item>
+        <item quantity="two">video</item>
+        <item quantity="few">video</item>
+        <item quantity="many">video</item>
     </plurals>
     <plurals name="number_of_comment">
-        <item quantity="other">%1$s comments</item>
-        <item quantity="zero">%1$s comments</item>
-        <item quantity="one">%1$s comment</item>
-        <item quantity="two">%1$s comments</item>
-        <item quantity="few">%1$s comments</item>
-        <item quantity="many">%1$s comments</item>
+        <item quantity="other">%1$s commenti</item>
+        <item quantity="zero">%1$s commenti</item>
+        <item quantity="one">%1$s commento</item>
+        <item quantity="two">%1$s commenti</item>
+        <item quantity="few">%1$s commenti</item>
+        <item quantity="many">%1$s commenti</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s videos</item>
-        <item quantity="zero">%1$s videos</item>
+        <item quantity="other">%1$s video</item>
+        <item quantity="zero">%1$s video</item>
         <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s videos</item>
-        <item quantity="few">%1$s videos</item>
-        <item quantity="many">%1$s videos</item>
+        <item quantity="two">%1$s video</item>
+        <item quantity="few">%1$s video</item>
+        <item quantity="many">%1$s video</item>
     </plurals>
 </resources>
