@@ -427,7 +427,7 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="notify_only_wifi_download">In attesa di Wi-Fi</string>
     <string name="toast_only_wifi_download">Collegati al Wi-Fi per scaricare questo file</string>
     <string name="dialog_title_disabled_net">Accesso internet</string>
-    <string name="dialog_msg_disabled_net">%1$s download limitati dalla rete attuale.Tocca le impostazioni di rete per andare nell'app sicurezza.</string>
+    <string name="dialog_msg_disabled_net">%1$s download limitati dalla rete attuale.Tocca le impostazioni di rete per andare nell\'app sicurezza.</string>
     <string name="dialog_btn_ok_disabled_net">Impostazioni di rete</string>
     <string name="clear_data">Cancella</string>
     <string name="search_home_download_popup">Torna ai download</string>
