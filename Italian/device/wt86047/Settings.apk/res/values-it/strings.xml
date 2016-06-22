@@ -2830,7 +2830,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="privacy_protect_title">Protezione privacy</string>
     <string name="privacy_mode_enable_title">Modalità Ospite</string>
     <string name="privacy_mode_enable_sum">"Nascondi all'utente messaggi, note, immagini e chiamate ricevute"</string>
-    <string name="ac_enable_title">App Lock</string>
+    <string name="ac_enable_title">Blocco applicazioni</string>
     <string name="ac_enable_summary">Verrà richiesta una password per accedere alle app</string>
     <string name="ac_set_apps_title">Scegli el app da bloccare</string>
     <string name="ac_privacy_mode_title">Password</string>
