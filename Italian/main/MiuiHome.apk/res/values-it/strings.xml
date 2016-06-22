@@ -79,7 +79,7 @@
     <string name="uninstall_with_xspace_dialog_message">Corresponding cloned apps will be removed together with app data.</string>
     <string name="confirm_uninstall_dialog_title">Corresponding cloned apps will be removed.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Cloned app will be uninstalled together with this one.</string>
-    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Cloned apps will be uninstalled together with these ones.</string>
+    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Le app clonate saranno disinstallate insieme a questi.</string>
     <string name="uninstall_dialog_title_multi_format" formatted="false">Vuoi disinstallare %s ed altre %d applicazioni?</string>
     <string name="uninstall">Disinstalla</string>
     <string name="uninstall_result_multi_succeeded">%1$d applicazioni disinstallate</string>

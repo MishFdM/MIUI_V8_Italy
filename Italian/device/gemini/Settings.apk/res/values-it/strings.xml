@@ -3340,8 +3340,8 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_slot_status_title">IMEI information</string>
     <string name="search_micloud">Sync;Miclound</string>
     <string name="networks_title">Cellular networks</string>
-    <string name="path_network_settings">Settings/Mobile network settings</string>
-    <string name="path_apn_settings">Settings/Sim cards &amp;amp; Mobile networks/Access Point Names</string>
+    <string name="path_network_settings">Impostazioni/Gestione SIM</string>
+    <string name="path_apn_settings">Impostazioni/Gestione SIM/SIM/Nomi punti di accesso</string>
     <string name="path_preferred_network_type_settings">Settings/Mobile network settings/Preferred network type</string>
     <string name="path_networks_title">Settings/Mobile network settings/Cellular networks</string>
     <string name="path_wifi_settings">Settings/WLAN</string>
@@ -3646,7 +3646,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="wifi_tether_settings_title">Hotspot personale</string>
     <string name="lock_settings">Schermata di blocco</string>
     <string name="second_space">Secondo spazio</string>
-    <string name="xspace">Cloned apps</string>
+    <string name="xspace">Clona applicazioni</string>
     <string name="call_settings_primary_user_only">Change call settings in First space</string>
     <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
     <string name="lock_settings_picker_settings">Imposta blocco schermo</string>
