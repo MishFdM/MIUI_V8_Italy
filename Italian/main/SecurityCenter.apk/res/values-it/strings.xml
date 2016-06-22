@@ -173,7 +173,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="input_used_hint">Inserisci utilizzo dati</string>
     <string name="input_used_max_hint">Inserisci utilizzo dati (meno di %s)</string>
     <string name="text_day"/>
-    <string name="settings">Impostazioni utilizzo dati</string>
+    <string name="settings">Impostazioni piano dati</string>
     <string name="adjust_traffic_data">Imposta utilizzo dati</string>
     <string name="per_month_pkg_traffic_settings">Imposta limite dati</string>
     <string name="free_time_traffic_settings">Limite dati fuori soglia</string>

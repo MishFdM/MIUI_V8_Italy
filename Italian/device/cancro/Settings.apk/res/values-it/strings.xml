@@ -970,9 +970,9 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="category_personal">Personale</string>
     <string name="category_work">Lavoro</string>
     <string name="accessibility_category_work">Work profile accounts - %s</string>
-    <string name="accessibility_category_personal">Personal profile accounts</string>
+    <string name="accessibility_category_personal">Impostazioni profilo personale</string>
     <string name="accessibility_work_account_title">Work account - %s</string>
-    <string name="accessibility_personal_account_title">Personal account - %s</string>
+    <string name="accessibility_personal_account_title">Account personale - %s</string>
     <string name="search_settings">Ricerca</string>
     <string name="search_settings_summary">Gestisci le impostazioni e la cronologia delle ricerche</string>
     <string name="display_settings">Display</string>
@@ -3275,8 +3275,8 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_choose_timezone">Choose time zone</string>
     <string name="search_children_mode_title">Child mode</string>
     <string name="search_language">Lingua</string>
-    <string name="search_language_picker_title">Language</string>
-    <string name="search_user_dict_settings_title">Personal dictionary</string>
+    <string name="search_language_picker_title">Lingua</string>
+    <string name="search_user_dict_settings_title">Dizionario personale</string>
     <string name="search_tts_settings_title">Text-to-speech output</string>
     <string name="search_pointer_speed">Pointer speed</string>
     <string name="search_safe_result_header_title_system">Privacy</string>
@@ -3434,10 +3434,10 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="path_dndm_repeated_call_setting_title">Settings/Do not disturb/Repeat callers</string>
     <string name="path_children_mode_settings">Settings/Additional settings/Child mode</string>
     <string name="path_other_advanced_settings">Settings/Additional settings</string>
-    <string name="path_security_settings">Settings/Additional settings/Privacy</string>
+    <string name="path_security_settings">Impostazioni/Impostazioni aggiuntive/Privacy</string>
     <string name="path_language_settings">Settings/Additional settings/Language &amp;amp; input</string>
-    <string name="path_language_picker_title">Settings/Additional settings/Language &amp;amp; input/Language</string>
-    <string name="path_user_dict_settings_title">Settings/Additional settings/Language &amp;amp; input/Personal dictionary</string>
+    <string name="path_language_picker_title">Impostazioni/Impostazioni aggiuntive/Lingua e tastiera/Lingua</string>
+    <string name="path_user_dict_settings_title">Impostazioni/Impostazioni aggiuntive/Lingua e tastiera/Dizionario personale</string>
     <string name="path_tts_settings_title">Settings/Additional settings/Language &amp;amp; input/Text-to-speech output</string>
     <string name="path_pointer_speed">Settings/Additional settings/Language &amp;amp; input/Pointer speed</string>
     <string name="path_safe_result_header_title_system">Settings/Additional settings/System Security</string>
@@ -3643,7 +3643,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="battery_indicator_style">Indicatore batteria</string>
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
-    <string name="wifi_tether_settings_title">Personal hotspot</string>
+    <string <string name="wifi_tether_settings_title">Hotspot personale</string>
     <string name="lock_settings">Schermata di blocco</string>
     <string name="second_space">Secondo spazio</string>
     <string name="xspace">Cloned apps</string>
@@ -4217,7 +4217,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="recent_location_requests_title">Accesso alla posizione</string>
     <string name="recent_location_requests_summary">"Le seguenti app richiedono l'accesso alla tua posizione"</string>
     <string name="permission_manager">Permessi</string>
-    <string name="personal_section_title">Personal</string>
+    <string name="personal_section_title">Personali</string>
     <string name="system_and_device_section_title">Sistema e dispositivo</string>
     <string name="application_manager_section_title">App settings</string>
     <string name="security_keyguard_category_name">Blocco schermo</string>
