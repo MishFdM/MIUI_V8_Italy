@@ -3643,7 +3643,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="battery_indicator_style">Indicatore batteria</string>
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
-    <string <string name="wifi_tether_settings_title">Hotspot personale</string>
+    <string name="wifi_tether_settings_title">Hotspot personale</string>
     <string name="lock_settings">Schermata di blocco</string>
     <string name="second_space">Secondo spazio</string>
     <string name="xspace">Cloned apps</string>
