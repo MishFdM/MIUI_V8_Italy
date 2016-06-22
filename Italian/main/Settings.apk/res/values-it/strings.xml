@@ -3257,7 +3257,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_wakeup_for_keyguard_notification_title">Wake lock screen for notifications</string>
     <string name="search_pref_volume_wake_title">Wake with Volume buttons</string>
     <string name="search_screen_on_proximity_sensor_title">Prevent pocket dials</string>
-    <string name="search_second_space">Second Space</string>
+    <string name="search_second_space">Secondo spazio</string>
     <string name="search_xspace">XSpace</string>
     <string name="search_do_not_disturb">Do not disturb;Vip;Set time;Exceptions;Repeated calls</string>
     <string name="search_dndm_auto_time_setting">Set time</string>
@@ -3645,7 +3645,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="default_usb_mode">Connessione USB</string>
     <string name="wifi_tether_settings_title">Personal hotspot</string>
     <string name="lock_settings">Schermata di blocco</string>
-    <string name="second_space">Second Space</string>
+    <string name="second_space">Secondo spazio</string>
     <string name="xspace">Cloned apps</string>
     <string name="call_settings_primary_user_only">Change call settings in First space</string>
     <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
@@ -4218,7 +4218,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="recent_location_requests_summary">"Le seguenti app richiedono l'accesso alla tua posizione"</string>
     <string name="permission_manager">Permessi</string>
     <string name="personal_section_title">Personal</string>
-    <string name="system_and_device_section_title">System &amp;amp; device</string>
+    <string name="system_and_device_section_title">Sistema e dispositivo</string>
     <string name="application_manager_section_title">App settings</string>
     <string name="security_keyguard_category_name">Blocco schermo</string>
     <string name="security_password_category_name">Password</string>
