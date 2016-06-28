@@ -715,7 +715,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="enable_documentsui">Attiva prima %s in Impostazioni/App installate</string>
     <string name="not_installed_documentsui">DocumentsUI non installato</string>
     <string name="title_enable_documentsui">Attiva DocumentsUI</string>
-    <string name="error_contains_sharer_path">Impossibile crittografare i file in /MIUI/Gallery/cloud/sharer. Sposta i file in un'altra cartella e prova di nuovo.</string>
+    <string name="error_contains_sharer_path">"Impossibile crittografare i file in /MIUI/Gallery/cloud/sharer. Sposta i file in un'altra cartella e prova di nuovo."</string>
     <string name="server_error">Errore del server, riprova più tardi. (Errore %s)</string>
     <string name="network_not_available">Impossibile collegarsi alla rete</string>
     <string name="request_timeout">Richiesta di rete scaduta</string>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="group_name">
-        <item>normale</item>
-        <item>nascosto</item>
-        <item>lettura</item>
-        <item>media</item>
-    </string-array>
     <string-array name="group_name_translate">
         <item>Predefinito</item>
         <item>Modalità nascosta</item>

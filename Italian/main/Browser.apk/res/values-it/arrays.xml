@@ -38,7 +38,7 @@
         <item>Segui</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
-        <item>Cancella/item>
+        <item>Cancella</item>
         <item>No</item>
     </string-array>
 </resources>
