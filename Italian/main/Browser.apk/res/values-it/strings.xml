@@ -172,7 +172,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="media_error_nomemory">La memoria del dispositivo è piena</string>
     <string name="media_error_action_refresh">Aggiorna</string>
     <string name="media_error_action_replace_video_source">Sostituisci fonte video</string>
-    <string name="media_error_network_unreachable">Rete non disponibile</string>
     <string name="video_buffering_percent_string">Caricamento</string>
     <string name="v5_select_all">Seleziona tutti</string>
     <string name="v5_deselect_all">Deseleziona tutti</string>
@@ -293,8 +292,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="cancel">Annulla</string>
     <string name="ok">OK</string>
     <string name="edit">Modifica</string>
-    <string name="replace">Sostituisci</string>
-    <string name="isreplace">File già esistente, sostituirlo?</string>
     <string name="rlz_access_point">Y1</string>
     <string name="uploads_disabled">Il caricamento dei file è disabilitato.</string>
     <string name="dont_remind_again">Ricorda la mia scelta</string>
@@ -366,6 +363,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="action_menu_bookshelf">Libreria</string>
     <string name="action_menu_useful_page">Aggiungi utilità</string>
     <string name="action_menu_useful_page_added">Utilità aggiunta</string>
+    <string name="save_to">Salva in</string>
+    <string name="sendstartpage">Pagina iniziale</string>
+    <string name="senddesktop">Home</string>
     <string name="start_save_page_capture">Salvataggio screenshot…</string>
     <string name="save_page_capture_to_camera">Screenshot salvato</string>
     <string name="save_page_capture_tip">Apri il pannello delle notifiche per vedere lo screenshot.</string>
@@ -717,6 +717,11 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
     <string name="aqi_quality_index_break">AQI %1$s</string>
+    <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
+    <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
+    <string name="nav_bottom_bar_back">Indietro</string>
+    <string name="nav_screen_container_tab_normal">Scheda normale</string>
+    <string name="nav_screen_container_tab_incognito">Scheda incognito</string>
     <string name="pref_notifications_title">Notifiche</string>
     <string name="pref_notifications_hint">Notifiche</string>
     <string name="pref_notifications_receive">Avvisi per nuove notifiche</string>
@@ -724,11 +729,11 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_enable_news">Nuovi avvisi</string>
     <string name="pref_enable_novels">Libri</string>
     <string name="pref_enable_videos">Video</string>
-    <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
-    <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
-    <string name="nav_bottom_bar_back">Indietro</string>
-    <string name="nav_screen_container_tab_normal">Scheda normale</string>
-    <string name="nav_screen_container_tab_incognito">Scheda incognito</string>
+    <string name="no_space_alert_title">Download in pausa</string>
+    <string name="no_space_alert_text">Spazio di archiviazione non sufficiente</string>
+    <string name="no_space_alert_cancel">Più tardi</string>
+    <string name="no_space_alert_clean">Libera spazio</string>
+    <string name="no_space_clean_failed">Non è possibile liberare spazio sul dispositivo​</string>
     <string name="more_option">Altre opzioni</string>
     <string name="action_menu_current_version">Versione attuale</string>
     <string name="current_version_pad">Tablet</string>
@@ -738,11 +743,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_nav_mode_summary_phone">Telefono</string>
     <string name="pref_nav_mode_summary_pad">Tablet</string>
     <string name="unsecurity_url_toast">Questo sito non è sicuro</string>
-    <string name="no_space_alert_title">Download in pausa</string>
-    <string name="no_space_alert_text">Spazio di archiviazione non sufficiente</string>
-    <string name="no_space_alert_cancel">Più tardi</string>
-    <string name="no_space_alert_clean">Libera spazio</string>
-    <string name="no_space_clean_failed">Non è possibile liberare spazio sul dispositivo​</string>
     <string name="download_title">Download</string>
     <string name="download_in_process">Download in corso…</string>
     <string name="download_completed">Scaricati</string>
@@ -809,4 +809,7 @@ finestra riservata​"</string>
     <string name="send_comment_title">commenti</string>
     <string name="pay_success_toast">Pagamento eseguito</string>
     <string name="pay_failed_toast">Pagamento fallito</string>
+    <string name="add_bookshelf_popup_text">Aggiunto alla libreria</string>
+    <string name="add_shortcut">Aggiungi collegamento</string>
+    <string name="add_shortcut_success">Collegamento aggiunto</string>
 </resources>

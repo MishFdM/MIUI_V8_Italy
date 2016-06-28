@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="folder_operations">
+        <item>Rinomina</item>
+        <item>Elimina</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Fotocamera</item>
+        <item>Galleria</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Nome</item>
         <item>Nickname</item>
@@ -20,15 +28,19 @@
         <item>Enorme</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Potrai appuntare facilmente idee, memo e pensieri
+        <item>"Benvenuto nell'app Note
 "</item>
-        <item>"Allegare immagini o contatti
+        <item>"Tocca per creare una nota
 "</item>
-        <item>"Sbarrare gli elementi scorrendo con il dito
+        <item>"Scegli un bel tema
 "</item>
-        <item>"Avrai altre interessanti funzioni a disposizione!
-  - Sincronizzazione con Mi Cloud
-  - Impostare i promemoria
+        <item>"Crea una cartella per le note
 "</item>
+        <item>"Proteggi le note private
+"</item>
+        <item>"E altre fantastiche funzioni!
+  - Sincronizza con Mi Cloud
+  - Imposta promemoria"</item>
+    </string-array>
     </string-array>
 </resources>

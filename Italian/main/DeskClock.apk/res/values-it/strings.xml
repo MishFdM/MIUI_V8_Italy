@@ -40,6 +40,7 @@
     <string name="stopwatch_lap_empty_text">Nessun giro</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_start_alarm">Tempo scaduto!</string>
+    <string name="timer_clock_alert_text">Imposta il timer</string>
     <string name="dialog_confirm_abort">Vuoi ignorare i cambiamenti?</string>
     <string name="confirm_abort">OK</string>
     <string name="remind_ringtone">Suoneria</string>

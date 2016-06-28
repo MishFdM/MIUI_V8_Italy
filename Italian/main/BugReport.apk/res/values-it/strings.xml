@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="michat_app_name">Online support</string>
+    <string name="michat_app_name">Supporto online</string>
     <string name="michat_feedback_title_name">Feedback survey</string>
     <string name="michat_attach_smiley">Emoticon</string>
     <string name="michat_attach_image">Image</string>
@@ -8,6 +8,7 @@
     <string name="michat_back_to_detail">Go back to chat</string>
     <string name="michat_message_copy_info">Copied to clipboard</string>
     <string name="michat_mesage_send_error_network">"Couldn't send, check network connection"</string>
+    <string name="michat_failed_to_fetch_fql">"Couldn't get FAQ info, check network connection"</string>
     <string name="michat_wait_for_a_moment">Just a sec, help is on the way!</string>
     <string name="michat_product_click_text">View</string>
     <string name="michat_webview_title">View details</string>
@@ -29,7 +30,7 @@
     <string name="michat_kefu_welcome">Welcome to Xiaomi online support!</string>
     <string name="michat_customer_join">Join chat</string>
     <string name="michat_customer_quit">Support personnel left the chat</string>
-    <string name="michat_user_quit">Exit</string>
+    <string name="michat_user_quit">Sei uscito dalla chat</string>
     <string name="michat_comment_submit">Rate and go back</string>
     <string name="michat_comment_thx">Thank you for your freedback!</string>
     <string name="michat_comment_net_error">"Couldn't connect to the network, try again later"</string>
@@ -41,7 +42,10 @@
     <string name="michat_type_picture">Image</string>
     <string name="michat_invation_invite_fail">Sorry, our support workers are busy now. Try again later.</string>
     <string name="michat_invation_invite_full">Sorry, our support workers are all busy now. Try again later.</string>
+    <string name="michat_cant_join_artifical">"Couldn't connect due to network error"</string>
+    <string name="michat_lose_artifical">A network error occurred, you left the chat</string>
     <string name="michat_transfer_message">Looking for a person to help you…</string>
+    <string name="michat_queue_pos_update">There are %1$d people in front of you, wait a moment…</string>
     <string name="michat_in_artifical_customer_state">"Can't do this while being helped by a person"</string>
     <string name="michat_pull_to_refresh_pull_label">Pull down to view history</string>
     <string name="michat_pull_to_refresh_release_label">Release to view history</string>
@@ -57,9 +61,8 @@
     <string name="michat_skillset_business_type_title">Select service</string>
     <string name="michat_close_text">Chat ended</string>
     <string name="default_text_view">TextView</string>
-    <string name="robot_welcome_message">"My name is Mi Bunny. I'm an online support robot."</string>
-    <string name="server_error_message">A server error occurred (Error code: %1$s). Try again later.</string>
-    <string name="server_unknown_error_message">An unkmown server error occured. Try again later.</string>
+    <string name="michat_message_robot_welcome">"My name is Mi Bunny. I'm an online support robot."</string>
+    <string name="michat_message_join_again">"Glad you're back!"</string>
     <string name="michat_invalid_url">Invalid URL</string>
     <string name="michat_no_good_message_title">"This can't solve my problem."</string>
     <string name="michat_artifical_customer_phone">4001005678</string>
@@ -159,6 +162,14 @@
     <string name="submit_dialog_content">Il tuo feedback, insieme al log di errore e alle immagini allegate, verrà inviato ai server Xiaomi.</string>
     <string name="submit_dialog_cancel">Annulla</string>
     <string name="submit_dialog_confirm">Invia</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
+    <string name="bugreport_tool_log_toast">Log saved to %s</string>
+    <string name="bugreport_tool_log">Create bug report</string>
+    <string name="modem_tool_log">Capture modem logs</string>
+    <string name="modem_tool_log_start">Start</string>
+    <string name="modem_tool_log_stop">Stop</string>
+    <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+    <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
     <string name="bugreport_dump_start_notification_title">Creazione bug report</string>
     <string name="bugreport_dump_start_notification_summary">Richiede circa un minuto.</string>
     <string name="bugreport_dump_complete_notification_title">Bug report creato</string>
@@ -222,6 +233,7 @@
     <string name="feedback_description_label">Description</string>
     <string name="feedback_retest_label">Steps to reproduce</string>
     <string name="reply">Reply</string>
+    <string name="reply_failed">Reply failed</string>
     <string name="message_label">Message</string>
     <string name="warning_field_empty">Enter %1$s</string>
     <string name="warning_field_invalid">Select a valid %1$s</string>

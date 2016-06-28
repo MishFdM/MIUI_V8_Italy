@@ -453,7 +453,7 @@
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Sign in to Gmail</string>
     <string name="header_category_account">Account</string>
-    <string name="header_category_other">Altro</string>
+    <string name="header_category_other">Feedback</string>
     <string name="header_label_general_preferences">Generali</string>
     <string name="help_and_info">Guida</string>
     <string name="hide_atts_remaining">Nascondi %1$d allegati</string>

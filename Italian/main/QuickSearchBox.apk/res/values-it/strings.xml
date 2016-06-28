@@ -24,10 +24,11 @@
     <string name="search_group_fold">Nascondi</string>
     <string name="search_group_unfold">Altro</string>
     <string name="common_setting">Impostazioni generali</string>
-    <string name="recent_apps">App recenti</string>
+    <string name="recent_apps">App consigliate</string>
+    <string name="suggest_open_app_failed">Impossibile aprire questa app</string>
     <string name="apps_search_activity" />
     <string name="xiaomi_suggest_base" />
-	<string name="xiaomi_homepage_suggest" />
+    <string name="xiaomi_homepage_suggest" />
     <string name="xiaomi_homepage_hint" />
     <string name="baidu_suggest_base">" "</string>
     <string name="baidu_search_url_from_systemui">http://www.google.com/search?q=%s&amp;tn=ins</string>

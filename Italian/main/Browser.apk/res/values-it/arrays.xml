@@ -29,4 +29,16 @@
         <item>Telefono</item>
         <item>Tablet</item>
     </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Messaggio dal browser</item>
+        <item>Segui le Olimipiadi con Xiaomi</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Segui</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Cancella/item>
+        <item>No</item>
+    </string-array>
 </resources>

@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scansione</item>
+        <item>Connessione..</item>
+        <item>Autenticazione...</item>
+        <item>Recupero indirizzo IP...</item>
+        <item>Connesso</item>
+        <item>Sospeso</item>
+        <item>Disconnessione</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo connessioni deboli</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scansione...</item>
+        <item>Connessione a %1$s...</item>
+        <item>Autenticazione con %1$s...</item>
+        <item>Recupero indirizzo IP da %1$s...</item>
+        <item>Connesso a %1$s</item>
+        <item>Sospeso</item>
+        <item>Disconnesso da %1$s</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo connessioni deboli</item>
+    </string-array>
+    <string-array name="status_bar_style_entries">
+        <item>Combinato</item>
+        <item>Separati</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
         <item>Europa</item>
@@ -64,34 +96,6 @@
         <item>Normale</item>
         <item>Alto</item>
         <item>Molto alto</item>
-    </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Ricerca…</item>
-        <item>Connessione…</item>
-        <item>Autenticazione…</item>
-        <item>Acquisizione indirizzo IP…</item>
-        <item>Connessa</item>
-        <item>Sospesa</item>
-        <item>Disconnessione…</item>
-        <item>Disconnessa</item>
-        <item>Operazione non riuscita</item>
-        <item>Bloccato</item>
-        <item>Al momento vengono evitate connessioni deboli</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Ricerca…</item>
-        <item>Connessione a %1$s…</item>
-        <item>Autenticazione con %1$s…</item>
-        <item>Acquisizione indirizzo IP da %1$s…</item>
-        <item>Connessa a %1$s</item>
-        <item>Sospesa</item>
-        <item>Disconnessione da %1$s…</item>
-        <item>Disconnessa</item>
-        <item>Operazione non riuscita</item>
-        <item>Bloccato</item>
-        <item>Al momento vengono evitate connessioni deboli</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pulsante di comando</item>
@@ -186,7 +190,6 @@
         <item>Messaggi</item>
         <item>Contenuti multimediali</item>
         <item>Dispositivo</item>
-        <item>Avvio</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
@@ -239,16 +242,6 @@
         <item>attiva VPN</item>
         <item>cambia wlan</item>
         <item>cambia bluetooth</item>
-        <item>invia MMS</item>
-        <item>leggi MMS</item>
-        <item>scrivi MMS</item>
-        <item>auto avvio</item>
-        <item>cambia nfc</item>
-        <item>elimina SMS</item>
-        <item>elimina MMS</item>
-        <item>elimina contatti</item>
-        <item>elimina registro chiamate</item>
-        <item>cambia dati</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Posizione</item>
@@ -301,16 +294,6 @@
         <item>Attiva VPN</item>
         <item>Cambia wlan</item>
         <item>Cambia bluetooth</item>
-        <item>Invia MMS</item>
-        <item>Leggi MMS</item>
-        <item>Scrivi MMS</item>
-        <item>Auto avvio</item>
-        <item>Cambia nfc</item>
-        <item>Elimina SMS</item>
-        <item>Elimina MMS</item>
-        <item>Elimina contatti</item>
-        <item>Elimina registro chiamate</item>
-        <item>Cambia dati</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Breve</item>

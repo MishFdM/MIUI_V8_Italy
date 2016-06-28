@@ -201,8 +201,11 @@
 Il server è momentaneamente non accessibile, si prega di riprovare più tardi…
 "</string>
     <string name="move_failed">Impossibile spostare</string>
+    <string name="move_failed_retry">Impossibile spostare, attendi %1$s e prova di nuovo</string>
     <string name="copy_failed">Impossibile copiare</string>
+    <string name="copy_failed_retry">Impossibile copiare, attendi %1$s e prova di nuovo</string>
     <string name="delete_failed">Eliminazione fallita</string>
+    <string name="delete_failed_retry">Impossibile eliminare, attendi %1$s e prova di nuovo</string>
     <string name="delete_success">File eliminato</string>
     <string name="toast_file_not_can_read">Il file non è leggibile.</string>
     <string name="extended_storage_file_can_not_open">Impossibile aprire il file. Copia il file nella memoria interna."</string>
@@ -266,8 +269,9 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="storage_internal">Archivio interno</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>
+    <string name="storage_cloned_app">Spazio per app clonate</string>
     <string name="storage_internal_description">Memoria interna</string>
-    <string name="storage_sd_card_description">SD card</string>
+    <string name="storage_sd_card_description">Scheda SD</string>
     <string name="storage_usb_description">Memoria USB</string>
     <string name="bind_account">Sincronizza un account esistente</string>
     <string name="bind_account_summary">Sincronizza il tuo account KuaiPan con il tuo Mi Account</string>
@@ -292,6 +296,8 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="migrate_update_confirm">Prova adesso</string>
     <string name="migrate_runing">Trasferimento dati in corso...Controllare più tardi.</string>
     <string name="migrate_failed_toast">Trasferimento dati fallito, Trasferire manualmente. <a href="http://www.kuaipan.cn">Tocca qui per vedere >></a></string>
+    <string name="midrive_welcome_title">Benvenuto in Mi Drive</string>
+    <string name="midrive_welcome_message">I tuoi file su Kuaipan sono stati spostati su Mi Drive. Ti regaliamo 3 mesi di abbonamento a Mi Cloud. Mi Cloud e Mi Drive utilizzano lo stesso spazio. Puoi accedere ai tuoi file da i.mi.com.</string>
     <string name="operation_deleting_detail">Eliminazione (%1$d/%2$d)</string>
     <string name="operation_moving_detail">Spostamento (%1$d/%2$d)</string>
     <string name="operation_copying">Copia…</string>
@@ -634,7 +640,8 @@ e non perderai mai le ultime novità!"</string>
     <string name="user_agreement">Accordo utente</string>
     <string name="no_network_retry">Impossibile collegarsi alla rete. Verifica correzione e prova di nuovo.</string>
     <string name="network_dialog_checkbox_tip">Non mostrare più</string>
-    <string name="activity_rule">Regola attività ></string>
+    <string name="join_activity">Partecipa</string>
+    <string name="activity_rule">Regole</string>
     <string name="video_tag">\# %s #</string>
     <string name="topic_winners">Vincitori passati</string>
     <string name="local_video_empty">Nessun video breve sul dispositivo. Guarda i più popolari.</string>
@@ -708,11 +715,11 @@ e non perderai mai le ultime novità!"</string>
     <string name="enable_documentsui">Attiva prima %s in Impostazioni/App installate</string>
     <string name="not_installed_documentsui">DocumentsUI non installato</string>
     <string name="title_enable_documentsui">Attiva DocumentsUI</string>
+    <string name="error_contains_sharer_path">Impossibile crittografare i file in /MIUI/Gallery/cloud/sharer. Sposta i file in un'altra cartella e prova di nuovo.</string>
     <string name="server_error">Errore del server, riprova più tardi. (Errore %s)</string>
     <string name="network_not_available">Impossibile collegarsi alla rete</string>
     <string name="request_timeout">Richiesta di rete scaduta</string>
     <string name="login_expired">Accesso scaduto, accedi di nuovo.</string>
-    <string name="error_contains_sharer_path">"Impossibile crittografare i file nella cartella /MIUI/Gallery/cloud/sharer. Sposta i file in un'altra cartella e riprova"</string>
     <string name="hottest_sticker_str">Popolari</string>
     <string name="no_new_content_tip">"E' stato aggiornato, puoi passare al più richiesto!"</string>
     <string name="share_title_1">Ho trovato un adesivo fantastico!</string>
@@ -853,4 +860,23 @@ e non perderai mai le ultime novità!"</string>
     <string name="zero_comment">Nessun commento</string>
     <string name="no_topic">Nessun argomento</string>
     <string name="no_message">Nessun messaggio</string>
+    <string name="editor_commend">Modifica</string>
+    <string name="hot_video_load_more">Altro ></string>
+    <string name="title_album">Album</string>
+    <string name="album_name">Selezione giornaliera: %s</string>
+    <string name="album_creator">Creato da %s</string>
+    <string name="upload_video_forbidden">Non caricare video simili</string>
+    <string name="activity_parse_video_title">Incolla URL</string>
+    <string name="video_parse_btn">Avvia</string>
+    <string name="video_parsing_btn">Analisi…</string>
+    <string name="upload_external_notification_title">In pubblicazione, attendere prego</string>
+    <string name="upload_external_notification_success">Pubblicato correttamente</string>
+    <string name="upload_external_notification_failed">Impossibile pubblicare</string>
+    <string name="upload_external_action_hint">Incolla URL</string>
+    <string name="video_parse_hint">Applicazioni supportate: WeChat, Weibo, Youku.</string>
+    <string name="video_parse_timeout">Qualcosa è andato storto, prova di nuovo</string>
+    <string name="video_parse_error_repeated">"Non caricare video simili</string>
+    <string name="video_parse_success">Analizzato correttamente</string>
+    <string name="video_parse_error_unknown">Questo servizio video non è supportato, provane uno diverso</string>
+    <string name="interest_recommend">Video consigliati</string>
 </resources>

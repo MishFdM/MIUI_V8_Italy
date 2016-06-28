@@ -212,6 +212,7 @@
     <string name="incoming_answer_voice_text">Risposta vocale</string>
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
+    <string name="conference_callers_exceeded">Limite partecipanti superato</string>
     <string name="call_button_tools_text">Feature</string>
     <string name="call_button_dialer_text">Keyboard</string>
     <string name="select_audio_dialog_title">Please select answering mode</string>

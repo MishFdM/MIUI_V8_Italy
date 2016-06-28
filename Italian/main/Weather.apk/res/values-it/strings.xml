@@ -35,6 +35,7 @@
     <string name="activity_find_city_dialog_set">Impostazioni</string>
     <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
     <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
+    <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ssz"</string>
     <string name="data_source_timezone">GMT %1$s</string>
     <string name="activity_main_time_format">E</string>
     <string name="hour_minute_time_format">HH:mm</string>
@@ -144,11 +145,27 @@ Tocca lo schermo per aggiungere manualmente o localizzare di nuovo"</string>
     <string name="activity_main_one_alert" />
     <string name="activity_main_alert" />
     <string name="activity_alert_detail_title" />
-    <string name="edit_alert_city_title" />
     <string name="close">Chiudi</string>
     <string name="install">Install</string>
+    <string name="open">Apri</string>
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="aqi_publish_source">Aggiornato a %1$s di CNEMC</string>
     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
-    <string name="aqi_data_source">powered by Caiyun Weather</string>
+    <string name="aqi_data_source">Powered by Caiyun Weather</string>
+    <string name="traffic_controls">Road space rationing</string>
+    <string name="traffic_control_today_numbers">Oggi: %1$s %2$s</string>
+    <string name="traffic_control_tomorrow_numbers">Domani: %1$s %2$s</string>
+    <string name="traffic_control_daty_after_tomorrow_numbers">Dopo domani: %1$s %2$s</string>
+    <string name="button_sure_abandon">Annullare modifiche?</string>
+    <string name="mi_pad2">latte</string>
+    <string name="more_details">Altri dettagli</string>
+    <string name="international_details_title">Dettagli</string>
+    <string name="international_details_wind_title">VENTO</string>
+    <string name="international_details_real_feel_title">PERCEPITO®</string>
+    <string name="international_details_uv_index_title">Indice UV</string>
+    <string name="international_details_pressure_title">Pressione</string>
+    <string name="pressure_connect">%1$s MB</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
+    <string name="weather_alert">Avvisi meteo</string>
+    <string name="edit_alert_city_title">Gestisci avvisi</string>
 </resources>

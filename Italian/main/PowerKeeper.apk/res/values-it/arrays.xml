@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="group_name">
+        <item>normale</item>
+        <item>nascosto</item>
+        <item>lettura</item>
+        <item>media</item>
+    </string-array>
     <string-array name="group_name_translate">
         <item>Predefinito</item>
         <item>Modalità nascosta</item>
@@ -54,24 +60,28 @@
         <item>Suggeriti</item>
     </string-array>
     <string-array name="power_checker_group_prefix">
-        <item>Now</item>
+        <item>Adesso</item>
         <item>Background</item>
-        <item>Recently</item>
+        <item>Recenti</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Blocking deep Sleep mode</item>
-        <item>Blocking Sleep mode</item>
-        <item>Searching for WLAN</item>
-        <item>Using GPS</item>
-        <item>Occupying CPU</item>
-        <item>Waking device frequently</item>
+        <item>Blocco modalità sospensione profonda</item>
+        <item>Blocco modalità sospensione</item>
+        <item>Ricerca Wi-Fi</item>
+        <item>utilizzo GPS</item>
+        <item>Impegno CPU</item>
+        <item>Attivazione frequente dispositivo</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
+        <item>WakeLock kernel</item>
         <item>WakeLock</item>
-        <item>WIFI scan</item>
+        <item>Scansione Wi-Fi</item>
         <item>GPS</item>
         <item>CPU</item>
-        <item>Wake Up</item>
+        <item>Attivazione</item>
+    </string-array>
+    <string-array name="invisible_app_groups">
+        <item>selezionati</item>
+        <item>non selezionati</item>
     </string-array>
 </resources>

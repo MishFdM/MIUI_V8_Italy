@@ -9,8 +9,14 @@
         <item quantity="one">&amp;lt;font color==\"red\">%d brano&amp;lt;/font> download</item>
     </plurals>
     <plurals name="Ntracks_search_result">
-        <item quantity="other">%d brani correlati</item>
-        <item quantity="one">%d brano correlati</item>
+        <item quantity="other">%d brani trovati</item>
+        <item quantity="one">%d brano trovato</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">Puoi scaricare solo %d brani Premium per questo mese. Aggiorna il tuo Pacchetto Brani Premium per scaricarne altri</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">" Puoi scaricare solo %d brani Premium per questo mese. Sscaricare comunque i brani selezionati?"</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d giorni in scadenza</item>

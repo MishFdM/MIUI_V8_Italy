@@ -304,7 +304,9 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="format_unsupported_or_corrupted">"This format isn't supported or the file is corrupted"</string>
     <string name="fail_to_play">Impossibile riprodurre</string>
     <string name="my_music_empty">Playlist vuota</string>
+    <string name="local_music_empty">La playlist locale è vuota</string>
     <string name="my_music_empty_goto_online">Nessun brano trovato</string>
+    <string name="local_music_empty_goto_online">Nessun brano trovato</string>
     <string name="click_to_shuffle">Riproduzione casuale</string>
     <string name="send_to_title">Invia a (%1$s)</string>
     <string name="dialog_title_add_playlist">Aggiungi alla playlist</string>
@@ -315,7 +317,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="dialog_button_find_music">Trova nuova musica</string>
     <string name="dialog_button_editor_choice">Scelti dagli editori</string>
     <string name="dialog_button_create_playlist">Crea una playlist</string>
-    <string name="input_hint_prefix">Please input %1$s</string>
+    <string name="input_hint_prefix">Inserisci %1$s</string>
     <string name="cancel">Annulla</string>
     <string name="ok">OK</string>
     <string name="done">Fatto</string>
@@ -376,7 +378,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="data_usage_warning_summary">Lo streaming in alta qualità tramite rete cellulare può aumentare il traffico dati.</string>
     <string name="payment_success">Pagamento completato</string>
     <string name="payment_fail">Pagamento non riuscito</string>
-    <string name="music_service">Music Service</string>
+    <string name="music_service">Servizio Musica</string>
     <string name="higher_quality_music">Audio di alta qualità</string>
     <string name="higher_quality_music_summary">Esegui download e streaming alla massima qualità</string>
     <string name="expired">Scaduto</string>
@@ -695,13 +697,13 @@ attendere o selezionare Musica Online."</string>
     <string name="notification_headset_settings">Cuffie collegate</string>
     <string name="notification_headset_info">Tocca per vedere le impostazioni.</string>
     <string name="notification_headset_custom">Rifiuta</string>
-    <string name="notification_setting">Notification settings</string>
-    <string name="notification_play_title">Notification shade widget</string>
-    <string name="notification_play_summary">View current and next song, display lyrics on Home screen</string>
-    <string name="notification_favorite_title">Notification about favorite artists</string>
-    <string name="notification_favorite_summary">Get notifications about new releases and latest hits</string>
-    <string name="notification_recommend_title">Important notifications</string>
-    <string name="notification_recommend_summary">Learn about new music trends and app promotions</string>
+    <string name="notification_setting">Impostazioni di notifica</string>
+    <string name="notification_play_title">Widget pannello notifiche</string>
+    <string name="notification_play_summary">MOstra il brano attuale e quello successivo, mostra i testi sulla Home</string>
+    <string name="notification_favorite_title">Notifica per gli artisti preferiti</string>
+    <string name="notification_favorite_summary">Ricevi notifiche sulle uscite dei tuoi artisti preferiti</string>
+    <string name="notification_recommend_title">Notifiche importanti</string>
+    <string name="notification_recommend_summary">Scopri i nuovi trend musicali e le promozioni sulle app</string>
     <string name="ticket_title">Mostra biglietti</string>
     <string name="ticket_summary">Compra i biglietti per spettacoli, concerti, opere ed altri eventi</string>
     <string name="android_sdk_too_low">Prima aggiorna la versione di Android.</string>
@@ -756,15 +758,6 @@ attendere o selezionare Musica Online."</string>
     <string name="traffic_network_alert">Piano dati Mi Music</string>
     <string name="traffic_network_alert_message">Stai utilizzando un piano dati Mi Music fornito da China Unicom. Dovresti connetterti ad una rete 3gnet per ascoltare musica in streaming senza costi aggiuntivi. Assicurati di aver verificato la tua connessione prima di ascoltare musica ins treaming.</string>
     <string name="set_now">Vai nelle Impostazioni</string>
-    <string name="pulluprefreshrecyclerview_loading_running">Loading...</string>
-    <string name="pulluprefreshrecyclerview_loading_finished">Finishing loading</string>
-    <string name="pulluprefreshrecyclerview_loading_error">Fail to load</string>
-    <string name="follow">Follow</string>
-    <string name="followed">Following</string>
-    <string name="artist_favor">Featured</string>
-    <string name="artist_album">Ablum</string>
-    <string name="download_start_btn">Free Download…</string>
-    <string name="already_download_btn">Downloading…</string>
-    <string name="download_complete_btn">Installed…</string>
-    <string name="download_done_btn">Downloaded</string>
+    <string name="force_touch_play_local_music_random">Riproduci casualmente la musica locale</string>
+    <string name="force_touch_audio_picker">Selezione audio</string>
 </resources>

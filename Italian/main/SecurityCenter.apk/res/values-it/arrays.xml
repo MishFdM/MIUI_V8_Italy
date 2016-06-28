@@ -55,6 +55,7 @@
         <item>"Utilizzo dati "</item>
         <item>"Utilizzo Wi-Fi "</item>
         <item>"Dati risparmiati "</item>
+        <item>Piano Dati Mi</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Ricevi automaticamente</item>
@@ -80,9 +81,9 @@
         <item>Mai</item>
     </string-array>
     <string-array name="lock_mode">
-        <item>When device is locked</item>
-        <item>When device is locked or after exiting app</item>
-        <item>When device is locked​ or in 1 minute after exiting app</item>
+        <item>Quando il dispositivo è bloccato</item>
+        <item>"Quando il dispositivo è bloccato dopo l'uscita dall'app"</item>
+        <item>"Quando il dispositivo è bloccato o in 1 minuto dopo l'uscita dall'app"</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Dopo 1 minuto</item>

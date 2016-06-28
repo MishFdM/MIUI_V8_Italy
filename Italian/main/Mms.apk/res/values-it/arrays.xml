@@ -12,6 +12,7 @@
         <item>Web</item>
         <item>Indirizzo</item>
         <item>Note</item>
+        <item>Relazione</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Ricezione</item>

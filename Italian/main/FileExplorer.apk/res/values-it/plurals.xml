@@ -128,6 +128,38 @@
         <item quantity="few">%1$d giorni fa</item>
         <item quantity="many">%1$d giorni fa</item>
     </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d secondi</item>
+        <item quantity="zero">%1$d secondi</item>
+        <item quantity="one">%1$d secondo</item>
+        <item quantity="two">%1$d secondi</item>
+        <item quantity="few">%1$d secondi</item>
+        <item quantity="many">%1$d secondi</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d min</item>
+        <item quantity="zero">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="two">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+        <item quantity="many">%1$d min</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="zero">%1$d ore</item>
+        <item quantity="one">%1$d ora</item>
+        <item quantity="two">%1$d ore</item>
+        <item quantity="few">%1$d ore</item>
+        <item quantity="many">%1$d ore</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d giorni</item>
+        <item quantity="zero">%1$d giorni</item>
+        <item quantity="one">%1$d giorno</item>
+        <item quantity="two">%1$d giorni</item>
+        <item quantity="few">%1$d giorni</item>
+        <item quantity="many">%1$d giorni</item>
+    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">trovato %1$d nuovi file</item>
         <item quantity="zero">trovato %1$d nuovi file</item>

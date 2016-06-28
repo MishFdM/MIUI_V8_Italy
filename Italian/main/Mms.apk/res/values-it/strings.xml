@@ -393,8 +393,8 @@
     <string name="msg_type_hint_mms">Messaggio multimediale</string>
     <string name="msg_type_hint_sms_omit">SMS</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
-    <string name="msg_type_hint_mx">Messaggio Mi Cloud</string>
     <string name="msg_type_hint_mx_omit">Mi Msg</string>
+    <string name="msg_type_hint_mx">Messaggio Mi Cloud</string>
     <string name="mx_reactivate">Riattiva messaggi Mi Cloud</string>
     <string name="mx_activate_error_title">Impossibile attivare la carta SIM</string>
     <string name="mx_activate_error_sim_change">Sembra che tu abbia cambiato le SIM. Per attivare i messaggi cloud, il tuo dispositivo deve inviare un SMS ai server di Xiaomi.</string>
@@ -493,7 +493,7 @@
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
     <string name="sp_mark_as_read">Segnare tutti i messaggi come già letti?</string>
     <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso…</string>
-    <string name="sp_mark_as_read_menu_title">Mark as read</string>
+    <string name="sp_mark_as_read_menu_title">Segna come letto</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">Messaggi di tutti i servizi</string>
     <string name="sp_category_bank">Messaggi dei servizi bancari</string>
@@ -547,6 +547,14 @@
     <string name="festival_continue">OK</string>
     <string name="festival_never_remind">Non mostrare di nuovo</string>
     <string name="pref_title_festival_networking">Notifica connessione</string>
+    <string name="hms_add_image_progress_message">In elaborazione...</string>
+    <string name="view_hms_attachment_fail">Impossibile scaricare immagine</string>
+    <string name="mx_type_guide">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi</string>
+    <string name="mx_dspt_provision">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi. Il tuo operatore potrebbe addebitarti il costo di un SMS, necessario per attivare il servizio.</string>
+    <string name="mx_dspt_provision_ex">"Invia messaggi e chiama altri utenti MIUI senza costi aggiuntivi dal tuo operatore. VoIP supportato da Weihui. Leggi l'Informativa sulla Privacy di Weihui."</string>
+    <string name="mx_dspt_provision_ex2">Informativa sulla Privacy</string>
+    <string name="mx_activate_dlg_title">Attiva Mi Message</string>
+    <string name="mx_activate_dlg_title_ex">Attiva Mi Message e Voce</string>
     <string name="resource_price_free">Gratis</string>
     <string name="menu_send_as_common">Invia come SMS</string>
     <string name="message_sent">Inviato</string>
@@ -565,15 +573,7 @@
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[picture]</string>
     <string name="audio_download_failed">Download audio fallito</string>
-    <string name="hms_add_image_progress_message">Elaborazione…</string>
-    <string name="view_hms_attachment_fail">Impossibile scaricare immagine</string>
     <string name="hms_uri_param_err">"L'URL non può essere vuoto"</string>
-    <string name="mx_type_guide">Invia e ricevi messaggi gratuitamente con gli utenti che utilizzano questa funzione</string>
-    <string name="mx_dspt_provision">Mi Cloud Message ti consente di inviare messaggi ad altri utenti MIUI senza costi. Il tuo operatore potrebbe addebitarti il costo di un SMS necessario per attivare questo servizio.</string>
-    <string name="mx_dspt_provision_ex">"Invia messaggi e chiama altri utenti MIUI senza costi aggiuntivi con il tuo operatore. VoIP supportato da Weihui. Leggi l'informativa sulla privacy di Weihui."</string>
-    <string name="mx_dspt_provision_ex2">Informativa sulla privacy</string>
-    <string name="mx_activate_dlg_title">Attiva Mi Message</string>
-    <string name="mx_activate_dlg_title_ex">Attiva Mi Message e Voce</string>
     <string name="pref_title_sms_validity_period">Periodo di validità SMS</string>
     <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>
     <string name="open_url_with_web">Aprire questo link nel browser?</string>
@@ -588,12 +588,6 @@
     <string name="storage_dialog_database">Database:</string>
     <string name="storage_dialog_available_space">Spazio disponibile:</string>
     <string name="storage_unavailable">Spazio non disponibile</string>
-    <string name="remind_follow">Follow this number?</string>
-    <string name="network_error">Network error</string>
-    <string name="follow_finished">Following number</string>
-    <string name="service_unavailiable">Service unavailable</string>
-    <string name="already_followed">"You're already following this number"</string>
-    <string name="follow_forbidden">"Can't follow this number"</string>
     <string name="security_alert_desc">"Il mittente non è tra i tuoi contatti. "<u><font color="red">Segnala questo numero</font></u></string>
     <string name="security_alert_desc_highlight">Segnala questo numero</string>
     <string name="security_alert_dialog_title">Segnala</string>
@@ -638,25 +632,26 @@
     <string name="fake_cell_alert_hint">Looks like this message was sent from the phone number which is different from the one displayed. Be cautious of the SMS containing financial requests.</string>
     <string name="fake_cell_safe_hint">This message is safe</string>
     <string name="fake_cell_checking_hint">Safety checking…</string>
+    <string name="fake_cell_timeout_hint">Controllo di sicurezza fallito</string>
     <string name="delete_wild_sims">Elimina numeri</string>
     <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
     <string name="delete_wild_sims_confirm">Tutti i numeri associati a questo contatto verranno eliminati dal telefono. Puoi ripristinarli su i.mi.com.</string>
-    <string name="url_scanning">Url scanning…</string>
-    <string name="url_result_safe">This url is safe</string>
-    <string name="url_fraud_title">Fraud suspicious</string>
-    <string name="url_fraud_risky_alert">"The website you are trying to visit may be a fraud link, are you sure to move on? 
+    <string name="url_scanning">Scansione URL…</string>
+    <string name="url_result_safe">Questo URL è sicuro</string>
+    <string name="url_fraud_title">Possibile truffa</string>
+    <string name="url_fraud_risky_alert">"Il sito che stai per visitare potrebbe essere una truffa, sei sicuro di voler procedere? 
 %s"</string>
-    <string name="url_fraud_dangerous_alert">"The website you are trying to visit is a fraud link, can be harmful to your device and your property, are you sure to move on? 
+    <string name="url_fraud_dangerous_alert">"Il sito che stai per visitare potrebbe essere una truffa, potrebbe danneggiare il tuo dispositivo ed i tuoi beni, sei sicuro di voler procedere? 
 %s"</string>
-    <string name="url_fraud_visit"><u>Visit anyway</u></string>
-    <string name="url_fraud_insurance">Fraud insurance</string>
-    <string name="sms_card_partner_label">"Sms card partner: "</string>
+    <string name="url_fraud_visit"><u>Visita comunque</u></string>
+    <string name="url_fraud_insurance">Truffa assicurativa</string>
+    <string name="sms_card_partner_label">"Socio scheda SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
-    <string name="add_to_browser_favorite_success">aggiunto</string>
+    <string name="add_to_browser_favorite_success">Aggiunto</string>
     <string name="add_to_browser_favorite_failed">non aggiunto</string>
     <string name="i_know">OK</string>
-    <string name="second_mms">second message</string>
-    <string name="second_mms_notice">only display second message</string>
-    <string name="second_mms_introduction">please go to second space</string>
-    <string name="second_mms_switch">switch user</string>
+    <string name="second_mms">secondo messaggio</string>
+    <string name="second_mms_notice">mostra solo secondo messaggio</string>
+    <string name="second_mms_introduction">vai al secondo spazio</string>
+    <string name="second_mms_switch">cambia utente</string>
 </resources>
