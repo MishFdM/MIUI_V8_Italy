@@ -27,7 +27,7 @@
     <string name="resource_ranking_purchase">A pagamento</string>
     <string name="resource_category">Categoria</string>
     <string name="resource_my">Locali</string>
-    <string name="resource_online">%1$s online</string>
+    <string name="resource_online">Online</string>
     <string name="resource_pack_price_info">%1$s Originale</string>
     <string name="resource_pack_discount_info">%1$s Salvato!</string>
     <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti. Vuoi continuare?</string>
