@@ -24,6 +24,7 @@
 :%1$s</string>
     <string name="cloud_backup_detail_manage">Gestisci backup</string>
     <string name="cloud_backup_detail_manage_summary">%1$s backup, dimensione:%2$s</string>
+    <string name="backup_size_summary">Dimensione: %1$s</string>
     <string name="cloud_back_up_opening">Solo un secondo…</string>
     <string name="cloud_back_up_no_network_warn">Impossibile collegarsi alla rete</string>
     <string name="cloud_back_up_ok_btn">OK</string>
@@ -117,6 +118,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="backup_now">Esegui backup adesso</string>
     <string name="restore_task_unfinished">Ripristino appin corso, riprova più tardi</string>
     <string name="backup_successfully">Backup eseguito con successo</string>
+    <string name="account_error">Errore account</string>
     <string name="btn_back">Indietro</string>
     <string name="btn_continue">Avanti</string>
     <string name="btn_skip">Salta questo passaggio</string>

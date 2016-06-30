@@ -32,6 +32,30 @@
         <item quantity="other">Già condiviso con %d persone</item>
         <item quantity="one">Già condiviso con %d persona</item>
     </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Le foto selezionate non sono su questo dispositivo. Vuoi scaricarle tramite la rete dati mobile?</item>
+        <item quantity="one">La foto selezionata non è su questo dispositivo. Vuoi scaricarla tramite la rete dati mobile</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Le foto selezionate (%dMB) non sono su questo dispositivo. uoi scaricarle tramite la rete dati mobile?</item>
+        <item quantity="one">La foto selezionata (%dMB) non è su questo dispositivo. Vuoi scaricarla tramite la rete dati mobile?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Le foto selezionate non sono su questo dispositivo. Verranno scaricate.</item>
+        <item quantity="one">La foto selezionata non è su questo dispositivo. Verrà scaricata.</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Impossibile scaricare %1$d foto, provare di nuovo?</item>
+        <item quantity="one">Impossibile scaricare la foto, provare di nuovo?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Impossibile scaricare %1$d foto (%2$dMB), provare di nuovo?"</item>
+        <item quantity="one">Impossibile scaricare (%2$dMB), provare di nuovo?"</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Annullare il download di %d foto rimanenti?</item>
+        <item quantity="one">Annullare il download della foto rimanente</item>
+    </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Eliminare %1$d foto %2$s?</item>
         <item quantity="one">ELiminare questa foto %2$s?</item>

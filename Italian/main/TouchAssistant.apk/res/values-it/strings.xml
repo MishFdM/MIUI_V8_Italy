@@ -5,11 +5,13 @@
     <string name="applications">Applicazioni</string>
     <string name="category_others">Altro</string>
     <string name="category_setting">Impostazioni</string>
+    <string name="close_panel">Chiudi assistente touch</string>
     <string name="customize_entries">Funzione personalizzata</string>
     <string name="enable_touch_assistant">Attiva Assistente Touch</string>
     <string name="function_settings">Impostazioni funzione</string>
     <string name="hide_touch_assistant">"Nascondi automaticamente l'Assistente Touch"</string>
     <string name="hide_touch_assistant_intro">"Nascondi l'Assistente Touch in alcune app."</string>
+    <string name="motion_behavior">Modalità movimento</string>
     <string name="name_alipay_payment_code">Pagamento veloce Alipay</string>
     <string name="name_alipay_scan">Scansiona codice Alipay</string>
     <string name="name_long_press_power_key">Tieni premuto il tasto power</string>
@@ -27,6 +29,7 @@
     <string name="name_screenshot">Screenshot</string>
     <string name="name_wechat_payment_code">Pagamento rapido Wechat</string>
     <string name="name_wechat_scan">Scansiona codice Wechat</string>
+    <string name="open_panel">"Apri l'assistente touch"</string>
     <string name="pay_entry_dialog_title_select">"Seleziona l'app da aprire"</string>
     <string name="pay_entry_dialog_title_setting">"Imposta l'app selezionata da aprire"</string>
     <string name="pref_category_others">Altro</string>
@@ -35,4 +38,5 @@
     <string name="pref_category_system">Impostazioni di sistema</string>
     <string name="restore_default">Ripristina predefinite</string>
     <string name="restore_intro">Ripristina le impostazioni rpedefinite, che includono funzioni e ordini. Questo non eliminerà i dati sul tuo telefono.</string>
+    <string name="show_on_keyguard">Mostra su Lockscreen</string>
 </resources>

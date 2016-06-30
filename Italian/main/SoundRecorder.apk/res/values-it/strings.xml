@@ -2,13 +2,13 @@
 <resources>
     <string name="path_soundrecorder_setting">System apps/Recorder</string>
     <string name="search_app">Recorder</string>
-    <string name="search_led_indicator">Lock screen notifications</string>
-    <string name="search_tip_rename">Name recordings manually</string>
-    <string name="search_led_indicator_prompt">While recording, show in status bar and pulse notification light at lock screen</string>
-    <string name="search_scenes">Recording type</string>
-    <string name="search_silent_mode">Mute ringer when recording</string>
-    <string name="search_enable_earpiece_title">Use receiver to play audio</string>
-    <string name="search_quliaty_title">Recording quality</string>
+    <string name="search_led_indicator">Notifiche lockscreen</string>
+    <string name="search_tip_rename">Registrazioni manuale nomi</string>
+    <string name="search_led_indicator_prompt">Durante la registrazione, mostra nella barra di stato e con notifica luminosa su lockscreen</string>
+    <string name="search_scenes">Tipo di registrazione</string>
+    <string name="search_silent_mode">Silenzia suoneria durante registrazione</string>
+    <string name="search_enable_earpiece_title">Utilizza il ricevitore per riprodurre audio</string>
+    <string name="search_quliaty_title">Qualità di registrazione</string>
     <string name="app_name">Registratore</string>
     <string name="recording">Registrazione</string>
     <string name="recording_stopped">Registrazione interrotta</string>
@@ -116,9 +116,9 @@
     <string name="invalid_argument">Illegal argument</string>
     <string name="playback_delete_records">Delete the record</string>
     <string name="playback_share_records">Share the record</string>
-    <string name="recording_quality_high">High quality</string>
-    <string name="recording_quality_standard">Standard quality</string>
-    <string name="recording_quality_low">Low quality</string>
+    <string name="recording_quality_high">Alta qualità</string>
+    <string name="recording_quality_standard">Qualità standard</string>
+    <string name="recording_quality_low">BAssa qualità</string>
     <string name="share_dialog_title">Share with</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="recognition_error_stopped">Recognition Stop</string>
@@ -127,4 +127,12 @@
     <string name="recognition_error_internal">Internal error</string>
     <string name="recognition_error_engine">Recognition Engine out of order</string>
     <string name="recognition_error_engine_singleton">Recognition Engine is busy</string>
+    <string name="recognition_error_download_title">Nessun motore di riconoscimento</string>
+    <string name="recognition_error_download_msg">Scarica motore di riconoscimento per utilizzare questo servizio.</string>
+    <string name="recognition_error_download_ok">Scarica</string>
+    <string name="recognition_error_download_cancel">Più tardi</string>
+    <string name="recognition_error_download_fail">Impossibile scaricare. Controlla le impostazioni di rete e riprova.</string>
+    <string name="recognition_error_downloading">Download in corso</string>
+    <string name="recognition_status_downloading">Download in corso</string>
+    <string name="runtime_permission_ungranted">Impossibile utilizzare il Registratore per mancanza di autorizzazioni</string>
 </resources>

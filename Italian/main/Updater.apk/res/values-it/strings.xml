@@ -171,6 +171,9 @@ http://zhushou.xiaomi.com"</string>
     <string name="confirm_local_package_wipe_title">Eliminare i dati?</string>
     <string name="confirm_local_package_wipe_msg">I tuoi dati personali verranno eliminati. Assicurati di aver eseguito il backup dei dati importanti prima di iniziare il procedimento.</string>
     <string name="confirm_local_package_wipe_btn">Cancella e aggiorna</string>
+    <string name="dialog_reboot_title">Aggiornamento di sistema</string>
+    <string name="dialog_reboot_message">"MIUI sta per aggiornarsi. Questo processo potrebbe impiegare 5-20 minuti. Mantieni il tuo dispositivo acceso, e non riavviarlo mentre l'aggiornaemnto è in corso."</string>
+    <string name="dialog_reboot_yes">Aggiorna</string>
     <string name="update_feedback">Feedback aggiornamento</string>
     <string name="update_feedback_end">Ti sei perso la griglia di questa settimana</string>
     <string name="update_feedback_end_sum">Puoi accedere ogni martedì</string>

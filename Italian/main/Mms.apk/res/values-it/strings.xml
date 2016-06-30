@@ -2,8 +2,8 @@
 <resources>
     <string name="conversation_style">bubble</string>
     <string name="prefDefault_ringtone_repeat">1</string>
-    <string name="search_title_mms">Messaging</string>
-    <string name="search_keyword_mms">Messaging</string>
+    <string name="search_title_mms">Messaggi</string>
+    <string name="search_keyword_mms">Messaggi</string>
     <string name="search_path_mms">Settings/System apps/Messaging</string>
     <string name="pref_summary_manage_sim_messages">Gestisci i messaggi sulla tua scheda SIM</string>
     <string name="pref_title_manage_sim_messages">Gestisci messaggi SIM</string>
@@ -633,6 +633,7 @@
     <string name="fake_cell_safe_hint">This message is safe</string>
     <string name="fake_cell_checking_hint">Safety checking…</string>
     <string name="fake_cell_timeout_hint">Controllo di sicurezza fallito</string>
+    <string name="fake_cell_detection_entry">Rilevamento base fallito</string>
     <string name="delete_wild_sims">Elimina numeri</string>
     <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
     <string name="delete_wild_sims_confirm">Tutti i numeri associati a questo contatto verranno eliminati dal telefono. Puoi ripristinarli su i.mi.com.</string>
@@ -650,8 +651,6 @@
     <string name="add_to_browser_favorite_success">Aggiunto</string>
     <string name="add_to_browser_favorite_failed">non aggiunto</string>
     <string name="i_know">OK</string>
-    <string name="second_mms">secondo messaggio</string>
-    <string name="second_mms_notice">mostra solo secondo messaggio</string>
-    <string name="second_mms_introduction">vai al secondo spazio</string>
-    <string name="second_mms_switch">cambia utente</string>
+    <string name="second_mms_introduction">Accedi al secondo spazio</string>
+    <string name="second_mms_switch">Cambia</string>
 </resources>
