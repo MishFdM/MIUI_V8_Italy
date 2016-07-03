@@ -58,7 +58,7 @@
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Eliminare %1$d foto %2$s?</item>
-        <item quantity="one">ELiminare questa foto %2$s?</item>
+        <item quantity="one">Eliminare questa foto %2$s?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
         <item quantity="other">Eliminare %1$d video %2$s?</item>
