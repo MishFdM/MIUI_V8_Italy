@@ -1386,8 +1386,8 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="network_settings_title">Mobile networks</string>
     <string name="antispam_setting">Blocklist</string>
     <string name="call_advanced_setting_title">Advanced setting</string>
-    <string name="preference_data_usage_title">Set data plan</string>
-    <string name="preference_data_usage_summary">Set your data plan to control the usage of mobile data</string>
+    <string name="preference_data_usage_title">Piano dati</string>
+    <string name="preference_data_usage_summary">"Imposta il piano dati per controllare l'uso dei dati mobili"</string>
     <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mi_sim_settings_summary">Use mobile data without a SIM card</string>
