@@ -153,8 +153,8 @@
     <string name="turn_off_phone_event_hint">Non potrai vedere le informazioni sui numeri sconosciuti.</string>
     <string name="turn_off_smart_antispam_hint">Disattivare la protezione per le chiamate da numeri sconosciuti?</string>
     <string name="about_phone_event">Informazioni sul servizio</string>
-    <string name="phone_event_setting_notice_text">Le pagine gialle vorrebbero caricare numeri di servizio verificati (com il tuo provider) sui server Mi, in questo modo puoi ricevere aggiornamenti sui servizi.</string>
-    <string name="phone_event_setting_notice_text_with_contacts_permission">"Utilizzando questa funzione accetti %1$s e %2$s. Per poter recuperare le informazioni sul numero, dobbiamo accedere ai tuoi contatti."</string>
+    <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
+    <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
     <string name="agree_to_turn_on">Concordo</string>
     <string name="payment_back">Indietro</string>
     <string name="payment_failed_common_problems">Si è verificato un errore durante il pagamento.</string>
