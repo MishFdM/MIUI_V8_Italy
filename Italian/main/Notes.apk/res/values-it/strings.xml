@@ -12,10 +12,11 @@
     <string name="dlg_unmark_privacy_message">Mostra…</string>
     <string name="rename_folder_dialog_tile">Rinomina cartella</string>
     <string name="delete_folder_dialog_tile">Elimina cartella</string>
-    <string name="toast_privacy_mode">Operazione non consentita per le note nonvisibili</string>
     <string name="menu_mark_privacy">Nascondi</string>
     <string name="menu_unmark_privacy">Mostra</string>
     <string name="menu_move_to">Sposta in</string>
+    <string name="menu_send_as_image">Invia come immagine</string>
+    <string name="sns_desc_image_preview">Anteprima messaggio</string>
     <string name="privacy_notes_fragment_title">Note nascoste</string>
     <string name="toast_mark_privacy_notes">Nascoste con successo</string>
     <string name="toast_unmark_privacy_notes">Visualizzate con successo</string>
@@ -101,8 +102,6 @@ Tocca il + per creare una cartella"</string>
     <string name="alarm_bar_title">Promemoria</string>
     <string name="toast_message_add_image_fail">Impossibile inserire immagine.</string>
     <string name="toast_message_add_text_warn">Questo tipo di file non è supportato</string>
-    <string name="toast_folder_privacy_mode">Impossibile modificare cartella in modalità Guard</string>
-    <string name="toast_note_privacy_mode">Impossibile creare note in modalità Ospite</string>
     <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>
     <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
     <string name="snippet_image_stub">[Image]</string>

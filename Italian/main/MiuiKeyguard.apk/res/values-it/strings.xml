@@ -55,6 +55,7 @@
     <string name="unlock_string">Sblocca</string>
     <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
     <string name="open_remote_center_hint_text">Scorri a destra per aprire il Telefono</string>
+    <string name="left_action_default_hint_text">Mi Remote</string>
     <string name="click_to_enter_text">Tocca per sbloccare</string>
     <string name="fingerprint_try_again_text">Prova di nuovo</string>
     <string name="fingerprint_not_identified_title">Impossibile leggere le impronte digitali</string>

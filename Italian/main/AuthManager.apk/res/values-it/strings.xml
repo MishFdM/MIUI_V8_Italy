@@ -287,5 +287,4 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="grant_dialog_button_deny">Nega</string>
     <string name="current_permission_template">%1$s di %2$s</string>
     <string name="never_ask_again">Non chiedere più</string>
-    <string name="wakepath_confirm_start_activity">Consenti %1$s di aprire %2$s?</string>
 </resources>

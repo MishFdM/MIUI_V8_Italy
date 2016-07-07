@@ -784,8 +784,10 @@ Le schede contatti sono disattivate"</string>
     <string name="callrecordview_menu_paste">Incolla</string>
     <string name="callrecordview_menu_conference">Audioconferenza</string>
     <string name="openDialKeyboard">Tastierino</string>
-    <string name="t9_search_guide_pinyin">Digita 7 e 5 per cercare Steve Jobs</string>
-    <string name="t9_search_guide_zhuyin">Digita 7 e 5 per cercare Steve Jobs</string>
+    <string name="t9_search_guide_pinyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
+    <string name="t9_search_guide_pinyin_title2">Inserisci 2 e 3 per cercare <font fgcolor="">A</font>lan <font fgcolor="">F</font>rank</string>
+    <string name="t9_search_guide_zhuyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
+    <string name="t9_search_guide_zhuyin_title2">Inserisci 5 e 6 per cercare <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
     <string name="date_time_set">Imposta</string>
     <string name="service_provider">Cartella</string>
     <string name="service_provider_detail">Dettagli cartella</string>
@@ -817,6 +819,7 @@ Le schede contatti sono disattivate"</string>
     <string name="multi_number_menu_group">Nuovo gruppo</string>
     <string name="multi_number_menu_delete">Elimina</string>
     <string name="video_call">Videochiamata</string>
+    <string name="copy_number">Copia</string>
     <string name="edit_contact_card_title">Modifica dettagli contatto</string>
     <string name="preview_contact_card_title">Importazione contatti…</string>
     <string name="import_contact_card_button">Importa contatto</string>
@@ -828,7 +831,7 @@ Le schede contatti sono disattivate"</string>
     <string name="remove_blacklist">Sblocca</string>
     <string name="blacklist">Blocca</string>
     <string name="details_list_group_header_other">ALTRO</string>
-    <string name="details_list_group_header_more_action">Altro</string>
+    <string name="menuMoreDescription">Altro</string>
     <string name="photo_fragment">Foto</string>
     <string name="photo_load_failed">Impossibile caricare la foto</string>
     <string name="empty_divider_title"/>
@@ -1095,7 +1098,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="toast_copying">Copia…</string>
     <string name="toast_copy_done">Eseguito</string>
     <string name="group_name">I miei gruppi</string>
-    <string name="followed_yellowpage">Cartelle preferite</string>
     <string name="import_all_sim_entries_miui">Importa tutti i contatti</string>
     <string name="import_sim_entry_miui">Importa</string>
     <string name="delete_sim_entry_miui">Elimina</string>

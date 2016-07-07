@@ -153,7 +153,8 @@
     <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
     <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto</string>
     <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla Schermata di blocco</string>
-    <string name="status_bar_settings_notification_sound_vibrate">Suoni e vibrazione</string>
+    <string name="status_bar_settings_notification_sound">Audio</string>
+    <string name="status_bar_settings_notification_vibrate">Vibrazione</string>
     <string name="status_bar_settings_notification_led">LED di notifica</string>
     <string name="status_bar_settings_notification_bar">Pannello delle notifiche</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
@@ -184,8 +185,8 @@
     <string name="status_bar_screen_key_home">Tasto Home</string>
     <string name="status_bar_screen_key_recent_apps">Tasto applicazioni recenti</string>
     <string name="status_bar_screen_key_back">Tasto indietro</string>
-    <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
-    <string name="settings_toggle_position_divider_list">Toggles placed above bar are active</string>
+    <string name="settings_toggle_position_divider_page">%1$d comandi sopra la barra sono attivi</string>
+    <string name="settings_toggle_position_divider_list">I comandi sopra la barra sono attivi</string>
     <string name="status_bar_style_list">Single page</string>
     <string name="status_bar_style_page">Dual page</string>
     <string name="status_bar_settings_style">Statusbar style</string>
@@ -204,8 +205,8 @@
     <string name="create">Crea</string>
     <string name="allow">Consenti</string>
     <string name="deny">Nega</string>
-    <string name="dlg_close">Close</string>
-    <string name="dlg_switch">Switch</string>
+    <string name="dlg_close">Chiudi</string>
+    <string name="dlg_switch">Cambia</string>
     <string name="device_info_default">Sconosciuto</string>
     <string name="show_dev_on">Ora sei uno sviluppatore.</string>
     <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
@@ -825,7 +826,7 @@ Consetirlo a tutte le app che vogliono eseguire la ricerca?"</string>
     <string name="wifi_hotspot_message">"%1$s richiede l'accesso prima di collegarsi alla rete."</string>
     <string name="wifi_hotspot_connect">CONNETTI</string>
     <string name="no_internet_access_text">This network has no Internet access. Stay connected?</string>
-    <string name="no_internet_access_remember">Don’t ask again for this network</string>
+    <string name="no_internet_access_remember">Non chiedere più per questa rete</string>
     <string name="wifi_connect">Connetti</string>
     <string name="wifi_failed_connect_message">Impossibile connettersi alla rete</string>
     <string name="wifi_forget">Elimina</string>
@@ -919,8 +920,8 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_state_unknown">Sconosciuto</string>
     <string name="wifi_config_info">Configurazione Wi-Fi</string>
     <string name="config_list_label">Reti configurate</string>
-    <string name="wifi_calling_settings_title">WLAN calling</string>
-    <string name="wifi_calling_mode_title">Calling preference</string>
+    <string name="wifi_calling_settings_title">Chiamata Wi-Fi</string>
+    <string name="wifi_calling_mode_title">Preferenze di chiamata</string>
     <string name="wifi_calling_mode_dialog_title">WLAN calling mode</string>
     <string name="wifi_calling_off_explanation">When WLAN calling is on, your phone can route calls via WLAN networks or your carrier’s network, depending on your preference and which signal is stronger. Before turning on this feature, check with your carrier regarding fees and other details.</string>
     <string name="home_settings">Pagina Home</string>
@@ -1036,7 +1037,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="sim_enter_cancel">Annulla</string>
     <string name="sim_multi_sims_title">Trovate SIM multiple</string>
     <string name="sim_multi_sims_summary">Scegli la SIM preferita per connettersi alla rete dati.</string>
-    <string name="sim_change_data_title">Change data SIM?</string>
+    <string name="sim_change_data_title">Modificare SIM dati?</string>
     <string name="sim_change_data_message">Use %1$s instead of %2$s for cellular data?</string>
     <string name="sim_preferred_title">Update preferred SIM card?</string>
     <string name="sim_preferred_message">%1$s is the only SIM in your device. Do you want to use this SIM for cellular data, calls, and SMS messages?</string>
@@ -1116,8 +1117,8 @@ Il PIN potrebbe essere errato."</string>
     <string name="storage_low_summary">Alcune funzioni di sistema, come la sincronizzazione, potrebbero non funzionare correttamente. Prova a liberare spazio eliminando o sbloccando elementi, come applicazioni o contenuti multimediali.</string>
     <string name="storage_menu_rename">Rinomina</string>
     <string name="storage_menu_mount">Monta</string>
-    <string name="storage_menu_unmount">Eject</string>
-    <string name="storage_menu_format">Format</string>
+    <string name="storage_menu_unmount">Espelli</string>
+    <string name="storage_menu_format">Formatta</string>
     <string name="storage_menu_format_public">Format as portable</string>
     <string name="storage_menu_format_private">Format as internal</string>
     <string name="storage_menu_migrate">Migrate data</string>
@@ -1384,7 +1385,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e Cellulare per stabilire la posizione</string>
     <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e Cellulare per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
-    <string name="location_menu_scanning">Scanning</string>
+    <string name="location_menu_scanning">Scansione</string>
     <string name="location_scanning_screen_title">Scanning</string>
     <string name="location_scanning_wifi_always_scanning_title">Wi‑Fi scanning</string>
     <string name="location_scanning_wifi_always_scanning_description">Improve location by allowing system apps and services to detect Wi‑Fi networks at any time.</string>
@@ -3225,6 +3226,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_touch_sensitive_title">Glove mode</string>
     <string name="search_screen_effect">Colors &amp; saturation</string>
     <string name="search_screen_saver_settings">Screensaver</string>
+    <string name="search_screen_paper_mode">Modalità di lettura</string>
     <string name="search_sound_settings">Sound;Volumes;Silent mode;Alarm;Music;Vibrate;Phone ringtone;Default notification sound;Message received;Message delivered;Touch;Screen lock sound;Audio settings;Suppress noise</string>
     <string name="search_ring_volume">Volume suoneria</string>
     <string name="search_ringtone">Suoneria</string>
@@ -3601,6 +3603,10 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="handy_mode_tips">Scorri dal tasto Home verso sinistra o verso destra per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
     <string name="handy_mode_size">Dimensione schermo</string>
     <string name="touch_assistant">Touch assistant</string>
+    <string name="force_touch">3D Touch</string>
+    <string name="force_touch_enable">Attiva 3D Touch</string>
+    <string name="force_touch_enable_tips">"Tienendo premuta l'icona dell'App sul launcher verrà mostrato il menù del collegamento, quando il 3D Touch è attivato."</string>
+    <string name="force_touch_demo">Demo</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
     <string name="key_position_cat">Posizione tasti</string>
@@ -4587,4 +4593,16 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Corresponding cloned apps will be removed together with app data.</string>
     <string name="path_pn_settings">Settings/Mobile networks/Access Point Names</string>
+    <string name="keyguard_shortcut_title">Lock screen shortcuts</string>
+    <string name="keyguard_shortcut_summary">Set shortcuts for 2 apps on the Lock screen</string>
+    <string name="keyguard_left_function_title">Left</string>
+    <string name="keyguard_right_function_title">Right</string>
+    <string name="keyguard_left_function_chooser_title">App</string>
+    <string name="keyguard_right_function_chooser_title">App</string>
+    <string name="keyguard_left_function_chooser_hint_text">Left shortcut changed to %s</string>
+    <string name="keyguard_right_function_chooser_hint_text">Right shortcut changed to %s</string>
+    <string name="lockpassword_confirm_your_lock_pattern_header">Confirm your pattern</string>
+    <string name="lockpassword_confirm_your_private_pattern_header">Confirm your pattern</string>
+    <string name="lockpassword_confirm_your_lock_password_header">Confirm your password</string>
+    <string name="lockpassword_confirm_your_private_password_header">Confirm your password</string>
 </resources>

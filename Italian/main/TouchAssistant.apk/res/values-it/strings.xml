@@ -11,6 +11,8 @@
     <string name="function_settings">Impostazioni funzione</string>
     <string name="hide_touch_assistant">"Nascondi automaticamente l'Assistente Touch"</string>
     <string name="hide_touch_assistant_intro">"Nascondi l'Assistente Touch in alcune app."</string>
+    <string name="hide_when_fullscreen">Sposta a tutto schermo</string>
+    <string name="hide_when_fullscreen_intro">Sposta quando si entra in modalità a tutto schermo.</string>
     <string name="motion_behavior">Modalità movimento</string>
     <string name="name_alipay_payment_code">Pagamento veloce Alipay</string>
     <string name="name_alipay_scan">Scansiona codice Alipay</string>

@@ -187,6 +187,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="guarded_mode_dialog_transfer_message">Impossibile utilizzare Mi Mover in modalità Ospite</string>
     <string name="multi_user_mode_dialog_title">Sei in modalità Multi-utente</string>
     <string name="multi_user_mode_dialog_message">Non puoi utilizzare Mi Mover in modalità Multi-utente. Disttiva la modalità Multi-utente per contnuare.</string>
+    <string name="multi_user_mode_backup_message">Impossibile utilizzare il Backup in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare.</string>
     <string name="multi_select_title">Selezionati %1$s elemento(i)</string>
     <string name="enable_encrypt_title">Crittografia abilitata</string>
     <string name="disable_encrypt_title">Crittografia disabilitata</string>
