@@ -3301,7 +3301,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_key">Buttons;Keys</string>
     <string name="search_app_switch_key">Recents</string>
     <string name="search_home_key">Home</string>
-    <string name="search_back_key">Back</string>
+    <string name="search_back_key">Indietro</string>
     <string name="search_screen_key_long_press_timeout">Set long press time</string>
     <string name="search_button_light_timeout">Keep button lights on</string>
     <string name="search_led">LED</string>
@@ -4577,8 +4577,8 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="security_encryption_close_dialog_info">Scegliere di non criptare il dispositivo usando la password della schermata di blocco potrebbe rendere non utilizzabili alcuni dei servizi di Google.</string>
     <string name="security_encryption_diaglog_continue">Avanti</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Clicca per modificare</string>
-    <string name="provision_back">Back</string>
-    <string name="provision_skip">Skip</string>
+    <string name="provision_back">Indietro</string>
+    <string name="provision_skip">Salta</string>
     <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
     <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
     <string name="fingerprint_removal_failed">"Couldn't remove fingerprint, try again later"</string>

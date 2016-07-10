@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="path_soundrecorder_setting">System apps/Recorder</string>
-    <string name="search_app">Recorder</string>
+    <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>
+    <string name="search_app">Registratore</string>
     <string name="search_led_indicator">Notifiche lockscreen</string>
     <string name="search_tip_rename">Registrazioni manuale nomi</string>
     <string name="search_led_indicator_prompt">Durante la registrazione, mostra nella barra di stato e con notifica luminosa su lockscreen</string>
@@ -99,23 +99,23 @@
     <string name="cloud_status_full_dialog_msg">La memoria del tuo Mi Cloud è piena, impossibile sincronizzare le registrazioni. Aggiorna il tuo account per avere più spazio a disposizione.</string>
     <string name="cloud_status_full_dialog_cancel">Non adesso</string>
     <string name="cloud_status_full_dialog_ok">Aggiorna</string>
-    <string name="text_btn_recording">Recording</string>
-    <string name="text_btn_pause">Pause</string>
-    <string name="text_btn_play">Playback</string>
-    <string name="text_btn_mark">Mark</string>
-    <string name="text_btn_list">List</string>
+    <string name="text_btn_recording">Registra</string>
+    <string name="text_btn_pause">Pausa</string>
+    <string name="text_btn_play">Riproduci</string>
+    <string name="text_btn_mark">Segna</string>
+    <string name="text_btn_list">Lista</string>
     <string name="text_btn_complete">Complete</string>
-    <string name="text_btn_recognize">Recognition</string>
-    <string name="text_btn_wave">Wave</string>
-    <string name="text_finish">Confirm</string>
-    <string name="new_record_name">New record</string>
-    <string name="export_to_note">Export Note</string>
-    <string name="mark_point_list_title">Mark point List</string>
+    <string name="text_btn_recognize">Riconoscimento</string>
+    <string name="text_btn_wave">Onda</string>
+    <string name="text_finish">Conferma</string>
+    <string name="new_record_name">Nuova registrazione</string>
+    <string name="export_to_note">Esporta alle note</string>
+    <string name="mark_point_list_title">Segna punto lista</string>
     <string name="speech_recognition_running_tip">running</string>
     <string name="speech_recognition_complete">complete</string>
-    <string name="invalid_argument">Illegal argument</string>
-    <string name="playback_delete_records">Delete the record</string>
-    <string name="playback_share_records">Share the record</string>
+    <string name="invalid_argument">Argomento illegale</string>
+    <string name="playback_delete_records">Elimina la registrazione</string>
+    <string name="playback_share_records">Condividi la registrazione</string>
     <string name="recording_quality_high">Alta qualità</string>
     <string name="recording_quality_standard">Qualità standard</string>
     <string name="recording_quality_low">BAssa qualità</string>

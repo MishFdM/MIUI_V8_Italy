@@ -3301,7 +3301,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_key">Tasti</string>
     <string name="search_app_switch_key">Recents</string>
     <string name="search_home_key">Home</string>
-    <string name="search_back_key">Back</string>
+    <string name="search_back_key">Indietro</string>
     <string name="search_screen_key_long_press_timeout">Set long press time</string>
     <string name="search_button_light_timeout">Keep button lights on</string>
     <string name="search_led">LED</string>
@@ -4554,8 +4554,8 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="security_encryption_diaglog_continue">Avanti</string>
     <string name="fingerprint_removal_failed">"Impossibile rimuovere l'impronta, riprova più tardir"</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Clicca per modificare</string>
-    <string name="provision_back">Back</string>
-    <string name="provision_skip">Skip</string>
+    <string name="provision_back">Indietro</string>
+    <string name="provision_skip">Salta</string>
     <string name="uninstall_xspace_app_dlg_title">Uninstall cloned app?</string>
     <string name="uninstall_xspace_app_dlg_msg">Uninstalling cloned app will remove all app data.</string>
     <string name="uninstall_dlg_title">Uninstall now?</string>
