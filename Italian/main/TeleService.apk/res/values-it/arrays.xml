@@ -10,8 +10,4 @@
         <item>LTE</item>
         <item>Modalità tripla</item>
     </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Solo domestica</item>
-        <item>Automatico</item>
-    </string-array>
 </resources>
