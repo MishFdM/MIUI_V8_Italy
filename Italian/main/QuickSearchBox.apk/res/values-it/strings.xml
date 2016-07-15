@@ -6,6 +6,8 @@
     <string name="show_more">Mostra altro</string>
     <string name="clear_history">Cancella cronologia</string>
     <string name="search_in_web">Cerca online</string>
+    <string name="search_apps">Cerca applicazioni</string>
+    <string name="search_videos">Cerca video</string>
     <string name="search_in_app_store">Cerca nel Play Store</string>
     <string name="send_secret_code">Invia codice</string>
     <string name="xiaomi_search_label">Risultati</string>

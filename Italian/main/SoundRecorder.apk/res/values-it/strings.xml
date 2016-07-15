@@ -113,6 +113,7 @@
     <string name="mark_point_list_title">Segna punto lista</string>
     <string name="speech_recognition_running_tip">running</string>
     <string name="speech_recognition_complete">complete</string>
+    <string name="empty_recognition_tip">Vuoto</string>
     <string name="invalid_argument">Argomento illegale</string>
     <string name="playback_delete_records">Elimina la registrazione</string>
     <string name="playback_share_records">Condividi la registrazione</string>

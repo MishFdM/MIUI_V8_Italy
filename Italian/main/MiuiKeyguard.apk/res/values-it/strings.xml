@@ -33,7 +33,6 @@
     <string name="phone_locked_string">Il telefono è bloccato</string>
     <string name="phone_locked_timeout_seconds_string">Prego riprovare tra %s secondi</string>
     <string name="phone_locked_timeout_minutes_string">Prego riprovare tra %s minuti</string>
-    <string name="input_password_hint_text">Inserisci la password</string>
     <string name="unlock_sim_string">Sblocca SIM</string>
     <string name="lockscreen_glogin_submit_button">Accesso</string>
     <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
@@ -62,6 +61,8 @@
     <string name="fingerprint_not_identified_msg">Inserisci la password per sbloccare il dispositivo.</string>
     <string name="invalid_sim_pin_hint">Digita un PIN tra 4 e 8 numeri</string>
     <string name="invalid_sim_puk_hint">Il codice PUK dovrebbe essere di 8 o più numeri</string>
+    <string name="input_password_hint_text">Inserisci password</string>
+    <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
     <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
     <string name="fingerprint_lockout_msg">"Aspetta un minuto e riprova a sbloccare con l'impronta"</string>
 </resources>

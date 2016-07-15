@@ -323,6 +323,11 @@ scorri in basso per bloccare"</string>
     <string name="screenshot_long_screenshot">Screesnshot lungo</string>
     <string name="screenshot_edit">Modifica</string>
     <string name="screenshot_send">Invia</string>
+    <string name="screenshot_delete">Elimina</string>
+    <string name="screenshot_delete_dlg_title">Elimina</string>
+    <string name="screenshot_delete_dlg_msg">Sei sicuro di voler eliminare lo screenshot?</string>
+    <string name="screenshot_dlg_cancel">Annulla</string>
+    <string name="screenshot_dlg_delete_button">Elimina</string>
     <string name="long_screenshot_not_support_msg">Questa ap non supporta lo screenshot lungo.</string>
     <string name="long_screenshot_stop">Interrompi</string>
     <string name="long_screenshot_processing">Elaborazione...</string>

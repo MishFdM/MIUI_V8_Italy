@@ -56,9 +56,9 @@
         <item quantity="other">"%d minuti "</item>
         <item quantity="one">"%d minuto "</item>
     </plurals>
- <plurals name="deep_clean_auto_memory_clean">
-        <item quantity="other">Fra %1$d minuti</item>
-        <item quantity="one">Fra %1$d minuto</item>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Dopo %1$d minuti</item>
+        <item quantity="one">Dopo %1$d minuto</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
         <item quantity="other">Risolti %d problemi batteria</item>

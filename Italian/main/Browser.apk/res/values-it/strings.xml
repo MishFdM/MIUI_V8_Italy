@@ -812,4 +812,7 @@ finestra riservata​"</string>
     <string name="add_bookshelf_popup_text">Aggiunto alla libreria</string>
     <string name="add_shortcut">Aggiungi collegamento</string>
     <string name="add_shortcut_success">Collegamento aggiunto</string>
+    <string name="force_quick_search_title">Cerca</string>
+    <string name="force_touch_bookmark_history_title">Segnalibri e cronologia</string>
+    <string name="force_touch_infoflow_title">Notizie Quotidiane</string>
 </resources>

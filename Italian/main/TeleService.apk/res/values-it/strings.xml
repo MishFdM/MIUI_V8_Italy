@@ -176,6 +176,9 @@ Use it for Top-up package?"</string>
     <string name="sim_useless">SIM non disponibile</string>
     <string name="no_number">Nessun numero di telefono</string>
     <string name="livetalk_user_config_title">Verifica numero di telefono</string>
+    <string name="add_from_contacts">Aggiungi dai contatti</string>
+    <string name="add_by_input">Inserisci manualmente</string>
+    <string name="please_enter_phone_number">Inserisci il numero di telefono</string>
     <string name="sip_settings">Impostazioni chiamate via internet</string>
     <string name="sip_accounts">Account chiamate via internet (SIP)</string>
     <string name="sip_accounts_title">Account SIP</string>

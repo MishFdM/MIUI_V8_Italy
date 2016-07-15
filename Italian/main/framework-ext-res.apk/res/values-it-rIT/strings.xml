@@ -50,7 +50,7 @@
     <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
     <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
     <string name="perm_send_push_dspt">Consenti messaggi Mi push</string>
-    <string name="perm_send_push_lab">Invia messagio push</string>
+    <string name="perm_send_push_lab">Invia messaggio push</string>
     <string name="select">Seleziona</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="cut">Taglia</string>
@@ -60,8 +60,8 @@
     <string name="frequent_phrases">Frasi comuni</string>
     <string name="add_frequent_phrases">Aggiungi frase</string>
     <string name="alwaysUsePrompt">Ricorda questa scelta</string>
-    <string name="translation_query_error">"Couldn't find results"</string>
-    <string name="translation_query_error_network">"Couldn't connect to the network. Check settings and try again"</string>
+    <string name="translation_query_error">Impossibile trovare risultati</string>
+    <string name="translation_query_error_network">Impossibile connettersi alla rete. Controlla le impostazioni e prova di nuovo</string>
     <string name="auto_start_warning_title">"Vuoi consentire l'avvio automatico di %s in futuro?"</string>
     <string name="auto_start_warning_allow">Consenti</string>
     <string name="auto_start_warning_deny">Nega</string>
@@ -148,12 +148,12 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="fp_nav_center_action_choose_dlg_msg">Puoi tornare alla Home premendo il tasto Home. Puoi secegliere se eseguire le astessa azione con un tocco. Personalizza il tasto Home in Impostazioni > Impostazioni aggiuntive > Tasti.</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Personalizza</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">No grazie</string>
-    <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
-    <string name="security_permission_denied_text">Access denied</string>
-    <string name="security_permission_failed_text">Internal error, retry later</string>
-    <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>
-    <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
-    <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
-    <string name="xspace_resolver_activity_title">Select app</string>
-    <string name="user_switching_dialog_text">Switching…</string>
+    <string name="start_security_permission_verify_text">Verifica i permessi Mi Account</string>
+    <string name="security_permission_denied_text">Accesso negato</string>
+    <string name="security_permission_failed_text">Errore interno, riprova più tardi</string>
+    <string name="security_permission_xiaomi_account_missed_text">"Inserisci l'ID del tuo Mi Account"</string>
+    <string name="security_permission_validate_warning">Grazie per aiutarci a rendere MIUI migliore!</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fie rete dati attivati</string>
+    <string name="xspace_resolver_activity_title">Seleziona app</string>
+    <string name="user_switching_dialog_text">Cambio...</string>
 </resources>

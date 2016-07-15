@@ -3152,7 +3152,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="legal_workday">Giorni lavorativi</string>
     <string name="never">Mai</string>
     <string name="dndm_wristband_detailed">"Attiva la modalità Non disturbare se Mi Band rileva che stai dormendo entro un'ora prima dell'orario programmato"</string>
-    <string name="dndm_alarm_content">Souni</string>
+    <string name="dndm_alarm_content">Suoni</string>
     <string name="dndm_alarm_content_all">Consenti tutto</string>
     <string name="dndm_alarm_content_event_and_call">Notifiche e chiamate</string>
     <string name="dndm_alarm_content_event_and_sms">Notifiche e SMS</string>

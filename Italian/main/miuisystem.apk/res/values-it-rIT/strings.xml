@@ -110,9 +110,9 @@
     <string name="menu_add_frequent_phrases">Aggiungi</string>
     <string name="menu_edit">Modifica</string>
     <string name="menu_delete">Elimina</string>
-    <string name="frequent_phrases_des">Inaerisci le frasi comune in pochi passaggi modificando il testo</string>
+    <string name="frequent_phrases_des">Inserisci le frasi comune in pochi passaggi modificando il testo</string>
     <string name="add_frequent_phrases">Aggiungi frasi comuni</string>
     <string name="delete_frequent_phrases">Elimina frasi comuni</string>
     <string name="delete_frequent_phrases_confirm">Eliminare le frasi comuni selezionate?</string>
-    <string name="frequent_phrases_size_exceeded">Puoi aggiungere massimoo 10 frasi. Elimina quelle meno utilizzate per aggiungerne di nuove</string>
+    <string name="frequent_phrases_size_exceeded">Puoi aggiungere massimo 10 frasi. Elimina quelle meno utilizzate per aggiungerne di nuove</string>
 </resources>

@@ -95,6 +95,7 @@
     <string name="activity_main_clickable">></string>
     <string name="aqi_short_desc">AQI %1$s</string>
     <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_miles_unit">%1$ smph</string>
     <string name="aqi_top_pollution">Inquinamento massimo</string>
     <string name="aqi_detail_title">Indice Qualità Aria (AQI)</string>
     <string name="aqi_detail_subtitle">AQI %1$s</string>
@@ -155,7 +156,9 @@ Tocca lo schermo per aggiungere manualmente o localizzare di nuovo"</string>
     <string name="traffic_control_today_numbers">Oggi: %1$s %2$s</string>
     <string name="traffic_control_tomorrow_numbers">Domani: %1$s %2$s</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">Dopo domani: %1$s %2$s</string>
+    <string name="retry">Riprova</string>
     <string name="button_sure_abandon">Annullare modifiche?</string>
+    <string name="commercial">Pubblicità</string>
     <string name="mi_pad2">latte</string>
     <string name="more_details">Altri dettagli</string>
     <string name="international_details_title">Dettagli</string>
@@ -167,4 +170,16 @@ Tocca lo schermo per aggiungere manualmente o localizzare di nuovo"</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">Avvisi meteo</string>
     <string name="edit_alert_city_title">Gestisci avvisi</string>
+    <string name="aqi_detail_unit">Unità:µg/m3(CO:mg/m3)</string>
+    <string name="index_item_install_now">Installa adesso</string>
+    <string name="set_degree_centigrade">°C</string>
+    <string name="set_fahrenheit">°F</string>
+    <string name="set_land_mile">" mph"</string>
+    <string name="set_kilometre">" km/h"</string>
+    <string name="alert_warning">Avviso</string>
+    <string name="unit">Unità</string>
+    <string name="information_set">Informazioni</string>
+    <string name="unit_temperature">Unità temperatura</string>
+    <string name="unit_wind">Unità forza vento</string>
+    <string name="set">Impostazioni</string>
 </resources>

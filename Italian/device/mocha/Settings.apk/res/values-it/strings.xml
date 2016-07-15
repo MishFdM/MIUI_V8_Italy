@@ -2757,7 +2757,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="never">Mai</string>
     <string name="dndm_wristband_detailed">"Attiva la modalità Non disturbare se Mi Band rileva che stai dormendo entro un'ora prima dell'orario programmato"</string>
     <string name="dndm_wristband_detailed2">"Disattiva la modalità Non disturbare se Mi Band rileva che ti sei svegliato un'ora prima della fine dell'orario programmato"</string>
-    <string name="dndm_alarm_content">Souni</string>
+    <string name="dndm_alarm_content">Suoni</string>
     <string name="dndm_alarm_content_all">Consenti tutto</string>
     <string name="dndm_alarm_content_event_and_call">Notifiche e chiamate</string>
     <string name="dndm_alarm_content_event_and_sms">Notifiche e SMS</string>

@@ -135,9 +135,10 @@
     <string name="event_created_fail_text">创建赛事提醒失败</string>
     <string name="more_match">更多赛事</string>
     <string name="match_not_started">未开始</string>
+    <string name="swipe_up_guide_hint_text">上滑发现更多</string>
     <string name="settings_calendar">Calendario</string>
-    <string name="search_calendar">Calendar;Agenda;Reminder</string>
-    <string name="path_calendar">System apps/Calendar/Settings</string>
+    <string name="search_calendar">Calendario;Agenda;Promemoria</string>
+    <string name="path_calendar">App di sistema/Calendario/Impostazioni</string>
     <string name="app_label">Calendario</string>
     <string name="when_label">Quando</string>
     <string name="timezone_label">Fuso orario</string>

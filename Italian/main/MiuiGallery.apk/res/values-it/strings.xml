@@ -32,6 +32,7 @@
     <string name="video_editor_audio_love">Romantico</string>
     <string name="video_editor_audio_sad">Ballata</string>
     <string name="video_editor_audio_custom">Seleziona</string>
+    <string name="video_editor_unsupport_audio_file">File audio non supportato</string>
     <string name="video_editor_text_none">Nessuno</string>
     <string name="video_editor_text_preview_text">Testo</string>
     <string name="video_editor_text_input_empty_tips">Sembra che tu non abbia ancora inserito alcun testo</string>
@@ -794,10 +795,10 @@
     <string name="photo">Immagine</string>
     <string name="orientation_lock_tip">Rotazione bloccata</string>
     <string name="orientation_unlock_tip">Rotazione automatica attivata</string>
-    <string name="video_edit_file_not_exits_tip">Prima devi scaricare il video</string>
-    <string name="photo_edit_file_not_exits_tip">Download photo before editing</string>
-    <string name="select_origin_tip">Original file (%s)</string>
-    <string name="loading_fail_sync_off_message">"Couldn't load photos, sync with Mi Cloud is off."</string>
+    <string name="video_edit_file_not_exits_tip">Scarica il video prima della modifica</string>
+    <string name="photo_edit_file_not_exits_tip">Scarica la foto prima della modifica</string>
+    <string name="select_origin_tip">File originale (%s)</string>
+    <string name="loading_fail_sync_off_message">Impossibile caricare le foto, la sincronizzazione con Mi Cloud è disattivata.</string>
     <string name="turn_on_sync">Turn on sync</string>
     <string name="download_canceled">Download annullato</string>
     <string name="must_pick_file">"Seleziona un'immagine"</string>

@@ -17,6 +17,9 @@
     <string name="more_settings">Altre impostazioni</string>
     <string name="vibrate_pref_summary">"Vibra quando suona la sveglia"</string>
     <string name="label_pref_summary">Rinomina questa sveglia</string>
+    <string name="force_touch_add_alarm">Aggiungi sveglia</string>
+    <string name="force_touch_enter_stopwatch">Cronometro</string>
+    <string name="force_touch_enter_timer">Timer</string>
     <string name="worldclock_title">Orologio</string>
     <string name="stopwatch_title">Cronometro</string>
     <string name="timer_title">Timer</string>

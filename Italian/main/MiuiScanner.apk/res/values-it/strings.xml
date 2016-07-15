@@ -62,7 +62,7 @@
     <string name="language_entry_french">French</string>
     <string name="language_entry_german">German</string>
     <string name="language_entry_hungarian">Hungarian</string>
-    <string name="language_entry_italian">Italian</string>
+    <string name="language_entry_italian">Italiano</string>
     <string name="language_entry_japanese">Japanese</string>
     <string name="language_entry_korean">Korean</string>
     <string name="language_entry_norwegian">Norwegian</string>
@@ -177,7 +177,6 @@
     <string name="document_rectify">Regola</string>
     <string name="document_grayscale">Scala di grigi</string>
     <string name="document_color_picture">Colori</string>
-    <string name="document_ocr_vendor_info">Supporto OCR offerto da Kingsoft</string>
     <string name="document_ocr_tip_msg">Riconoscimento…</string>
     <string name="document_rectify_tip_msg">Regolazione…</string>
     <string name="document_grayscale_tip_msg">Conversione in scala di grigi…</string>
