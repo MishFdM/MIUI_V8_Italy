@@ -134,7 +134,7 @@
     <string name="aqi_detail_24_hours">Previsioni orarie</string>
     <string name="aqi_sub_desc">AQI</string>
     <string name="menu_add_city">Aggiungi/elimina città</string>
-    <string name="button_add_city">Aggiungi gittà</string>
+    <string name="button_add_city">Aggiungi città</string>
     <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o localizzare di nuovo"</string>
     <string name="video_dialog_title" />
