@@ -129,11 +129,11 @@
     <string name="vp_VideoView_error_network_not_available">Rete non disponibile</string>
     <string name="vp_media_type_unsported">Questo tipo di media non è supportato</string>
     <string name="vp_play_youku_time_out">Connessione scaduta</string>
-    <string name="vp_play_youku_failed_get_video_info">Impossiile recuperare informazioni sul video</string>
+    <string name="vp_play_youku_failed_get_video_info">Impossibile recuperare informazioni sul video</string>
     <string name="vp_mplayer_error_io">Errore operazione IO</string>
     <string name="vp_mplayer_error_malformed">Errore nel formato del contenuto media </string>
-    <string name="vp_mplayer_error_server_died">Serevr media fuori uso</string>
-    <string name="vp_mplayer_error_timed_out">Operzione scaduta</string>
+    <string name="vp_mplayer_error_server_died">Server media fuori uso</string>
+    <string name="vp_mplayer_error_timed_out">Operazione scaduta</string>
     <string name="top_status_local_media">Contenuti locali</string>
     <string name="top_status_online_media">Contenuti online</string>
     <string name="top_status_offline_media">Contenuti offline</string>
@@ -218,8 +218,8 @@
     <string name="alert_dialog_download_error">Errore Download</string>
     <string name="alert_dialog_download_btn_hide">Nascondi</string>
     <string name="alert_dialog_download_dup_task">Download in corso, attendere…</string>
-    <string name="vp_notify_apk_installed">Install application %1$s successfully</string>
-    <string name="vp_downloading_apk_title">Downloading %1$s</string>
+    <string name="vp_notify_apk_installed">Installazione applicazione %1$s completata</string>
+    <string name="vp_downloading_apk_title">Download %1$s in corso</string>
     <string name="vp_mobile_network_using_warning">"L'utilizzo della rete dati per la visione dei video può incrementare il traffico dati."</string>
     <string name="vp_mobile_network_using_warning_line_1">"L'utilizzo della connessione dati mobile per la visione dei video aumenterà il traffico dati."</string>
     <string name="vp_mobile_network_using_warning_line_2">Il superamento della soglia prevista del tuo piano potrebbe comportare costi aggiuntivi.</string>
@@ -230,11 +230,11 @@
     <string name="vp_player_plugin_dlg_no_content">Nessun plugin Video player</string>
     <string name="vp_download_apk_from_video_ad">"Installa l'applicazione"</string>
     <string name="vp_app_download">"Scarica l'applicazione"</string>
-    <string name="vp_select_tv">Channels</string>
-    <string name="path_settings">System App/Video/Settings</string>
-    <string name="path_develop_settings">System App/Video/Develop Settings</string>
-    <string name="search_settings">Video Settings;Mobile Network;Wifi;Video play;Push;Notification;Cache;Develop settings</string>
-    <string name="search_develop_settings">Develop settings;Version select;Choose version;Video upgrade;Version;Forum;Performance mode;Picture quality;Player plugins</string>
+    <string name="vp_select_tv">Canali</string>
+    <string name="path_settings">App di Sistema/Video/Impostazioni</string>
+    <string name="path_develop_settings">App di Sistema/Video/Impostazioni di sviluppo</string>
+    <string name="search_settings">Impostazioni Video;Rete mobile;Wi-Fi;Riproduzione video;Push;Notifiche;Cache;Impostazioni sviluppo</string>
+    <string name="search_develop_settings">Impostazioni sviluppo;Selezionare versione;Scegliere versione;Aggiornamento Video;Versione;Forum;Performance mode;Qualità immagine;Plugin</string>
     <string name="declaration_allow">OK</string>
     <string name="declaration_content_td_custom">"Consentire la connessione ad internet durante l'utilizzo dell'applicazione?"</string>
     <string name="declaration_content">"1. Utilizzando questo servizio accetti i "<a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">Termini di utilizzo</a>" di Sohu Video, iQiyi, ed altri provider di contenuti.
@@ -420,7 +420,7 @@
     <string name="download_running">In corso</string>
     <string name="download_queue">Recupero indirizzo</string>
     <string name="download_url_waiting">Recupero info sul link</string>
-    <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
+    <string name="download_url_waiting_no_wifi">In attesa a causa di Wi-Fi non disponibile</string>
     <string name="debug_mode">Modalità Debug</string>
     <string name="debug_mode_desc">"Quando selezionato, mostra l'ID del video nell'angolo in alto a sinistra e mostra la pubblicità all'avvio dell'applicazione."</string>
     <string name="app_wifi_mode">Aggiorna solo in Wi-Fi</string>
@@ -500,15 +500,15 @@
     <string name="notification_default_title">Video offline</string>
     <string name="app_upgrade_title">"Mi Video è già aggiornato all'ultima versione."</string>
     <string name="app_upgrade_hint">"Tocca per guardare \"The Full Polymerization\", video HD online."</string>
-    <string name="sniff">Source</string>
-    <string name="search_snack_more">More Information</string>
-    <string name="search_snack_sniff">Whole Net Source</string>
-    <string name="open_in_browser">Open in Browser</string>
-    <string name="subscribe">Subscribe</string>
-    <string name="detail">Detail</string>
-    <string name="enter_detail">More Information</string>
-    <string name="account_auth_fail">account authenticate fail</string>
+    <string name="sniff">Fonte</string>
+    <string name="search_snack_more">Altre informazioni</string>
+    <string name="search_snack_sniff">Fonte intera rete</string>
+    <string name="open_in_browser">Apri nel Browser</string>
+    <string name="subscribe">Sottoscrivi</string>
+    <string name="detail">Dettagli</string>
+    <string name="enter_detail">Altre informazioni</string>
+    <string name="account_auth_fail">autenticazione account fallito</string>
     <string name="live">Live</string>
-    <string name="replay">Replay</string>
-    <string name="error_empty_epg">No EPG Information</string>
+    <string name="replay">Riprova</string>
+    <string name="error_empty_epg">Nessuna informazione EPG</string>
 </resources>

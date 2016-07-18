@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="server_list_entries">
-        <item>Test server</item>
-        <item>Online server</item>
+        <item>Server test</item>
+        <item>Server online</item>
     </string-array>
     <string-array name="version_list_entries">
         <item>Stabile</item>
