@@ -51,7 +51,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="uninstall_update_title">Disinstalla aggiornamento</string>
     <string name="uninstall_activity_text">%1$s fa parte della seguente applicazione:</string>
     <string name="uninstall_application_text">Questa applicazione sarà disinstallata.</string>
-    <string name="uninstall_application_text_all_users">"Vuoi disinstallare questa app per <b>tutti</b> gli utenti? L'applicazione e i suoi dati verranno rimossi da <b>tutti</b> gli utenti su questo dispositivo."</string>
+    <string name="uninstall_application_text_all_users">"Vuoi disinstallare questa app per <b>tutti</b> gli utenti? L\'applicazione e i suoi dati verranno rimossi da <b>tutti</b> gli utenti su questo dispositivo."</string>
     <string name="uninstall_application_text_user">"Vuoi disinstallare questa app per l'utente %1$s?"</string>
     <string name="uninstall_update_text">Vuoi sostituire questa applicazione con la versione iniziale?</string>
     <string name="uninstalling">Disinstallazione...</string>
