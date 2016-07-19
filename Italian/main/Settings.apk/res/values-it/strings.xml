@@ -3329,7 +3329,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_system_app_settings">System apps</string>
     <string name="search_application_settings">Installed apps</string>
     <string name="search_app_permission">Permissions;Root access</string>
-    <string name="search_application_lock">App lock</string>
+    <string name="search_application_lock">Blocco applicazioni</string>
     <string name="search_about">"About phone;Device name;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernal version;Build number;Status;Legal information "</string>
     <string name="search_device_name">Device name</string>
     <string name="search_legal_information">Legal information</string>
@@ -3502,7 +3502,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="path_system_app_settings">Settings/System apps</string>
     <string name="path_applications_settings">Settings/Installed apps</string>
     <string name="path_app_permission">Settings/Permissions</string>
-    <string name="path_application_lock">Settings/App lock</string>
+    <string name="path_application_lock">Impostazioni/Blocco applicazioni</string>
     <string name="path_about_about_settings">Settings/About phone</string>
     <string name="path_device_name">Settings/About phone/Device name</string>
     <string name="path_legal_information">Settings/About phone/Legal information</string>
@@ -4226,7 +4226,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="permission_manager">Permessi</string>
     <string name="personal_section_title">Personali</string>
     <string name="system_and_device_section_title">Sistema e dispositivo</string>
-    <string name="application_manager_section_title">App settings</string>
+    <string name="application_manager_section_title">Applicazioni</string>
     <string name="security_keyguard_category_name">Blocco schermo</string>
     <string name="security_password_category_name">Password</string>
     <string name="bluetooth_unlock_title">Sblocca tramite dispositivo Bluetooth</string>
@@ -4461,7 +4461,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="crypt_keeper_decrypt_methods">"Dopo aver criptato il tuo telefono, partendo dal presupposto che tu abbia impostato la schermata di blocco (cioè una sequenza, un PIN o una password), dovrai sbloccare lo schermo per decriptare il telefono ogni volta che lo accendi. L'unico altro modo per decriptarlo è eseguire un ripristino di fabbrica, eliminando così tutti i tuoi dati"</string>
     <string name="crypt_keeper_conditions_title">Info sulla criptazione del tuo dispositivo</string>
     <string name="crypt_keeper_conditions">"La criptazione richiede un'ora o anche più. Devi iniziare quando hai la batteria carica e mantenere il telefono collegato alla corrente per tutta la durata dell'operazione. Se lo interrompi, perderai alcuni o anche tutti i tuoi dati."</string>
-    <string name="application_lock_name">App lock</string>
+    <string name="application_lock_name">Blocco applicazioni</string>
     <string name="connecting_to_vpn">Connecting to VPN</string>
     <string name="vpn_on">On</string>
     <string name="vpn_off">Off</string>

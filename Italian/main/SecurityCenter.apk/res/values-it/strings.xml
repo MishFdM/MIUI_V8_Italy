@@ -903,8 +903,8 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="resource_networkassistant_4">Test network</string>
     <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
     <string name="path_networkassistant_4">System apps/Security/Network assistant/Test network</string>
-    <string name="resource_applicationlock">App lock</string>
-    <string name="keywords_applicationlock">Password;Privacy;App lock;Accesso;Protezione</string>
+    <string name="resource_applicationlock">Blocco applicazioni</string>
+    <string name="keywords_applicationlock">Password;Privacy;Blocco applicazioni;Accesso;Protezione</string>
     <string name="path_applicationlock">Applicazioni di sistema/Sicurezza</string>
     <string name="app_name_securitycenter">Sicurezza</string>
     <string name="ok">OK</string>
@@ -1333,7 +1333,7 @@ o inserisci la password"</string>
     <string name="access_control_need_password">"%s blocco aggiunta con successo
 "</string>
     <string name="privacy_mode_dialog_title">Modalità ospite</string>
-    <string name="access_control_reset_by_account">Accedi al tuo Mi Account per ripristinare App Lock</string>
+    <string name="access_control_reset_by_account">Accedi al tuo Mi Account per ripristinare il Blocco applicazioni</string>
     <string name="lockpattern_settings_help_how_to_record">Come disegnare una sequenza</string>
     <string name="lockpattern_recording_incorrect_too_short">Collega almeno %d punti</string>
     <string name="lockpattern_recording_intro_header">Collega almeno 4 per creare una sequenza</string>
