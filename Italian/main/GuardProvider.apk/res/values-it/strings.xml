@@ -18,22 +18,19 @@
     <string name="tencent_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
     <string name="tencent_dialog_cloudscan">Carica e scansiona i nomi delle app di dettagli utilizzando le definizioni online dei virus.</string>
     <string name="tencent_dialog_dbupdate">Aggiorna automaticamente le definizioni dei virus</string>
-    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="avl_dialog_title">"Informativa sulla Privacy di AVL"</string>
     <string name="avl_dialog_header">"Questa funzione crittografa ed invia l'ID del tuo dispositivo ai server di AVL (%s)."</string>
     <string name="avl_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
     <string name="avl_dialog_cloudscan"/>
     <string name="avl_dialog_dbupdate"/>
-    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_dialog_title">"Informativa sulla Privacy di Avast"</string>
     <string name="avast_dialog_header">"Questa funzione crittografa e carica l'ID del tuo dispositivo sui server Avast (%s)."</string>
     <string name="avast_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
     <string name="avast_dialog_cloudscan"/>
     <string name="avast_dialog_dbupdate"/>
-    <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">Questo virus è un adware. Visualizza automaticamente le pubblicità.</string>
     <string name="avast_virus_type_cryportor_description">"Questo virus è un cryptor. E' un software pericoloso trasmesso con lo scopo di danneggiare i dati, duplicarsi all'interno dello spazio di archiviazione e diffondersi."</string>
-    <string name="avast_virus_type_dropper_description">Questo virus è un dropper. Contiene il codice che consente l'installazione di altri virus pericolosi.</string>
+    <string name="avast_virus_type_dropper_description">Questo virus è un dropper. Contiene il codice che consente l\'installazione di altri virus pericolosi.</string>
     <string name="avast_virus_type_exploit_description">Questo virus è un  exploit. Sfrutta bug o vulnerabilità del sistema per forzare azioni senza autorizzazioni.</string>
     <string name="avast_virus_type_heuristic_description">"L'infezione è stata rilevata utilizzando un metodo euristico specifico. Dall'analisi euristica specifica risulta come virus."</string>
     <string name="avast_virus_type_joke_description">Questo virus è un joke. Crea effetti o scherzi fastidiosi. Di solita ha un impatto minimo sul sistema.</string>
