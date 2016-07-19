@@ -687,7 +687,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="power_center_state_off">Disattivato</string>
     <string name="power_center_consume_time">%1$s rimanente</string>
     <string name="power_center_charge_time">Carica completata tra %1$s</string>
-    <string name="power_center_battery_full">Batteria caricata completamente</string>
+    <string name="power_center_battery_full">Batteria caricata completamente\u0020</string>
     <string name="power_dialog_cancel">Annulla</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_consume_rank_title">Utilizzo batteria</string>
@@ -868,8 +868,8 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="notification_charging_title">In carica</string>
     <string name="charging_text_time_calculating">Calcolo tempo di ricarica...</string>
     <string name="charging_text_battery_nearly_full">Quasi carico</string>
-    <string name="charging_text_battery_full_time">Ultima carica</string>
-    <string name="charging_text_battery_perfect">Carica completata</string>
+    <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
+    <string name="charging_text_battery_perfect">Carica completata\u0020</string>
     <string name="resource_securitycenter_settings">Security</string>
     <string name="keywords_securitycenter_settings">Battery saver;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
     <string name="path_securitycenter_settings">System apps/Security</string>
