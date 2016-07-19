@@ -53,7 +53,7 @@
     <string name="permlab_accessAllPrintJobs">accedi a tutti i processi di stampa</string>
     <string name="permdesc_accessAllPrintJobs">"Consenti all'utente di accedere ai processi di stampa creati da un'altra app. Non dovrebbe mai essere necessario per le normali app.</string>
     <string name="permlab_startPrintServiceConfigActivity">avvia attività di configurazione dei servizi di stampa</string>
-    <string name="permdesc_startPrintServiceConfigActivity">Consenti all'utente di avviare le attività di configurazione del servizio di stampa. Non dovrebbe mai essere necessario per le normali app.</string>
+    <string name="permdesc_startPrintServiceConfigActivity">Consenti all\'utente di avviare le attività di configurazione del servizio di stampa. Non dovrebbe mai essere necessario per le normali app.</string>
     <string name="print_write_error_message">Impossibile scrivere sul file</string>
     <string name="print_error_default_message">Impossibile generare processo di stampa</string>
     <string name="print_error_retry">Riprova</string>
