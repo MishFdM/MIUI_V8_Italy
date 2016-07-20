@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Security service plugin</string>
+    <string name="app_name">Plugin Servizio di Sicurezza</string>
     <string name="ok_button">OK</string>
     <string name="cancel_button">Annulla</string>
     <string name="privacy_declare_dialog_title">Condizioni del Servizio</string>

@@ -1385,9 +1385,9 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="config_default_data_sim">Settings</string>
     <string name="got_it">OK</string>
     <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
-    <string name="network_settings_title">Mobile networks</string>
-    <string name="antispam_setting">Blocklist</string>
-    <string name="call_advanced_setting_title">Advanced setting</string>
+    <string name="network_settings_title">Reti mobili</string>
+    <string name="antispam_setting">Blacklist</string>
+    <string name="call_advanced_setting_title">Impostazioni avanzate</string>
     <string name="preference_data_usage_title">Piano dati</string>
     <string name="preference_data_usage_summary">"Imposta il piano dati per controllare l'uso dei dati mobili"</string>
     <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>

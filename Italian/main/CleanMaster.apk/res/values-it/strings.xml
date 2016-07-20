@@ -325,7 +325,7 @@
     <string name="title_of_auto_launch_manage">Avvio automatico</string>
     <string name="tips_of_auto_launch_manage">"Previene l'avvio automatico delle app utilizzate raramente"</string>
     <string name="title_of_app_manage">Applicazioni</string>
-    <string name="tips_of_app_manage">Elimina app utilizzate raramente per risparmiAre spazio</string>
+    <string name="tips_of_app_manage">Elimina app utilizzate raramente per risparmiare spazio</string>
     <string name="title_of_traffic_notification">Statistiche dati nelle notifiche</string>
     <string name="tips_of_traffic_notification">Mostra le statistiche dei dati nel pannello delle notifiche</string>
     <string name="title_of_package_set">Impostazioni piano dati</string>

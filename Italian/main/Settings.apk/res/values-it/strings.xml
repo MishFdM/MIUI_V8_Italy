@@ -571,7 +571,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="unlock_set_unlock_pin_summary">Protezione medio-alta</string>
     <string name="unlock_set_unlock_password_title">Password</string>
     <string name="unlock_set_unlock_password_summary">Protezione alta</string>
-    <string name="current_screen_lock">Current screen lock</string>
+    <string name="current_screen_lock">Schermata di blocco in uso</string>
     <string name="unlock_set_unlock_disabled_summary">Disattivata da amministratore, norma crittografia o archivio credenziali</string>
     <string name="unlock_set_unlock_mode_off">Nessuno</string>
     <string name="unlock_set_unlock_mode_none">Scorrimento</string>
@@ -735,18 +735,18 @@ Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai i
     <string name="wifi_starting">Attivazione Wi-Fi…</string>
     <string name="wifi_stopping">Disattivazione Wi-Fi…</string>
     <string name="wifi_error">Errore</string>
-    <string name="wifi_sap_no_channel_error">5 GHz band not available in this country</string>
+    <string name="wifi_sap_no_channel_error">5 GHz band non disponibile in questa nazione</string>
     <string name="wifi_in_airplane_mode">In modalità aereo</string>
     <string name="wifi_notify_open_networks">Notifica rete</string>
     <string name="wifi_notify_open_networks_summary">Avvisa quando è disponibile una rete aperta</string>
     <string name="wifi_poor_network_detection">Evita connessioni deboli</string>
     <string name="wifi_poor_network_detection_summary">Non utilizzare una rete Wi-Fi a meno che non abbia una buona connessione a Internet</string>
     <string name="wifi_avoid_poor_network_detection_summary">Usa solo reti con una buona connessione</string>
-    <string name="wifi_automatically_connect_title">Use open Wi‑Fi automatically</string>
-    <string name="wifi_automatically_connect_summary">Let a Wi‑Fi assistant automatically connect to open networks determined to be high quality</string>
-    <string name="wifi_select_assistant_dialog_title">Choose assistant</string>
+    <string name="wifi_automatically_connect_title">Utilizza automaticamente a reti Wi-Fi aperte</string>
+    <string name="wifi_automatically_connect_summary">Consenti ad un assistente Wi-Fi di collegarsi automaticamente a reti aperte ad alta velocità</string>
+    <string name="wifi_select_assistant_dialog_title">Scegli assistente</string>
     <string name="wifi_install_credentials">Installa certificati</string>
-    <string name="wifi_scan_notify_text">To improve location accuracy, system apps and services can still scan for Wi‑Fi networks. You can change this in LINK_BEGINscanning settingsLINK_END.</string>
+    <string name="wifi_scan_notify_text">Per migliorare la precisione della localizzazione, applicazioni di sistema e servizi possono essere scansionare per reti Wi-Fi. Puoi modificare in LINK_BEGINscanning settingsLINK_END.</string>
     <string name="wifi_scan_notify_remember_choice">Non mostrare più</string>
     <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi-Fi durante la sospensione</string>
     <string name="wifi_setting_on_during_sleep_title">Wi-Fi attivo durante la sospensione</string>
@@ -755,7 +755,7 @@ Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai i
     <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando il Wi-Fi è attivo"</string>
     <string name="wifi_limit_optimizations_summary">"Limita l'utilizzo della batteria da parte del Wi-Fi"</string>
-    <string name="wifi_switch_away_when_unvalidated">Switch to cellular data if Wi‑Fi loses Internet access.</string>
+    <string name="wifi_switch_away_when_unvalidated">"Passa alla rete dati mobile se quella Wi-Fi perde l'accesso ad Internet."</string>
     <string name="wifi_add_network">Aggiungi rete</string>
     <string name="wifi_access_points">Reti Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Pulsante di comando WPS</string>
@@ -765,7 +765,7 @@ Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai i
     <string name="wifi_menu_scan">Scansione</string>
     <string name="wifi_menu_advanced">Avanzate</string>
     <string name="wifi_menu_connect">Connetti alla rete</string>
-    <string name="wifi_menu_remember">Remember network</string>
+    <string name="wifi_menu_remember">Ricorda network</string>
     <string name="wifi_menu_forget">Elimina rete</string>
     <string name="wifi_menu_modify">Modifica rete</string>
     <string name="wifi_menu_write_to_nfc">Crea un tag NFC</string>
@@ -797,8 +797,8 @@ Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai i
     <string name="wifi_frequency">Frequenza</string>
     <string name="wifi_ip_address">Indirizzo IP</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
-    <string name="passpoint_label">Saved via</string>
-    <string name="passpoint_content">%1$s credentials</string>
+    <string name="passpoint_label">Salvato tramite</string>
+    <string name="passpoint_content">Credenziali %1$s</string>
     <string name="wifi_eap_method">Metodo EAP</string>
     <string name="please_select_phase2">Fase 2 di autenticazione</string>
     <string name="wifi_eap_ca_cert">Certificato CA</string>
@@ -807,7 +807,7 @@ Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai i
     <string name="wifi_eap_anonymous">Identità anonima</string>
     <string name="wifi_password">Password</string>
     <string name="wifi_show_password">Mostra password</string>
-    <string name="wifi_ap_band_config">Select AP Band</string>
+    <string name="wifi_ap_band_config">Seleziona banda AP</string>
     <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
     <string name="wifi_ap_choose_5G">5 GHz Band</string>
     <string name="wifi_ip_settings">Impostazioni IP</string>
@@ -825,7 +825,7 @@ Consetirlo a tutte le app che vogliono eseguire la ricerca?"</string>
     <string name="wifi_hotspot_title">Accedere per connetterti?</string>
     <string name="wifi_hotspot_message">"%1$s richiede l'accesso prima di collegarsi alla rete."</string>
     <string name="wifi_hotspot_connect">CONNETTI</string>
-    <string name="no_internet_access_text">This network has no Internet access. Stay connected?</string>
+    <string name="no_internet_access_text">Questa rete non ha accesso ad internet. Rimanere collegato?</string>
     <string name="no_internet_access_remember">Non chiedere più per questa rete</string>
     <string name="wifi_connect">Connetti</string>
     <string name="wifi_failed_connect_message">Impossibile connettersi alla rete</string>
@@ -922,8 +922,8 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="config_list_label">Reti configurate</string>
     <string name="wifi_calling_settings_title">Chiamata Wi-Fi</string>
     <string name="wifi_calling_mode_title">Preferenze di chiamata</string>
-    <string name="wifi_calling_mode_dialog_title">WLAN calling mode</string>
-    <string name="wifi_calling_off_explanation">When WLAN calling is on, your phone can route calls via WLAN networks or your carrier’s network, depending on your preference and which signal is stronger. Before turning on this feature, check with your carrier regarding fees and other details.</string>
+    <string name="wifi_calling_mode_dialog_title">Modalità chiamata Wi-Fi</string>
+    <string name="wifi_calling_off_explanation">Quando la chiamata Wi-Fi è attiva, il tuo telefono può inoltrare chiamate tramite rete Wi-Fi o del tuo operatore, in base alle tue preferenze e al segnale più forte. Prima di attivare questa funzione, verifica i costi e i dettagli con il tuo operatore.</string>
     <string name="home_settings">Pagina Home</string>
     <string name="display_settings_title">Schermo</string>
     <string name="sound_settings">Audio</string>
@@ -970,9 +970,9 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="account_settings">Account</string>
     <string name="category_personal">Personale</string>
     <string name="category_work">Lavoro</string>
-    <string name="accessibility_category_work">Work profile accounts - %s</string>
+    <string name="accessibility_category_work">Account profili di lavoro - %s</string>
     <string name="accessibility_category_personal">Impostazioni profilo personale</string>
-    <string name="accessibility_work_account_title">Work account - %s</string>
+    <string name="accessibility_work_account_title">Account di lavoro - %s</string>
     <string name="accessibility_personal_account_title">Account personale - %s</string>
     <string name="search_settings">Ricerca</string>
     <string name="search_settings_summary">Gestisci le impostazioni e la cronologia delle ricerche</string>
@@ -987,7 +987,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="auto_brightness_summary">Ottimizza il livello di luminosità secondo la luce disponibile</string>
     <string name="night_mode_title">Tema</string>
     <string name="night_mode_summary">%s</string>
-    <string name="night_mode_no">Light</string>
+    <string name="night_mode_no">Chiaro</string>
     <string name="night_mode_yes">Nero</string>
     <string name="night_mode_auto">Automatico</string>
     <string name="screen_timeout">Sospensione</string>
@@ -1007,7 +1007,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="screensaver_settings_button">Impostazioni</string>
     <string name="automatic_brightness">Luminosità automatica</string>
     <string name="lift_to_wake_title">Risveglia al sollevamento</string>
-    <string name="doze_title">Ambient display</string>
+    <string name="doze_title">Schermo ambientale</string>
     <string name="doze_summary">Accende lo schermo quando prendi il telefono o arrivano notifiche</string>
     <string name="title_font_size">Dimensioni carattere</string>
     <string name="summary_font_size">%1$s</string>
@@ -1038,9 +1038,9 @@ Il PIN potrebbe essere errato."</string>
     <string name="sim_multi_sims_title">Trovate SIM multiple</string>
     <string name="sim_multi_sims_summary">Scegli la SIM preferita per connettersi alla rete dati.</string>
     <string name="sim_change_data_title">Modificare SIM dati?</string>
-    <string name="sim_change_data_message">Use %1$s instead of %2$s for cellular data?</string>
-    <string name="sim_preferred_title">Update preferred SIM card?</string>
-    <string name="sim_preferred_message">%1$s is the only SIM in your device. Do you want to use this SIM for cellular data, calls, and SMS messages?</string>
+    <string name="sim_change_data_message">Usare %1$s invece di %2$s per la rete dati?</string>
+    <string name="sim_preferred_title">Aggiornare la SIM preferita?</string>
+    <string name="sim_preferred_message">"%1$s è l'unica SIM nel tuo dispositivo. Vuoi usare questa SIM per la rete dati mobile, chiamate ed SMS?</string>
     <string name="wrong_pin_code_pukked">"Codice PIN della SIM errato. Devi contattare l'operatore per sbloccare il dispositivo."</string>
     <string name="pin_failed">Operazione con PIN della SIM non riuscita.</string>
     <string name="device_info_settings">Stato dispositivo</string>
@@ -1119,10 +1119,10 @@ Il PIN potrebbe essere errato."</string>
     <string name="storage_menu_mount">Monta</string>
     <string name="storage_menu_unmount">Espelli</string>
     <string name="storage_menu_format">Formatta</string>
-    <string name="storage_menu_format_public">Format as portable</string>
-    <string name="storage_menu_format_private">Format as internal</string>
+    <string name="storage_menu_format_public">Formatta come portatile</string>
+    <string name="storage_menu_format_private">Formatta come interno</string>
     <string name="storage_menu_migrate">Migrate data</string>
-    <string name="storage_menu_forget">Forget</string>
+    <string name="storage_menu_forget">Dimentica</string>
     <string name="storage_menu_set_up">Imposta</string>
     <string name="storage_menu_explore">Esplora</string>
     <string name="storage_title_usb">Connessione computer USB</string>
@@ -1132,42 +1132,42 @@ Il PIN potrebbe essere errato."</string>
     <string name="usb_ptp_title">Fotocamera (PTP)</string>
     <string name="usb_ptp_summary">Consente di trasferire foto utilizzando il software della fotocamera e di trasferire i file su computer che non supportano MTP</string>
     <string name="usb_midi_title">MIDI</string>
-    <string name="usb_midi_summary">Lets MIDI enabled applications work over USB with MIDI software on your computer.</string>
+    <string name="usb_midi_summary">Consente alle app con attivazione MIDI di lavorare tramite USB con software MIDI sul tuo computer.</string>
     <string name="storage_other_users">Altri utenti</string>
-    <string name="storage_internal_title">Memoria dispostivo</string>
+    <string name="storage_internal_title">Memoria dispositivo</string>
     <string name="storage_external_title">Memoria portatile</string>
-    <string name="storage_volume_summary">%1$s used of %2$s</string>
+    <string name="storage_volume_summary">%1$s di %2$s utilizzati</string>
     <string name="storage_size_large">^1<small><small> ^2</small></small></string>
-    <string name="storage_volume_used">Used of %1$s</string>
-    <string name="storage_volume_used_total">Total used of %1$s</string>
-    <string name="storage_mount_success">%1$s is mounted</string>
-    <string name="storage_mount_failure">Couldn’t mount %1$s</string>
-    <string name="storage_unmount_success">%1$s is safely ejected</string>
-    <string name="storage_unmount_failure">Couldn’t safely eject %1$s</string>
-    <string name="storage_format_success">%1$s is formatted</string>
-    <string name="storage_format_failure">Couldn’t format %1$s</string>
-    <string name="storage_rename_title">Rename storage</string>
-    <string name="storage_dialog_unmounted">"This ^1 is safely ejected, but still available. 
+    <string name="storage_volume_used">Utilizzati di %1$s</string>
+    <string name="storage_volume_used_total">Utilizzati in totale su %1$s</string>
+    <string name="storage_mount_success">%1$s è montato</string>
+    <string name="storage_mount_failure">Impossibile montare %1$s</string>
+    <string name="storage_unmount_success">%1$s è stato rimosso insicurezza</string>
+    <string name="storage_unmount_failure">Impossibile rimuovere %1$s in sicurezza</string>
+    <string name="storage_format_success">%1$s è stato formattato</string>
+    <string name="storage_format_failure">Impossibile formattare %1$s</string>
+    <string name="storage_rename_title">Rinomina archivio</string>
+    <string name="storage_dialog_unmounted">"Questo ^1 è stato rimosso in sicurezza, ma ancora disponibile. 
 
-To use this ^1, you have to mount it first."</string>
-    <string name="storage_dialog_unmountable">"This ^1 is corrupted. 
+Per utilizzare questo ^1, devi prima montarlo."</string>
+    <string name="storage_dialog_unmountable">"Questo ^1 è corrotto. 
 
-To use this ^1, you have to set it up first."</string>
-    <string name="storage_dialog_unsupported">"This device doesn’t support this ^1. 
+Per utilizzare questo ^1, devi prima impostarlo."</string>
+    <string name="storage_dialog_unsupported">"Il dispositivo non supporta questo ^1. 
 
-To use this ^1 with this device, you have to set it up first."</string>
-    <string name="storage_internal_format_details">"After formatting, you can use this ^1 in other devices. 
+Per utilizzare questo ^1, devi prima impostarlo."</string>
+    <string name="storage_internal_format_details">"Dopo la formattazione, puoi utilizzare questo ^1 su altri dispositivi. 
 
-All data on this ^1 will be erased. Consider backing up first. 
+Tutti i dati su questo ^1 verranno eliminati. Considera di fare un backup prima. 
 
-"<b>Back up photos &amp; other media</b>" 
-Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable. 
+"<b>Backup foto e altri media</b>" 
+Sposta i tuoi file media in una memoria alternativa su questo dispositivo o trasferiscili su un computer utilizzando un cavo USB. 
 
-"<b>Back up apps</b>" 
-All apps stored on this ^1 will be uninstalled and their data will be erased. To keep these apps, move them to alternative storage on this device."</string>
-    <string name="storage_internal_unmount_details"><b>When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.</b>" 
+"<b>Backup applicazioni</b>" 
+Tutte le archiviate su questo ^1 verranno disinstallate e i loro dati verranno cancellati. Per mantenere queste app, spostale su altre memorie in questo dispositivo."</string>
+    <string name="storage_internal_unmount_details"><b>Quando espelli ^1, le app memorizzate su di esso smetteranno di funzionare, e i file media archiviati su di esso non saranno disponibili fino al successivo reinserimento.</b>" 
 
-This ^1 is formatted to work on this device only. It won’t work on any others."</string>
+Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non funzionerà su altriIt won’t work on any others."</string>
     <string name="storage_internal_forget_details">"To use the apps, photos, or data this ^1 contains, reinsert it. 
 
 Alternatively, you can choose to forget this storage if the device isn’t available. 
@@ -1177,7 +1177,7 @@ If you choose to forget, all the data the device contains will be lost forever.
 You can reinstall the apps later, but their data stored on this device will be lost."</string>
     <string name="storage_internal_forget_confirm_title">Forget ^1?</string>
     <string name="storage_internal_forget_confirm">All the apps, photos, and data stored on this ^1 will be lost forever.</string>
-    <string name="storage_detail_apps">Apps</string>
+    <string name="storage_detail_apps">App</string>
     <string name="storage_detail_images">Immagini</string>
     <string name="storage_detail_videos">Video</string>
     <string name="storage_detail_audio">Audio</string>
@@ -1266,7 +1266,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="apn_type">Tipo APN</string>
     <string name="apn_protocol">Protocollo APN</string>
     <string name="apn_roaming_protocol">Protocollo roaming APN</string>
-    <string name="apn_ppp_number">APN PPP phone number</string>
+    <string name="apn_ppp_number">Numero di telefono APN PPP</string>
     <string name="ppp_number">ppp_number</string>
     <string name="carrier_enabled">Attivazione/disattivazione APN</string>
     <string name="carrier_enabled_summaryOn">APN attivo</string>
@@ -3329,7 +3329,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_system_app_settings">System apps</string>
     <string name="search_application_settings">Installed apps</string>
     <string name="search_app_permission">Permissions;Root access</string>
-    <string name="search_application_lock">App lock</string>
+    <string name="search_application_lock">Blocco applicazioni</string>
     <string name="search_about">"About phone;Device name;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernal version;Build number;Status;Legal information "</string>
     <string name="search_device_name">Device name</string>
     <string name="search_legal_information">Legal information</string>
@@ -3502,7 +3502,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="path_system_app_settings">Settings/System apps</string>
     <string name="path_applications_settings">Settings/Installed apps</string>
     <string name="path_app_permission">Settings/Permissions</string>
-    <string name="path_application_lock">Settings/App lock</string>
+    <string name="path_application_lock">Impostazioni/Blocco applicazioni</string>
     <string name="path_about_about_settings">Settings/About phone</string>
     <string name="path_device_name">Settings/About phone/Device name</string>
     <string name="path_legal_information">Settings/About phone/Legal information</string>
@@ -4226,7 +4226,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="permission_manager">Permessi</string>
     <string name="personal_section_title">Personali</string>
     <string name="system_and_device_section_title">Sistema e dispositivo</string>
-    <string name="application_manager_section_title">App settings</string>
+    <string name="application_manager_section_title">Applicazioni</string>
     <string name="security_keyguard_category_name">Blocco schermo</string>
     <string name="security_password_category_name">Password</string>
     <string name="bluetooth_unlock_title">Sblocca tramite dispositivo Bluetooth</string>
@@ -4461,7 +4461,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="crypt_keeper_decrypt_methods">"Dopo aver criptato il tuo telefono, partendo dal presupposto che tu abbia impostato la schermata di blocco (cioè una sequenza, un PIN o una password), dovrai sbloccare lo schermo per decriptare il telefono ogni volta che lo accendi. L'unico altro modo per decriptarlo è eseguire un ripristino di fabbrica, eliminando così tutti i tuoi dati"</string>
     <string name="crypt_keeper_conditions_title">Info sulla criptazione del tuo dispositivo</string>
     <string name="crypt_keeper_conditions">"La criptazione richiede un'ora o anche più. Devi iniziare quando hai la batteria carica e mantenere il telefono collegato alla corrente per tutta la durata dell'operazione. Se lo interrompi, perderai alcuni o anche tutti i tuoi dati."</string>
-    <string name="application_lock_name">App lock</string>
+    <string name="application_lock_name">Blocco applicazioni</string>
     <string name="connecting_to_vpn">Connecting to VPN</string>
     <string name="vpn_on">On</string>
     <string name="vpn_off">Off</string>

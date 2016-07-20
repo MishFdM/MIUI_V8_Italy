@@ -21,7 +21,7 @@
     <string name="main_toolbar_statistic">Statistiche utilizzo dati</string>
     <string name="main_toolbar_saving">Risparmio dati</string>
     <string name="main_toolbar_purchase">Ricarica</string>
-    <string name="main_button_usage_adjust">Sincronizza utilizo dati mobile</string>
+    <string name="main_button_usage_adjust">Sincronizza utilizzo dati mobile</string>
     <string name="main_button_usage_adjusting">Carica in corso…</string>
     <string name="main_button_usage_adjust_manual">Imposta limite utilizzo dati</string>
     <string name="main_button_usage_package_setting">Imposta limite utilizzo dati</string>
@@ -185,7 +185,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="traffic_setting_fragment_operator">Operatore</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_template">Modello messaggio</string>
-    <string name="traffic_setting_fragment_loading_text">Recuepro informazioni di rete…</string>
+    <string name="traffic_setting_fragment_loading_text">Recupero informazioni di rete…</string>
     <string name="traffic_setting_fragment_no_network">Impossibile collegarsi alla rete</string>
     <string name="traffic_setting_fragment_get_template_falure">Impossibile collegarsi alla rete. Verifica la tua connessione dati e riprova.</string>
     <string name="traffic_setting_fragment_send_num">Numero di telefono operatore</string>
@@ -299,22 +299,22 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="datausage_purchase_ordering">Acquisto in corso...</string>
     <string name="datausage_purchase_result_ok">"Hai acquistato %s
 Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operatore"</string>
-    <string name="datausage_purchase_result_failed">"Couldn't buy data. Check with your carrier for more info about the issue. "</string>
-    <string name="datausage_purchase_backto_ns">Back</string>
-    <string name="datausage_purchase_goto_monthsetting">Edit package info</string>
-    <string name="datausage_purchase_pkglist_nodata">"There's conflict between your current data package and the data package you're attempting to purchase.
- Check with your carrier for more info."</string>
-    <string name="datausage_purchase_pkglist_networkerror">"Couldn't connect to the network. Check your data connection and try again."</string>
-    <string name="datausage_purchase_pkglist_servererror">Something went wrong with our server.</string>
-    <string name="datausage_purchase_order_history">History</string>
-    <string name="datausage_purchase_none_history">Empty</string>
+    <string name="datausage_purchase_result_failed">"Non è stato possibile acquistate dati. Verifica con il tuo operatore per maggiori informazioni sul problema. "</string>
+    <string name="datausage_purchase_backto_ns">Indietro</string>
+    <string name="datausage_purchase_goto_monthsetting">Modifica informazioni pacchetto</string>
+    <string name="datausage_purchase_pkglist_nodata">"Si è verificato un conflitto tra il tuo pacchetti dati attuale ed il pacchetto dati che stai cercando di acquistare.
+ Verifica con il tuo operatore per maggiori informazioni."</string>
+    <string name="datausage_purchase_pkglist_networkerror">"Impossibile collegarsi alla rete. Controlla la tua connessione dati e riprova."</string>
+    <string name="datausage_purchase_pkglist_servererror">Qualcosa è andato storto con il tuo server.</string>
+    <string name="datausage_purchase_order_history">Cronologia</string>
+    <string name="datausage_purchase_none_history">Vuoto</string>
     <string name="datausage_purchase_time_in">" on "</string>
-    <string name="datausage_purchase_order_failure">Purchase failed</string>
-    <string name="datausage_purchase_order_failure_cause">Purchase failed…</string>
+    <string name="datausage_purchase_order_failure">Acquisto fallito</string>
+    <string name="datausage_purchase_order_failure_cause">Accesso fallito...</string>
     <string name="traffic_saving_tecsupport">Powered by Opera</string>
     <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
     <string name="traffic_saving_notify_start_title">Utilizzo dati ridotto</string>
-    <string name="traffic_saving_notify_start_content">%s risparmiati qusto mese.</string>
+    <string name="traffic_saving_notify_start_content">%s risparmiati questo mese.</string>
     <string name="traffic_saving_notify_no_apps_saving">"Riduci l'utilizzo dati"</string>
     <string name="traffic_saving_notify_no_apps_saving_content">Tocca per attivare il Risparmio Dati.</string>
     <string name="traffic_saving_toast_start_mobile">Risparmio Dati attivato</string>
@@ -330,8 +330,8 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="traffic_saving_start_tip_context">"<big><font color="#7F000000">Attiva automaticamente Risparmio Dati per risparmiare traffico dati.</font></big><br/><br/><font color="#FF000000">If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.</font>"</string>
     <string name="traffic_saving_button_sorted_chose_simcard">Ordina per</string>
     <string name="traffic_saving_msg_today">risparmiati oggi</string>
-    <string name="traffic_saving_msg_month">Rsparmiati questo mese</string>
-    <string name="traffic_saving_msg_not_started">Risaprmio dati disattivato</string>
+    <string name="traffic_saving_msg_month">risparmiati questo mese</string>
+    <string name="traffic_saving_msg_not_started">Risparmio dati disattivato</string>
     <string name="traffic_saving_history_title">Cronologia</string>
     <string name="traffic_saving_history_total_traffic">Dati risparmiati</string>
     <string name="traffic_saving_history_total_rate">Velocità</string>
@@ -360,7 +360,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="traffic_saving_whitelist_no_app">Nessuna app</string>
     <string name="online_songs">Musica</string>
     <string name="online_chat">Chat</string>
-    <string name="online_read">News</string>
+    <string name="online_read">Notizie</string>
     <string name="songs_number">18 brani</string>
     <string name="chat_number">10 ore</string>
     <string name="read_number">86 articoli</string>
@@ -423,12 +423,12 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="tc_sms_report_get_sms_failure">Impossibile recuperare SMS con il formato di utilizzo dei dati</string>
     <string name="tc_sms_report_get_sms_timeout">Richiesta scaduta</string>
     <string name="tc_sms_report_get_sms_successs">Formato SMS utilizzo dati aggiornato</string>
-    <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
+    <string name="tc_sms_report_get_default">"Non avrai costi aggiuntivi per l'SMS utilizzato per recuperare il traffico dati dal tuo operatore."</string>
     <string name="tc_sms_report_toast_text">Recupero informazione…</string>
     <string name="privacy_declare_dialog_title">Termini del servizio</string>
     <string name="privacy_declare_dialog_message">Utilizzando questo servizio accetti i Termini e Condizioni di Opera.</string>
     <string name="sc_allow_network_dialog_tiltle">Impossibile utilizzare questa funzione</string>
-    <string name="sc_allow_network_dialog_message">Questa applicazione deve utilizzare la connessione internetper funzionare correttamente.</string>
+    <string name="sc_allow_network_dialog_message">Questa applicazione deve utilizzare la connessione internet per funzionare correttamente.</string>
     <string name="privacy_prompt_upload">Carica</string>
     <string name="privacy_prompt_traffic_adjust_message">"This feature needs to encrypt and send your device's IMEI, phone number, and carrier information to Mi's servers in order get data usage stats from your carrier."</string>
     <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
@@ -495,7 +495,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="traffic_purchse_suggestion">Ricarica dati rete mobile</string>
     <string name="traffic_over_purchase_title">Limite dati superato</string>
     <string name="traffic_over_purchase_body">Tocca per vedere i dettagli.</string>
-    <string name="traffic_over_purchase_link">"Hai raggiunto il limte del tuo piano dati<br/>Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi.<br/><br/><font color="#ccffffff"><u>Tocca per ricaricare.</u></font>"</string>
+    <string name="traffic_over_purchase_link">"Hai raggiunto il limite del tuo piano dati<br/>Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi.<br/><br/><font color="#ccffffff"><u>Tocca per ricaricare.</u></font>"</string>
     <string name="repair_loading_text">Solo un attimo…</string>
     <string name="network_diagnostics">Verifica la rete</string>
     <string name="btn_start_diagnostic">Verifica la rete</string>
@@ -666,12 +666,12 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="xiaomi_traffic_pass_dialog_warning_title">Mi Data plan notification</string>
     <string name="xiaomi_traffic_pass_btn_purchase">Purchase more</string>
     <string name="xiaomi_traffic_pass_not_current_simcard">Switch mobile data cards to use Mi Data plan. Switch now?</string>
-    <string name="xiaomi_traffic_pass_in_use">Using</string>
+    <string name="xiaomi_traffic_pass_in_use">In uso</string>
     <string name="xiaomi_traffic_pass_passes_empty">No mobile data available, purchase data first</string>
-    <string name="xiaomi_traffic_pass_purchase">Purchase mobile data</string>
-    <string name="xiaomi_traffic_pass_not_support">"Your mobile carrier doesn't support this feature"</string>
-    <string name="xiaomi_traffic_return">Back</string>
-    <string name="celcius_symbol">℃</string>
+    <string name="xiaomi_traffic_pass_purchase">Acquista dati</string>
+    <string name="xiaomi_traffic_pass_not_support">Il tuo operatore non supporta questa funzione</string>
+    <string name="xiaomi_traffic_return">Indietro</string>
+    <string name="celcius_symbol">°C</string>
     <string name="voltage_symbol">V</string>
     <string name="percent_symbol">%</string>
     <string name="power_center_title">Batteria</string>
@@ -687,7 +687,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="power_center_state_off">Disattivato</string>
     <string name="power_center_consume_time">%1$s rimanente</string>
     <string name="power_center_charge_time">Carica completata tra %1$s</string>
-    <string name="power_center_battery_full">Batteria caricata completamente</string>
+    <string name="power_center_battery_full">Batteria caricata completamente\u0020</string>
     <string name="power_dialog_cancel">Annulla</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_consume_rank_title">Utilizzo batteria</string>
@@ -868,8 +868,8 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="notification_charging_title">In carica</string>
     <string name="charging_text_time_calculating">Calcolo tempo di ricarica...</string>
     <string name="charging_text_battery_nearly_full">Quasi carico</string>
-    <string name="charging_text_battery_full_time">Ultima carica</string>
-    <string name="charging_text_battery_perfect">Carica completata</string>
+    <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
+    <string name="charging_text_battery_perfect">Carica completata\u0020</string>
     <string name="resource_securitycenter_settings">Security</string>
     <string name="keywords_securitycenter_settings">Battery saver;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
     <string name="path_securitycenter_settings">System apps/Security</string>
@@ -903,8 +903,8 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="resource_networkassistant_4">Test network</string>
     <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
     <string name="path_networkassistant_4">System apps/Security/Network assistant/Test network</string>
-    <string name="resource_applicationlock">App lock</string>
-    <string name="keywords_applicationlock">Password;Privacy;App lock;Accesso;Protezione</string>
+    <string name="resource_applicationlock">Blocco applicazioni</string>
+    <string name="keywords_applicationlock">Password;Privacy;Blocco applicazioni;Accesso;Protezione</string>
     <string name="path_applicationlock">Applicazioni di sistema/Sicurezza</string>
     <string name="app_name_securitycenter">Sicurezza</string>
     <string name="ok">OK</string>
@@ -1333,7 +1333,7 @@ o inserisci la password"</string>
     <string name="access_control_need_password">"%s blocco aggiunta con successo
 "</string>
     <string name="privacy_mode_dialog_title">Modalità ospite</string>
-    <string name="access_control_reset_by_account">Accedi al tuo Mi Account per ripristinare App Lock</string>
+    <string name="access_control_reset_by_account">Accedi al tuo Mi Account per ripristinare il Blocco applicazioni</string>
     <string name="lockpattern_settings_help_how_to_record">Come disegnare una sequenza</string>
     <string name="lockpattern_recording_incorrect_too_short">Collega almeno %d punti</string>
     <string name="lockpattern_recording_intro_header">Collega almeno 4 per creare una sequenza</string>
