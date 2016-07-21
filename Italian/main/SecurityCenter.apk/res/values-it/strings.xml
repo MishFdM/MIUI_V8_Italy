@@ -865,7 +865,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="power_save_mode_ontime_enabled">Programma il tempo quando puoi passare ad altra modalità</string>
     <string name="power_save_mode_start_time">Inizio</string>
     <string name="power_save_mode_end_time">Fine</string>
-    <string name="notification_charging_title">In carica</string>
+    <string name="notification_charging_title">In carica\u0020</string>
     <string name="charging_text_time_calculating">Calcolo tempo di ricarica...</string>
     <string name="charging_text_battery_nearly_full">Quasi carico</string>
     <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
