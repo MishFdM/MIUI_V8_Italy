@@ -79,7 +79,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="global_actions_shutdown">Spegni</string>
     <string name="global_actions_silent_mode">Modalità silenziosa</string>
     <string name="reboot_info_auto_boot">Il dispositivo si avvierà alle %s grazie alla pianificazione di avvio automatico</string>
-    <string name="reboot_info_shutdown_alarm">Il dispositivo si avvierà e suonerà alle %s</string>
+    <string name="reboot_info_shutdown_alarm">Il dispositivo si avvierà e suonerà %s alle</string>
     <string name="key_btn_space">Spazio</string>
     <string name="key_btn_ok">OK</string>
     <string name="lockscreen_access_pattern_start">Sequenza avviata</string>
