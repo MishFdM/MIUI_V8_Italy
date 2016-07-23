@@ -560,10 +560,6 @@
         <item>Tasto Menu a sinistra, tasto Indietro a destra</item>
         <item>Tasto Indietro a sinistra, tasto Menu a destra</item>
     </string-array>
-    <string-array name="screen_key_press_action">
-        <item>App recenti</item>
-        <item>Menu</item>
-    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nessuna</item>
         <item>Lancia task manager</item>
