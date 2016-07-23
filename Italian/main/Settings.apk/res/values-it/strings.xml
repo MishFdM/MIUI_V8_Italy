@@ -3343,8 +3343,8 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_slot_status_title">IMEI</string>
     <string name="search_micloud">Sync;Miclound</string>
     <string name="networks_title">Cellular networks</string>
-    <string name="path_network_settings">Impostazioni/Gestione SIM</string>
-    <string name="path_apn_settings">Impostazioni/Gestione SIM/SIM/Nomi punti di accesso</string>
+    <string name="path_network_settings">Impostazioni/SIM e reti mobili</string>
+    <string name="path_apn_settings">Impostazioni/SIM e reti mobil/SIM/Nomi punti di accesso</string>
     <string name="path_preferred_network_type_settings">Settings/Mobile network settings/Preferred network type</string>
     <string name="path_networks_title">Settings/Mobile network settings/Cellular networks</string>
     <string name="path_wifi_settings">Settings/WLAN</string>
