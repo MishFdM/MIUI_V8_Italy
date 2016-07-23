@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_apps_entries">
+        <item>Utilizzato nello Spazio Primario</item>
+        <item>Utilizzato nello Spazio Secondario</item>
+        <item>Utilizzato in entrambi gli spazi</item>
+    </string-array>
+    <string-array name="switch_apps_title_confirms">
+        <item>I dati app verranno persi</item>
+        <item>I dati app verranno persi</item>
+        <item>Attenzione</item>
+    </string-array>
+    <string-array name="switch_apps_msg_confirms">
+        <item>I dati app andranno persi dopo che le applicazioni vengono spostate nello Spazio Primario.</item>
+        <item>I dati app andranno persi dopo che le applicazioni vengono spostate nello Spazio Secondario</item>
+        <item>Le applicazione vengono utilizzate in entrambi gli spazi.</item>
+    </string-array>
+</resources>

@@ -534,7 +534,7 @@
     <string name="name_split">,</string>
     <string name="more_album_hint">,etc</string>
     <string name="runtime_permission_ungranted">Galleria chiusa per mancanza permessi</string>
-    <string name="not_remind_again">"Don't show again"</string>
+    <string name="not_remind_again">Non mostrare più</string>
     <string name="home_page_empty">Vuoto</string>
     <string name="people_page_label">Volto</string>
     <string name="people_page_unname">Senza nome</string>
@@ -705,7 +705,7 @@
     <string name="album_detail_clear_local_page_empty">Nessuna foto o video da eliminare</string>
     <string name="clear_local_photo_direction">Se elimini foto o video dal tuo telefono, saranno ancora visibili su Mi Cloud</string>
     <string name="release_space_finish_format">Liberati %s di spazio</string>
-    <string name="return_from_clear_local_file_fragment_toast">Optimized photos are stored on the device. Tap a photo to download the original item from Mi Cloud.</string>
+    <string name="return_from_clear_local_file_fragment_toast">Le foto ottimizzate sono archiviate sul dispositivo. Tocca una foto per scaricare il file originale da Mi Cloud.</string>
     <string name="app_name_view_picture">Mostra immagine</string>
     <string name="video_err">Impossibile riprodurre il video.</string>
     <string name="exit_video_play">Esci</string>
@@ -715,6 +715,7 @@
     <string name="picker_full_format">%d elementi al massimo.</string>
     <string name="picker_image_need_download">%d delle foto selezionate non sono sul dispositivo, scaricare utilizzando la rete dati mobile?</string>
     <string name="picker_origin_need_download">%1$d delle foto selezionate non sono sul dispositivo (%2$d MB), scaricare utilizzando la rete dati mobile?</string>
+    <string name="picker_skip_unavailable_images">" "<item quantity="one">"Una foto saltata perché non presente sul dispositivo."</item> <item quantity="other">"Skipped %d photos which aren't on device."</item>" "</string>
     <string name="picker_image_will_download">%d delle foto selezionate non sono sul dispositivo, download in corso</string>
     <string name="picker_continue_with_exists">Continua con foto locali</string>
     <string name="picker_download">Scarica</string>
@@ -749,7 +750,7 @@
     <string name="operation_not_show_in_photos_tab">Non visualizzato nella scheda foto</string>
     <string name="auto_upload_enable_toast_long_press_menu">"Backup automatico attivato, vai alla pagina dell'album per vedere"</string>
     <string name="auto_upload_disable_toast_long_press_menu">Backup automatico disattivato，aggiunto ad un altro album</string>
-    <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
+    <string name="operation_enter_delete_local">Elimina foto e video di backup dal dispositivo</string>
     <string name="auto_upload_disable_tip">Backup automatico disattivato</string>
     <string name="to_enable_sync_dialog_title">Sincronizzazione</string>
     <string name="to_enable_sync_dialog_message">Prima attiva la sincronizzazione</string>
@@ -774,7 +775,7 @@
     <string name="click_download_gif">Tocca per scaricare GIF</string>
     <string name="gif_tip">GIF</string>
     <string name="loading_suspend">Download in pausa: riprenderà quando sarà disponibile una connessione Wi-Fi</string>
-    <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
+    <string name="loading_fail_sync_off">Attiva sincronizzazione con Mi Cloud per scaricare</string>
     <string name="loading_fail">Download fallito</string>
     <string name="image_download_item_title">Download immagine (%s)</string>
     <string name="download_without_wifi_title">Avviso utilizzo dati</string>
@@ -799,7 +800,7 @@
     <string name="photo_edit_file_not_exits_tip">Scarica la foto prima della modifica</string>
     <string name="select_origin_tip">File originale (%s)</string>
     <string name="loading_fail_sync_off_message">Impossibile caricare le foto, la sincronizzazione con Mi Cloud è disattivata.</string>
-    <string name="turn_on_sync">Turn on sync</string>
+    <string name="turn_on_sync">Attiva sincronizzazione</string>
     <string name="download_canceled">Download annullato</string>
     <string name="must_pick_file">"Seleziona un'immagine"</string>
     <string name="send_multiple_files_hint_format">Invia file (%s)</string>
@@ -818,7 +819,7 @@
     <string name="tip_file_path">Percorso:</string>
     <string name="tip_capture_location">Località:</string>
     <string name="detail_title">Dettagli</string>
-    <string name="tip_screenshot_package_info">App name:</string>
+    <string name="tip_screenshot_package_info">Nome app:</string>
     <string name="tip_not_download">Nessun download. Verrà scaricato automaticamente quando in riproduzione.</string>
     <string name="flash_on">Usa flash</string>
     <string name="flash_off">Niente flash</string>
@@ -1053,10 +1054,13 @@
     <string name="download_retry_message">Impossibile scaricare i file, verifica la connessione di rete e riprova</string>
     <string name="download_retry_text">Prova di nuovo</string>
     <string name="custom_select_title_select_item">Seleziona elementi</string>
+    <string name="custom_select_title_quickly_share">Condividi</string>
     <string name="custom_select_title_select_all">Seleziona tutto</string>
     <string name="custom_select_title_deselect_all">Deseleziona</string>
     <string name="start_debug">Debug Galleria</string>
     <string name="debugging_tip">Creazione rapporto debug</string>
+    <string name="fast_share_auto_render">Filtro bellezza</string>
+    <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
     <string name="storage_no_space">Spazio insufficiente</string>
     <string name="share_album">Condividi album</string>
     <string name="all_video_album_display_name">Tutti i video</string>

@@ -370,6 +370,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="radio_info_ppp_received_label">PPP ricevuto:</string>
     <string name="radio_info_gsm_service_label">Servizio GSM:</string>
     <string name="radio_info_signal_strength_label">Intensità segnale:</string>
+    <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
     <string name="radio_info_call_status_label">Stato chiamata:</string>
     <string name="radio_info_ppp_sent_label">PPP inviato:</string>
     <string name="radio_info_radio_resets_label">Reimpostaz. segnale cellulare:</string>
@@ -1386,11 +1387,11 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e Cellulare per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
     <string name="location_menu_scanning">Scansione</string>
-    <string name="location_scanning_screen_title">Scanning</string>
-    <string name="location_scanning_wifi_always_scanning_title">Wi‑Fi scanning</string>
-    <string name="location_scanning_wifi_always_scanning_description">Improve location by allowing system apps and services to detect Wi‑Fi networks at any time.</string>
-    <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth scanning</string>
-    <string name="location_scanning_bluetooth_always_scanning_description">Improve location by allowing system apps and services to detect Bluetooth devices at any time.</string>
+    <string name="location_scanning_screen_title">Scansione</string>
+    <string name="location_scanning_wifi_always_scanning_title">Scansione Wi-Fi</string>
+    <string name="location_scanning_wifi_always_scanning_description">Migliora la posizione consentendo alle app e ai servizi di sistema di rilevare reti Wi-Fi  in qualsaisi momento.</string>
+    <string name="location_scanning_bluetooth_always_scanning_title">ScansioneBluetooth</string>
+    <string name="location_scanning_bluetooth_always_scanning_description">Migliora la posizione consentendo alle app e ai servizi di sistema di rilevare dispositivi Bluetooth  in qualsaisi momento.</string>
     <string name="location_network_based">Posizione Wi-Fi e Rete dati cellulare</string>
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
     <string name="location_neighborhood_level_wifi">Posizione determinata da Wi-Fi</string>
@@ -3227,6 +3228,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_screen_effect">Colors &amp; saturation</string>
     <string name="search_screen_saver_settings">Screensaver</string>
     <string name="search_screen_paper_mode">Modalità di lettura</string>
+    <string name="search_gesture_wakeup_title">Double tap screen to wake</string>
     <string name="search_sound_settings">Sound;Volumes;Silent mode;Alarm;Music;Vibrate;Phone ringtone;Default notification sound;Message received;Message delivered;Touch;Screen lock sound;Audio settings;Suppress noise</string>
     <string name="search_ring_volume">Volume suoneria</string>
     <string name="search_ringtone">Suoneria</string>
@@ -3400,6 +3402,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="path_screen_saver_settings">Settings/Display/Screensaver</string>
     <string name="path_screen_optimize">Settings/Display/Colors &amp; contrast</string>
     <string name="path_screen_paper_mode">Settings/Display/Reading mode</string>
+    <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
     <string name="path_accelerometer_settings">Settings/Display/Auto-rotate screen</string>
     <string name="path_sound_settings">Settings/Sound &amp; vibration</string>
     <string name="path_ringtone_settings">Settings/Sound &amp; vibration/Phone ringtone</string>
@@ -4218,6 +4221,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="local_backup_section_summary">Backup impostazioni di sistema, account e applicazioni</string>
     <string name="other_personal_settings">Impostazioni aggiuntive</string>
     <string name="local_auto_backup_section_title">Backup automatico</string>
+    <string name="google_backup_enable">Attiva backup</string>
     <string name="local_auto_backup_on">Sì</string>
     <string name="local_auto_backup_off">No</string>
     <string name="other_advanced_settings">Impostazioni aggiuntive</string>
@@ -4473,6 +4477,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="fingerprint_identify_msg">"Lettura dell'impronta\u2026"</string>
     <string name="fingerprint_identify_input_password_msg">Inserisci password</string>
     <string name="fingerprint_identify_try_again_msg">Scansione fallita, prova di nuovo</string>
+    <string name="fingerprint_lock_second">Sblocca Spazio Secondario</string>
+    <string name="fingerprint_lock_first">Sblocca Spazio Primario</string>
     <string name="add_fingerprint_instruction_title">Appoggia il dito sul lettore di impronte</string>
     <string name="add_fingerprint_instruction_msg">"Sblocca il dispositivo o verifica il pagamento con l'impronta digitale"</string>
     <string name="add_fingerprint_put_finger_title">Posiziona il dito</string>
@@ -4486,8 +4492,6 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="delete_legacy_fingerprint">Elimina</string>
     <string name="keep_legacy_fingerprint">Mantieni</string>
     <string name="add_fingerprint_finished_button_text">Fatto</string>
-    <string name="add_fingerprint_instruction_dialog_msg">"Per aggiungere la tua impronta digitale, appoggia il dito sul sensore.
-Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="add_fingerprint_toast_text">Appoggia il dito sul sensore adesso</string>
     <string name="show_user_info_on_lockscreen_label">Mostra info utente sulla Schermata di blocco</string>
     <string name="battery_info_status_label">Stato batteria:</string>
@@ -4579,6 +4583,9 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Clicca per modificare</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_skip">Salta</string>
+    <string name="permission_settings_title">App permissions</string>
+    <string name="permission_settings_summary">Manage permissions related to location, storage, phone, messages, and contacts.</string>
+    <string name="permission_manage_global_build_title">Other permissions</string>
     <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
     <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
     <string name="fingerprint_removal_failed">"Couldn't remove fingerprint, try again later"</string>

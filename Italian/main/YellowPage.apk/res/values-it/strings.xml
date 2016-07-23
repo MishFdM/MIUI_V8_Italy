@@ -122,6 +122,11 @@
     <string name="mark_number_feedback_hint">Inserisci il tuo feedback</string>
     <string name="mark_number_feedback_invalid_hint">Inserisci un feedback valido</string>
     <string name="mark_number_remove">Rimuovi etichetta</string>
+    <string name="mark_number_check_dialog_title">Componi numero</string>
+    <string name="mark_number_check_most_choice">(Altre Scelte Utente)</string>
+    <string name="mark_number_check_choose_others">Scegli altri</string>
+    <string name="mark_number_feedback_personal_number">"E' un numero personale"</string>
+    <string name="mark_number_feedback_not_number">Non è il numero di %s</string>
     <string name="smart_antispam">Identifica automaticamente numero sconosciuto</string>
     <string name="turn_on_smart_antispam_hint">Dopo averlo attivato, i numero verranno identificati. Se non verranno identificati, puoi segnalarli per aiutare a identificare le chiamate indesiderate.</string>
     <string name="turn_on_smart_antispam_title">Identifica numeri sconosciuti</string>
