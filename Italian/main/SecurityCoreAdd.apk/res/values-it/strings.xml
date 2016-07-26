@@ -59,13 +59,13 @@
     <string name="ok_button">OK</string>
     <string name="cancel_button">Cancel</string>
     <string name="list_empty_text">Empty</string>
-    <string name="xspace_label">Dual apps</string>
+    <string name="xspace_label">Clona applicazioni</string>
     <string name="declare_dialog_title">About dual apps</string>
     <string name="xspace_loading_msg">Loading apps…</string>
-    <string name="xspace_header">Dual apps</string>
-    <string name="xspace_introduce">Recommended</string>
+    <string name="xspace_header">Clona applicazioni</string>
+    <string name="xspace_introduce">Raccomandate</string>
     <string name="xspace_description">Create dual apps to use them separately. Dual apps will have specific Home screen icons.</string>
-    <string name="xspace_chocie">Dual app support</string>
+    <string name="xspace_chocie">Supporto Clona applicazioni</string>
     <string name="xspace_creating">Creating dual app…</string>
     <string name="xspace_installing">Installing…</string>
     <string name="xspace_install_failed">"Couldn't create"</string>
