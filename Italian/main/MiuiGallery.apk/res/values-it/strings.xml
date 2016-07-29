@@ -46,7 +46,7 @@
     <string name="video_editor_text_edit_input_end_hint">Inserisci i crediti</string>
     <string name="video_editor_text_edit_input_hint">Tocca qui per modificare</string>
     <string name="video_editor_abandon_changes_tip_title">Annulla modifiche</string>
-    <string name="video_editor_abandon_changes_tip_message">Annulalre tutte le modifiche?</string>
+    <string name="video_editor_abandon_changes_tip_message">Annullare tutte le modifiche?</string>
     <string name="video_editor_ok">OK</string>
     <string name="video_editor_invalid_trim_arguments">Potrebbe impiegare più di 1 secondo</string>
     <string name="video_editor_fatal_error">Errore sconosciuto</string>
@@ -54,7 +54,7 @@
     <string name="video_editor_down_load_no_wifi_tips">Collega al Wi-Fi per scaricare</string>
     <string name="video_editor_down_load_now">Scarica</string>
     <string name="video_editor_down_load_later">Più tardi</string>
-    <string name="video_editor_res_not_load_dialog_msg">Scarica il plugine per poter utilizzare questa funzione.</string>
+    <string name="video_editor_res_not_load_dialog_msg">Scarica il plugin per poter utilizzare questa funzione.</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Utilizza rete dati mobile</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Scaricare tramite rete dati mobile??</string>
     <string name="video_editor_res_download_failed_tips">Impossibile scaricare, controlla le impostazioni di rete e prova di nuovo</string>
@@ -557,7 +557,7 @@
     <string name="input_a_name">Inserisci nome</string>
     <string name="input_or_select_a_name">Inserisci o scegli un nome</string>
     <string name="rename_fail_msg">Impossibile rinominare</string>
-    <string name="rename_from_contact">Nomeda contatto</string>
+    <string name="rename_from_contact">Nome da contatto</string>
     <string name="contact_tip">Contatti</string>
     <string name="confirm_merge_face_albums">" "<data> Unire questo album con %s? </data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<data> Unire questi album con %s? </data>" "</string>
@@ -593,7 +593,7 @@
     <string name="confirm_recommandation_multiple_faces_not">" "<data> Sei sicuro che non siano <font color="#323232"><b>%1$s</b></font>? Questi volti verranno spostati in \"%2$s\" dopo la conferma. </data>" "</string>
     <string name="blank_app_name"/>
     <string name="set_group">Imposta gruppo</string>
-    <string name="how_to_set_relation">Tieni premuto su un album perimpostare il gruppo</string>
+    <string name="how_to_set_relation">Tieni premuto su un album per impostare il gruppo</string>
     <string name="operation_remove_from_face_album">Rimuovi copertina</string>
     <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
     <string name="share_with_family">Condividi con la famiglia</string>
@@ -751,8 +751,8 @@
     <string name="auto_upload_enable_toast_long_press_menu">"Backup automatico attivato, vai alla pagina dell'album per vedere"</string>
     <string name="auto_upload_disable_toast_long_press_menu">Backup automatico disattivato，aggiunto ad un altro album</string>
     <string name="operation_enter_delete_local">Elimina foto e video di backup dal dispositivo</string>
-    <string name="remove_from_other_albums_tip">"L'albumo dovrebbe essre attivato con la sincronizzazione Mi Cloud quando rimosso dalla lista degli Altri album, rimuovere adesso l'album?"</string>
-    <string name="move_to_other_albums_tip">La sincronizzazione Mi Cloud dell'album verrà disattivata se sposti questo albume nella lista degli Altri album, spostare adesso?</string>
+    <string name="remove_from_other_albums_tip">"L'album dovrebbe essere attivato con la sincronizzazione Mi Cloud quando rimosso dalla lista degli Altri album, rimuovere adesso l'album?"</string>
+    <string name="move_to_other_albums_tip">"La sincronizzazione Mi Cloud dell'album verrà disattivata se sposti questo albume nella lista degli Altri album, spostare adesso?"</string>
     <string name="turn_on_and_remove">Attiva e rimuovi</string>
     <string name="turn_off_and_move">Disattiva e sposta</string>
     <string name="auto_upload_disable_tip">Backup automatico disattivato</string>
@@ -855,7 +855,7 @@
     <string name="create_new_album_failed">Creazione fallita</string>
     <string name="default_album_name">Nuovo album</string>
     <string name="new_album_invalid_prefix">"Non usare \".\" oo \"_\" come inizio del nome dell'album."</string>
-    <string name="new_album_invalid_char">Il nome contiene caratterni non validi \"%s\", inserisci numeri o lettere.</string>
+    <string name="new_album_invalid_char">Il nome contiene caratteri non validi \"%s\", inserisci numeri o lettere.</string>
     <string name="new_album_invalid_name">\"%s\" è un album di sistema, si prega di rinominare.</string>
     <string name="album_name">Nome album</string>
     <string name="delete_origin">"Elimina le immagini dall'album originale"</string>
@@ -1013,7 +1013,7 @@
     <string name="backup_detail_page_title">Backup Mi Cloud</string>
     <string name="backuping">Backup in corso %1$d/%2$d</string>
     <string name="backup_waiting_button_text">Esegui backup</string>
-    <string name="network_unsatisfied_button_text">Conenssione alla rete</string>
+    <string name="network_unsatisfied_button_text">Connessione alla rete</string>
     <string name="sync_off_button_text">Attiva sincronizzazione</string>
     <string name="cloud_space_full_button_text">Ottieni ulteriore spazio su Mi Cloud</string>
     <string name="local_space_full_button_text">Libera spazio</string>
@@ -1042,7 +1042,7 @@
     <string name="alert_secret_album_enter">OK</string>
     <string name="number_of_uploading_finish">Tutti i file caricati su Mi Cloud</string>
     <string name="need_to_turn_on_sync">Attiva la sincronizzazione con Mi Cloud ora.</string>
-    <string name="need_to_turn_on_sync_first">Turn on sync with Mi Cloud first</string>
+    <string name="need_to_turn_on_sync_first">Prima attiva la sincronizzaizone con Mi</string>
     <string name="need_to_turn_on_network">Connetti ad internet</string>
     <string name="need_to_turn_on_wlan">Connetti a Wi-Fi</string>
     <string name="sync_cloud_space_full">Archiviazione Mi Cloud esaurita</string>
@@ -1132,5 +1132,5 @@
     <string name="adjust_saturation">Saturazione</string>
     <string name="adjust_sharpen">Nitido</string>
     <string name="adjust_vignette">Vigneta</string>
-    <string name="renren_description">Provided by RenRen</string>
+    <string name="renren_description">Fornito da by RenRen</string>
 </resources>
