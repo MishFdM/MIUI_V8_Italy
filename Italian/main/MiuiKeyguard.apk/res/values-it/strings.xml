@@ -66,4 +66,6 @@
     <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
     <string name="fingerprint_lockout_msg">"Aspetta un minuto e riprova a sbloccare con l'impronta"</string>
     <string name="accessibility_enter_lock_wallpaper">Tocca lo sfondo della lockscreen</string>
+    <string name="lock_wallpaper_learn_more">Leggi di più ></string>
+    <string name="lock_wallpaper_see_more">Vedi altro ></string>
 </resources>

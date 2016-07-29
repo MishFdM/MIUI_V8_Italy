@@ -698,6 +698,7 @@
     <string name="album_others_share_info_format">Da %s</string>
     <string name="album_others_share_baby_info_format">Album bambino da %s</string>
     <string name="album_already_forced_top">Già top</string>
+    <string name="album_show_local_only">Mostra solo album locali</string>
     <string name="menu_item_sort_size">Dim.</string>
     <string name="menu_item_sort_date">Data</string>
     <string name="menu_item_sort_name">Nome</string>
@@ -715,7 +716,6 @@
     <string name="picker_full_format">%d elementi al massimo.</string>
     <string name="picker_image_need_download">%d delle foto selezionate non sono sul dispositivo, scaricare utilizzando la rete dati mobile?</string>
     <string name="picker_origin_need_download">%1$d delle foto selezionate non sono sul dispositivo (%2$d MB), scaricare utilizzando la rete dati mobile?</string>
-    <string name="picker_skip_unavailable_images">" "<item quantity="one">"Una foto saltata perché non presente sul dispositivo."</item> <item quantity="other">"Skipped %d photos which aren't on device."</item>" "</string>
     <string name="picker_image_will_download">%d delle foto selezionate non sono sul dispositivo, download in corso</string>
     <string name="picker_continue_with_exists">Continua con foto locali</string>
     <string name="picker_download">Scarica</string>
@@ -744,13 +744,17 @@
     <string name="operation_hide">Nascondi</string>
     <string name="operation_unhide">Mostra</string>
     <string name="operation_do_delete_local_thumnail">Elimina dal dispositivo</string>
-    <string name="operation_enable_auto_upload">Attiva backup automatico</string>
-    <string name="operation_disable_auto_upload">Disattiva backup automatico</string>
+    <string name="operation_remove_from_other_albums">Rimuovi da Altri album</string>
+    <string name="operation_move_to_other_albums">Sposta in Altri album</string>
     <string name="operation_show_in_photos_tab">Mostra in home</string>
     <string name="operation_not_show_in_photos_tab">Non visualizzato nella scheda foto</string>
     <string name="auto_upload_enable_toast_long_press_menu">"Backup automatico attivato, vai alla pagina dell'album per vedere"</string>
     <string name="auto_upload_disable_toast_long_press_menu">Backup automatico disattivato，aggiunto ad un altro album</string>
     <string name="operation_enter_delete_local">Elimina foto e video di backup dal dispositivo</string>
+    <string name="remove_from_other_albums_tip">"L'albumo dovrebbe essre attivato con la sincronizzazione Mi Cloud quando rimosso dalla lista degli Altri album, rimuovere adesso l'album?"</string>
+    <string name="move_to_other_albums_tip">La sincronizzazione Mi Cloud dell'album verrà disattivata se sposti questo albume nella lista degli Altri album, spostare adesso?</string>
+    <string name="turn_on_and_remove">Attiva e rimuovi</string>
+    <string name="turn_off_and_move">Disattiva e sposta</string>
     <string name="auto_upload_disable_tip">Backup automatico disattivato</string>
     <string name="to_enable_sync_dialog_title">Sincronizzazione</string>
     <string name="to_enable_sync_dialog_message">Prima attiva la sincronizzazione</string>
@@ -792,6 +796,7 @@
     <string name="projection_slide_exit">Esci da slideshow</string>
     <string name="projection_slide_fail_cause_loading">"Riavvia lo slideshow dopo il caricamento dell'immagine"</string>
     <string name="projection_video_quit">Tocca per uscire</string>
+    <string name="projection_device_connection_failed">Impossibile collegare il proiettore</string>
     <string name="view_by_gallery_tip">Galleria MIUI</string>
     <string name="photo">Immagine</string>
     <string name="orientation_lock_tip">Rotazione bloccata</string>
@@ -1049,6 +1054,7 @@
     <string name="delete_from_devices">Tutti i dispositivi che sincronizzano automaticamente</string>
     <string name="delete_from_devices_album">Tutti i dispositivi che hanno sincronizzato questo album</string>
     <string name="delete_to_trash_tips">Puoi vedere le foto cancellate di recente nelle impostazioni del cestino</string>
+    <string name="delete_from_cloud">"Elimina elementi dall'album cloud"</string>
     <string name="download_title">Preparazione file…</string>
     <string name="download_retry_title">Impossibile scaricare il file</string>
     <string name="download_retry_message">Impossibile scaricare i file, verifica la connessione di rete e riprova</string>
@@ -1086,6 +1092,7 @@
     <string name="finish">Fine</string>
     <string name="revert">Ripristina</string>
     <string name="filter">Filtro</string>
+    <string name="crop_and_rotate">Regola</string>
     <string name="sticker">Adesivo</string>
     <string name="doodle_pencil">Matita</string>
     <string name="doodle_pen">Penna</string>

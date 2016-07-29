@@ -318,7 +318,6 @@ scorri in basso per bloccare"</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="weather_publish_time">Aggiornato %1$s</string>
     <string name="no_weather_description">Recupera info meteo></string>
-    <string name="weather_description">%1$s &gt;</string>
     <string name="weather_description_no_aqi">%1$s &gt;</string>
     <string name="screenshot_long_screenshot">Screesnshot lungo</string>
     <string name="screenshot_edit">Modifica</string>
@@ -335,7 +334,7 @@ scorri in basso per bloccare"</string>
     <string name="long_screenshot_out_of_memory_error">"Fallito a causa dell'immagine troppo grande"</string>
     <string name="float_incall_message">Messaggio</string>
     <string name="float_incall_ignore">Ignora</string>
-    <string name="notification_manager">GEstione notifiche</string>
+    <string name="notification_manager">Gestione notifiche</string>
     <string name="notification_manager_des">Filtra e gestisci le notifiche</string>
     <string name="quick_settings_more_settings">Altre impostazioni</string>
     <string name="quick_settings_done">Fatto</string>
@@ -347,6 +346,7 @@ scorri in basso per bloccare"</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
     <string name="accessibility_ime_switch_button">Cambia pulsante tastiera.</string>
+    <string name="accessibility_assistant">Assistente touch</string>
     <string name="lland">L Land</string>
     <string name="mland">Marshmallow Land</string>
 </resources>

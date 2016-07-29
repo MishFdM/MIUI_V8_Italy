@@ -206,6 +206,10 @@
     <string name="toast_app_no_residual_on_sdcard">"L'applicazione non ha nessun file salvato sulla scheda SD"</string>
     <string name="last_check_canceled">La precedente scansione è stata annullata</string>
     <string name="default_cache_type">Dati File</string>
+    <string name="deepclean_normal_title">Pulizia automatica</string>
+    <string name="deepclean_normal_item_desc1">Pulizia generale</string>
+    <string name="deepclean_normal_item_desc2">"E' meglio effettuare la pulizia"</string>
+    <string name="deepclean_1_k_clean">Pulizia rapida</string>
     <string name="similar_image_title">Rimuovi duplicati</string>
     <string name="similar_image_desc">Rimuovi le foto duplicate presenti in Galleria</string>
     <string name="similar_image_scaning">Verifica…</string>
@@ -372,7 +376,8 @@
     <string name="deepclean_list_item_from_music">Musica</string>
     <string name="deepclean_list_item_from_miui">MIUI</string>
     <string name="deepclean_list_item_from_sdcard">Scheda SD</string>
-    <string name="deepclean_size_summary_less">Spazio insufficiente</string>
+    <string name="deepclean_size_summary_less">Spazio in esaurimento</string>
+    <string name="deepclean_size_summary_not_enough">Spazio insufficiente</string>
     <string name="deepclean_size_summary_normal">Spazio disponibile</string>
     <string name="deepclean_size_summary_more">Spazio disponibile più che sufficiente</string>
     <string name="deepclean_cache_summary_empty">Nessun dato da rimuovere</string>
@@ -416,4 +421,14 @@
     <string name="function_app_lock_title">%d app contengono rischi per la privacy</string>
     <string name="app_install_tips_go_to">Avvia desso</string>
     <string name="app_install_tips_install_success">%1$s installato con successo</string>
+ <string name="deepclean_normal_item_summary_empty">Everything looks good, nothing to clear</string>
+    <string name="low_memory_clean_dialog_title">Spazio insufficiente in memoria</string>
+    <string name="low_memory_clean_dialog_msg">DEvi prima eliminare almeno %1$s file</string>
+    <string name="low_memory_clean_dialog_ok_button">OK</string>
+    <string name="low_memory_warning_dialog_title">Spazio insufficiente in memoria</string>
+    <string name="low_memory_warning_dialog_msg">Spazio insufficiente sui dispositivi, devi prima liberare spazio</string>
+    <string name="low_memory_warning_dialog_ok_button">Avvia la pulizia</string>
+    <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
+    <string name="deep_clean_normal_clean_progress_desc">%1$s file eliminati</string>
+    <string name="deep_clean_data_path_clean_title">Memoria interna liberata</string>
 </resources>

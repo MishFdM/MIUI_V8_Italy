@@ -41,4 +41,5 @@
     <string name="restore_default">Ripristina predefinite</string>
     <string name="restore_intro">Ripristina le impostazioni rpedefinite, che includono funzioni e ordini. Questo non eliminerà i dati sul tuo telefono.</string>
     <string name="show_on_keyguard">Mostra su Lockscreen</string>
+    <string name="theme_manager_not_supported">Gestore temi non supportato.</string>
 </resources>

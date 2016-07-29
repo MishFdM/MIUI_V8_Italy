@@ -539,11 +539,11 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="tc_diagnostic_status_timeout">"<font color="#CC0000">Timeout</font>"</string>
     <string name="tc_diagnostic_status_error_brand">Rete operatore non trovata</string>
    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Rete operatore risponde&lt;/font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Risultato: Posizione sbagliata&lt;br/>&lt;br/>Imposta posizione: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>APosizione attuale: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Result: Wrong carrier&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Actual carrier: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Result: Wrong carrier brand&lt;br/>&lt;br/>Set brand: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Actual brand: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Result: Couldn't complete diagnostics&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Result: Carrier network and brand set correctly&lt;br/>&lt;br/>Couldn't complete adjustment:&lt;br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/>2. Network assistant wasn't updated.&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Risultato: Posizione sbagliata&lt;br/>&lt;br/>Imposta posizione: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Posizione attuale: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Risultato: Operatore sbagliato&lt;br/>&lt;br/>Imposta operatore: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Operatore attuale: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Risultato: Marchio operatore sbagliato&lt;br/>&lt;br/>Imposta marchio: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Marchio attuale: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Risultato: Non è stato possibile completare la diagnostica&lt;br/>&lt;br/>Segnala questo problema per aiutare MIUI a migliorare gli strumenti di diagnostica&lt;/font>"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Risultato: Rete e marchio operatore impostati correttamente&lt;br/>&lt;br/>Impossibile completare la regolazione:&lt;br/>1. Le statistiche dell'operatore potrebbero non essere affidabile all'inizio e alla fine del mese.&lt;br/>2. L'assistente di rete non era aggiornato.&lt;br/>&lt;br/>Segnala questa uscita per aiutare MIUI a migliorare gli strumenti di diagnostica&lt;/font>"</string>
     <string name="tc_diagnostic_notification_title">Diagnostica operatore</string>
     <string name="tc_diagnostic_notification_summary">"Impossibile regolare 5 volte di fila. Toccare per avviare la diagnostica."</string>
     <string name="tc_diagnostic_upload_success">Grazie per il tuo feedback!</string>
@@ -737,7 +737,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="app_check_reason_wakeup_alarm">Schermata di blocco attivata frequentemente</string>
     <string name="app_check_optimize_title">Ottimizza le attività di background</string>
     <string name="power_save_mode_enable">Risparmio batteria</string>
-    <string name="power_save_mode_summary" formatted="false">Monitora i processi in background, disattiva le sincronizzazioni e nascondi le animazoni di sistema. Il Risparmio dati può essere disattivato automaticamente quando la batteria è tra il 60% o 100% di carica.</string>
+    <string name="power_save_mode_summary" formatted="false">Monitora i processi in background, disattiva le sincronizzazioni e nascondi le animazioni di sistema. Il Risparmio dati può essere disattivato automaticamente quando la batteria è tra il 60% o 100% di carica.</string>
     <string name="power_optimize_save_mode_not_opened">Risparmio batteria disattivo</string>
     <string name="notification_exit_power_save_mode">Disattiva il Risparmio batteria</string>
     <string name="notification_exit_power_save_mode_subtitle">Batteria ha %s di carica.</string>
@@ -765,7 +765,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="charging_text_battery_nearly_full">Quasi carico</string>
     <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
     <string name="charging_text_battery_perfect">Carica completata\u0020</string>
-    <string name="resource_securitycenter_settings">Security</string>
+    <string name="resource_securitycenter_settings">Sicurezza</string>
     <string name="keywords_securitycenter_settings">Risparmio batteria;Permessi;Lista blocco;Utilizzo dati;Calibra piano dati;Test di rete;Blocco app;Risparmio batteria;Riscaldamento;Attiva;Disattiva;Batteria;Consumo;Avvio automatico;ROOT;Localizzazione;Accesso ai contatti;Blocco;Blacklist;Lista blocco smart;Truffa;Vendite;Agenti;Dati;Traffico;Calibrazione;Connessione;Internet;Test;Password;Privacy;Accesso;Protezione</string>
     <string name="path_securitycenter_settings">Applicazioni di sistema/Sicurezza</string>
     <string name="resource_securitycenter">Sicurezza</string>
@@ -777,31 +777,27 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="resource_antivirus">Scansione virus</string>
     <string name="keywords_antivirus">Virus;Rischio;Antivirus;Scansione</string>
     <string name="path_antivirus">Applicazioni di sistema/Sicurezza/Scansione virus</string>
-    <string name="resource_monthreport">Report sicurezza</string>
+    <string name="resource_monthreport">Rapporto di sicurezza</string>
     <string name="keywords_monthreport">Report;Report mensile;Report annuale;Report sicurezza</string>
     <string name="path_monthreport">Applicazioni di sistema/Sicurezza</string>
     <string name="resource_powercenter">Risparmio batteria</string>
-    <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
-    <string name="path_powercenter">System apps/Security/Battery saver</string>
+    <string name="keywords_powercenter">Salva batteria;Riscaldamento;Attiva;Disattiva;Batteria;Consumo</string>
+    <string name="path_powercenter">Applicazioni di sistema/Sicurezza/Risparmia batteria</string>
     <string name="resource_permcenter">Permessi</string>
-    <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
-    <string name="path_permcenter">System apps/Security/Permissions</string>
-    <string name="resource_antispam">Blocklist</string>
-    <string name="keywords_antispam">Blocklist;Block;Black list;Smart blocklist;Fraud;Sales;Agents</string>
-    <string name="path_antispam">System apps/Security/Blocklist</string>
+    <string name="keywords_permcenter">Avvio automatico;Permessi;ROOT;Posizione;Accesso ai contatti</string>
+    <string name="path_permcenter">Applicazioni di sistema/Sicurezza/Permessi</string>
+    <string name="resource_antispam">Lista blocco</string>
+    <string name="keywords_antispam">Lista blocco;Blocco;Blacklist;Lista blocco smart;Truffa;Vendite;Agenti</string>
+    <string name="path_antispam">Applicazioni di sistema/Sicurezza/Lista blocco</string>
     <string name="resource_networkassistant_1">Utilizzo dati</string>
     <string name="keywords_networkassistant_1">Dati;Traffico</string>
-    <string name="path_networkassistant_1">System apps/Security/Network assistant</string>
-    <string name="resource_networkassistant_2">Calibrate data plan</string>
-    <string name="keywords_networkassistant_2">Data;Calibrate</string>
-    <string name="path_networkassistant_2">System apps/Security/Network assistant</string>
+    <string name="path_networkassistant_1">Applicazioni di sicurezza/Sicurezza/Assistente di rete</string>
+    <string name="resource_networkassistant_2">Calibra piano dati</string>
+    <string name="keywords_networkassistant_2">Dati;Calibra</string>
+    <string name="path_networkassistant_2">Applicazioni di sistema/Sicurezza/Assistente di rete</string>
     <string name="resource_networkassistant_4">Test network</string>
-    <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
-    <string name="path_networkassistant_4">System apps/Security/Network assistant/Test network</string>
-    <string name="resource_applicationlock">Blocco applicazioni</string>
-    <string name="keywords_applicationlock">Password;Privacy;Blocco applicazioni;Accesso;Protezione</string>
-    <string name="path_applicationlock">Applicazioni di sistema/Sicurezza</string>
-    <string name="app_name_securitycenter">Sicurezza</string>
+    <string name="keywords_networkassistant_4">Connessione;Internet;Test</string>
+    <string name="path_networkassistant_4">Applicazioni di sistema/Sicurezza/Assistente di rete/Test di rete</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
     <string name="score_pts">%</string>
@@ -960,6 +956,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="Settings_title_power_center">Impostazioni alimentazione</string>
     <string name="Settings_title_anti_virus">Impostazioni antivirus</string>
     <string name="settings_title_permission">Impostazioni permessi</string>
+    <string name="settings_title_payment_security">Impostazioni sicurezza pagamenti</string>
     <string name="pref_category_title_virus_lib_auto_update">Impostazioni definizioni virus</string>
     <string name="pref_category_title_reference_settings">Impostazioni correlate</string>
     <string name="menu_item_virus_cloud_scan_title">Definizioni virus su cloud</string>
@@ -1001,6 +998,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="activity_title_root_acquired">Consenti permessi root</string>
     <string name="activity_title_root_note">Informazioni sui permessi root</string>
     <string name="pm_root_success_notification_title">Permessi root consentiti</string>
+    <string name="pm_root_success_notification_infomation">Conferma di aver capito i rischi legati ai permessi di root</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
     <string name="hints_auto_start_warning_info">"Non si riceverà nessun avviso per le app a cui è stato negato l'avvio automatico"</string>
     <string name="activity_title_apps_manager">App</string>
@@ -1068,14 +1066,14 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="empty_app">Nessuna app</string>
     <string name="pm_remember_choice">Ricorda la mia scelta</string>
     <string name="install_title">Installa tramite USB</string>
-    <string name="usb_install_desc">Installare quasta app tramite USB?</string>
+    <string name="usb_install_desc">Installare questa app tramite USB?</string>
     <string name="continue_install">Installa</string>
     <string name="reject_countdown">Nega (%d)</string>
     <string name="reject_usb_install">"Negata l'installazione tramite USB  della seguente app"</string>
     <string name="pc_install_manager">"Installa tramite USB"</string>
     <string name="monitor_requests_from_pc">"Gestisci l'installazione dell'app tramite USB"</string>
     <string name="app_install_intercept">"Blocca l'installazione"</string>
-    <string name="pc_to_phone_install">Instalalzione tramite USB di %s bloccata</string>
+    <string name="pc_to_phone_install">Installazione tramite USB di %s bloccata</string>
     <string name="recently_reject_message_one">%1$s richieste di installazione rifiutate</string>
     <string name="recently_reject_message">%1$s richieste di installazione ed altre %2$d rifiutate</string>
     <string name="delete_from_manual_item_white_list">Rimuovi dalle eccezioni</string>
@@ -1233,7 +1231,7 @@ o inserisci la password"</string>
     <string name="lockpattern_pattern_entered_header">Sequenza aggiunta</string>
     <string name="lockpattern_need_to_confirm">Disegna di nuovo la sequenza per confermare</string>
     <string name="lockpattern_need_to_unlock_wrong">Prova di nuovo</string>
-    <string name="lockpattern_recording_inprogress">Togli il dito quano hai completato al sequenza</string>
+    <string name="lockpattern_recording_inprogress">Togli il dito quando hai completato al sequenza</string>
     <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco</string>
     <string name="lockpassword_confirm_your_password_header">Conferma password</string>
     <string name="lock_settings_title">Lockscreen e password</string>
@@ -1270,7 +1268,7 @@ o inserisci la password"</string>
     <string name="handle_bar_title_paysms">Messaggi</string>
     <string name="apps_list_header_title_sms">Controlla app messaggi</string>
     <string name="apps_list_header_title_sms_access">Limita accesso ai codici di verifica</string>
-    <string name="apps_item_title_system">Saggiornamento di sistema</string>
+    <string name="apps_item_title_system">Aggiornamento di sistema</string>
     <string name="apps_item_summary_system_update">Alcuni bug sono stati risolti nella nuova versione per rendere i pagamenti più sicuri.</string>
     <string name="apps_item_summary_system_rooted">Sono stati concessi i permessi di root, ripristina le impostazioni predefinite per evitare rischi.</string>
     <string name="apps_item_summary_sms">%s ha accesso ai tuoi messaggi, questo potrebbe essere fonte di problemi di sicurezza</string>
@@ -1286,7 +1284,7 @@ o inserisci la password"</string>
     <string name="apps_item_virus_summary_installed">App installate</string>
     <string name="apps_item_virus_summary_uninstalled">Apk</string>
     <string name="apps_item_sign_install_button_text">Sostituisci</string>
-    <string name="apps_item_sign_dialog_title">Install Official App Version</string>
+    <string name="apps_item_sign_dialog_title">"Installa versione ufficiale dell'app"</string>
     <string name="apps_item_sign_dialog_content">La firma di \"%s\ è diversa da quella nell\'App Store. Eliminare questa app ed installare la versione ufficiale? Nota: installando un\'app con una firmadiversa si potrebbe incorrere in perdite di dati.</string>
     <string name="wifi_item_title_connection">Connessione Wi-Fi</string>
     <string name="wifi_item_title_encryption">CRittografia Wi-Fi</string>
@@ -1318,8 +1316,8 @@ o inserisci la password"</string>
     <string name="scan_status_safe">Sicura</string>
     <string name="scan_status_risk">Pericolosa</string>
     <string name="header_info_scan_progress">%d%%</string>
-    <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700>Risk found! Interrupt current payment!&lt;/font></string>
-    <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00>Couldn't check payment security. Connect to the internet and try again.&lt;/font>"</string>
+    <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700>Minaccia rilevata! Interrompere il pagamento in corso!&lt;/font></string>
+    <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00>Impossibile verificare la sicurezza del pagamento. Collegarsi ad Internet e provare di nuovo.&lt;/font>"</string>
     <string name="safepay_alert_dialog_button_risk">Fix</string>
     <string name="safepay_alert_dialog_button_unknown">Controlla di nuovo</string>
     <string name="safepay_alert_dialog_button_continue">Procedi</string>
@@ -1333,18 +1331,18 @@ o inserisci la password"</string>
     <string name="safe_result_item_info_wifi_fake">Non fasullo</string>
     <string name="safe_result_item_info_wifi_dns">Sicurezza server DNS</string>
     <string name="safe_result_item_info_wifi_arp">Nessun attacco ARP</string>
-    <string name="safe_result_item_info_system_version">System has the latest version</string>
+    <string name="safe_result_item_info_system_version">"Il sistema è aggiornato all'ultima versione"</string>
     <string name="safe_result_item_info_system_root">Sicurezza root</string>
     <string name="safe_result_item_info_system_scan">Monitoraggio pagamento attivo</string>
     <string name="safe_result_item_info_system_antivirus">Protezione dai virus di phishing</string>
-    <string name="safe_result_item_info_sms_auth">"Limita l'accesso a terzeparti per i codici di verifica</string>
+    <string name="safe_result_item_info_sms_auth">"Limita l'accesso a terze parti per i codici di verifica</string>
     <string name="safe_result_item_info_sms_default">"Ripristina l'applicazione SMS predefinita"</string>
     <string name="safe_result_item_info_sms_url">Protezione da URL pericolosi negli SMS</string>
     <string name="safe_result_item_info_app_sign">Nessuna app originale</string>
     <string name="safe_result_item_info_app_virus">Nessun virus o applicazione a rischio</string>
     <string name="safe_result_item_empty_monitor">Nessuna app di pagamento è protetta</string>
     <string name="safe_result_item_button_monitor">Impostazioni di monitoraggio</string>
-    <string name="sp_monitored_apps_list_title">Imposyìtazioni di monitoraggio</string>
+    <string name="sp_monitored_apps_list_title">Impostazioni di monitoraggio</string>
     <string name="sp_safe_score_text">Pagamento sicuro</string>
     <string name="sp_settings_group_title_ime">Impostazioni sicurezza IME</string>
     <string name="sp_settings_plugin_monitor_title">Monitoraggio plugin di pagamento</string>
