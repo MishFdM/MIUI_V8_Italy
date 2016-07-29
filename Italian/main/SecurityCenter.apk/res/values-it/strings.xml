@@ -798,6 +798,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="resource_networkassistant_4">Test network</string>
     <string name="keywords_networkassistant_4">Connessione;Internet;Test</string>
     <string name="path_networkassistant_4">Applicazioni di sistema/Sicurezza/Assistente di rete/Test di rete</string>
+	<string name="app_name_securitycenter">Sicurezza</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
     <string name="score_pts">%</string>
