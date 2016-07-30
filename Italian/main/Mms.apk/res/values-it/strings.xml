@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="conversation_style">bubble</string>
-    <string name="prefDefault_ringtone_repeat">1</string>
     <string name="search_title_mms">Messaggi</string>
     <string name="search_keyword_mms">Messaggi</string>
     <string name="search_path_mms">Settings/System apps/Messaging</string>
@@ -588,7 +586,8 @@
     <string name="storage_dialog_database">Database:</string>
     <string name="storage_dialog_available_space">Spazio disponibile:</string>
     <string name="storage_unavailable">Spazio non disponibile</string>
-    <string name="security_alert_desc">"Il mittente non è tra i tuoi contatti. "<u><font color="red">Segnala questo numero</font></u></string>
+    <string name="security_alert_desc"><font color="#7f000000">"The sender isn't in your contacts.
+ "</font></string>
     <string name="security_alert_desc_highlight">Segnala questo numero</string>
     <string name="security_alert_dialog_title">Segnala</string>
     <string name="security_alert_dialog_desc">Segnala questo numero (%s) ed i relativi messaggi inviandoli a Xiaomi per una verifica.</string>
