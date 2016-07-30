@@ -14,14 +14,6 @@
         <item>Note</item>
         <item>Relazione</item>
     </string-array>
-    <string-array name="entries_date_type">
-        <item>Ricezione</item>
-        <item>Invio</item>
-    </string-array>
-    <string-array name="entries_date_type_rightvalue">
-        <item>Ricezione</item>
-        <item>Invio</item>
-    </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Via messaggio</item>
         <item>Via messaggio Cloud</item>
