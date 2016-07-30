@@ -36,7 +36,7 @@
     <string name="help_url_people_main" />
     <string name="help_url_people_add" />
     <string name="help_url_people_edit" />
-    <string name="contacts_setting_title">Impostazioni contatti</string>
+    <string name="contacts_setting_title">Impostazioni contatto</string>
     <string name="search_contacts_setting">Contact settings;Display photos and info;Assign contact photos;Import and export;Share; Import from SD card;Import from SIM card;Import from other phone;Export from SD card;Export from SIM card;Share contacts; Display preferences;Hide incomplete numbers;Show SIM contacts;Configure contact lists;Smart groups;Organize contacts; Merge duplicate contacts;Delete batch;Clear data;Rebuild index data;t9;SIM cards;SIM card storage;Contacts recovery introduction</string>
     <string name="path_contacts_setting">System apps/Contacts</string>
     <string name="path_simple_mode">System apps/Contacts/Display photos and info</string>
@@ -739,6 +739,7 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_alertdialog_message">Mostra questo nome ai contatti quando chiedi di scambiare le schede.</string>
     <string name="miprofile_alertdialog_edit">Inserisci nome</string>
     <string name="miprofile_switch_off_alertdialog_message">Non potrai scambiare schede contatti con altre persone. I tuoi contatti non potranno vedere il tuo profilo video."</string>
+
     <string name="miprofile_bind_account_alertdialog_title">Aggiungi numero di telefono</string>
     <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzione."</string>
     <string name="miprofile_bind_account_alertdialog_positive">Aggiungi numero</string>
@@ -766,7 +767,6 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_find_profile_batch_add">Aggiungi tutto il profilo</string>
     <string name="miprofile_find_profile_batch_finish">Fine</string>
     <string name="miprofile_find_miprofile_title">Aggiungi profilo</string>
-    <string name="miprofile_find_profile_subtitle">Aggiungi per vedere foto ed altre informazioni</string>
     <string name="miprofile_find_profile_no_recommend">Profilo non consigliato</string>
     <string name="miprofile_find_profile_batch_request_failed">Impossibile aggiungere profilo</string>
     <string name="miprofile_error_not_opened">Disattiva le schede contatti</string>
@@ -1154,7 +1154,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="remove_blacklist_dialog_title">Sblocca</string>
     <string name="remove_blacklist_dialog_message">Sbloccare questo numero?</string>
     <string name="open_dial_pad_description">Apri tastierino</string>
-    <string name="close_dial_pad">Chiudi tastierino</string>
+    <string name="close_dial_pad_description">Chiudi tastierino</string>
     <string name="dial">Componi</string>
     <string name="delete_dial_input">Elimina</string>
     <string name="clear_digits">Cancella numero di telefono</string>
