@@ -178,7 +178,7 @@
     <string name="resource_comment_expand_full_text">Mostra tutto il testo ▼</string>
     <string name="resource_comment_title">Commenti: %1$s</string>
     <string name="resource_comment_edit_title">Modifica commento: %1$s</string>
-    <string name="resource_comment_edit_comment">Aggiungi commenti</string>
+    <string name="resource_comment_edit_comment">Aggiungi commento</string>
     <string name="resource_comment_edit_comment_waiting">Verifica cronologia utente…</string>
     <string name="resource_comment_edit_text_default">Aggiungi un commento</string>
     <string name="resource_comment_publish">Invia</string>
@@ -259,7 +259,7 @@
     <string name="live_wallpaper">Sfondo animati</string>
     <string name="mi_wallpaper">Sfondo MIUI</string>
     <string name="lockscreen_wallpaper">Schermata di blocco</string>
-    <string name="change_wallpaper">Sfondo</string>
+    <string name="change_wallpaper">Sfondi</string>
     <string name="apply_font_tip">Il tema contiene dei font. È necessario riavviare.</string>
     <string name="apply_font_btn_reboot">Applica e riavvia</string>
     <string name="apply_font_btn_exclude">Applica senza font</string>
@@ -375,7 +375,7 @@
     <string name="theme_precast_update_notification_title">Temi aggiornati per MIUI 7</string>
     <string name="theme_precast_update_notification_content">Tocca per esplorare gli aggiornamenti.</string>
     <string name="component_title_wallpaper">Sfondi</string>
-    <string name="component_title_ringtone">Suoneria</string>
+    <string name="component_title_ringtone">Suonerie</string>
     <string name="audio_duration_minutes_format">%1$d minuti</string>
     <string name="audio_duration_seconds_format">%1$d secondi</string>
     <string name="title_system_audio_resource">Suonerie di sistema</string>
