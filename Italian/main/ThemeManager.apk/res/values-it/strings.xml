@@ -374,7 +374,7 @@
     <string name="theme_precast_create_notification_content">Tocca per visualizzare nuovi temi.</string>
     <string name="theme_precast_update_notification_title">Temi aggiornati per MIUI 7</string>
     <string name="theme_precast_update_notification_content">Tocca per esplorare gli aggiornamenti.</string>
-    <string name="component_title_wallpaper">Sfondo</string>
+    <string name="component_title_wallpaper">Sfondi</string>
     <string name="component_title_ringtone">Suoneria</string>
     <string name="audio_duration_minutes_format">%1$d minuti</string>
     <string name="audio_duration_seconds_format">%1$d secondi</string>
