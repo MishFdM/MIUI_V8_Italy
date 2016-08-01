@@ -586,8 +586,7 @@
     <string name="storage_dialog_database">Database:</string>
     <string name="storage_dialog_available_space">Spazio disponibile:</string>
     <string name="storage_unavailable">Spazio non disponibile</string>
-    <string name="security_alert_desc"><font color="#7f000000">"The sender isn't in your contacts.
- "</font></string>
+    <string name="security_alert_desc"><font color="#7f000000">Il mittente non è tra i tuoi contatti.</font></string>
     <string name="security_alert_desc_highlight">Segnala questo numero</string>
     <string name="security_alert_dialog_title">Segnala</string>
     <string name="security_alert_dialog_desc">Segnala questo numero (%s) ed i relativi messaggi inviandoli a Xiaomi per una verifica.</string>

@@ -369,7 +369,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="general_recent_title">Recenti</string>
     <string name="general_favorite_title">Preferiti</string>
     <string name="general_no_yellow_page">Lista vuota</string>
-    <string name="general_menu_unfavorite">Rimuovi dai preferiti</string>
+    <string name="general_menu_unfavorite">Rimosso dai preferiti</string>
     <string name="general_menu_delete_recent">Cancella recenti</string>
     <string name="general_cancel_favorite_ok">Preferiti rimossi</string>
     <string name="general_delete_recent_ok">Recenti eliminati</string>
