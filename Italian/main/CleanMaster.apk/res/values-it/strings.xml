@@ -33,7 +33,7 @@
     <string name="empty_title_residual">Nessun residuo trovato</string>
     <string name="btn_text_quick_cleanup">Ottimizza</string>
     <string name="hints_title_garbage">Spazzatura</string>
-    <string name="activity_title_main">Clean Master</string>
+    <string name="activity_title_main">Pulizia</string>
     <string name="activity_title_deep_clean">Pulizia approfondita</string>
     <string name="activity_title_cache">Cache</string>
     <string name="activity_title_ad">Pubblicità</string>
