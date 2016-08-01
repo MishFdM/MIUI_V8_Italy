@@ -143,7 +143,7 @@
     <string name="switch_to_first_space">Accedi allo spazio primario</string>
     <string name="click_to_back_first_space">Tocca per tornare allo spazio Primario</string>
     <string name="click_to_switch">Tocca per mostrare</string>
-    <string name="confirm_main_space_password">COnferma la password dello spazio Primario</string>
+    <string name="confirm_main_space_password">Conferma la password dello spazio Primario</string>
     <string name="create_space_loading">Creazione spazio secondario...</string>
     <string name="close_second_space_success">Eliminazione spazio Secondario</string>
     <string name="enable">Attiva</string>
