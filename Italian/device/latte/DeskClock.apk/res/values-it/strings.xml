@@ -71,8 +71,8 @@
     <string name="skip_alarm_once_hint">Spegni una volta il %s</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">Spegni la ripetizione di questo allarme</string>
-    <string name="today">Oggi</string>
-    <string name="tomorrow">Domani</string>
+    <string name="today">oggi</string>
+    <string name="tomorrow">domani</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>

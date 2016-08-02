@@ -27,9 +27,9 @@
     <string name="abc_action_bar_home_description">Naviga in home</string>
     <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="yesterday">Ieri</string>
-    <string name="today">Oggi</string>
-    <string name="tomorrow">Domani</string>
+    <string name="yesterday">ieri</string>
+    <string name="today">oggi</string>
+    <string name="tomorrow">domani</string>
     <string name="midnight">AM</string>
     <string name="early_morning">AM</string>
     <string name="morning">AM</string>

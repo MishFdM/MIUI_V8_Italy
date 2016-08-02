@@ -1254,9 +1254,9 @@ Tentativi rimasti:"</string>
     <string name="day_of_week_shortest_saturday">S</string>
     <string name="am">am</string>
     <string name="pm">pm</string>
-    <string name="yesterday">Ieri</string>
-    <string name="today">Oggi</string>
-    <string name="tomorrow">Domani</string>
+    <string name="yesterday">ieri</string>
+    <string name="today">oggi</string>
+    <string name="tomorrow">domani</string>
     <string name="hour_minute_24" formatted="false">%H:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
