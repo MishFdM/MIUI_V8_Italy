@@ -818,7 +818,7 @@ Le schede contatti sono disattivate"</string>
     <string name="callrecordview_menu_mobiledata">Acquista dati</string>
     <string name="callrecordview_menu_voip">VoIP</string>
     <string name="callrecordview_menu_livetalk">Ricarica pacchetto</string>
-    <string name="callrecordview_menu_ip">Composizione automatica IP</string>
+    <string name="callrecordview_menu_ip">Automatico IP</string>
     <string name="callrecordview_menu_blocklist">Blocchi</string>
     <string name="callrecordview_menu_settings">Impostazioni</string>
     <string name="callrecordview_menu_show">Filtro</string>
