@@ -3903,8 +3903,8 @@ ed esegui il software."</string>
     <string name="msd_driver_download_mac_url">Ottieni i driver da http://www.android.com/filetransfer/</string>
     <string name="msd_install_download_zhushou">Mi PC Suite scaricato</string>
     <string name="vpn_settings_password">Password VPN</string>
-    <string name="vpn_settings_summary">Protect VPN settings with Lock screen password</string>
-    <string name="vpn_no_selected">Select VPN</string>
+    <string name="vpn_settings_summary">Proteggi le impostazioni VPN con la password della schermata di blocco</string>
+    <string name="vpn_no_selected">Seleziona VPN</string>
     <string name="vpn_safe">Sicurezza</string>
     <string name="vpn_configure">Configurazione</string>
     <string name="vpn_enable">VPN</string>
