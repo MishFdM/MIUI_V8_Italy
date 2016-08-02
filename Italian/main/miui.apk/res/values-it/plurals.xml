@@ -5,40 +5,40 @@
         <item quantity="one">%d selezionato</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Poco fa</item>
+        <item quantity="other">poco fa</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Poco fa</item>
+        <item quantity="other">poco fa</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Adesso</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Adesso</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">"Un'ora fa"</item>
+        <item quantity="other">"un'ora fa"</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">"Mezz'ora fa"</item>
+        <item quantity="other">"mezz'ora fa"</item>
     </plurals>
     <plurals name="a_hour_ago">
-        <item quantity="other">"Un'ora fa"</item>
+        <item quantity="other">"un'ora fa"</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">"Mezz'ora fa"</item>
+        <item quantity="other">"mezz'ora fa"</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">"Tra un'ora"</item>
+        <item quantity="other">"tra un'ora"</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">"Tra mezz'ora"</item>
+        <item quantity="other">"tra mezz'ora"</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">"Tra un'ora"</item>
+        <item quantity="other">"tra un'ora"</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">"Tra mezz'ora"</item>
+        <item quantity="other">"tra mezz'ora"</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d min fa</item>
@@ -49,11 +49,11 @@
         <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Tra %d min</item>
-        <item quantity="one">Tra 1 min</item>
+        <item quantity="other">tra %d min</item>
+        <item quantity="one">tra 1 min</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">Tra %d minuti</item>
-        <item quantity="one">Tra 1 minuto</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
 </resources>

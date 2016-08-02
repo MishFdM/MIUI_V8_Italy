@@ -673,10 +673,10 @@ Per aggiungere un contatto alla lista dei Preferiti:
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d sec</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"Effettuata: "</string>
-    <string name="callrecordview_item_op_time_short_incoming">"Ricevuta: "</string>
-    <string name="callrecordview_item_op_time_missed">Senza risposta</string>
-    <string name="callrecordview_item_op_time_rejected">Rifiutata</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"effettuata: "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"ricevuta: "</string>
+    <string name="callrecordview_item_op_time_missed">senza risposta</string>
+    <string name="callrecordview_item_op_time_rejected">rifiutata</string>
     <string name="callrecordview_menu_show_title">Lista chiamate</string>
     <string name="callrecordview_menu_show_all">Tutte le chiamate</string>
     <string name="callrecordview_menu_show_missed">Chiamate perse</string>
