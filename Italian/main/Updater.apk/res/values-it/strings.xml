@@ -92,7 +92,7 @@
     <string name="recovery_failed_title">Usa Mi PC Suite per aggiornare il sistema</string>
     <string name="recovery_power_not_enough_title">Batteria scarica</string>
     <string name="recovery_power_not_enough_msg">Collega ad un carica batteria se sei sotto il 30% di batteria</string>
-    <string name="recovery_power_not_enough_msg_plugged">La batteria deve essere superiore al 15% per poter aggiornare il dispositivo</string>
+    <string name="recovery_power_not_enough_msg_plugged">La batteria deve essere superiore al 30% per poter aggiornare il dispositivo</string>
     <string name="recovery_failed_msg">"Il dispositivo non ha sufficiente memoria per andare in modalità Recovey ed aggiornare il sistema. Prova ad utilizzare Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>

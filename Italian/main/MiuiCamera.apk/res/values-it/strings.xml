@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_setting">Impostazioni fotocamera</string>
+    <string name="path_settings">Applicazioni di sistema/Fotocamera/Impostazioni</string>
+    <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento viso;Suono fotocamera</string>
     <string name="camera_error_title">Errore fotocamera</string>
     <string name="cannot_connect_camera_once">Impossibile avviare la fotocamera</string>
     <string name="cannot_connect_camera_twice">Impossibile avviare la fotocamera, riavvia il dispositivo</string>
     <string name="camera_disabled">La fotocamera è stata disabilitata.</string>
     <string name="camera_label">Fotocamera</string>
+    <string name="video_camera_label">Videocamera</string>
     <string name="wait">Attendere…</string>
     <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
     <string name="not_enough_space">Scheda SD piena.</string>
@@ -390,6 +393,9 @@
 L'oggetto non deve essere più lontano di 2 metri."</string>
     <string name="pref_camera_square_mode_title">Quadrato</string>
     <string name="simple_mode_button_text_square">Disattiva Quadrato</string>
+    <string name="face_beauty_smart">Smart</string>
+    <string name="face_beauty_advanced">Pro</string>
+    <string name="face_beauty_close">Disattivato</string>
     <string name="pref_skin_beautify_intelligent_title">Intelligent</string>
     <string name="pref_skin_beautify_slim_title">Slim</string>
     <string name="pref_skin_beautify_eye_title">Occhi</string>

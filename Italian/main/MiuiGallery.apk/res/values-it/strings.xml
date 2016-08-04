@@ -46,7 +46,7 @@
     <string name="video_editor_text_edit_input_end_hint">Inserisci i crediti</string>
     <string name="video_editor_text_edit_input_hint">Tocca qui per modificare</string>
     <string name="video_editor_abandon_changes_tip_title">Annulla modifiche</string>
-    <string name="video_editor_abandon_changes_tip_message">Annulalre tutte le modifiche?</string>
+    <string name="video_editor_abandon_changes_tip_message">Annullare tutte le modifiche?</string>
     <string name="video_editor_ok">OK</string>
     <string name="video_editor_invalid_trim_arguments">Potrebbe impiegare più di 1 secondo</string>
     <string name="video_editor_fatal_error">Errore sconosciuto</string>
@@ -54,7 +54,7 @@
     <string name="video_editor_down_load_no_wifi_tips">Collega al Wi-Fi per scaricare</string>
     <string name="video_editor_down_load_now">Scarica</string>
     <string name="video_editor_down_load_later">Più tardi</string>
-    <string name="video_editor_res_not_load_dialog_msg">Scarica il plugine per poter utilizzare questa funzione.</string>
+    <string name="video_editor_res_not_load_dialog_msg">Scarica il plugin per poter utilizzare questa funzione.</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Utilizza rete dati mobile</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Scaricare tramite rete dati mobile??</string>
     <string name="video_editor_res_download_failed_tips">Impossibile scaricare, controlla le impostazioni di rete e prova di nuovo</string>
@@ -534,7 +534,7 @@
     <string name="name_split">,</string>
     <string name="more_album_hint">,etc</string>
     <string name="runtime_permission_ungranted">Galleria chiusa per mancanza permessi</string>
-    <string name="not_remind_again">"Don't show again"</string>
+    <string name="not_remind_again">Non mostrare più</string>
     <string name="home_page_empty">Vuoto</string>
     <string name="people_page_label">Volto</string>
     <string name="people_page_unname">Senza nome</string>
@@ -557,7 +557,7 @@
     <string name="input_a_name">Inserisci nome</string>
     <string name="input_or_select_a_name">Inserisci o scegli un nome</string>
     <string name="rename_fail_msg">Impossibile rinominare</string>
-    <string name="rename_from_contact">Nomeda contatto</string>
+    <string name="rename_from_contact">Nome da contatto</string>
     <string name="contact_tip">Contatti</string>
     <string name="confirm_merge_face_albums">" "<data> Unire questo album con %s? </data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<data> Unire questi album con %s? </data>" "</string>
@@ -593,7 +593,7 @@
     <string name="confirm_recommandation_multiple_faces_not">" "<data> Sei sicuro che non siano <font color="#323232"><b>%1$s</b></font>? Questi volti verranno spostati in \"%2$s\" dopo la conferma. </data>" "</string>
     <string name="blank_app_name"/>
     <string name="set_group">Imposta gruppo</string>
-    <string name="how_to_set_relation">Tieni premuto su un album perimpostare il gruppo</string>
+    <string name="how_to_set_relation">Tieni premuto su un album per impostare il gruppo</string>
     <string name="operation_remove_from_face_album">Rimuovi copertina</string>
     <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
     <string name="share_with_family">Condividi con la famiglia</string>
@@ -698,6 +698,7 @@
     <string name="album_others_share_info_format">Da %s</string>
     <string name="album_others_share_baby_info_format">Album bambino da %s</string>
     <string name="album_already_forced_top">Già top</string>
+    <string name="album_show_local_only">Mostra solo album locali</string>
     <string name="menu_item_sort_size">Dim.</string>
     <string name="menu_item_sort_date">Data</string>
     <string name="menu_item_sort_name">Nome</string>
@@ -705,7 +706,7 @@
     <string name="album_detail_clear_local_page_empty">Nessuna foto o video da eliminare</string>
     <string name="clear_local_photo_direction">Se elimini foto o video dal tuo telefono, saranno ancora visibili su Mi Cloud</string>
     <string name="release_space_finish_format">Liberati %s di spazio</string>
-    <string name="return_from_clear_local_file_fragment_toast">Optimized photos are stored on the device. Tap a photo to download the original item from Mi Cloud.</string>
+    <string name="return_from_clear_local_file_fragment_toast">Le foto ottimizzate sono archiviate sul dispositivo. Tocca una foto per scaricare il file originale da Mi Cloud.</string>
     <string name="app_name_view_picture">Mostra immagine</string>
     <string name="video_err">Impossibile riprodurre il video.</string>
     <string name="exit_video_play">Esci</string>
@@ -743,13 +744,17 @@
     <string name="operation_hide">Nascondi</string>
     <string name="operation_unhide">Mostra</string>
     <string name="operation_do_delete_local_thumnail">Elimina dal dispositivo</string>
-    <string name="operation_enable_auto_upload">Attiva backup automatico</string>
-    <string name="operation_disable_auto_upload">Disattiva backup automatico</string>
+    <string name="operation_remove_from_other_albums">Rimuovi da Altri album</string>
+    <string name="operation_move_to_other_albums">Sposta in Altri album</string>
     <string name="operation_show_in_photos_tab">Mostra in home</string>
     <string name="operation_not_show_in_photos_tab">Non visualizzato nella scheda foto</string>
     <string name="auto_upload_enable_toast_long_press_menu">"Backup automatico attivato, vai alla pagina dell'album per vedere"</string>
     <string name="auto_upload_disable_toast_long_press_menu">Backup automatico disattivato，aggiunto ad un altro album</string>
-    <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
+    <string name="operation_enter_delete_local">Elimina foto e video di backup dal dispositivo</string>
+    <string name="remove_from_other_albums_tip">"L'album dovrebbe essere attivato con la sincronizzazione Mi Cloud quando rimosso dalla lista degli Altri album, rimuovere adesso l'album?"</string>
+    <string name="move_to_other_albums_tip">"La sincronizzazione Mi Cloud dell'album verrà disattivata se sposti questo albume nella lista degli Altri album, spostare adesso?"</string>
+    <string name="turn_on_and_remove">Attiva e rimuovi</string>
+    <string name="turn_off_and_move">Disattiva e sposta</string>
     <string name="auto_upload_disable_tip">Backup automatico disattivato</string>
     <string name="to_enable_sync_dialog_title">Sincronizzazione</string>
     <string name="to_enable_sync_dialog_message">Prima attiva la sincronizzazione</string>
@@ -774,7 +779,7 @@
     <string name="click_download_gif">Tocca per scaricare GIF</string>
     <string name="gif_tip">GIF</string>
     <string name="loading_suspend">Download in pausa: riprenderà quando sarà disponibile una connessione Wi-Fi</string>
-    <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
+    <string name="loading_fail_sync_off">Attiva sincronizzazione con Mi Cloud per scaricare</string>
     <string name="loading_fail">Download fallito</string>
     <string name="image_download_item_title">Download immagine (%s)</string>
     <string name="download_without_wifi_title">Avviso utilizzo dati</string>
@@ -791,6 +796,7 @@
     <string name="projection_slide_exit">Esci da slideshow</string>
     <string name="projection_slide_fail_cause_loading">"Riavvia lo slideshow dopo il caricamento dell'immagine"</string>
     <string name="projection_video_quit">Tocca per uscire</string>
+    <string name="projection_device_connection_failed">Impossibile collegare il proiettore</string>
     <string name="view_by_gallery_tip">Galleria MIUI</string>
     <string name="photo">Immagine</string>
     <string name="orientation_lock_tip">Rotazione bloccata</string>
@@ -799,7 +805,7 @@
     <string name="photo_edit_file_not_exits_tip">Scarica la foto prima della modifica</string>
     <string name="select_origin_tip">File originale (%s)</string>
     <string name="loading_fail_sync_off_message">Impossibile caricare le foto, la sincronizzazione con Mi Cloud è disattivata.</string>
-    <string name="turn_on_sync">Turn on sync</string>
+    <string name="turn_on_sync">Attiva sincronizzazione</string>
     <string name="download_canceled">Download annullato</string>
     <string name="must_pick_file">"Seleziona un'immagine"</string>
     <string name="send_multiple_files_hint_format">Invia file (%s)</string>
@@ -818,7 +824,7 @@
     <string name="tip_file_path">Percorso:</string>
     <string name="tip_capture_location">Località:</string>
     <string name="detail_title">Dettagli</string>
-    <string name="tip_screenshot_package_info">App name:</string>
+    <string name="tip_screenshot_package_info">Nome app:</string>
     <string name="tip_not_download">Nessun download. Verrà scaricato automaticamente quando in riproduzione.</string>
     <string name="flash_on">Usa flash</string>
     <string name="flash_off">Niente flash</string>
@@ -849,7 +855,7 @@
     <string name="create_new_album_failed">Creazione fallita</string>
     <string name="default_album_name">Nuovo album</string>
     <string name="new_album_invalid_prefix">"Non usare \".\" oo \"_\" come inizio del nome dell'album."</string>
-    <string name="new_album_invalid_char">Il nome contiene caratterni non validi \"%s\", inserisci numeri o lettere.</string>
+    <string name="new_album_invalid_char">Il nome contiene caratteri non validi \"%s\", inserisci numeri o lettere.</string>
     <string name="new_album_invalid_name">\"%s\" è un album di sistema, si prega di rinominare.</string>
     <string name="album_name">Nome album</string>
     <string name="delete_origin">"Elimina le immagini dall'album originale"</string>
@@ -1007,7 +1013,7 @@
     <string name="backup_detail_page_title">Backup Mi Cloud</string>
     <string name="backuping">Backup in corso %1$d/%2$d</string>
     <string name="backup_waiting_button_text">Esegui backup</string>
-    <string name="network_unsatisfied_button_text">Conenssione alla rete</string>
+    <string name="network_unsatisfied_button_text">Connessione alla rete</string>
     <string name="sync_off_button_text">Attiva sincronizzazione</string>
     <string name="cloud_space_full_button_text">Ottieni ulteriore spazio su Mi Cloud</string>
     <string name="local_space_full_button_text">Libera spazio</string>
@@ -1036,7 +1042,7 @@
     <string name="alert_secret_album_enter">OK</string>
     <string name="number_of_uploading_finish">Tutti i file caricati su Mi Cloud</string>
     <string name="need_to_turn_on_sync">Attiva la sincronizzazione con Mi Cloud ora.</string>
-    <string name="need_to_turn_on_sync_first">Turn on sync with Mi Cloud first</string>
+    <string name="need_to_turn_on_sync_first">Prima attiva la sincronizzaizone con Mi</string>
     <string name="need_to_turn_on_network">Connetti ad internet</string>
     <string name="need_to_turn_on_wlan">Connetti a Wi-Fi</string>
     <string name="sync_cloud_space_full">Archiviazione Mi Cloud esaurita</string>
@@ -1048,15 +1054,19 @@
     <string name="delete_from_devices">Tutti i dispositivi che sincronizzano automaticamente</string>
     <string name="delete_from_devices_album">Tutti i dispositivi che hanno sincronizzato questo album</string>
     <string name="delete_to_trash_tips">Puoi vedere le foto cancellate di recente nelle impostazioni del cestino</string>
+    <string name="delete_from_cloud">"Elimina elementi dall'album cloud"</string>
     <string name="download_title">Preparazione file…</string>
     <string name="download_retry_title">Impossibile scaricare il file</string>
     <string name="download_retry_message">Impossibile scaricare i file, verifica la connessione di rete e riprova</string>
     <string name="download_retry_text">Prova di nuovo</string>
     <string name="custom_select_title_select_item">Seleziona elementi</string>
+    <string name="custom_select_title_quickly_share">Condividi</string>
     <string name="custom_select_title_select_all">Seleziona tutto</string>
     <string name="custom_select_title_deselect_all">Deseleziona</string>
     <string name="start_debug">Debug Galleria</string>
     <string name="debugging_tip">Creazione rapporto debug</string>
+    <string name="fast_share_auto_render">Filtro bellezza</string>
+    <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
     <string name="storage_no_space">Spazio insufficiente</string>
     <string name="share_album">Condividi album</string>
     <string name="all_video_album_display_name">Tutti i video</string>
@@ -1082,6 +1092,7 @@
     <string name="finish">Fine</string>
     <string name="revert">Ripristina</string>
     <string name="filter">Filtro</string>
+    <string name="crop_and_rotate">Regola</string>
     <string name="sticker">Adesivo</string>
     <string name="doodle_pencil">Matita</string>
     <string name="doodle_pen">Penna</string>
@@ -1121,5 +1132,5 @@
     <string name="adjust_saturation">Saturazione</string>
     <string name="adjust_sharpen">Nitido</string>
     <string name="adjust_vignette">Vigneta</string>
-    <string name="renren_description">Provided by RenRen</string>
+    <string name="renren_description">Fornito da by RenRen</string>
 </resources>

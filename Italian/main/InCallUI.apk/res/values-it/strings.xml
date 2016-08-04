@@ -213,13 +213,14 @@
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
     <string name="conference_callers_exceeded">Limite partecipanti superato</string>
-    <string name="call_button_tools_text">Feature</string>
-    <string name="call_button_dialer_text">Keyboard</string>
-    <string name="select_audio_dialog_title">Please select answering mode</string>
-    <string name="incoming_circle_text_reject_p">Rejecting slide</string>
-    <string name="incoming_circle_text_reject">Loosen reject</string>
-    <string name="incoming_circle_text_answer_p">Answering slide</string>
-    <string name="incoming_circle_text_answer">Loosen answer</string>
-    <string name="incoming_circle_text_message_p">SMS reply slide</string>
-    <string name="incoming_circle_text_message">Loosen SMS reply</string>
+    <string name="do_not_support_video_calls_by_remote">"Le video chiamate non sono supportate dall'altro dispositivo"</string>
+    <string name="call_button_tools_text">Funzioni</string>
+    <string name="call_button_dialer_text">Tastiera</string>
+    <string name="select_audio_dialog_title">Scegli la modalità di risposta</string>
+    <string name="incoming_circle_text_reject_p">Scorri per rifiutare</string>
+    <string name="incoming_circle_text_reject">Rilascia per rifiutare</string>
+    <string name="incoming_circle_text_answer_p">Scorri per rispondere</string>
+    <string name="incoming_circle_text_answer">Rilascia per rispondere</string>
+    <string name="incoming_circle_text_message_p">Scorri per rispondere con SMS</string>
+    <string name="incoming_circle_text_message">Rilascia per rispondere con SMS</string>
 </resources>

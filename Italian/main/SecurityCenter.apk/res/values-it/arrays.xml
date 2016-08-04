@@ -45,7 +45,6 @@
     <string-array name="traffic_type">
         <item>"Utilizzo dati "</item>
         <item>"Utilizzo Wi-Fi "</item>
-        <item>"Dati risparmiati "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Utilizzo dati "</item>
@@ -54,8 +53,6 @@
     <string-array name="traffic_sort_type">
         <item>"Utilizzo dati "</item>
         <item>"Utilizzo Wi-Fi "</item>
-        <item>"Dati risparmiati "</item>
-        <item>Piano Dati Mi</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Ricevi automaticamente</item>
@@ -69,12 +66,6 @@
         <item>Più utilizzate</item>
         <item>Nome</item>
     </string-array>
-    <string-array name="traffic_saving_compress_level_string_array">
-        <item>Nessuno</item>
-        <item>Basso</item>
-        <item>Medio</item>
-        <item>Alto</item>
-    </string-array>
     <string-array name="roaming_network_type">
         <item>Sempre</item>
         <item>Solo per le eccezioni</item>
@@ -85,6 +76,13 @@
         <item>"Quando il dispositivo è bloccato dopo l'uscita dall'app"</item>
         <item>"Quando il dispositivo è bloccato o in 1 minuto dopo l'uscita dall'app"</item>
     </string-array>
+    <integer-array name="pc_time_choice_items">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>0</item>
+    </integer-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Dopo 1 minuto</item>
         <item>Dopo 5 minuti</item>

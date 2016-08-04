@@ -30,14 +30,14 @@
     </plurals>
     <plurals name="auto_silence_summary">
         <item quantity="other">Le sveglie verranno silenziate dopo %d minuti</item>
-        <item quantity="one">Le sveglie verranno solenziate dopo %d minuto</item>
+        <item quantity="one">Le sveglie verranno silenziate dopo %d minuto</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Eliminare le sveglie selezionate?</item>
-        <item quantity="one">Eliminre questa sveglia?</item>
+        <item quantity="one">Eliminare questa sveglia?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Eliminare i fusi orari selezioanti?</item>
+        <item quantity="other">Eliminare i fusi orari selezionati?</item>
         <item quantity="one">Eliminare questo fuso orario?</item>
     </plurals>
 </resources>

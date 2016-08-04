@@ -1074,8 +1074,8 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="call_record_add_numbers">Aggiungi numeri</string>
     <string name="call_remove_exception_numbers_confirm">%d numeri saranno cancellati.</string>
     <string name="call_record_auto_always">Tutti i numeri</string>
-    <string name="call_record_on_summary">Registrazione automatica attivata</string>
-    <string name="call_record_off_summary">Registrazione automatica disattivata</string>
+    <string name="call_record_on_summary">Registrazione automatica attiva</string>
+    <string name="call_record_off_summary">Registrazione automatica disattiva</string>
     <string name="autoip">Composizione PI automatica</string>
     <string name="autoip_prefix">Prefisso internazionale</string>
     <string name="autoip_prefix_summary">"Prefisso internazionale del tuo operatore: %s"</string>
@@ -1221,7 +1221,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="preference_dial_pad_touch_tone_off">Off</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
     <string name="telephony_setting">Impostazioni chiamata</string>
-    <string name="msim_setting_screen_title">SIM e reti mobili</string>
+    <string name="msim_setting_screen_title">SIM e dati mobili</string>
     <string name="msim_setting_categery_title">Informazioni SIM</string>
     <string name="msim_general_setting">Impostazioni comuni</string>
     <string name="msim_default_setting">Impostazioni predefinite</string>

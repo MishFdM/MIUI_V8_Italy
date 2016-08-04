@@ -260,6 +260,7 @@
     <string name="children_folder_title">Ragazzi</string>
     <string name="children_mode_exit">Uscita</string>
     <string name="children_mode_tips">"Ritorna alle Impostazioni e gestisci l'accesso alle app."</string>
+    <string name="children_mode_tips_message">"Nessuna applicazione in modalità Genitore. Seleziona un'applicazione."</string>
     <string name="wallpaper_auto_change_title">Schermata di blocco</string>
     <string name="wallpaper_scaling_message">Ridimensionamento alla dimensione applicata</string>
     <string name="cant_edit_lock_screen">Impossibile modificare lo stile della schermata di blocco.</string>

@@ -187,9 +187,9 @@
     <string name="status_bar_screen_key_back">Tasto indietro</string>
     <string name="settings_toggle_position_divider_page">%1$d comandi sopra la barra sono attivi</string>
     <string name="settings_toggle_position_divider_list">I comandi sopra la barra sono attivi</string>
-    <string name="status_bar_style_list">Single page</string>
-    <string name="status_bar_style_page">Dual page</string>
-    <string name="status_bar_settings_style">Statusbar style</string>
+    <string name="status_bar_style_list">Singola pagina</string>
+    <string name="status_bar_style_page">Doppia pagina</string>
+    <string name="status_bar_settings_style">Stile barra di stato</string>
     <string name="additional_system_update"/>
     <string name="additional_system_update_menu"/>
     <string name="input_method_selector_show_automatically_value">0</string>
@@ -370,6 +370,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="radio_info_ppp_received_label">PPP ricevuto:</string>
     <string name="radio_info_gsm_service_label">Servizio GSM:</string>
     <string name="radio_info_signal_strength_label">Intensità segnale:</string>
+    <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
     <string name="radio_info_call_status_label">Stato chiamata:</string>
     <string name="radio_info_ppp_sent_label">PPP inviato:</string>
     <string name="radio_info_radio_resets_label">Reimpostaz. segnale cellulare:</string>
@@ -1386,11 +1387,11 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e Cellulare per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
     <string name="location_menu_scanning">Scansione</string>
-    <string name="location_scanning_screen_title">Scanning</string>
-    <string name="location_scanning_wifi_always_scanning_title">Wi‑Fi scanning</string>
-    <string name="location_scanning_wifi_always_scanning_description">Improve location by allowing system apps and services to detect Wi‑Fi networks at any time.</string>
-    <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth scanning</string>
-    <string name="location_scanning_bluetooth_always_scanning_description">Improve location by allowing system apps and services to detect Bluetooth devices at any time.</string>
+    <string name="location_scanning_screen_title">Scansione</string>
+    <string name="location_scanning_wifi_always_scanning_title">Scansione Wi-Fi</string>
+    <string name="location_scanning_wifi_always_scanning_description">Migliora la posizione consentendo alle app e ai servizi di sistema di rilevare reti Wi-Fi  in qualsaisi momento.</string>
+    <string name="location_scanning_bluetooth_always_scanning_title">ScansioneBluetooth</string>
+    <string name="location_scanning_bluetooth_always_scanning_description">Migliora la posizione consentendo alle app e ai servizi di sistema di rilevare dispositivi Bluetooth  in qualsaisi momento.</string>
     <string name="location_network_based">Posizione Wi-Fi e Rete dati cellulare</string>
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
     <string name="location_neighborhood_level_wifi">Posizione determinata da Wi-Fi</string>
@@ -2898,7 +2899,7 @@ Per blocca su schermo:
     <string name="display_auto_rotate_stay_in_portrait">Bloccato in portrait</string>
     <string name="display_auto_rotate_stay_in_landscape">Bloccato in landscape</string>
     <string name="display_auto_rotate_stay_in_current">Disattiva</string>
-    <string name="imei_information_title">IMEI information</string>
+    <string name="imei_information_title">IMEI</string>
     <string name="encryption_interstitial_header">Crittografia</string>
     <string name="encryption_continue_button">Continua</string>
     <string name="encryption_interstitial_message_pin">"È possibile proteggere ulteriormente il dispositivo richiedendo il codice PIN prima dell'avvio. Fino a quando il dispositivo è avviato, non si possono ricevere chiamate, messaggi o altri servizi.
@@ -3206,20 +3207,20 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_virtual_sim">International mobile data</string>
     <string name="search_nfc_se_route_title">Secure element position</string>
     <string name="search_status_bar">Barra di stato</string>
-    <string name="search_notification_app_list_settings">App Notifications</string>
-    <string name="search_toggle_position">Toggle positions</string>
-    <string name="search_status_bar_settings_style">Statusbar style</string>
-    <string name="search_status_bar_settings_show_notification_icon">Show notification icons</string>
-    <string name="search_status_bar_settings_show_network_speed">Show connection speed</string>
-    <string name="search_status_bar_settings_show_carrier">Show carrier name</string>
-    <string name="search_status_bar_settings_custom_carrier">Edit carrier name</string>
-    <string name="search_status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
-    <string name="search_status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
-    <string name="search_status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
+    <string name="search_notification_app_list_settings">Notifiche app</string>
+    <string name="search_toggle_position">Posizione toggle</string>
+    <string name="search_status_bar_settings_style">Stile barra di stato</string>
+    <string name="search_status_bar_settings_show_notification_icon">Mostra icona notifiche</string>
+    <string name="search_status_bar_settings_show_network_speed">Mostra velocità di connessione</string>
+    <string name="search_status_bar_settings_show_carrier">Mostra nome operatore</string>
+    <string name="search_status_bar_settings_custom_carrier">Modifica nome operatore</string>
+    <string name="search_status_bar_settings_show_screenshot_notification">Mostra screenshot nelle notifiche</string>
+    <string name="search_status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
+    <string name="search_status_bar_settings_expandable_under_keyguard">Mostra sulla schermata di blocco</string>
     <string name="search_wallpaper">Sfondo</string>
-    <string name="search_theme_settings">Themes</string>
-    <string name="search_font">System font</string>
-    <string name="search_page_layout_settings">Text size</string>
+    <string name="search_theme_settings">Temi</string>
+    <string name="search_font">Carattere</string>
+    <string name="search_page_layout_settings">Grandezza testo</string>
     <string name="search_display">Display;Brightness;Colors saturation;Glove mode;Screensaver;Auto_rotate screen</string>
     <string name="search_accelerometer">Accelerometro</string>
     <string name="search_brightness">Luminosità</string>
@@ -3227,6 +3228,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_screen_effect">Colors &amp; saturation</string>
     <string name="search_screen_saver_settings">Screensaver</string>
     <string name="search_screen_paper_mode">Modalità di lettura</string>
+    <string name="search_gesture_wakeup_title">Double tap screen to wake</string>
     <string name="search_sound_settings">Sound;Volumes;Silent mode;Alarm;Music;Vibrate;Phone ringtone;Default notification sound;Message received;Message delivered;Touch;Screen lock sound;Audio settings;Suppress noise</string>
     <string name="search_ring_volume">Volume suoneria</string>
     <string name="search_ringtone">Suoneria</string>
@@ -3338,11 +3340,11 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_privacy_policy">Privacy Policy</string>
     <string name="search_device_status">Status</string>
     <string name="search_status_sim">SIM status</string>
-    <string name="search_slot_status_title">IMEI information</string>
+    <string name="search_slot_status_title">IMEI</string>
     <string name="search_micloud">Sync;Miclound</string>
     <string name="networks_title">Cellular networks</string>
-    <string name="path_network_settings">Impostazioni/Gestione SIM</string>
-    <string name="path_apn_settings">Impostazioni/Gestione SIM/SIM/Nomi punti di accesso</string>
+    <string name="path_network_settings">Impostazioni/SIM e dati mobili</string>
+    <string name="path_apn_settings">Impostazioni/SIM e dati mobili/SIM/Nomi punti di accesso</string>
     <string name="path_preferred_network_type_settings">Settings/Mobile network settings/Preferred network type</string>
     <string name="path_networks_title">Settings/Mobile network settings/Cellular networks</string>
     <string name="path_wifi_settings">Settings/WLAN</string>
@@ -3400,6 +3402,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="path_screen_saver_settings">Settings/Display/Screensaver</string>
     <string name="path_screen_optimize">Settings/Display/Colors &amp; contrast</string>
     <string name="path_screen_paper_mode">Settings/Display/Reading mode</string>
+    <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
     <string name="path_accelerometer_settings">Settings/Display/Auto-rotate screen</string>
     <string name="path_sound_settings">Settings/Sound &amp; vibration</string>
     <string name="path_ringtone_settings">Settings/Sound &amp; vibration/Phone ringtone</string>
@@ -3511,7 +3514,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="path_privacy_policy">Settings/About phone/Legal information/Privacy Policy</string>
     <string name="path_device_status">Settings/About phone/Status</string>
     <string name="path_status_sim">Settings/About phone/SIM status</string>
-    <string name="path_slot_status_title">Settings/About phone/IMEI information</string>
+    <string name="path_slot_status_title">Impostazioni/Informazioni dispositivo/IMEI</string>
     <string name="path_xiaomi_cloud_service">Apps</string>
     <string name="path_xiaomi_money_service">Apps</string>
     <string name="debug_log">Programma esperienza utente</string>
@@ -3900,8 +3903,8 @@ ed esegui il software."</string>
     <string name="msd_driver_download_mac_url">Ottieni i driver da http://www.android.com/filetransfer/</string>
     <string name="msd_install_download_zhushou">Mi PC Suite scaricato</string>
     <string name="vpn_settings_password">Password VPN</string>
-    <string name="vpn_settings_summary">Protect VPN settings with Lock screen password</string>
-    <string name="vpn_no_selected">Select VPN</string>
+    <string name="vpn_settings_summary">Proteggi le impostazioni VPN con la password della schermata di blocco</string>
+    <string name="vpn_no_selected">Seleziona VPN</string>
     <string name="vpn_safe">Sicurezza</string>
     <string name="vpn_configure">Configurazione</string>
     <string name="vpn_enable">VPN</string>
@@ -4016,7 +4019,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
  for Second space"</string>
     <string name="cancel_alert">Vuoi annullare i cambiamenti?</string>
     <string name="android_beam_witch_label">Attiva Android Beam</string>
-    <string name="sim_management_title">Gestione SIM</string>
+    <string name="sim_management_title">SIM e reti mobili</string>
     <string name="sim_radio_off">Non attivato</string>
     <string name="slot_status_title">Informazione IMEI</string>
     <string name="next_button_label">Avanti</string>
@@ -4048,8 +4051,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wifi_signal_found_msg">"Punto d'accesso Wi-Fi disponibile, vuoi connetterti ora?"</string>
     <string name="miui_data_usage_menu_metered">Hotspot Dati cellulare</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
-    <string name="wifi_enable_data_and_wifi_roam">Enable data and WLAN roam</string>
-    <string name="wifi_enable_data_and_wifi_roam_summary">Switch to data connection when both WLAN and data is connecting and the WLAN can not access the internet.</string>
+    <string name="wifi_enable_data_and_wifi_roam">Dati e Wi-Fi roaming</string>
+    <string name="wifi_enable_data_and_wifi_roam_summary">Passa alla connessione dati quando la connessione dati e il Wi-Fi sta tentando di collegarsi e il Wi-Fi non può accedere a internet.</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi scegli il contenuto che vuoi inviare.</string>
     <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
@@ -4218,6 +4221,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="local_backup_section_summary">Backup impostazioni di sistema, account e applicazioni</string>
     <string name="other_personal_settings">Impostazioni aggiuntive</string>
     <string name="local_auto_backup_section_title">Backup automatico</string>
+    <string name="google_backup_enable">Attiva backup</string>
     <string name="local_auto_backup_on">Sì</string>
     <string name="local_auto_backup_off">No</string>
     <string name="other_advanced_settings">Impostazioni aggiuntive</string>
@@ -4473,6 +4477,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="fingerprint_identify_msg">"Lettura dell'impronta\u2026"</string>
     <string name="fingerprint_identify_input_password_msg">Inserisci password</string>
     <string name="fingerprint_identify_try_again_msg">Scansione fallita, prova di nuovo</string>
+    <string name="fingerprint_lock_second">Sblocca Spazio Secondario</string>
+    <string name="fingerprint_lock_first">Sblocca Spazio Primario</string>
     <string name="add_fingerprint_instruction_title">Appoggia il dito sul lettore di impronte</string>
     <string name="add_fingerprint_instruction_msg">"Sblocca il dispositivo o verifica il pagamento con l'impronta digitale"</string>
     <string name="add_fingerprint_put_finger_title">Posiziona il dito</string>
@@ -4486,8 +4492,6 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="delete_legacy_fingerprint">Elimina</string>
     <string name="keep_legacy_fingerprint">Mantieni</string>
     <string name="add_fingerprint_finished_button_text">Fatto</string>
-    <string name="add_fingerprint_instruction_dialog_msg">"Per aggiungere la tua impronta digitale, appoggia il dito sul sensore.
-Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="add_fingerprint_toast_text">Appoggia il dito sul sensore adesso</string>
     <string name="show_user_info_on_lockscreen_label">Mostra info utente sulla Schermata di blocco</string>
     <string name="battery_info_status_label">Stato batteria:</string>
@@ -4579,6 +4583,9 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Clicca per modificare</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_skip">Salta</string>
+    <string name="permission_settings_title">App permissions</string>
+    <string name="permission_settings_summary">Manage permissions related to location, storage, phone, messages, and contacts.</string>
+    <string name="permission_manage_global_build_title">Other permissions</string>
     <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
     <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
     <string name="fingerprint_removal_failed">"Couldn't remove fingerprint, try again later"</string>

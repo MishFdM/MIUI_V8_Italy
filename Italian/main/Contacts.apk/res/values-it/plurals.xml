@@ -132,8 +132,8 @@
         <item quantity="one">%1$d persona</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Ha squillato %d volte</item>
-        <item quantity="one">Ha squillato %d volta</item>
+        <item quantity="other">ha squillato %d volte</item>
+        <item quantity="one">ha squillato %d volta</item>
     </plurals>
     <plurals name="contacts_count">
         <item quantity="other">%1$d contatti</item>

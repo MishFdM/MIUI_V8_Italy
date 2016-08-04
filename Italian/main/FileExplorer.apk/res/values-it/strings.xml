@@ -879,4 +879,6 @@ e non perderai mai le ultime novità!"</string>
     <string name="video_parse_success">Analizzato correttamente</string>
     <string name="video_parse_error_unknown">Questo servizio video non è supportato, provane uno diverso</string>
     <string name="interest_recommend">Video consigliati</string>
+    <string name="force_touch_clean">Pulisci</string>
+    <string name="force_touch_search">Cerca file</string>
 </resources>
