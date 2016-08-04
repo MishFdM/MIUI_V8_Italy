@@ -32,8 +32,6 @@
     <string name="main_alert_message_no_mobile_package">Imposta limite dati</string>
     <string name="main_message_no_package_by_dual">Imposta limite dati per %s</string>
     <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
-    <string name="main_alert_message_slot_no_data_connection">"Lo slot SIM non supporta
-una connessione dati mobile"</string>
     <string name="main_primary_message_traffic_enough">Sotto il limite di utilizzo dati</string>
     <string name="main_primary_message_traffic_warning">Vicino al limite di utilizzo dati</string>
     <string name="main_primary_message_traffic_overlimit">Limite di utilizzo dati superato</string>
@@ -90,8 +88,6 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="background_traffic">Background %s</string>
     <string name="stop_app_button">Interrompi</string>
     <string name="detail_app_button">Info app</string>
-    <string name="force_stop_dlg_title">Limita dati in background</string>
-    <string name="force_stop_dlg_text">"Se limiti l'utilizzo della rete dati cellulare, alcune app e servizi non lavoreranno se non connesso ad una rete Wi-Fi."</string>
     <string name="pref_about_traffic_title">Impostazioni utilizzo dati</string>
     <string name="pref_package_traffic_normal">Soglia: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Aggiuntivo: %2$s</string>
@@ -138,6 +134,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">Aggiornato 1 settimana fa</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Aggiornato più di una settimana fa</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Aggiornato più di un mese fa</string>
+    <string name="next_step_button">Avanti</string>
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
     <string name="pref_avaible_traffic">Piano dati</string>
@@ -225,14 +222,6 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="lock_screen_traffic_purchase_textview">Compra dati mobili</string>
     <string name="free_time_traffic_title">Inserisci limite dati fuori soglia</string>
     <string name="free_time_traffic_hint">Inserisci limite dati fuori soglia</string>
-    <string name="traffic_protection_label">Avviso utilizzo dati</string>
-    <string name="traffic_protection_summary">Imposta gli avvisi per il superamento di livelli specifici di utilizzo dati</string>
-    <string name="traffic_protection_unknown"><u>Imposta più tardi</u></string>
-    <string name="traffic_protection_text_hint">Imposta limite utilizzo dati %s</string>
-    <string name="traffic_protection_next">Avanti</string>
-    <string name="traffic_protection_data_usage_summary">Imposta gli avvisi di utilizzo dati per evitare il superamento della tuasoglia di traffico dati.</string>
-    <string name="traffic_protection_use_data">Dati mobili</string>
-    <string name="setting_traffic_pkg">Imposta pacchetto dati</string>
     <string name="traffic_correction_start_correction">"In collegamento con i server dell'operatore…"</string>
     <string name="traffic_correction_start_correction_failed">Richiesta fallita, verifica le impostazioni del tuo operatore</string>
     <string name="traffic_correction_success">Aggiornamento utilizzo dati</string>
@@ -281,35 +270,6 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="warning_open_mi_sim">Attiva Mi SIM</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="datausage_purchase_title_pkglist">Ricarica</string>
-    <string name="datausage_purchase_title_confirm">Dettagli acquisto</string>
-    <string name="datausage_purchase_title_order">Ricarica</string>
-    <string name="datausage_purchase_banner_title">%s ricarica in offerta (esclusiva)</string>
-    <string name="datausage_purchase_view_detail">Mostra dettagli</string>
-    <string name="datausage_purchase_buy">Acquista</string>
-    <string name="datausage_purchase_pay_confirm">Acquista</string>
-    <string name="datausage_purchase_pay_hint">Per annullare, componi %s</string>
-    <string name="datausage_purchase_pay_captcha_hint">Inserisci qui il codice che ricevi</string>
-    <string name="datausage_purchase_pay_captcha_tips">"Dopo aver ricevuto il codice di verifica, inseriscilo nel box sopra e tocca Acquista per completare l'acquisto. Ricordati che il codice è valido solo per 10 minuti."</string>
-    <string name="datausage_purchase_get_captcha">Ottieni codice(%d)</string>
-    <string name="datausage_purchase_get_captcha_again">Invia un nuovo codice</string>
-    <string name="datausage_purchase_get_captcha_failed">Impossibile recuperare il codice di verifica. Controlla la connessione dati e riprova.</string>
-    <string name="datausage_purchase_confirm_tip">Il tuo ordine:</string>
-    <string name="datausage_purchase_ordering">Acquisto in corso...</string>
-    <string name="datausage_purchase_result_ok">"Hai acquistato %s
-Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operatore"</string>
-    <string name="datausage_purchase_result_failed">"Non è stato possibile acquistate dati. Verifica con il tuo operatore per maggiori informazioni sul problema. "</string>
-    <string name="datausage_purchase_backto_ns">Indietro</string>
-    <string name="datausage_purchase_goto_monthsetting">Modifica informazioni pacchetto</string>
-    <string name="datausage_purchase_pkglist_nodata">"Si è verificato un conflitto tra il tuo pacchetti dati attuale ed il pacchetto dati che stai cercando di acquistare.
- Verifica con il tuo operatore per maggiori informazioni."</string>
-    <string name="datausage_purchase_pkglist_networkerror">"Impossibile collegarsi alla rete. Controlla la tua connessione dati e riprova."</string>
-    <string name="datausage_purchase_pkglist_servererror">Qualcosa è andato storto con il tuo server.</string>
-    <string name="datausage_purchase_order_history">Cronologia</string>
-    <string name="datausage_purchase_none_history">Vuoto</string>
-    <string name="datausage_purchase_time_in">" on "</string>
-    <string name="datausage_purchase_order_failure">Acquisto fallito</string>
-    <string name="datausage_purchase_order_failure_cause">Accesso fallito...</string>
     <string name="mi_service_framework">Mi Service Framework</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
     <string name="mi_service_traffic_detail">Dettagli framework</string>
@@ -798,7 +758,7 @@ Per maggiori informazioni controlla il messaggio che hai ricevuto dal tuo operat
     <string name="resource_networkassistant_4">Test network</string>
     <string name="keywords_networkassistant_4">Connessione;Internet;Test</string>
     <string name="path_networkassistant_4">Applicazioni di sistema/Sicurezza/Assistente di rete/Test di rete</string>
-	<string name="app_name_securitycenter">Sicurezza</string>
+    <string name="app_name_securitycenter">Sicurezza</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
     <string name="score_pts">%</string>

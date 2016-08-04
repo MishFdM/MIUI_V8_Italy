@@ -2358,7 +2358,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_menu_auto_sync">Sincronizzazione automatica dei dati</string>
     <string name="data_usage_menu_sim_cards">SIM</string>
     <string name="data_usage_menu_cellular_networks">Reti cellulari</string>
-    <string name="data_usage_cellular_data_summary">Paused at limit</string>
+    <string name="data_usage_cellular_data_summary">In pausa al limite</string>
     <string name="account_settings_menu_auto_sync">Auto-sync dati</string>
     <string name="account_settings_menu_auto_sync_personal">Auto-sync dati personale</string>
     <string name="account_settings_menu_auto_sync_work">Auto-sync dati lavoro</string>
@@ -2560,8 +2560,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_remove_user">Rimuovi utente</string>
     <string name="user_enable_calling_confirm_title">Consentire chiamate?</string>
     <string name="user_enable_calling_confirm_message">Il registro delle chiamate sarà condiviso con questo utente.</string>
-    <string name="user_enable_calling_and_sms_confirm_title">Turn on phone calls &amp; SMS?</string>
-    <string name="user_enable_calling_and_sms_confirm_message">Call and SMS history will be shared with this user.</string>
+    <string name="user_enable_calling_and_sms_confirm_title">Attivare chiamatee SMS?</string>
+    <string name="user_enable_calling_and_sms_confirm_message">La cronologia per chiamate ed SMS verrà condivisa con questo utente.</string>
     <string name="application_restrictions">Consenti app e contenuti</string>
     <string name="apps_with_restrictions_header">Applicazioni con limitazioni</string>
     <string name="apps_with_restrictions_settings_button">Espandi impostazioni per app</string>
@@ -2699,7 +2699,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="preferred_network_offload_footer">Disabilita il nome rete Broadcast protegge dai terzi che cercano di ottenere delle informazioni della rete internet.</string>
     <string name="preferred_network_offload_popup">Disabilita il nome rete Broadcast previene automaticamente connessioni di rete internet nascoste.</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
-    <string name="sim_notification_title">SIM cards changed.</string>
+    <string name="sim_notification_title">SIM cambiata.</string>
     <string name="sim_notification_summary">Touch to set up</string>
     <string name="sim_pref_divider">Attività</string>
     <string name="sim_calls_ask_first_prefs_title">Chiedi prima</string>
@@ -2994,8 +2994,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="choose_assist_title">Choose Assist app</string>
     <string name="assistant_security_warning_title">Make %s your assistant?</string>
     <string name="assistant_security_warning">The assistant will be able to read information about apps in use on your system, including information visible on your screen or accessible within the apps.</string>
-    <string name="assistant_security_warning_agree">Agree</string>
-    <string name="assistant_security_warning_disagree">Disagree</string>
+    <string name="assistant_security_warning_agree">OK</string>
+    <string name="assistant_security_warning_disagree">No</string>
     <string name="choose_voice_input_title">Choose voice input</string>
     <string name="default_browser_title">Browser app</string>
     <string name="default_browser_title_none">No default Browser</string>
@@ -4427,6 +4427,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="choose_smartcover_type">Scegli il tipo di cover</string>
     <string name="normal_smartcover_title">Cover frontale oscurata</string>
     <string name="smallwindow_smartcover_title">Cover frontale trasparente</string>
+    <string name="lattice_smartcover_title">Cover frontale in lattice</string>
     <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
     <string name="children_mode_title">Modalità Genitore</string>
     <string name="children_mode_tips_on">Dopo aver disattivato la Modalità Genitore, tocca il tasto Home per tornare alla Home</string>

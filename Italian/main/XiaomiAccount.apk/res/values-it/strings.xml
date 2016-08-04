@@ -98,7 +98,8 @@ Per attivare il tuo account, segui il
     <string name="passport_retry">Avanti</string>
     <string name="passport_back">Indietro</string>
     <string name="passport_find_device_display_id">Sblocca numero:%s</string>
-    <string name="passport_miui_provision_find_status_text">此手机已经关联到小米帐号（%1$s）,若不激活，则无法使用此手机。(解锁编号:%2$s)</string>
+    <string name="passport_miui_provision_find_status_text">Questo dispositivo è già associato ad un Mi Account （%1$s）, inserisci la password per verificare il dispositivo.
+(Sblocca numero:%2$s)</string>
     <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_reging">Creazione account…</string>
@@ -171,12 +172,18 @@ Per attivare il tuo account, segui il
     <string name="passport_registered_phone_user_name">user Name:%s</string>
     <string name="app_name">Mi Account</string>
     <string name="account">Account</string>
-    <string name="micloud_account_name">Mi Account</string>
     <string name="logout_failed">Impossibile uscire</string>
     <string name="turning_off_find_device">Disattivazione Trova Telefono…</string>
     <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova Telefono</string>
     <string name="no_response_retry">Nessuna risposta, riprova.</string>
+    <string name="alert_title_remove_account">Rimuovere account?</string>
+    <string name="remove_account_notice">Cosa vuoi fare di messaggi, contatti ed altri dati sincronizzati con il tuo Mi Account?</string>
+    <string name="data_keep_in_device">Mantienili sul dispositivo</string>
+    <string name="data_wipe_from_device">Eliminali dal dispositivo</string>
     <string name="removing_account">Rimozione account…</string>
+    <string name="wipe_data_dialog_title">Alcuni elementi non sono stati sincronizzati</string>
+    <string name="wipe_data_dialog_msg">%s verrà eliminato se prosegui.</string>
+    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>
@@ -240,7 +247,6 @@ Per attivare il tuo account, segui il
     <string name="account_user_using_facebook_avatar">Usa la foto profilo di Facebook</string>
     <string name="account_user_avatar_from_camera">Scatta foto</string>
     <string name="account_user_avatar_from_album">Scegli immagine</string>
-    <string name="photoPickerNotFoundText">Nessuna immagine disponibile.</string>
     <string name="account_crop_user_avatar">Taglia immagine</string>
     <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
     <string name="user_avatar_uploading">Caricamento…</string>
@@ -318,6 +324,7 @@ Assicurati di ricordare le risposte."</string>
     <string name="account_vip_achievements">Trofei</string>
     <string name="authorize_title">Autorizzazione</string>
     <string name="activity_not_found_notice">"Impossibile trovare l'applicazione"</string>
+    <string name="mi_insurance">Mi Insurance</string>
     <string name="my_device_title">Dispositivo attuale</string>
     <string name="device_list_title">Lista dispositivi</string>
     <string name="device_list__header">I miei dispositivi</string>
@@ -349,9 +356,6 @@ Assicurati di ricordare le risposte."</string>
     <string name="cta_declaration_ignore">Ignora</string>
     <string name="cta_declaration_agree_and_continue">OK</string>
     <string name="cta_declaration_exit">Esci</string>
-    <string name="multi_user_not_show_sync_activity_title">Non attivare la sincronizzazione con Mi Cloud</string>
-    <string name="multi_user_not_show_sync_activity_message_1">Sembra che tu stia utilizzando il tuo spazio Mi Account predefinito.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">In questo caso, tutti i dati verranno sincronizzati con il tuo spazio secondario. Per evitare questo non attivare la sincronizzazione con Mi Cloud</string>
     <string name="find_device_access_denied">Impossibile recuperare lo stato, accesso negato</string>
     <string name="find_device_account_error">"Impossibile recuperare lo stato a causa di un errore con l'account"</string>
     <string name="find_device_null_credential_error">Impossibile recuperare le informazioni sul dispositivo, contatta il servizio clienti Xiaomi</string>
@@ -366,4 +370,12 @@ Assicurati di ricordare le risposte."</string>
     <string name="find_device_error_password_not_confirmed">Impossibile disattivare Trova Telefono. Inserisci il tuo Mi Account</string>
     <string name="find_device_operation_failed_error_unknown">Si è verificato un errore, riprova più tardi</string>
     <string name="find_device_remote_exception">Errore RPC</string>
+    <string name="multi_user_not_show_sync_activity_title">Non attivare la sincronizzazione con Mi Cloud</string>
+    <string name="multi_user_not_show_sync_activity_message_1">Sembra che tu stia utilizzando il tuo spazio Mi Account predefinito.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">In questo caso, tutti i dati verranno sincronizzati con il tuo spazio secondario. Per evitare questo non attivare la sincronizzazione con Mi Cloud</string>
+    <string name="notify_network_restricted_title">Mi Account non è riuscito a connettersi alla rete</string>
+    <string name="notify_network_restricted_content_hidden_state">"L'attività in background di Mi Account è limitata. Tocca per consentire."</string>
+    <string name="notify_network_restricted_content_bg_network">"L'accesso ad internet di Mi Account è limitato. Tocca per consentire."</string>
+    <string name="notify_network_restricted_content_mobile_network">"L'accesso ad internet di Mi Account è limitato. Tocca per consentire."</string>
+    <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
 </resources>
