@@ -1287,18 +1287,18 @@ Consider using a faster ^1 for better performance."</string>
     <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite.</string>
     <string name="menu_restore">Ripristina imp. predefinite</string>
     <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
-    <string name="reset_network_title">Network settings reset</string>
+    <string name="reset_network_title">Ripristino impostazioni di rete</string>
     <string name="reset_network_desc">"This will reset all network settings, including:
 
-"<li>Wi‑Fi</li>"
-"<li>Cellular data</li>"
+"<li>Wi-Fi</li>"
+"<li>Dati cellulare</li>"
 "<li>Bluetooth</li></string>
-    <string name="reset_network_button_text">Ripristino impostazioni</string>
-    <string name="reset_network_final_desc">Reset all network settings? You can’t undo this action!</string>
-    <string name="reset_network_final_button_text">Ripristino impostazioni</string>
-    <string name="reset_network_confirm_title">Ripristino?</string>
-    <string name="network_reset_not_available">Network reset is not available for this user</string>
-    <string name="reset_network_complete_toast">Network settings have been reset</string>
+    <string name="reset_network_button_text">Ripristina impostazioni</string>
+    <string name="reset_network_final_desc">"Ripristinare le impostazioni di rete? Quest'azione è irreversibile!</string>
+    <string name="reset_network_final_button_text">Ripristina</string>
+    <string name="reset_network_confirm_title">Ripristinare?</string>
+    <string name="network_reset_not_available">Non puoi eseguire il ripristino delle impostazioni di rete</string>
+    <string name="reset_network_complete_toast">Impostazioni di rete ripristinate correttamente</string>
     <string name="device_reset_title">Ripristino dispositivo</string>
     <string name="master_clear_title">Ripristino dati di fabbrica</string>
     <string name="master_clear_desc">"Questa operazione rimuoverà tutti i dati memorizzati nell'"<b>archivio interno</b>" del dispositivo, compresi:
@@ -1719,15 +1719,15 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="bt_hci_snoop_log_summary">Acquisisci tutti i pacchetti HCI Bluetooth in un file</string>
     <string name="oem_unlock_enable">Abilita sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Consenti al dispositivo lo sblocco OEM</string>
-    <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
-    <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
+    <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
+    <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione del dispositivo non funzionerà mentre questa opzione è attiva.</string>
     <string name="select_logd_size_title">Dimensione Logger buffer</string>
     <string name="select_logd_size_dialog_title">Seleziona la dimensione del log Logger</string>
     <string name="mock_location_app">Select mock location app</string>
     <string name="mock_location_app_not_set">No mock location app set</string>
     <string name="mock_location_app_set">Mock location app: %1$s</string>
     <string name="debug_view_attributes">Abilita visualizzazione ispezione attributi</string>
-    <string name="debug_networking_category">Networking</string>
+    <string name="debug_networking_category">Rete</string>
     <string name="wifi_display_certification">Certificazione Display wireless</string>
     <string name="wifi_verbose_logging">Abilita Logging verbose Wi-Fi</string>
     <string name="wifi_aggressive_handover">Aggressivo handover Wi-Fi a rete cellulare</string>
@@ -4583,7 +4583,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Clicca per modificare</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_skip">Salta</string>
-    <string name="permission_settings_title">App permissions</string>
+    <string name="permission_settings_title">Permessi app</string>
     <string name="permission_settings_summary">Manage permissions related to location, storage, phone, messages, and contacts.</string>
     <string name="permission_manage_global_build_title">Other permissions</string>
     <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
