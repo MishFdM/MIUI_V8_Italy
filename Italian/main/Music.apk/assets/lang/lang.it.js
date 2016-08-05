@@ -13,7 +13,7 @@
   "action_item_multiple":"Modifica",
   "action_item_play_all":"Riproduci",
   "action_item_remove_from_favorite":"Non preferito",
-  "fragment_title_recommend":""PRIMO PIANO"",
+  "fragment_title_recommend":"PRIMO PIANO",
   "fragment_title_artist_album":"ALBUM",
   "preset_music_playlist":"Playlist Mi Music",
   "my_playlist":"Playlist",
