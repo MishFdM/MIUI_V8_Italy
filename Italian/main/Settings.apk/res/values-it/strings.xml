@@ -526,7 +526,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="fingerprint_add_max">Tu puoi aggiungere fino a %d impronte</string>
     <string name="fingerprint_last_delete_title">Rimuovi tutte le impronte?</string>
     <string name="fingerprint_last_delete_message">"Non sarai in grado di utilizzare le impronte digitali per sbloccare il telefono, autorizzare gli acquisti o l'accesso alle app."</string>
-    <string name="fingerprint_last_delete_confirm">Si, rimuovi</string>
+    <string name="fingerprint_last_delete_confirm">Sì, rimuovi</string>
     <string name="confirm_fingerprint_icon_content_description">Usa la tua impronta per continuare.</string>
     <string name="crypt_keeper_settings_title">Crittografia</string>
     <string name="crypt_keeper_encrypt_title">Esegui crittografia dispositivo</string>
@@ -598,7 +598,7 @@ Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai i
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il blocco schermo.
 
 Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai in grado di sbloccare il telefono, autorizzare gli acquisti o accedere alle app.</string>
-    <string name="unlock_disable_frp_warning_ok">Si, rimuovi</string>
+    <string name="unlock_disable_frp_warning_ok">Sì, rimuovi</string>
     <string name="unlock_change_lock_pattern_title">Cambia sequenza di sblocco</string>
     <string name="unlock_change_lock_pin_title">Cambia PIN di sblocco</string>
     <string name="unlock_change_lock_password_title">Cambia password di sblocco</string>
@@ -2750,7 +2750,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="setup_wifi_nfc_tag">Imposta un Tag NFC</string>
     <string name="write_tag">Scrivi</string>
     <string name="status_awaiting_tap">Tocca un tag da scrivere…</string>
-    <string name="status_invalid_password">Password non valida,si prega di riprovare.</string>
+    <string name="status_invalid_password">Password non valida. Riprova.</string>
     <string name="status_write_success">Con successo!</string>
     <string name="status_failed_to_write">Impossibile scrivere i dati su un Tag NFC. Se il problema persiste, prova su un tag diverso</string>
     <string name="status_tag_not_writable">Tag NFC non scrivibile. Si prega di usare un tag differente.</string>
@@ -3094,7 +3094,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="write_settings_preference">Permesso di modifica impostazioni di sistema da parte delle app</string>
     <string name="permit_write_settings">Consenti modifiche alle impostazioni di sistema</string>
     <string name="write_settings_description">"Questo permesso consente ad un'app di modificare le impostazioni di sistema."</string>
-    <string name="write_settings_on">Si</string>
+    <string name="write_settings_on">Sì</string>
     <string name="write_settings_off">No</string>
     <string name="msim_sim_radio_off">Disattivo</string>
     <string name="ad_service">Ad services</string>
