@@ -38,6 +38,7 @@
     <string name="baidu_search_url_from_input">http://www.google.com/search?q=%s&amp;tn=ins</string>
     <string name="baidu_search_url_from_default">http://www.google.com/search?q=%s&amp;tn=ins</string>
     <string name="xiaomi_hint" />
+    <string name="hot_words" />
     <string name="app_name">Cerca</string>
     <string name="search_widget">Cerca</string>
     <string name="remove_from_history">Rimuovi dalla cronologia</string>
