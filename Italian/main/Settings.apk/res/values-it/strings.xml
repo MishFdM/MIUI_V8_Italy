@@ -1294,7 +1294,7 @@ Consider using a faster ^1 for better performance."</string>
 "<li>Dati cellulare</li>"
 "<li>Bluetooth</li></string>
     <string name="reset_network_button_text">Ripristina impostazioni</string>
-    <string name="reset_network_final_desc">"Ripristinare le impostazioni di rete? Quest'azione è irreversibile!</string>
+    <string name="reset_network_final_desc">"Ripristinare le impostazioni di rete? Quest'azione è irreversibile!"</string>
     <string name="reset_network_final_button_text">Ripristina</string>
     <string name="reset_network_confirm_title">Ripristinare?</string>
     <string name="network_reset_not_available">Non puoi eseguire il ripristino delle impostazioni di rete</string>
