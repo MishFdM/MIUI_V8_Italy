@@ -657,6 +657,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="set_data_package">Imposta prima un piano dati</string>
     <string name="button_join_service_number">Aggiungi numero di servizio</string>
     <string name="button_my_center">Profilo</string>
+    <string name="gallery">Galleria</string>
     <string name="import_from_sim">Importa da SIM</string>
     <string name="export_to_sim_title">Esportazione…</string>
     <string name="import_from_sim1">Importa da SIM 1</string>
@@ -739,7 +740,6 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_alertdialog_message">Mostra questo nome ai contatti quando chiedi di scambiare le schede.</string>
     <string name="miprofile_alertdialog_edit">Inserisci nome</string>
     <string name="miprofile_switch_off_alertdialog_message">Non potrai scambiare schede contatti con altre persone. I tuoi contatti non potranno vedere il tuo profilo video."</string>
-
     <string name="miprofile_bind_account_alertdialog_title">Aggiungi numero di telefono</string>
     <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzione."</string>
     <string name="miprofile_bind_account_alertdialog_positive">Aggiungi numero</string>
@@ -1063,6 +1063,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="smart_group_frequency_4">Oltre 6 mesi fa</string>
     <string name="contact_detail_calllog_call_record_tips">Registra chiamata</string>
     <string name="contact_detail_calllog_call_note_tips">Note</string>
+    <string name="contact_detail_calllog_empty">Nessuna chiamata</string>
     <string name="import_from_onekey_migrate">Importa con Transfer</string>
     <string name="import_from_other_phone">Importa da un altro dispositivo</string>
     <string name="device_brand_title">Scegli una marca</string>

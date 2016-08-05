@@ -84,6 +84,10 @@
     <string name="fortune_gender">性别</string>
     <string name="fortune_birthday">生日</string>
     <string name="fortune_no_name">请填写称呼</string>
+    <string name="olympic_rank">排名</string>
+    <string name="olympic_county">国家</string>
+    <string name="olympic_total">总数</string>
+    <string name="olympic_vs">VS</string>
     <string name="ad_card_install">立即安装</string>
     <string name="ad_card_spread">推广</string>
     <string name="ad_card_download_count">%1$s人下载</string>
@@ -294,6 +298,11 @@
     <string name="today_no_events">Nessun evento oggi</string>
     <string name="user_notification">Notifica utente</string>
     <string name="user_notification_descrip">Mostra la notifica utente ogni volta che apri il Calendario</string>
+    <string name="setting_title_about">Informazioni</string>
+    <string name="setting_about_summary">Versione:</string>
+    <string name="setting_about_miui_version">Versione MIUI:</string>
+    <string name="setting_about_calendar_version">Versione calendario:</string>
+    <string name="setting_about_imei">IMEI:</string>
     <string name="event_info_reminders_label_1">Promemoria</string>
     <string name="event_info_reminders_label_more">Promemoria %d</string>
     <string name="event_account">Account calendario</string>
@@ -367,8 +376,11 @@
     <string name="miui_menu_create_event">Nuovo evento</string>
     <string name="preferences_category_general_title">Generale</string>
     <string name="preferences_category_account_title">Account</string>
-    <string name="setting_holiday">Vacanze</string>
+    <string name="setting_holiday_display_title">Mostra vacanze</string>
+    <string name="setting_holiday_display_desc">Schede vacanze posizionate nella homapge del calendario</string>
+    <string name="setting_holiday_reminder">Promemoria vacanze</string>
     <string name="setting_others">Aggiuntive</string>
+    <string name="setting_homepage">Visualizzazione homepage</string>
     <string name="preferences_holidays">Mostra vacanze</string>
     <string name="preferences_solar_terms">Mostra giorni calendario solare</string>
     <string name="preferences_history_events">Mostra registro eventi</string>

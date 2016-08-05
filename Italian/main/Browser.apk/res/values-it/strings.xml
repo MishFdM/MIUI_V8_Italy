@@ -531,6 +531,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="clear_search_history">Cancella cronologia</string>
     <string name="clear_most_visited">Mantieni cronologia</string>
     <string name="suggest_open_app_failed">Nonè stato possibile aprire questa app</string>
+    <string name="suggest_item_delete_text">Elimina</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_sogou">Sogou</string>
     <string name="search_google">Google</string>
@@ -815,4 +816,5 @@ finestra riservata​"</string>
     <string name="force_quick_search_title">Cerca</string>
     <string name="force_touch_bookmark_history_title">Segnalibri e cronologia</string>
     <string name="force_touch_infoflow_title">Notizie Quotidiane</string>
+    <string name="gold_medals">"Medaglie d'oro"</string>
 </resources>
