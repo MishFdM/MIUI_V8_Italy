@@ -3990,7 +3990,7 @@ ed esegui il software."</string>
     <string name="application_item_permission">Consenti</string>
     <string name="application_item_already_permission">Consentito</string>
     <string name="application_forbid_auto_startup">Impedisci a %s di avviarsi in background</string>
-    <string name="application_permission_manager">App permissions</string>
+    <string name="application_permission_manager">Permessi app</string>
     <string name="floating_window_switch_label">Mostra finestre popup</string>
     <string name="floating_window_switch_label_disable">Nascondi finestre popup</string>
     <string name="app_floating_window_dlg_enable">"L'abilitazione delle notifiche flottanti per %1$s richiede il riavvio dell'applicazione. Puoi anche chiudere l'app manualmente. 
@@ -4537,7 +4537,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="usb_mount_summary"/>
     <string name="usb_insert_summary">Inserire una memoria USB da caricare</string>
     <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
-    <string name="convenience_key_category_title">Shortcuts</string>
+    <string name="convenience_key_category_title">Scorciatoie</string>
     <string name="settings_forbidden_message">This setting is disabled</string>
     <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
     <string name="auto_disable_screenbuttons_summary">Automatically disable navigation buttons when using selected apps. Double tap any navigation button to re-enable.</string>
@@ -4590,9 +4590,9 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
     <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
     <string name="fingerprint_removal_failed">"Couldn't remove fingerprint, try again later"</string>
-    <string name="search_empty">No search results</string>
-    <string name="receiver_clean">Free up space</string>
-    <string name="power_optimize">Battery saver</string>
+    <string name="search_empty">Nessun risultato</string>
+    <string name="receiver_clean">Libera spazio</string>
+    <string name="power_optimize">Risparmio energetico</string>
     <string name="power_checker">Power Checker</string>
     <string name="app_invisible">App Invisible</string>
     <string name="uninstall_xspace_app_dlg_title">Uninstall cloned app?</string>
