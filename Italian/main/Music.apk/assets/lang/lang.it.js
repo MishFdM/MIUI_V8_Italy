@@ -122,7 +122,7 @@
   "one_month":"1 mese",
   "too_freq":"Troppe richieste inviate da questo dispositivo.",
   "tos":"Termini del Servizio",
-  "auto_payment":"Rinnova automaticamente"
+  "auto_payment":"Rinnova automaticamente",
   "pay_now":"View subscription details",
   "vip_renew_title":"Subscription about to expire",
   "vip_renew_message":"Your subscription expires tomorrow. After that you'll be able to stream regular quality audio. Some songs may not be available due to the requirements of the record companies.",
@@ -152,4 +152,5 @@
   "download_button_text_install":"Install",
   "download_button_text_downloading":"Downloading",
   "download_button_text_installing":"Installing",
-  "download_button_text_installed":"Installed"}
+  "download_button_text_installed":"Installed"
+}
