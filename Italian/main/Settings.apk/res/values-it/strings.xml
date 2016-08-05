@@ -2673,7 +2673,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="sim_cards_changed_message_summary">Tocca per impostare le attività</string>
     <string name="sim_cellular_data_unavailable">Dati cellulare non disponibile</string>
     <string name="sim_cellular_data_unavailable_summary">Tocca per selezionare una SIM dati</string>
-    <string name="sim_calls_always_use">Usa sempre questa per le chiamate</string>
+    <string name="sim_calls_always_use">Usa sempre questa SIM per le chiamate</string>
     <string name="select_sim_for_data">Scegli la SIM per i dati</string>
     <string name="data_switch_started">Cambio la SIM per i dati, attendere…</string>
     <string name="select_sim_for_calls">Chiama con</string>
