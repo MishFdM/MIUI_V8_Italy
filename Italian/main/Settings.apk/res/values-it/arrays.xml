@@ -3,30 +3,30 @@
     <string-array name="wifi_status">
         <item></item>
         <item>Scansione</item>
-        <item>Connessione..</item>
-        <item>Autenticazione...</item>
-        <item>Recupero indirizzo IP...</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Recupero indirizzo IP…</item>
         <item>Connesso</item>
         <item>Sospeso</item>
         <item>Disconnessione</item>
         <item>Disconnesso</item>
         <item>Fallito</item>
         <item>Bloccato</item>
-        <item>Evitamento temporaneo connessioni deboli</item>
+        <item>Evita tempor. connessioni deboli</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scansione...</item>
-        <item>Connessione a %1$s...</item>
-        <item>Autenticazione con %1$s...</item>
-        <item>Recupero indirizzo IP da %1$s...</item>
+        <item>Scansione…</item>
+        <item>Connessione a %1$s…</item>
+        <item>Autenticazione con %1$s…</item>
+        <item>Recupero indirizzo IP da %1$s…</item>
         <item>Connesso a %1$s</item>
         <item>Sospeso</item>
         <item>Disconnesso da %1$s</item>
         <item>Disconnesso</item>
         <item>Fallito</item>
         <item>Bloccato</item>
-        <item>Evitamento temporaneo connessioni deboli</item>
+        <item>Evita tempor. connessioni deboli</item>
     </string-array>
     <string-array name="status_bar_style_entries">
         <item>Combinato</item>
@@ -589,11 +589,11 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Inizio sessione...</item>
+        <item>Inizio sessione…</item>
         <item>Sessione iniziata</item>
-        <item>Chiusura sessione...</item>
+        <item>Chiusura sessione…</item>
         <item>Sessione fallita</item>
-        <item>Timeout creazione sessione, nuovo tentativo...</item>
+        <item>Timeout creazione sessione, nuovo tentativo…</item>
         <item>Dispositivo collegato</item>
     </string-array>
     <string-array name="power_mode_entries">
@@ -603,7 +603,7 @@
     <string-array name="msd_pc_system">
         <item>Windows XP e versioni precedenti di Windows</item>
         <item>Windows Vista e versioni più recenti di Windows</item>
-        <item>Mac OS</item>
+        <item>macOS</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
