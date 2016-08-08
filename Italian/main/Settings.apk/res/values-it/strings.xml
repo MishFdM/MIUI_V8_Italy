@@ -4019,7 +4019,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
  for Second space"</string>
     <string name="cancel_alert">Vuoi annullare i cambiamenti?</string>
     <string name="android_beam_witch_label">Attiva Android Beam</string>
-    <string name="sim_management_title">SIM e reti mobili</string>
+    <string name="sim_management_title">SIM e dati mobili</string>
     <string name="sim_radio_off">Non attivato</string>
     <string name="slot_status_title">Informazione IMEI</string>
     <string name="next_button_label">Avanti</string>
