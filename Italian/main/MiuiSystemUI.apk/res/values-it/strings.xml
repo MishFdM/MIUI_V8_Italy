@@ -159,7 +159,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="status_bar_safepay_safe">Ambiente sicuro.</string>
     <string name="status_bar_safepay_risk">Ambiente di pagamento a rischio!</string>
     <string name="status_bar_safepay_unknown">Sicurezza ambiente sconosciuta.</string>
-    <string name="status_bar_date_format">d/M, E</string>
+    <string name="status_bar_date_format">EEE, dd MMMM</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
     <string name="status_bar_recent_guide_all">"Scorri in alto per chiudere, 
