@@ -220,8 +220,6 @@ Per attivare il tuo account, segui il
     <string name="account_none_user_name">Nessuno</string>
     <string name="account_user_avatar">Immagine profilo</string>
     <string name="account_user_gender">Genere</string>
-    <string name="account_user_gender_female">Donna</string>
-    <string name="account_user_gender_male">Uomo</string>
     <string name="account_user_birthday">Compleanno</string>
     <string name="account_user_name_dialog_title">Inserisci nome utente</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>

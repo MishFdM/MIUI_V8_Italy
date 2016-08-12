@@ -127,6 +127,8 @@
     <string name="mark_number_check_choose_others">Scegli altri</string>
     <string name="mark_number_feedback_personal_number">"E' un numero personale"</string>
     <string name="mark_number_feedback_not_number">Non è il numero di %s</string>
+    <string name="mark_number_delete_confirm_title">Rimuovi le informazioni</string>
+    <string name="mark_number_delete_confirm_message">Rimuovere le informazioni per %s ?</string>
     <string name="smart_antispam">Identifica automaticamente numero sconosciuto</string>
     <string name="turn_on_smart_antispam_hint">Dopo averlo attivato, i numero verranno identificati. Se non verranno identificati, puoi segnalarli per aiutare a identificare le chiamate indesiderate.</string>
     <string name="turn_on_smart_antispam_title">Identifica numeri sconosciuti</string>

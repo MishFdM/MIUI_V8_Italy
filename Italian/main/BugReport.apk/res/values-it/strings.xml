@@ -42,6 +42,7 @@
     <string name="michat_type_picture">Immagine</string>
     <string name="michat_invation_invite_fail">Siamo spiacenti, i nostri operatori sono momentaneamente occupati. Riprova più tardi.</string>
     <string name="michat_invation_invite_full">Siamo spiacenti, i nostri operatori sono momentaneamente occupati. Riprova più tardi.</string>
+    <string name="michat_cant_access_artificial">Impossibile contattare il supporto in questo momento</string>
     <string name="michat_cant_join_artifical">Impossibile collegarsi a causa di un errore di rete</string>
     <string name="michat_lose_artifical">Si è verificato un errore di rete, hai lasciato al chat</string>
     <string name="michat_transfer_message">In attesa di un operatore che possa aiutarti...</string>
@@ -64,8 +65,10 @@
     <string name="michat_message_robot_welcome">Il mio nome è Mi Bunny. Sono il tuo assistente online.</string>
     <string name="michat_message_join_again">Siamo felici di rivederti!"</string>
     <string name="michat_invalid_url">URL non valido</string>
+    <string name="michat_motto">Mi Support è pronto ad aiutarti</string>
     <string name="michat_no_good_message_title">Questo non risolve il mio problema.</string>
     <string name="michat_artifical_customer_phone">4001005678</string>
+    <string name="michat_artificial_customer_phone_dial_error">Se non riesci a chiamare il numero 400, componi %1$s utilizzando un telefono diverso</string>
     <string name="login_system_failed">Impossibile accedere, prova di nuovo</string>
     <string name="dialog_ask_delete">Elimina</string>
     <string name="dialog_ask_quit">Esci</string>
@@ -198,6 +201,7 @@
     <string name="feedback_select_images">Aggiungi immagini</string>
     <string name="feedback_select_upload_log">Aggiungi log</string>
     <string name="feedback_report_remind_login_desc">Accedi con il tuo Mi Account in modo che i nostri sviluppatori possano contattarti. Puoi anche vedere i progressi dei tuoi report in \"I miei report\"."</string>
+    <string name="feedback_report_remind_login_desc2">"Puoi vedere il progresso del tuo report in \"I miei report\"."</string>
     <string name="feedback_history_remind_login_desc">Accedi con il tuo Mi Account per vedere i dettagli e i progressi del tuo report.</string>
     <string name="feedback_remind_login_btn">Accedi</string>
     <string name="feedback_empty_report_list">Nessun report</string>
