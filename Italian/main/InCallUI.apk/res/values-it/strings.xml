@@ -147,7 +147,7 @@
     <string name="call_recording_deny_permission_msg">Hai limitato i permessi di registrazione, impossibile registrare.</string>
     <string name="call_contacts_deny_permission_msg">Hai limitato i permessi di lettura dei contatti, impossibile mostrare le informazioni del contatto.</string>
     <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
-    <string name="antispam_local_marked">Segnalato localmente/string>
+    <string name="antispam_local_marked">Segnalato localmente</string>
     <string name="antispam_provider">Identificato da %s</string>
     <string name="antispam_notification_title">Numero sconosciuto</string>
     <string name="suspect_info">"Verifica sempre l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
