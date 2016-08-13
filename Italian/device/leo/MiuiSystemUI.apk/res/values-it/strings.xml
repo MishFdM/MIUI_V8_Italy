@@ -93,7 +93,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="screen_pinning_description_accessible">In questo modo resterà visualizzato fino a che non toglierai la spunta. Tieni premuto Indietro e Panoramica per togliere la spunta.</string>
     <string name="screen_pinning_positive">Ho capito</string>
     <string name="screen_pinning_negative">No grazie</string>
-    <string name="status_bar_date_format">d/M, E</string>
+    <string name="status_bar_date_format">EEE, dd MMMM</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
     <string name="status_bar_recent_guide_all">"Scorri in alto per chiudere, 
