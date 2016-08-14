@@ -557,9 +557,10 @@
     <string name="menu_send_as_common">Invia come SMS</string>
     <string name="message_sent">Inviato</string>
     <string name="mx2_type_description">[%s]</string>
-    <string name="left_cancel">Scorri a sinistra per annullare</string>
+    <string name="open_audio_record_panel">Apri pannello registrazione</string>
+    <string name="hold_to_talk">Tieni premuto e parla</string>
+    <string name="slide_up_to_cancel">Scorri in alto per annullare</string>
     <string name="release_cancel">Rilascia per annullare</string>
-    <string name="press_recording">"Tieni premuto l'icona del microfono per registrare"</string>
     <string name="warning_show">Invio tra %ds</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="playing_failed">Impossibile riprodurre</string>

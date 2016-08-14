@@ -52,4 +52,5 @@ Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di uti
     <string name="next_fingerprint">Avanti</string>
     <string name="desc_extra_international_fingerprint"/>
     <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicaizoni e servizi.</string>
+    <string name="content_description_start">Avvia</string>
 </resources>

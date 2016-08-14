@@ -740,6 +740,8 @@ attendere o selezionare Musica Online."</string>
     <string name="milink_unavaliable_please_update">"Funzione Mi Link non disponibile. E' necessario aggiornare MIUI."</string>
     <string name="song_exist_in_playlist">Operazione fallita. Il brano è già nella playlist.</string>
     <string name="othor_song_in_album">Altri brani nello stesso Album.</string>
+    <string name="ad_extension">Promotion</string>
+    <string name="ad_close">Close</string>    
     <string name="download_traffic_dialog_msg">"L'utilizzo della rete dati mobile per il download della musica aumenta il consumo dei dati e potrebbe aumentare anche i costi</string>
     <string name="download_traffic_dialog_position_button">Scarica uno alla volta</string>
     <string name="download_traffic_dialog_negative_button">Scarica con Wi-Fi</string>
@@ -758,6 +760,37 @@ attendere o selezionare Musica Online."</string>
     <string name="traffic_network_alert">Piano dati Mi Music</string>
     <string name="traffic_network_alert_message">Stai utilizzando un piano dati Mi Music fornito da China Unicom. Dovresti connetterti ad una rete 3gnet per ascoltare musica in streaming senza costi aggiuntivi. Assicurati di aver verificato la tua connessione prima di ascoltare musica ins treaming.</string>
     <string name="set_now">Vai nelle Impostazioni</string>
+    <string name="pulluprefreshrecyclerview_loading_running">Loading…</string>
+    <string name="pulluprefreshrecyclerview_loading_finished">Loaded successfully</string>
+    <string name="pulluprefreshrecyclerview_loading_error">"Couldn't load"</string>
+    <string name="follow">Follow</string>
+    <string name="followed">Following</string>
+    <string name="artist_favor">Featured</string>
+    <string name="artist_album">Ablums</string>
+    <string name="artist_news">News</string>
+    <string name="download_start_btn">Free download</string>
+    <string name="already_download_btn">Downloading…</string>
+    <string name="download_complete_btn">Installed</string>
+    <string name="download_done_btn">Downloaded</string>
+    <string name="online_favor">Featured</string>
+    <string name="online_bill">Charts</string>
+    <string name="online_recommend">Recommended</string>
+    <string name="online_fm">FM</string>
+    <string name="online_special">Special</string>
+    <string name="billboard_song_subtitle">— %s</string>
+    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="force_touch_play_local_music_random">Riproduci casualmente la musica locale</string>
     <string name="force_touch_audio_picker">Selezione audio</string>
+    <string name="playlist_type_artist">Artista</string>
+    <string name="playlist_type_album">Album</string>
+    <string name="playlist_type_billboard">Classifiche</string>
+    <string name="playlist_type_fm">FM</string>
+    <string name="playlist_type_recommend">Playlist in evidenza</string>
+    <string name="playlist_type_my">Mia playlist</string>
+    <string name="local_page_song_download">Locali</string>
+    <string name="local_page_song_all">Tutti i brani</string>
+    <string name="local_page_song_favorite">Preferiti</string>
+    <string name="local_page_artist">Artisti seguiti</string>
+    <string name="local_page_custom_title">Per te</string>
+    <string name="local_page_custom_subtitle">Nuovi brani ogni giorno</string>
 </resources>

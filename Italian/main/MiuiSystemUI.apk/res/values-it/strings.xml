@@ -170,8 +170,8 @@ scorri in basso per bloccare"</string>
     <string name="description_direction_up">Scorri in alto per %s.</string>
     <string name="description_direction_left">Scorri a sinistra per %s.</string>
     <string name="description_target_search">Cerca</string>
-    <string name="status_bar_date_format_12">d/M, E</string>
-    <string name="status_bar_clock_date_format">d/M, E</string>
+    <string name="status_bar_date_format_12">EEE, dd MMMM</string>
+    <string name="status_bar_clock_date_format">EEE, dd MMMM</string>
     <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
     <string name="status_bar_recent_memory_info2"/>
     <string name="usb_mode_notification">Archivio USB</string>

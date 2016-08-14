@@ -4558,7 +4558,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="bootloader_apply_step_3">i dati (come password e messagi) sul dispositivo potrebbero essere letti senza il tuo consenso.</string>
     <string name="bootloader_apply_step_4">"Potrebbe comportare la diffusione o la perdita dei dati, o anche danni irreparabili all'hardware."</string>
     <string name="bootloader_apply_step_5">Assicurati di sapere come usare la Modalità Fastboot prima di attivarla.</string>
-    <string name="add_fingerprint_similar_fingerprint_input_error_msg">Move your finger slightly</string>
+    <string name="add_fingerprint_similar_fingerprint_input_error_msg">Sposta leggermente il dito</string>
     <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
     <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
     <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>

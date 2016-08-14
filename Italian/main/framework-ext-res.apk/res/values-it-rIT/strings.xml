@@ -108,6 +108,10 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="handy_mode_summary">Tocca lo spazio vuoto per chiudere</string>
     <string name="handy_mode_enter_dlg_title">Attiva uso con una mano</string>
     <string name="handy_mode_enter_dlg_msg">Attivare uso con una mano?</string>
+    <string name="screenshot_gesture_detect_alert_title">Screenshot con tre dita</string>
+    <string name="screenshot_gesture_detect_alert_msg">"Fai uno screenshot scorrendo dall'alto verso il basso"</string>
+    <string name="screenshot_gesture_detect_alert_button">Goto screenshot settings to enable</string>
+    <string name="screenshot_gesture_detect_alert_dont_again">Do not show again</string>
     <string name="permlab_manageLocationPolicy">Gestisci autorizzazioni sulla posizione</string>
     <string name="permdesc_manageLocationPolicy">"Consenti all'applicazione di gestire le autorizzazioni sulla posizione e definisci regole specifiche per ogni app."</string>
     <string name="location_usage_restricted_title">Localizzazione in background limitata</string>
@@ -137,6 +141,10 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="group_name_friends">Amici</string>
     <string name="group_name_family">Famiglia</string>
     <string name="group_name_coworkers">Colleghi</string>
+    <string name="fp_nav_center_action_choose_dlg_title">Personalizza il tasto Home</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Puoi tornare alla Home premendo il tasto Home. Personalizza il tasto Home in Impostazioni > Impostazioni aggiuntive > Tasti e attiva Tocca per Home.</string>
+    <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vai nelle impostazioni</string>
+    <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Non adesso</string>
     <string name="auto_disable_screenbuttons_float_text">Tocca per disattivare i tasti a schermo</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Tasti a schermo attivati</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Tasti a schermo disattivati, tocca due volte un tasto per uscire</string>
@@ -144,10 +152,6 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="auto_disable_screenbuttons_prompts_message">Tocca due volte un tasto per uscre dalla modalità di disattivazione e tornare alla funzione del tasto.</string>
     <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
     <string name="auto_disable_screenbuttons_prompts_not_show_again">Non mostrare più queste richieste</string>
-    <string name="fp_nav_center_action_choose_dlg_title">Personalizza il tasto Home</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">Puoi tornare alla Home premendo il tasto Home. Puoi secegliere se eseguire le astessa azione con un tocco. Personalizza il tasto Home in Impostazioni > Impostazioni aggiuntive > Tasti.</string>
-    <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Personalizza</string>
-    <string name="fp_nav_center_action_choose_dlg_negative_btn_text">No grazie</string>
     <string name="start_security_permission_verify_text">Verifica i permessi Mi Account</string>
     <string name="security_permission_denied_text">Accesso negato</string>
     <string name="security_permission_failed_text">Errore interno, riprova più tardi</string>
