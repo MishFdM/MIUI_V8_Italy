@@ -721,7 +721,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="power_save_mode_start_time">Inizio</string>
     <string name="power_save_mode_end_time">Fine</string>
     <string name="notification_charging_title">In carica\u0020</string>
-    <string name="charging_text_time_calculating">Calcolo tempo di ricarica…</string>
+    <string name="charging_text_time_calculating">Calcolo tempo di ricarica...</string>
     <string name="charging_text_battery_nearly_full">Quasi carico</string>
     <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
     <string name="charging_text_battery_perfect">Carica completata\u0020</string>
@@ -1030,7 +1030,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="usb_install_desc">Installare questa app tramite USB?</string>
     <string name="continue_install">Installa</string>
     <string name="reject_countdown">Nega (%d)</string>
-    <string name="reject_usb_install">"Negata l'installazione tramite USB della seguente app"</string>
+    <string name="reject_usb_install">"Negata l'installazione tramite USB  della seguente app"</string>
     <string name="pc_install_manager">"Installa tramite USB"</string>
     <string name="monitor_requests_from_pc">"Gestisci l'installazione dell'app tramite USB"</string>
     <string name="app_install_intercept">"Blocca l'installazione"</string>
@@ -1280,7 +1280,7 @@ o inserisci la password"</string>
     <string name="wifi_item_title_arp_attack">Attacchi ARP</string>
     <string name="wifi_item_status_connection_yes">Connesso</string>
     <string name="wifi_item_status_connection_no">Non connesso</string>
-    <string name="main_activity_content_title_scanning">Scansione…</string>
+    <string name="main_activity_content_title_scanning">Scansione...</string>
     <string name="main_activity_content_summary_root">Accesso root</string>
     <string name="main_activity_content_summary_update">Aggiornamento di sistema</string>
     <string name="dialog_title_stop_paysafety_scan">Interrompi</string>
@@ -1313,7 +1313,7 @@ o inserisci la password"</string>
     <string name="safe_result_header_title_sms">Messaggio di sicurezza</string>
     <string name="safe_result_header_title_app">App di sicurezza</string>
     <string name="safe_result_header_info_protecting">Protezione</string>
-    <string name="safe_result_item_info_wifi_connection">Wi-Fi collegata</string>
+    <string name="safe_result_item_info_wifi_connection">Wi-Fi colelgata</string>
     <string name="safe_result_item_info_wifi_encryption">Wi-Fi crittografata</string>
     <string name="safe_result_item_info_wifi_fake">Non fasullo</string>
     <string name="safe_result_item_info_wifi_dns">Sicurezza server DNS</string>
@@ -1382,7 +1382,7 @@ o inserisci la password"</string>
     <string name="optimize_result_button_consume_power_analysis">Scansione batteria</string>
     <string name="optimize_result_button_purchase_flow">Acquista altri dati mobili</string>
     <string name="optimize_result_button_purchase">Acquista</string>
-    <string name="optimize_result_button_cloudspace">Amplia spazio cloud</string>
+    <string name="optimize_result_button_cloudspace">Aggiungi spazio cloud</string>
     <string name="optimize_result_title_system_default_settings">Le impostazioni predefinite sono state modificate</string>
     <string name="optimize_result_summary_system_default_settings">"L'utilizzo di applicazioni di predefinite MIUI aumenta il livello di stabilità e sicurezza del sistema."</string>
     <string name="optimize_result_toast_system_default_settings">Ripristina le impostazioni predefinite</string>
