@@ -2,7 +2,7 @@
 <resources>
     <string name="search_title_mms">Messaggi</string>
     <string name="search_keyword_mms">Messaggi</string>
-    <string name="search_path_mms">Settings/System apps/Messaging</string>
+    <string name="search_path_mms">Impostazioni/Applicazioni di sistema/Messaggi</string>
     <string name="pref_summary_manage_sim_messages">Gestisci i messaggi sulla tua scheda SIM</string>
     <string name="pref_title_manage_sim_messages">Gestisci messaggi SIM</string>
     <string name="confirm_delete_all_SIM_messages">Tutti i messaggi sulla SIM verranno eliminati.</string>
@@ -59,7 +59,7 @@
     <string name="unsupported_media_format">Formato %1$s non supportato.</string>
     <string name="select_different_media">Scegli un %1$s diverso.</string>
     <string name="exceed_message_size_limitation">Limite di dimensione del messaggio raggiunto.</string>
-    <string name="exceed_message_text_limitation">LImite lunghezza messaggio raggiunto.</string>
+    <string name="exceed_message_text_limitation">Limite lunghezza messaggio raggiunto.</string>
     <string name="exceed_message_size_limitation_add_slide">Dimensione del messaggio insufficiente per aggiungere slide</string>
     <string name="message_too_big_for_video">Dimensioni del messaggio troppo grandi per poter allegare un video.</string>
     <string name="failed_to_add_media">Impossibile aggiungere %1$s al messaggio.</string>
@@ -406,9 +406,9 @@
     <string name="mx_activate_int_hint_server">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
     <string name="need_download">Sincronizzazione…</string>
     <string name="found_wild_messages_title">Scarica messaggi</string>
-    <string name="found_wild_messages_guide_settings_desc">Sync messages from Mi Cloud in Messaging Settings.</string>
+    <string name="found_wild_messages_guide_settings_desc">Sincronizza messaggi da Mi Cloud nelle Impostazioni dei Messaggi.</string>
     <string name="found_wild_messages_guide_cloud_desc">Per sincronizzare i messaggi da Mi Cloud accedi al tuo Mi Account ed attiva la sincronizzazione SMS.</string>
-    <string name="found_wild_messages_guide_sync_not_started">Sincronizzazion non ancora avviata</string>
+    <string name="found_wild_messages_guide_sync_not_started">Sincronizzazione non ancora avviata</string>
     <string name="found_old_messages_title">Aggiorna Messaggi</string>
     <string name="found_old_messages">Resoconto: %1$s trovati nei vecchi account. Vuoi caricarli nel tuo attuale account: %2$s?</string>
     <string name="show_all_messages">Mostra tutti i messaggi</string>
@@ -522,7 +522,7 @@
     <string name="send_message_dlg_check_hint">Ricorda la mia scelta</string>
     <string name="send_message_dlg_mgs">Avviso CMCC: Abbiamo la necessità di registrare il tuo dispositivo sulla piattaforma di gestione dispositivi per fornire il servizio gratuito di post-service. (Post-service è una piattaforma di CMCC che consente la gestione dei dispositivi. Fornisce il servizio di impostazione remota ed aggiornamento delle applicazioni). Un messaggio gratuito con le informazioni sul dispositivo sarà inviato per la registrazione. Il messaggio sarà inviato solo una volta e non richiede nessuno dei tuoi dati personali. (Non invia in roaming da Hong Kong, Macao, Taiwan e in roaming internazionale). Seleziona “OK” per acconsentire alla registrazione e usare il servizio. Seleziona "Annulla" per non procedere e rinunciare al servizio fornito da CMCC.</string>
     <string name="confirm_dlg_title">Gestione dispositivo</string>
-    <string name="confirm_dlg__msg">Avviso CMCC: il servizio gratuito pos-service di CMCC non sarà fornito se annulli la registrazione al servizio. Sei certo di annullare?</string>
+    <string name="confirm_dlg__msg">Avviso CMCC: il servizio gratuito post-vendita di CMCC non sarà fornito se annulli la registrazione al servizio. Sei certo di annullare?</string>
     <string name="alert_dlg_ok_button">OK</string>
     <string name="alert_dlg_cancel_button">Annulla</string>
     <string name="cloud_recommend_msg">Tocca per sincronizzare i messaggi con Mi Cloud.</string>
@@ -599,7 +599,7 @@
     <string name="mx_activate_status_desc_wait_for_sms_fail">Impossibile attivare Mi Message</string>
     <string name="mx_activate_status_desc_request_activation_sms_phone_error">Il numero inserito non è valido</string>
     <string name="mx_activate_status_desc_prepare_sending_sms">Invio messaggio attivazione…</string>
-    <string name="mx_activate_status_desc_check_net_connection">Imposibile collegarsi alla rete</string>
+    <string name="mx_activate_status_desc_check_net_connection">Impossibile collegarsi alla rete</string>
     <string name="voip_enable">Mi Message e Voce</string>
     <string name="voip_enable_popup_msg">"Chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Infomrativasull Privacy di Weihui."</string>
     <string name="voip_enable_popup_msg2">Informativa sulla Privacy</string>
@@ -618,8 +618,8 @@
     <string name="mx_b2c_message_server">Server</string>
     <string name="mx_filter_message_from_stranger">Blocca Mi Message da numeri sconosciuti</string>
     <string name="mx_filter_message_from_stranger_summary">Potrai ancora ricevere SMS normali da numeri sconosciuti</string>
-    <string name="mx_filter_message_from_stranger_dialog_title">Blocca Mi Message danumeri sconosciuti</string>
-    <string name="mx_filter_message_from_stranger_dialog_desc">Potrai ancora ricevere SMS normali da numeri sconosciuti. Puoi attivare e disattivare questa funzione in qualsaisi momento da Messaggi > Impostazioni."</string>
+    <string name="mx_filter_message_from_stranger_dialog_title">Blocca Mi Message da numeri sconosciuti</string>
+    <string name="mx_filter_message_from_stranger_dialog_desc">Potrai ancora ricevere SMS normali da numeri sconosciuti. Puoi attivare e disattivare questa funzione in qualsiasi momento da Messaggi > Impostazioni."</string>
     <string name="wild_msg_processing">Elaborazione...</string>
     <string name="wild_msg_title">Attiva sincronizzazione cloud</string>
     <string name="select_message_send_sim">Scegli SIM</string>
@@ -631,7 +631,7 @@
     <string name="title_recv_red_package">Ottieni Pacchetto Rosso</string>
     <string name="fake_cell_alert_hint">Sembra che questo messaggio sia stato inviato da un numero di telefono che diverso è diverso da quello visualizzato. Fai attenzione agli SMS che contengono richieste finanziarie.</string>
     <string name="fake_cell_safe_hint">Questo messaggio è sicuro</string>
-    <string name="fake_cell_checking_hint">Safety checking…</string>
+    <string name="fake_cell_checking_hint">Controllo di sicurezza…</string>
     <string name="fake_cell_timeout_hint">Controllo di sicurezza fallito</string>
     <string name="fake_cell_detection_entry">Rilevamento base fallito</string>
     <string name="delete_wild_sims">Elimina numeri</string>

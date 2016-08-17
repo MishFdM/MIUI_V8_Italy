@@ -311,7 +311,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="sc_allow_network_dialog_tiltle">Impossibile utilizzare questa funzione</string>
     <string name="sc_allow_network_dialog_message">Questa applicazione deve utilizzare la connessione internet per funzionare correttamente.</string>
     <string name="privacy_prompt_upload">Carica</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Questa funzione deve crittografare ed inviare il tuo IMEI, numero di telefono ed infomrazioni sul tuo operatore ai server Xiaomi per poter recuperare le statistiche del consumo dati dal tuo operatore.</string>
+    <string name="privacy_prompt_traffic_adjust_message">"Questa funzione deve crittografare ed inviare il tuo IMEI, numero di telefono ed informazioni sul tuo operatore ai server Xiaomi per poter recuperare le statistiche del consumo dati dal tuo operatore.</string>
     <string name="privacy_prompt_traffic_purchase_message">"Il tuo numero di telefono e le informazioni sul tuo operatore verranno crittografate e caricate sui server Xiaomi per avere maggiori informazioni sull'acquisto di traffico dati."</string>
     <string name="privacy_prompt_tc_sms_report_message">Il tuo numero di telefono e le informazioni sul tuo operatore verranno crittografate e caricate sui server Xiaomi per aggiornare le informazioni sul tuo utilizzo del traffico dati.</string>
     <string name="international_roaming_setting">Roaming estero</string>
@@ -792,7 +792,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="examination_score_100_with_recommend">%d elementi possono essere ottimizzati</string>
     <string name="examination_score_80_100">Alcune cose possono essere ottimizzate</string>
     <string name="examination_score_80_100_with_recommend">%d elementi possono essere ottimizzati</string>
-    <string name="examination_score_80_60">Parecchie cose possono essere ottimizzate</string>
+    <string name="examination_score_80_60">Molte cose possono essere ottimizzate</string>
     <string name="examination_score_60_0">Dovresti davvero ottimizzare il tuo dispositivo</string>
     <string name="examination_score_has_virus">Sono state rilevate alcune app sospette</string>
     <string name="descx_cleanuping_item">Ottimizzazione %s</string>
@@ -1385,7 +1385,7 @@ o inserisci la password"</string>
     <string name="optimize_result_button_cloudspace">Amplia spazio cloud</string>
     <string name="optimize_result_title_system_default_settings">Le impostazioni predefinite sono state modificate</string>
     <string name="optimize_result_summary_system_default_settings">"L'utilizzo di applicazioni di predefinite MIUI aumenta il livello di stabilità e sicurezza del sistema."</string>
-    <string name="optimize_result_toast_system_default_settings">Ripristina le impostazioni prefedefinite</string>
+    <string name="optimize_result_toast_system_default_settings">Ripristina le impostazioni predefinite</string>
     <string name="optimize_result_toast_system_no_item_selected">Nessun elemento selezionato</string>
     <string name="optimize_result_title_sucurity_risk">Trovati rischi di sicurezza</string>
     <string name="optimize_result_summary_sucurity_risk">Alcune funzionalità di sicurezza sono disattivate. Attiva queste funzionalità per rendere il tuo dispositivo più sicuro:</string>
