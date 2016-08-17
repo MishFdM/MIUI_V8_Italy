@@ -11,6 +11,6 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Sereno</item>
-        <item quantity="one">Soleggiato</item>
+        <item quantity="one">Sole</item>
     </plurals>
 </resources>

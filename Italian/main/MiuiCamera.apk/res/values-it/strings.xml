@@ -227,7 +227,7 @@
     <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
     <string name="toast_burst_snap_finished_start">Scatto multiplo terminato,</string>
     <string name="toast_burst_snap_finished_end">foto</string>
-    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Impossibile acquisire scatti multipli durante la registrazione audio</string>
+    <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Can't burst shoot while audio capture is on"</string>
     <string name="time_lapse_error">Dimensione video non valida per il Time-lapse.</string>
     <string name="pref_camera_movie_solid_title">Stabilizzazione video</string>
     <string name="simple_mode_button_text_hand_night">Disattiva Mod. Notte</string>
@@ -323,7 +323,7 @@
     <string name="ubi_focus_capture_fail">Impossibile scattare la foto</string>
     <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
     <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
-    <string name="pref_camera_auto_capture_when_stable_summary">"Per selezionare un oggetto, tocca due punti in diagonale lungo il suo bordo. Quando l'oggetto sarà stabile, la fotocamera scatterà automaticamente."</string>
+    <string name="pref_camera_auto_capture_when_stable_summary">To select an object, tap two diagonal points around its border. When the object is stationary, the camera will snap a shot automatically.</string>
     <string name="accessibility_panorama_review_cancel">Controllo annullamento panorama</string>
     <string name="simple_mode_button_text_manual">Disattiva Mod. Manuale</string>
     <string name="pref_qc_focus_position_title">Focus</string>
@@ -375,7 +375,7 @@
     <string name="pref_camera_snap_value_take_picture">Foto</string>
     <string name="pref_camera_snap_value_take_movie">Video</string>
     <string name="pref_camera_snap_value_off">Disattivato</string>
-    <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva.</string>
+    <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva.</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
     <string name="simple_mode_button_text_tilt_shift">Disattiva Tilt-shift</string>
     <string name="pref_camera_fisheye_title">Fish-eye</string>
@@ -396,7 +396,7 @@ L'oggetto non deve essere più lontano di 2 metri."</string>
     <string name="face_beauty_smart">Smart</string>
     <string name="face_beauty_advanced">Pro</string>
     <string name="face_beauty_close">Disattivato</string>
-    <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
+    <string name="pref_skin_beautify_intelligent_title">Intelligent</string>
     <string name="pref_skin_beautify_slim_title">Slim</string>
     <string name="pref_skin_beautify_eye_title">Occhi</string>
     <string name="pref_skin_beautify_smooth_title">Smooth</string>
@@ -408,5 +408,5 @@ L'oggetto non deve essere più lontano di 2 metri."</string>
     <string name="camera_mode_options">Modalità</string>
     <string name="button_front_camera_title">Selfie</string>
     <string name="button_normal_video_title">Video</string>
-    <string name="button_fisheye_camera_title">Fish-eye</string>
+    <string name="button_fisheye_camera_title">Fisheye</string>
 </resources>
