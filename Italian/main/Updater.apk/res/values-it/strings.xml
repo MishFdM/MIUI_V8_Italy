@@ -19,7 +19,7 @@
     <string name="get_auto">Ricevi mod. auto.</string>
     <string name="set_only_wifi">Cerca solo con Wi-Fi</string>
     <string name="test">Test</string>
-    <string name="miui_summary_has_new_version">" E' disponibile un aggiornamento  "</string>
+    <string name="miui_summary_has_new_version">" È disponibile un aggiornamento  "</string>
     <string name="miui_summary_slogan">"  Progettata per te  "</string>
     <string name="miui_summary_updating">"  Aggiornamento in corso…  "</string>
     <string name="miui_summary_now_version">"Versione attuale "</string>
@@ -254,7 +254,7 @@ Impossibile inviare il feedback"</string>
     <string name="root_dangerous_msg">"L'abilitazione dei permessi root è estremamente pericolosa e potrebbe esporre il tuo dispositivo ed i dati in esso contenuti, ad attacchi da parte di applicazioni dannose. Accetti di essere l'unico responsabile per eventuali danni al tuo dispositivo o perdite di dati derivanti dall'abilitazione dei permessi root."</string>
     <string name="updater_service_busy_title">Servizio di aggiornamento occupato</string>
     <string name="updater_service_busy_msg">Questa app utilizza il servizio di aggiornamento per ottenere i permessi di root dei file selezionati.</string>
-    <string name="pm_root_checking">Verifica informazioni di sistema...</string>
+    <string name="pm_root_checking">Verifica informazioni di sistema…</string>
     <string name="welcom_title">Benvenuto in MIUI 7</string>
     <string name="welcom_message">"Sei pronto per iniziare!"</string>
     <string name="welcom_button">OK</string>
