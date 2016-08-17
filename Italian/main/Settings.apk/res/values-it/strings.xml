@@ -4596,7 +4596,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="power_checker">Power Checker</string>
     <string name="app_invisible">App Invisible</string>
     <string name="uninstall_xspace_app_dlg_title">Disinstallare app clonata?</string>
-    <string name="uninstall_xspace_app_dlg_msg">Disinstallando l'app clonata verranno rimossi anche i dati.</string>
+    <string name="uninstall_xspace_app_dlg_msg">Disinstallando l\'app clonata verranno rimossi anche i dati.</string>
     <string name="uninstall_dlg_title">Disinstallare ora?</string>
     <string name="uninstall_dlg_msg">Disinstallando verranno rimossi anche i dati.</string>
     <string name="uninstall_with_xspace_app_dlg_msg">"L'app clonata e i suoi dati verranno rimossi."</string>
