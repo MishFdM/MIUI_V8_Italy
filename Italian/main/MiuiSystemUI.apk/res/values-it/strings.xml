@@ -155,7 +155,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="screen_pinning_negative">No grazie</string>
     <string name="accessibility_managed_profile">Profilo di lavoro</string>
     <string name="managed_profile_foreground_toast">Stai utilizzando il tuo profilo di lavoro</string>
-    <string name="status_bar_safepay_scanning">Rilevo ambiente di pagamento…</string>
+    <string name="status_bar_safepay_scanning">Analizzo ambiente di pagamento…</string>
     <string name="status_bar_safepay_safe">Ambiente sicuro.</string>
     <string name="status_bar_safepay_risk">Ambiente di pagamento a rischio!</string>
     <string name="status_bar_safepay_unknown">Sicurezza ambiente sconosciuta.</string>
