@@ -35,6 +35,7 @@
     <string name="activity_find_city_dialog_set">Impostazioni</string>
     <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
     <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
+    <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
     <string name="data_source_timezone">GMT %1$s</string>
     <string name="activity_main_time_format">E</string>
     <string name="hour_minute_time_format">HH:mm</string>
@@ -146,6 +147,7 @@ Tocca lo schermo per aggiungere manualmente o localizzare di nuovo"</string>
     <string name="activity_main_alert" />
     <string name="activity_alert_detail_title" />
     <string name="close">Chiudi</string>
+    <string name="hide_topic">Nascondi</string>
     <string name="install">Install</string>
     <string name="open">Apri</string>
     <string name="daily_forecast_detail_date">d/M</string>

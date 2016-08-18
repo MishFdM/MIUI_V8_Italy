@@ -271,6 +271,10 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="HIPS_Perm_read_notification_sms_Desc">Leggere Servizi SMS</string>
     <string name="HIPS_Perm_get_tasks">Recupera operazioni</string>
     <string name="HIPS_Perm_get_tasks_Desc">Recupera operazioni</string>
+    <string name="HIPS_Perm_show_when_locked">Mostra su lockscreen</string>
+    <string name="HIPS_Perm_show_when_locked_Desc">Verrà mostrata sulla lockscreen</string>
+    <string name="HIPS_Perm_background_start_activity">Avvia in background</string>
+    <string name="HIPS_Perm_background_start_activity_Desc">Verrà avviata in background</string>
     <string name="permission_group_title_charges_related">Costi</string>
     <string name="permission_group_title_privacy_related">Privacy</string>
     <string name="permission_group_title_media_related">Multimedia</string>
