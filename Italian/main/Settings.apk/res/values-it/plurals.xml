@@ -6,7 +6,7 @@
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%s app possono mostrare le notifiche</item>
-        <item quantity="one">"Un'app può mostare le notifiche"</item>
+        <item quantity="one">"Un'app può mostrare le notifiche"</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per diventare uno sviluppatore</item>
@@ -49,41 +49,41 @@
         <item quantity="one">%d app può leggere le notifiche</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">Change to alarms only for %1$d minutes (until %2$s)</item>
-        <item quantity="one">Change to alarms only for one minute until %2$s</item>
+        <item quantity="other">Modifica sveglie solo per %1$d minuti, fino alle %2$s</item>
+        <item quantity="one">Modifica sveglie solo per %2$s minuto, fino alle %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Change to alarms only for %1$d hours until %2$s</item>
-        <item quantity="one">Change to alarms only for one hour until %2$s</item>
+        <item quantity="other">Modifica sveglie solo per %1$d ore, fino alle %2$s</item>
+        <item quantity="one">Modifica sveglie solo per 1 ora, fino alle %2$s</item>
     </plurals>
     <plurals name="permissions_summary">
-        <item quantity="other">%d permissions granted</item>
-        <item quantity="one">%d permission granted</item>
+        <item quantity="other">%d permessi concessi</item>
+        <item quantity="one">%d permesso concesso</item>
     </plurals>
     <plurals name="runtime_permissions_summary">
-        <item quantity="other">%1$d of %2$d permissions granted</item>
-        <item quantity="one">%1$d of %2$d permission granted</item>
+        <item quantity="other">%1$d permessi concessi su %2$d</item>
+        <item quantity="one">%1$d permesso concesso su %2$d</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">%d additional permissions</item>
-        <item quantity="one">%d additional permission</item>
+        <item quantity="other">%d permessi aggiuntivi</item>
+        <item quantity="one">%d permesso aggiuntivo</item>
     </plurals>
     <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d apps can open their supported links</item>
-        <item quantity="zero">No app can open any supported link</item>
-        <item quantity="one">One app can open its supported links</item>
+        <item quantity="other">%d app possono aprire i link supportati</item>
+        <item quantity="zero">Nessuna app puà aprire i link suportati</item>
+        <item quantity="one">"Un'app può aprire i link supportati"</item>
     </plurals>
     <plurals name="high_power_count">
-        <item quantity="other">%d apps allowed to ignore battery optimization</item>
-        <item quantity="one">1 app allowed to ignore battery optimization</item>
+        <item quantity="other">"%d app può ignorare l'ottimizzazione della batteria"</item>
+        <item quantity="one">"1 app può ignorare l'ottimizzazione della batteria"</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d apps used memory in the last %2$s</item>
-        <item quantity="one">1 app used memory in the last %2$s</item>
+        <item quantity="other">%1$d app hanno utilizzato la memoria nelle ultime %2$s</item>
+        <item quantity="one">1 app ha utilizzato la memoria nelle ultime %2$s</item>
     </plurals>
     <plurals name="connected_devices_number">
-        <item quantity="other">%d devices</item>
-        <item quantity="one">%d device</item>
+        <item quantity="other">%d dispositivi</item>
+        <item quantity="one">%d dispositivo</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per visualizzare le info sul dispositivo</item>
@@ -98,11 +98,11 @@
         <item quantity="one">Ti manca %1$d tocco per avviare una segnalazione bug</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Always disable for %d apps</item>
-        <item quantity="one">Always disable for 1 app</item>
+        <item quantity="other">Disattiva sempre per %d app</item>
+        <item quantity="one">Disattiva sempre per 1 app</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Never disable for %d apps</item>
-        <item quantity="one">Never disable for 1 app</item>
+        <item quantity="other">Non disattivare mai per %d app</item>
+        <item quantity="one">Non disattivare mai per 1 app</item>
     </plurals>
 </resources>
