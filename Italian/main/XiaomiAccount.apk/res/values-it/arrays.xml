@@ -54,37 +54,37 @@
         <item>Famiglia</item>
         <item>Nome della nonna materna</item>
         <item>Nome del nonno materno</item>
-        <item>Nome del nonno paterno</item>
         <item>Nome della nonna paterna</item>
+        <item>Nome del nonno paterno</item>
         <item>Compleanno del padre</item>
-        <item>Compleannod ella madre</item>
+        <item>Compleanno della madre</item>
         <item>Quanti anni di differenza ci sono tra i tuoi genitori (anni e mesi)?</item>
     </string-array>
     <string-array name="question_no2">
-        <item>Alma mater</item>
+        <item>Formazione</item>
         <item>Come si chiamava il preside della tua scuola media?</item>
         <item>Come si chiamava il preside della tua scuola elementare?</item>
-        <item>"Il tuo numero di matricola dell'università"</item>
-        <item>"Qual'era il nome del tuo compagno di stanza dell'università?"</item>
-        <item>"Qual'era il nome del tuo supervisore all'università?"</item>
+        <item>"Qual era il numero di matricola dell'università?"</item>
+        <item>"Qual era il nome del tuo compagno di stanza dell'università?"</item>
+        <item>"Qual era il nome del tuo supervisore all'università?"</item>
     </string-array>
     <string-array name="question_no3">
         <item>Informazioni personali</item>
         <item>Come ti chiamano i tuoi genitori?</item>
-        <item>Gli ultimi due numeri del tuo passaporto</item>
+        <item>Quali sono gli ultimi due numeri del tuo passaporto?</item>
         <item>In quale ospedale sei nato?</item>
-        <item>Come si chiama il tuo miglire amico?</item>
+        <item>Come si chiama il tuo migliore amico?</item>
     </string-array>
     <string-array name="question_no4">
         <item>Prime volte</item>
         <item>Come si chiamava il tuo primo animale domestico?</item>
-        <item>Come si chiamava il/la tuo/a tuo/a primo/a ragazzo/a?</item>
-        <item>Il tuo primo datore di lavoro</item>
+        <item>Come si chiamava il tuo primo amore?</item>
+        <item>Come si chiamava il tuo primo datore di lavoro?</item>
     </string-array>
     <string-array name="question_no5">
         <item>Matrimonio</item>
         <item>Quando ti sei sposato?</item>
-        <item>Come si chiama il/la tuo/a sposo/a?</item>
-        <item>Quando è nato/a il/la tuo/a sposo/a?</item>
+        <item>Come si chiama tuo marito/tua moglie?</item>
+        <item>Quando è nato/a tuo marito/tua moglie?</item>
     </string-array>
 </resources>

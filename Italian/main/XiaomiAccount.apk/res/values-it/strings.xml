@@ -9,7 +9,7 @@
     <string name="passport_uplink_slot1_reg">Usa SIM 1</string>
     <string name="passport_uplink_slot2_reg">Usa SIM 2</string>
     <string name="passport_reg_using_other_phone"><u>Usa numero alternativo</u></string>
-    <string name="passport_reg_btn_using_other_phone">sa numero alternativo</string>
+    <string name="passport_reg_btn_using_other_phone">Usa numero alternativo</string>
     <string name="passport_downlink_reg">Crea account utilizzando il numero di telefono</string>
     <string name="passport_select_reg_ways_title">Altre modalità di accesso</string>
     <string name="passport_auto_generate_pwd">Genera password di sicurezza</string>
@@ -93,13 +93,13 @@ Per attivare il tuo account, segui il
     <string name="passport_confirm">Conferma</string>
     <string name="passport_login_notice">Accesso in corso…</string>
     <string name="passport_login_check_find_device">Verifica stato Trova Dispositivo…</string>
-    <string name="passport_login_check_find_device_failed_title">Impossibile verificare lo stato di Trova Telefono</string>
-    <string name="passport_login_find_device_bind">Questo dispositivo è associato ad un Mi Account esistente  ID (%s). Accedi per attivare il dispositivo.</string>
+    <string name="passport_login_check_find_device_failed_title">Impossibile verificare lo stato di Trova Dispositivo</string>
+    <string name="passport_login_find_device_bind">Questo dispositivo è associato ad un Mi Account esistente, ID (%s). Accedi per attivare il dispositivo.</string>
     <string name="passport_retry">Avanti</string>
     <string name="passport_back">Indietro</string>
-    <string name="passport_find_device_display_id">Sblocca numero:%s</string>
-    <string name="passport_miui_provision_find_status_text">Questo dispositivo è già associato ad un Mi Account （%1$s）, inserisci la password per verificare il dispositivo.
-(Sblocca numero:%2$s)</string>
+    <string name="passport_find_device_display_id">"Sblocca numero: %s"</string>
+    <string name="passport_miui_provision_find_status_text">"Questo dispositivo è già associato ad un Mi Account (%1$s), inserisci la password per verificare il dispositivo.
+(Sblocca numero: %2$s)"</string>
     <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_reging">Creazione account…</string>
@@ -167,14 +167,14 @@ Per attivare il tuo account, segui il
     <string name="passport_restart_register_prompt">Potrebbe essere necessario un altro messaggio di verifica per creare il tuo account.</string>
     <string name="passport_wait_for_sms_prompt">Iniziare daccapo adesso? Il messaggio di verifica potrebbe impiegare fino a 10 minuti per essere consegnato.</string>
     <string name="passport_imei_permission_denied_title">Richiesta permessi IMEI</string>
-    <string name="passport_imei_permission_denied_message">"Abbiamo richiesto i permessi per l'acquisizione del codice IMEI del tuo dispositivo. Mi Account utilizza l'IMEI per identificare il dispositivo a cui accedi o da cui esci, per aiutare a mantenere sicuro il tuo Mi Account."</string>
+    <string name="passport_imei_permission_denied_message">"Abbiamo richiesto i permessi per l'acquisizione del codice IMEI del tuo dispositivo. Mi Account utilizza l'IMEI per identificare il dispositivo a cui accedi o da cui esci per mantenere al sicuro il tuo Mi Account."</string>
     <string name="passport_registered_phone_user_ID">user ID:%s</string>
     <string name="passport_registered_phone_user_name">user Name:%s</string>
     <string name="app_name">Mi Account</string>
     <string name="account">Account</string>
     <string name="logout_failed">Impossibile uscire</string>
-    <string name="turning_off_find_device">Disattivazione Trova Telefono…</string>
-    <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova Telefono</string>
+    <string name="turning_off_find_device">Disattivazione Trova Dispositivo…</string>
+    <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova Dispositivo</string>
     <string name="no_response_retry">Nessuna risposta, riprova.</string>
     <string name="alert_title_remove_account">Rimuovere account?</string>
     <string name="remove_account_notice">Cosa vuoi fare di messaggi, contatti ed altri dati sincronizzati con il tuo Mi Account?</string>
@@ -182,7 +182,7 @@ Per attivare il tuo account, segui il
     <string name="data_wipe_from_device">Eliminali dal dispositivo</string>
     <string name="removing_account">Rimozione account…</string>
     <string name="wipe_data_dialog_title">Alcuni elementi non sono stati sincronizzati</string>
-    <string name="wipe_data_dialog_msg">%s verrà eliminato se prosegui.</string>
+    <string name="wipe_data_dialog_msg">%s verrà eliminato se continui.</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
@@ -232,7 +232,7 @@ Per attivare il tuo account, segui il
     <string name="account_user_other_info">Altre risorse</string>
     <string name="account_user_region">Regione</string>
     <string name="account_user_location">Località</string>
-    <string name="account_user_location_title">Seleziona la località attule</string>
+    <string name="account_user_location_title">Seleziona la località attuale</string>
     <string name="account_user_education">Educazione</string>
     <string name="account_user_income">Entrate</string>
     <string name="current_location_title">Località attuale</string>
@@ -332,7 +332,7 @@ Assicurati di ricordare le risposte."</string>
     <string name="other_devices">Altri dispositivi</string>
     <string name="remove_trust_notice">Rimuovi dai dispositivi sicuri ed esci</string>
     <string name="remove_trust_btn">Rimuovi dai dispositivi sicuri</string>
-    <string name="delete_device_notice">"Dopo la rimozione del dispositivo verrà automaticamente effettuata l'uscita dal Mi Account. Non potrai più utilizzare questo dispositivo per accedere alle foto, ai messaggi e agli altri contenuti memorizzati sul Mi Account."</string>
+    <string name="delete_device_notice">"Dopo la rimozione del dispositivo, verrà automaticamente effettuata l'uscita dal Mi Account. Non potrai più utilizzare questo dispositivo per accedere alle foto, ai messaggi e agli altri contenuti memorizzati sul Mi Account."</string>
     <string name="delete_device_btn">Rimuovi</string>
     <string name="phone_activated">%s attivato</string>
     <string name="phone_unactivated">Non attivato</string>
@@ -364,13 +364,13 @@ Assicurati di ricordare le risposte."</string>
     <string name="find_device_interrupted">"L'operazione è stata interrotta, riprova più tardi"</string>
     <string name="find_device_operation_failed_error">Si è verificato un errore</string>
     <string name="find_device_unknown_error">Impossibile recuperare lo stato, riprova più tardi</string>
-    <string name="find_device_error_password_recently_changed">Hai modificato al password negli ultimi 3 giorni. Impossibile disattivare Trova Telefono per motivi di sicurezza.</string>
-    <string name="find_device_error_password_not_confirmed">Impossibile disattivare Trova Telefono. Inserisci il tuo Mi Account</string>
+    <string name="find_device_error_password_recently_changed">Hai modificato la password negli ultimi 3 giorni. Impossibile disattivare Trova Dispositivo per motivi di sicurezza.</string>
+    <string name="find_device_error_password_not_confirmed">Impossibile disattivare Trova Dispositivo. Inserisci il tuo Mi Account.</string>
     <string name="find_device_operation_failed_error_unknown">Si è verificato un errore, riprova più tardi</string>
     <string name="find_device_remote_exception">Errore RPC</string>
     <string name="multi_user_not_show_sync_activity_title">Non attivare la sincronizzazione con Mi Cloud</string>
     <string name="multi_user_not_show_sync_activity_message_1">Sembra che tu stia utilizzando il tuo spazio Mi Account predefinito.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">In questo caso, tutti i dati verranno sincronizzati con il tuo spazio secondario. Per evitare questo non attivare la sincronizzazione con Mi Cloud</string>
+    <string name="multi_user_not_show_sync_activity_message_2">In questo caso, tutti i dati verranno sincronizzati con il tuo spazio secondario. Per evitare questo non attivare la sincronizzazione con Mi Cloud.</string>
     <string name="notify_network_restricted_title">Mi Account non è riuscito a connettersi alla rete</string>
     <string name="notify_network_restricted_content_hidden_state">"L'attività in background di Mi Account è limitata. Tocca per consentire."</string>
     <string name="notify_network_restricted_content_bg_network">"L'accesso ad internet di Mi Account è limitato. Tocca per consentire."</string>
