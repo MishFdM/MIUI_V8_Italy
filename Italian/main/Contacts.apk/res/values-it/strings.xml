@@ -20,10 +20,10 @@
     <string name="menu_bar_group_batch_copy">Copia nel gruppo</string>
     <string name="menu_bar_group_batch_remove">Elimina gruppo</string>
     <string name="group_remove_success_toast">Contatti spostati correttamente</string>
-    <string name="group_move_fail_toast">Impossibile spostare icontatti</string>
+    <string name="group_move_fail_toast">Impossibile spostare i contatti</string>
     <string name="group_copy_fail_toast">Impossibile copiare i contatti</string>
     <string name="callrecordview_menu_save_to_group">Salva il registro chiamate nel gruppo</string>
-    <string name="invalid_contacts_to_save_to_group">Impossibile salvare numeri socnosciuti</string>
+    <string name="invalid_contacts_to_save_to_group">Impossibile salvare numeri sconosciuti</string>
     <string name="invalid_contacts_excluded_to_save_to_group">Solo gli elementi con un contatto verranno salvati nel gruppo</string>
     <string name="pref_rcs_fetion_entry_title">Impostazioni Fetion</string>
     <string name="rcs_fetion_not_exist">Impossibile trovare il plugin Fetion</string>

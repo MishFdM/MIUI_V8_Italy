@@ -35,10 +35,6 @@
     <string name="activity_find_city_dialog_set">Impostazioni</string>
     <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
     <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
-    <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
-    <string name="data_source_timezone">GMT %1$s</string>
-    <string name="activity_main_time_format">E</string>
-    <string name="hour_minute_time_format">HH:mm</string>
     <string name="first_start_network_msg">Per ricevere le informazioni meteo devi connetterti ad internet.</string>
     <string name="first_start_network_title">Avviso di connessione</string>
     <string name="international_detail_menu_title">Dettagli</string>
