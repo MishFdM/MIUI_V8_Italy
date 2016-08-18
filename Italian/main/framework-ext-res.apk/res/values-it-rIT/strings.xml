@@ -49,8 +49,8 @@
     <string name="securespaces_extension_hidden_serviceName"/>
     <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
     <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
-    <string name="perm_send_push_dspt">Consenti messaggi Mi push</string>
-    <string name="perm_send_push_lab">Invia messaggio push</string>
+    <string name="perm_send_push_dspt">Consenti messaggi Mi Push</string>
+    <string name="perm_send_push_lab">Invia messaggio Push</string>
     <string name="select">Seleziona</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="cut">Taglia</string>
@@ -61,8 +61,8 @@
     <string name="add_frequent_phrases">Aggiungi frase</string>
     <string name="alwaysUsePrompt">Ricorda questa scelta</string>
     <string name="translation_query_error">Impossibile trovare risultati</string>
-    <string name="translation_query_error_network">Impossibile connettersi alla rete. Controlla le impostazioni e prova di nuovo</string>
-    <string name="auto_start_warning_title">"Vuoi consentire l'avvio automatico di %s in futuro?"</string>
+    <string name="translation_query_error_network">Impossibile connettersi alla rete. Controlla le impostazioni e riprova.</string>
+    <string name="auto_start_warning_title">"Consentire l'avvio automatico di %s in futuro?"</string>
     <string name="auto_start_warning_allow">Consenti</string>
     <string name="auto_start_warning_deny">Nega</string>
     <string name="call_record_sample_prefix_miui">Chiama</string>
@@ -110,13 +110,13 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="handy_mode_enter_dlg_msg">Attivare uso con una mano?</string>
     <string name="screenshot_gesture_detect_alert_title">Screenshot con tre dita</string>
     <string name="screenshot_gesture_detect_alert_msg">"Fai uno screenshot scorrendo dall'alto verso il basso"</string>
-    <string name="screenshot_gesture_detect_alert_button">Goto screenshot settings to enable</string>
-    <string name="screenshot_gesture_detect_alert_dont_again">Do not show again</string>
+    <string name="screenshot_gesture_detect_alert_button">Vai in Impostazioni > Screenshot per abilitarlo</string>
+    <string name="screenshot_gesture_detect_alert_dont_again">Non mostrare più</string>
     <string name="permlab_manageLocationPolicy">Gestisci autorizzazioni sulla posizione</string>
     <string name="permdesc_manageLocationPolicy">"Consenti all'applicazione di gestire le autorizzazioni sulla posizione e definisci regole specifiche per ogni app."</string>
     <string name="location_usage_restricted_title">Localizzazione in background limitata</string>
     <string name="location_usage_restricted_body">Tocca per rimuovere limitazioni.</string>
-    <string name="fc_dialog_body">"Inviare il bug report a Xiaomi per l'analisi? Questo rapporto potrebbe contenere informazioni di identificazione personale. Il tuo rapporto verrà utilizzato per aiutare la risoluzione di questo problema."</string>
+    <string name="fc_dialog_body">"Inviare il resoconto a Xiaomi per l'analisi? Questo rapporto potrebbe contenere informazioni di identificazione personali. Il tuo rapporto verrà utilizzato per aiutare la risoluzione di questo problema."</string>
     <string name="fc_dialog_jump_to_preview">Mostra il riassunto</string>
     <string name="livetalk_not_enable">Pacchetto ricarica disattivato</string>
     <string name="internal_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali</string>
@@ -130,7 +130,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="set_password_title">Imposta password</string>
     <string name="set_password_message">Impostare una nuova password?</string>
     <string name="apply_password_confirm_dlg_title">Questa password verrà utilizzata per %s</string>
-    <string name="apply_password_confirm_dlg_msg">Richiedere password per %s​?</string>
+    <string name="apply_password_confirm_dlg_msg">Richiedere password per %s?</string>
     <string name="apply_password_action">Imposta password</string>
     <string name="subinfo_default_name">SIM %d</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Posiziona il dito sul tasto Home</string>
@@ -149,15 +149,15 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Tasti a schermo attivati</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Tasti a schermo disattivati, tocca due volte un tasto per uscire</string>
     <string name="auto_disable_screenbuttons_prompts_title">Disattiva automaticamente i tasti a schermo</string>
-    <string name="auto_disable_screenbuttons_prompts_message">Tocca due volte un tasto per uscre dalla modalità di disattivazione e tornare alla funzione del tasto.</string>
+    <string name="auto_disable_screenbuttons_prompts_message">Tocca due volte un tasto per uscire dalla modalità di disattivazione e tornare alla funzione del tasto.</string>
     <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
     <string name="auto_disable_screenbuttons_prompts_not_show_again">Non mostrare più queste richieste</string>
     <string name="start_security_permission_verify_text">Verifica i permessi Mi Account</string>
     <string name="security_permission_denied_text">Accesso negato</string>
     <string name="security_permission_failed_text">Errore interno, riprova più tardi</string>
     <string name="security_permission_xiaomi_account_missed_text">"Inserisci l'ID del tuo Mi Account"</string>
-    <string name="security_permission_validate_warning">Grazie per aiutarci a rendere MIUI migliore!</string>
-    <string name="security_permission_wifi_and_data_opened_text">Wi-Fie rete dati attivati</string>
+    <string name="security_permission_validate_warning">Grazie per aver contribuito a rendere MIUI migliore!</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi e Rete dati attivati</string>
     <string name="xspace_resolver_activity_title">Seleziona app</string>
-    <string name="user_switching_dialog_text">Cambio...</string>
+    <string name="user_switching_dialog_text">Cambio…</string>
 </resources>

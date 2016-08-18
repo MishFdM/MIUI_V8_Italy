@@ -253,7 +253,7 @@
     <string name="reboot_to_update_reboot">Restarting…</string>
     <string name="reboot_to_reset_title">Factory data reset</string>
     <string name="reboot_to_reset_message">Restarting…</string>
-    <string name="shutdown_progress">Spegnimento...</string>
+    <string name="shutdown_progress">Spegnimento…</string>
     <string name="shutdown_confirm">Il telefono verrà spento.</string>
     <string name="shutdown_confirm_question">Spegnere?</string>
     <string name="reboot_safemode_title">Riavvia in modalità provvisoria</string>
@@ -640,7 +640,7 @@
     <string name="lockscreen_sim_puk_locked_message">La SIM è bloccata tramite PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">"Consulta la Guida dell'utente o contatta il servizio clienti."</string>
     <string name="lockscreen_sim_locked_message">La SIM è bloccata.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Sblocco SIM...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Sblocco SIM…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"%d tentativi errati di inserimento della sequenza di sblocco. 
 
 Riprova tra %d secondi."</string>
@@ -666,7 +666,7 @@ Riprova tra %d secondi."</string>
     <string name="lockscreen_glogin_invalid_input">Password o nome utente non valido.</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Hai dimenticato il nome utente o la password?
 Visita "<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Verifica...</string>
+    <string name="lockscreen_glogin_checking_password">Verifica…</string>
     <string name="lockscreen_unlock_label">Sblocca</string>
     <string name="lockscreen_sound_on_label">Audio attivato</string>
     <string name="lockscreen_sound_off_label">Audio disattivato</string>
@@ -836,7 +836,7 @@ Vuoi abbandonare la pagina?"</string>
     <string name="Midnight">Mezzanotte</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="replace">Sostituisci...</string>
+    <string name="replace">Sostituisci…</string>
     <string name="delete">Elimina</string>
     <string name="textSelectionCABTitle">Selezione testo</string>
     <string name="addToDictionary">Aggiungi al dizionario</string>
@@ -848,7 +848,7 @@ Vuoi abbandonare la pagina?"</string>
     <string name="low_internal_storage_view_text_no_boot">Memoria insufficiente per il sistema. Assicurati di avere 250 MB di spazio libero e riavvia.</string>
     <string name="app_running_notification_title">%1$s è in esecuzione</string>
     <string name="app_running_notification_text">"Tocca per ulteriori informazioni o per interrompere l'app."</string>
-    <string name="loading">Caricamento...</string>
+    <string name="loading">Caricamento…</string>
     <string name="capital_on">ON</string>
     <string name="capital_off">OFF</string>
     <string name="whichApplication">"Completa l'azione con"</string>
@@ -895,7 +895,7 @@ Vuoi chiuderla?"</string>
     <string name="screen_compat_mode_hint">Riattivala in Impostazioni di sistema > Applicazioni > Scaricate.</string>
     <string name="smv_application">"L'applicazione %1$s (processo %2$s) ha violato la norma StrictMode autoimposta."</string>
     <string name="smv_process">Il processo %1$s ha violato la norma StrictMode autoimposta.</string>
-    <string name="android_upgrading_title">Upgrade di Android...</string>
+    <string name="android_upgrading_title">Upgrade di Android…</string>
     <string name="android_start_title">Avvio di android…</string>
     <string name="android_upgrading_fstrim">Ottimizzazione memoria.</string>
     <string name="android_upgrading_apk">Ottimizzazione applicazione %1$d di %2$d.</string>
@@ -1121,7 +1121,7 @@ per l'account %s."</string>
     <string name="no_matches">Nessuna corrispondenza</string>
     <string name="find_on_page">Trova nella pagina</string>
     <string name="action_mode_done">Fine</string>
-    <string name="progress_erasing">"Cancellazione dell'archivio USB..."</string>
+    <string name="progress_erasing">"Cancellazione dell'archivio USB…"</string>
     <string name="share">Condividi</string>
     <string name="find">Trova</string>
     <string name="websearch">Ricerca Web</string>
@@ -1180,9 +1180,9 @@ per l'account %s."</string>
     <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="storage_internal">Memoria interna</string>
     <string name="storage_sd_card">Scheda SD</string>
-    <string name="storage_sd_card_label">%s SD card</string>
-    <string name="storage_usb_drive">USB drive</string>
-    <string name="storage_usb_drive_label">%s USB drive</string>
+    <string name="storage_sd_card_label">Scheda SD %s</string>
+    <string name="storage_usb_drive">Archivio USB</string>
+    <string name="storage_usb_drive_label">Archivio USB %s</string>
     <string name="storage_usb">Archivio USB</string>
     <string name="data_usage_warning_title">"Avviso sull'utilizzo dei dati"</string>
     <string name="data_usage_warning_body">Mostra utilizzo e impostazioni.</string>
@@ -1216,7 +1216,7 @@ per l'account %s."</string>
     <string name="activity_chooser_view_dialog_title_default">Scegli attività</string>
     <string name="share_action_provider_share_with">Condividi con</string>
     <string name="list_delimeter">", "</string>
-    <string name="sending">Invio...</string>
+    <string name="sending">Invio…</string>
     <string name="launchBrowserDefault">"Avviare l'applicazione Browser?"</string>
     <string name="SetupCallDefault">Accettare la chiamata?</string>
     <string name="activity_resolver_use_always">Sempre</string>
@@ -1235,8 +1235,8 @@ per l'account %s."</string>
     <string name="media_route_chooser_searching">Ricerca di dispositivi in corso…</string>
     <string name="media_route_chooser_extended_settings">Impostazioni</string>
     <string name="media_route_controller_disconnect">Disconnetti</string>
-    <string name="media_route_status_scanning">Ricerca in corso...</string>
-    <string name="media_route_status_connecting">Connessione...</string>
+    <string name="media_route_status_scanning">Ricerca in corso…</string>
+    <string name="media_route_status_connecting">Connessione…</string>
     <string name="media_route_status_available">Disponibile</string>
     <string name="media_route_status_not_available">Non disponibili</string>
     <string name="media_route_status_in_use">In uso</string>
@@ -1257,7 +1257,7 @@ per l'account %s."</string>
     <string name="kg_puk_enter_puk_hint">"La scheda SIM è disattivata. Inserisci il codice PUK per continuare. Contatta l'operatore per avere informazioni dettagliate."</string>
     <string name="kg_puk_enter_pin_hint">Inserisci il codice PIN desiderato</string>
     <string name="kg_enter_confirm_pin_hint">Conferma il codice PIN desiderato</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM...</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
     <string name="kg_password_wrong_pin_code">Codice PIN errato.</string>
     <string name="kg_invalid_sim_pin_hint">Il PIN deve essere di 4-8 numeri.</string>
     <string name="kg_invalid_sim_puk_hint">Il codice PUK deve essere di 8 cifre.</string>
