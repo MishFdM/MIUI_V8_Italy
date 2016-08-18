@@ -97,7 +97,7 @@
     <string name="mortgage_interest_rate">Tasso di interesse</string>
     <string name="mortgage_calculate">Calcola</string>
     <string name="mortgage_hint_loan">"Inserisci l'importo del mutuo"</string>
-    <string name="mortgage_hint_accumulation_fund">Inserisci l'importo</string>
+    <string name="mortgage_hint_accumulation_fund">Inserisci l\'importo</string>
     <string name="mortgage_hint_commercial">Inserisci il numero totale del finanziamento commerciale</string>
     <string name="mortgage_descript_commercial">Tasso di interesse attuale: commerciale %s</string>
     <string name="mortgage_descript_accumulation">Tasso di interesse attuale: cumulativo %s</string>
