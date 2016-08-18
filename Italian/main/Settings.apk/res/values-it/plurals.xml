@@ -75,7 +75,7 @@
     </plurals>
     <plurals name="high_power_count">
         <item quantity="other">"%d app può ignorare l'ottimizzazione della batteria"</item>
-        <item quantity="one">1 app può ignorare l'ottimizzazione della batteria</item>
+        <item quantity="one">"1 app può ignorare l'ottimizzazione della batteria"</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d app hanno utilizzato la memoria nelle ultime %2$s</item>

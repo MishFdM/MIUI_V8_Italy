@@ -3193,7 +3193,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="search_bluetooth_device_name">Nome dispositivo</string>
     <string name="search_tether">Hotspot</string>
     <string name="search_wifi_tether_checkbox">Hotspot portatile</string>
-    <string name="search_wifi_tether_configure_ap_text">Imposta l'hotspot portatile</string>
+    <string name="search_wifi_tether_configure_ap_text">"Imposta l'hotspot portatile"</string>
     <string name="search_wifi_more_settings">Altro;MOdalità aereo;VPN;Tethering; hotspot portatile;dispaly wireless;rete dati mobili internazionale;NFC;Android Beam;posizione elementi sicurezza</string>
     <string name="search_airplane">Modalità aereo</string>
     <string name="search_tether_settings_title_usb">Tethering USB</string>
@@ -3614,7 +3614,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="force_touch_enable_tips">"Tenendo premuta l'icona dell'App sul launcher verrà mostrato il menù del collegamento, quando il Touch 3D è attivato."</string>
     <string name="force_touch_demo">Demo</string>
     <string name="screenshot">Screenshot</string>
-    <string name="screenshot_three_gesture">Scorri tre dita dall'alto verso il basso per scattare uno screenshot</string>
+    <string name="screenshot_three_gesture">"Scorri tre dita dall'alto verso il basso per scattare uno screenshot"</string>
     <string name="avoid_ui">Evita UI</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
