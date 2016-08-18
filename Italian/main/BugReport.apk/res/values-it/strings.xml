@@ -173,6 +173,8 @@
     <string name="modem_tool_log_stop">Interrompi</string>
     <string name="modem_tool_log_start_toast">Inizia a copiare il log modem in %s</string>
     <string name="modem_tool_log_stop_toast">Interrompi la copia del log modem da %s"</string>
+    <string name="bugreport_dialog_not_show_again">Non mostrare più</string>
+    <string name="bugreport_dialog_submit_content">Il tuo feedback potrebbe contenere informazioni personali.</string>
     <string name="bugreport_dump_start_notification_title">Creazione bug report</string>
     <string name="bugreport_dump_start_notification_summary">Richiede circa un minuto.</string>
     <string name="bugreport_dump_complete_notification_title">Bug report creato</string>
@@ -193,6 +195,7 @@
     <string name="feedback_tracking">Segui le segnalazioni</string>
     <string name="feedback_status_more">Dettagli</string>
     <string name="feedback_submit_succ">Inviato correttamente</string>
+    <string name="feedback_submitting">Invio in corso…</string>
     <string name="feedback_submit_hint1">Ti notificheremo sui progressi del tuo report</string>
     <string name="feedback_submit_hint2">Vai in \"I miei report\" per vedere i dettagli</string>
     <string name="feedback_submit_succ_button">Fatto</string>

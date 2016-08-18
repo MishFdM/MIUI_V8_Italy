@@ -81,6 +81,7 @@
     <string name="resource_no_result">Nessun risultato</string>
     <string name="resource_failed_to_load_list">Impossibile caricare la lista</string>
     <string name="resource_search_list_empty">Non è stato trovato nulla</string>
+    <string name="resource_data_empty">Il contenuto è vuoto.</string>
     <string name="resource_no_network_text">"Impossibile collegarsi alla rete."</string>
     <string name="resource_network_diagnostics"><u>Diagnostica di Rete</u></string>
     <string name="resource_list_title">Ultime</string>
@@ -357,7 +358,6 @@
     <string name="gift_received_notification_title">%s ti ha regalato un tema.</string>
     <string name="present_online_themes">Online</string>
     <string name="present_local_themes">Scaricati</string>
-    <string name="choose_new_themes">Nuovi temi</string>
     <string name="lockscreen_magazine_title">Schermate di blocco giornaliere</string>
     <string name="lockscreen_magazine_summary">Ricevi ogni giorno degli sfondi direttamente sulla tua Schermata di blocco.</string>
     <string name="lockscreen_magazine_subscribe">%1$s follower</string>

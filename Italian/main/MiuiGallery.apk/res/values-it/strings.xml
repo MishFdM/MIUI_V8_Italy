@@ -721,6 +721,7 @@
     <string name="picker_download">Scarica</string>
     <string name="picker_cancel_download">Annulla download</string>
     <string name="picker_continue_download">Continua il download</string>
+    <string name="picker_no_network_message">Rete non dsiponibile, collegati alla rete e procedi con il download</string>
     <string name="picker_mobile_data_video">Impossibile scaricare video tramite rete dati mobile, %d operazioni fallite.</string>
     <string name="picker_download_progress_message">Download in corso, termine: %1$d/%2$d</string>
     <string name="operation_send">Invia</string>
@@ -773,9 +774,9 @@
     <string name="loading_image_thumbnail">Download anteprima…</string>
     <string name="loading_video_thumbnail">Download copertina video…</string>
     <string name="loading_gif_thumbnail">Download anteprima GIF…</string>
-    <string name="loading_gif">Download GIF…</string>
-    <string name="loading_video">Download video…</string>
-    <string name="loading_image">Download immagine…</string>
+    <string name="loading_gif">Scarica GIF…</string>
+    <string name="loading_video">Scarica video…</string>
+    <string name="loading_image">Scarica immagine…</string>
     <string name="click_download_gif">Tocca per scaricare GIF</string>
     <string name="gif_tip">GIF</string>
     <string name="loading_suspend">Download in pausa: riprenderà quando sarà disponibile una connessione Wi-Fi</string>
@@ -807,9 +808,12 @@
     <string name="loading_fail_sync_off_message">Impossibile caricare le foto, la sincronizzazione con Mi Cloud è disattivata.</string>
     <string name="turn_on_sync">Attiva sincronizzazione</string>
     <string name="download_canceled">Download annullato</string>
+    <string name="set_as_wallpaper_title">Imposta comesfondo</string>
+    <string name="set_as_wallpaper_description">"Questa immagine è un'anteprima, vuoi scaricare l'originale?"</string>
     <string name="must_pick_file">"Seleziona un'immagine"</string>
     <string name="send_multiple_files_hint_format">Invia file (%s)</string>
     <string name="send_too_many_files_error">Impossibile inviare tutti gli elementi (massimo %d elementi).</string>
+    <string name="share_app_is_launching">"L'applicazione si sta avviando"</string>
     <string name="title_warn">Attenzione</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
@@ -837,6 +841,7 @@
     <string name="add_to_album_exist">"Foto già esistente nell'album di destinazione"</string>
     <string name="add_to_album_bulk_result">%d fallito</string>
     <string name="adding_to_album">Inserimento foto…</string>
+    <string name="add_to_album_tip">Foto Cloud</string>
     <string name="delete">Elimina</string>
     <string name="delete_finish_format">%d eliminati</string>
     <string name="delete_in_process">Eliminazione</string>

@@ -32,9 +32,11 @@
     <string name="download_title_first">Ricezione informazioni di aggiornamento…</string>
     <string name="download_title_full_download">Ricezione informazioni pacchetto…</string>
     <string name="download_title">Download (%s)</string>
+    <string name="uncrypt_title">Decrittazione (%s)</string>
     <string name="apply_title">Aggiornamento (%s)</string>
     <string name="timer_title">Il dispositivo si riavvierà tra %d secondi.</string>
     <string name="progress_title_checking">Ricerca aggiornamenti…</string>
+    <string name="menu_more_button">Menu</string>
     <string name="menu_title_download_current_rom">Scarica pacchetto di aggiornamento</string>
     <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
     <string name="menu_title_recovery">Riavvia in Recovery</string>
@@ -68,6 +70,7 @@
     <string name="notification_reboot_seccess_des">Tocca per condividere.</string>
     <string name="notification_share">Condividi</string>
     <string name="notification_downloading">Download aggiornamento</string>
+    <string name="notification_uncrypting">Decrittazione aggiornamento</string>
     <string name="notification_updating">Aggiornamento…</string>
     <string name="set_network_title">Connessione alla rete</string>
     <string name="set_network_msg">Connettiti alla rete Wi-Fi prima di scaricare questo aggiornamento.</string>
@@ -150,6 +153,8 @@ http://zhushou.xiaomi.com"</string>
     <string name="my_rank">Aggiorna posizione:</string>
     <string name="no_log">Riepilogo non disponibile</string>
     <string name="notification_fail_msg">Tentativo di download ROM intera</string>
+    <string name="notification_uncrypt_title_hm">"Riavvia per applicare l'aggiornamento"</string>
+    <string name="notification_uncrypt_summary_hm">Tocca per riavviare il tuo dispositivo.</string>
     <string name="log_share">Condividi</string>
     <string name="notification_restart">Aggiorna di nuovo</string>
     <string name="autosetmode">Impostazioni aggiornamento</string>

@@ -2,13 +2,14 @@
 <resources>
 <!--This Italian translation is licensed under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
 
-    <string name="wifi_fail_to_scan">"Impossibile scansionare le reti</string>    <string name="wifi_security_none">None</string>
+    <string name="wifi_fail_to_scan">"Impossibile scansionare le reti</string>
+    <string name="wifi_security_none">Nessuna</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_remembered">Salvata</string>
     <string name="wifi_disabled_generic">Disattivata</string>
     <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
     <string name="wifi_disabled_wifi_failure">Errore connessione Wi-Fi</string>
-    <string name="wifi_disabled_password_failure">Problema di autentificazione</string>
+    <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
     <string name="wifi_not_in_range">Fuori portata</string>
     <string name="wifi_no_internet">Nessun accesso ad Internet, non si riconnetterà automaticamente.</string>
     <string name="saved_network">Salvato da %1$s</string>
@@ -27,8 +28,8 @@
     <string name="bluetooth_connected_no_headset_no_a2dp">Connesso (no telefono o media)</string>
     <string name="bluetooth_profile_a2dp">Audio media</string>
     <string name="bluetooth_profile_headset">Audio telefono</string>
-    <string name="bluetooth_profile_opp">Trasferiemnto file</string>
-    <string name="bluetooth_profile_hid">Dispositivo di immisione</string>
+    <string name="bluetooth_profile_opp">Trasferimento file</string>
+    <string name="bluetooth_profile_hid">Dispositivo di immissione</string>
     <string name="bluetooth_profile_pan">Accesso Internet</string>
     <string name="bluetooth_profile_pbap">Condivisione contatto</string>
     <string name="bluetooth_profile_pbap_summary">Usa per condivisione contatto</string>
@@ -51,15 +52,15 @@
     <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio media</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usa per audio telefono</string>
-    <string name="bluetooth_opp_profile_summary_use_for">Usa per trasferimetno file</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Usa per trasferimento file</string>
     <string name="bluetooth_hid_profile_summary_use_for">Usa per inserimento</string>
-    <string name="bluetooth_dun_profile_summary_use_for">Us aper accesso di rete Dial-up</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Usa per accesso di rete Dial-up</string>
     <string name="bluetooth_pairing_accept">Abbina</string>
     <string name="bluetooth_pairing_accept_all_caps">ABBINA</string>
     <string name="bluetooth_pairing_decline">Annulla</string>
     <string name="bluetooth_pairing_will_share_phonebook">"L'abbinamento garantisce l'accesso ai tuoi contatti e al registro chiamate quando connesso."</string>
     <string name="bluetooth_pairing_error_message">Impossibile abbinare con %1$s.</string>
-    <string name="bluetooth_pairing_pin_error_message">Impossibile abbinare con %1$s acausa di PIN o password sbagliati.</string>
+    <string name="bluetooth_pairing_pin_error_message">Impossibile abbinare con %1$s a causa di PIN o password sbagliati.</string>
     <string name="bluetooth_pairing_device_down_error_message">Impossibile comunicare con %1$s.</string>
     <string name="bluetooth_pairing_rejected_error_message">Abbinamento rifiutato da %1$s.</string>
     <string name="accessibility_wifi_off">Wi-Fi disattivato.</string>
@@ -347,6 +348,7 @@ scorri in basso per bloccare"</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
     <string name="accessibility_ime_switch_button">Cambia pulsante tastiera.</string>
     <string name="accessibility_assistant">Assistente touch</string>
+    <string name="status_bar_volte_label">HD</string>
     <string name="lland">Lollipop Land</string>
     <string name="mland">Marshmallow Land</string>
 </resources>

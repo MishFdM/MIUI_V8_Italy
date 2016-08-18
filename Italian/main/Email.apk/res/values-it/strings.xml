@@ -143,8 +143,9 @@
     <string name="actionbar_large_unread_count">%1$d+ non letto</string>
     <string name="activity_folder_selection">Seleziona una cartella</string>
     <string name="activity_mailbox_selection">Seleziona un account</string>
+    <string name="ad_merge">AD e Notice Organize</string>
     <string name="add_account">Aggiungi account</string>
-    <string name="add_account_keywords">Add account;add mail account</string>
+    <string name="add_account_keywords">Aggiungi account;aggiungi account mail</string>
     <string name="add_attachment">Allega</string>
     <string name="add_calendar">Promemoria</string>
     <string name="add_label">Aggiungi cartella</string>
@@ -197,7 +198,7 @@
     <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
     <string name="auto_sync_off">Sincron. automatica disattivata.</string>
     <string name="battery_saver">Risparmio batteria</string>
-    <string name="battery_saver_keywords">battery saver;mail battery</string>
+    <string name="battery_saver_keywords">risparmio batteria;batteria email</string>
     <string name="bcc">Ccn</string>
     <string name="bcc_heading">"Ccn: "</string>
     <string name="blank_feedback_toast">Il feedback è vuoto, inserisci un feedback.</string>
@@ -222,8 +223,6 @@
     <string name="changepw_dialog_tips">Inserire di nuovo la password di \"%s\"</string>
     <string name="chat_item_msg_people_unit">persone</string>
     <string name="chat_item_msg_user_etc">…</string>
-    <string name="chat_view_description">Unisci la lista per visualizzare le conversazioni</string>
-    <string name="chat_view_title">Mostra conversazione</string>
     <string name="check_setup_data">Validazione impostazioni server…</string>
     <string name="choosertitle_sharevia">Condividi tramite</string>
     <string name="clear">Cancella</string>
@@ -391,7 +390,7 @@
     <string name="file_not_found">File non trovato sul server di posta!</string>
     <string name="file_not_found_redownload">Impossibile trovare il file</string>
     <string name="file_rar_not_support">File .rar protetti non supportati!</string>
-    <string name="filtered_tag">[%1$s]%2$s</string>
+    <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="folder_drafts_name_cn0">草稿</string>
     <string name="folder_drafts_name_cn1">草稿箱</string>
     <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -742,6 +741,7 @@
     <string name="quick_reply_hint">Rispondi a tutte le %1$d persone</string>
     <string name="quick_reply_hint_bcc">(In Ccn)</string>
     <string name="quick_reply_hint_cc">(In Cc)</string>
+    <string name="quick_reply_hint_reply_only_from">Risposta rapida (solo mittente)</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
     <string name="quote_divider_1">-------- Messaggio originale --------</string>
     <string name="quote_divider_11">----- Originale -----</string>
@@ -825,6 +825,11 @@
     <string name="sent_folder_selection_title">Selez. cartella Posta inviata server %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Impossibile validare il certificato del server
 \u0009 (Controlla se è impostato 'Orario di sincronizzazione automatica')"</string>
+    <string name="ser_resp_err_map_landing_more_failure">Troppi tentativi di accesso falliti</string>
+    <string name="ser_resp_err_map_landing_too_frequently">Troppi tentativi di accesso</string>
+    <string name="ser_resp_err_map_mailbox_locked">"L?account email è protetto da password"</string>
+    <string name="ser_resp_err_map_mailbox_not_open">Nessun account email</string>
+    <string name="ser_resp_err_map_max_connections">Troppi tentativi di connessione</string>
     <string name="ser_resp_err_map_nouser">Nessun utente</string>
     <string name="ser_resp_err_map_or">Oppure</string>
     <string name="ser_resp_err_map_pserr">Nome utente o password non corre</string>
@@ -878,7 +883,6 @@
     <string name="tablet">tablet</string>
     <string name="tap_to_configure">Tocca per configurare</string>
     <string name="tap_to_enable_sync">Tocca per attivare.</string>
-    <string name="tip_cannot_switchview_in_unread_folder">Impossibile cambiare visualizzazione in modalità aggregamento</string>
     <string name="to">A</string>
     <string name="to_heading">"A: "</string>
     <string name="toast_bar_fail_synchronization">Impossibile collegarsi alla rete</string>
@@ -889,6 +893,7 @@
     <string name="too_large_to_attach_additional">File non allegato. Limite di %1$s raggiunto.</string>
     <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite di %1$s.</string>
     <string name="too_large_to_attach_single">Impossibile allegare un file superiore a %1$s.</string>
+    <string name="topic_merge">Unisci temi</string>
     <string name="trash_folder_selection_title">Selez. cartella Cestino server per %s</string>
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>
@@ -923,6 +928,7 @@
     <string name="wait_for_manual_sync_body">"Questo account non è impostato per la sincronizzazione automatica.
 Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modifica impostazioni di sincronizzazione</b> per impostare questo account per la sincronizzazione automatica.</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
+    <string name="wait_help_context">Attendi</string>
     <string name="widget_all_mail">Aggiungi Mail</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altro</string>
