@@ -269,7 +269,7 @@ Dimensione aggiornamento delta: %2$s"</string>
  ed il trasferimento sia attivato"</string>
     <string name="trans_my_device">Il mio dispositivo</string>
     <string name="trans_sender_searching">In cerca di nuovi dispositivi</string>
-    <string name="trans_sender_searching_ensurance">"Accertati che il nuovo dispositivo sia acceso. 
+    <string name="trans_sender_searching_ensurance">"Assicurati che il nuovo dispositivo sia acceso. 
 In attesa che il vecchio dispositivo si colleghi…"</string>
     <string name="trans_select_device_send">Seleziona il dispositivo su cui trasferire i dati.</string>
     <string name="trans_sender_connectting">Conferma sul nuovo dispositivo</string>
@@ -277,10 +277,10 @@ In attesa che il vecchio dispositivo si colleghi…"</string>
     <string name="trans_backingup">Backup in corso…</string>
     <string name="trans_backingup_no_items">Sincronizzazione…</string>
     <string name="trans_restoring">Ripristino…</string>
-    <string name="trans_sender_time_remained">"%s rimanenti. Mantieni il dispositivo carico.
+    <string name="trans_sender_time_remained">"%s rimanenti. Mantieni il dispositivo in carica.
 Non disattivare la connessione Wi-Fi. Mantieni i dispositivi vicini."</string>
-    <string name="trans_receiver_time_remained">"%s rimanenti. Kantieni il dispositivo carico.
-Non disattivare l'Hot Spot. Mantieni i dispositivi vicini."</string>
+    <string name="trans_receiver_time_remained">"%s rimanenti. Mantieni il dispositivo in carica.
+Non disattivare l'Hotspot. Mantieni i dispositivi vicini."</string>
     <string name="trans_time_spent">"
 Tempo impiegato: %s"</string>
     <string name="trans_restoring_no_items">Elementi in sincronizzazione</string>
@@ -328,11 +328,11 @@ I file già esistenti sul nuovo dispositivo verranno sovrascritti"</string>
     <string name="trans_select_data_no_space">"%s disponibili sul nuovo dispositivo
 Seleziona di nuovo i file per liberare spazio"</string>
     <string name="trans_calculating_base_size">Calcolo dimensione base app</string>
-    <string name="trans_calculating">Calcolo in corso...</string>
+    <string name="trans_calculating">Calcolo in corso…</string>
     <string name="trans_native_no_space">"Questo dispositivo non ha spazio sufficiente
 Si prega di liberare almeno %s"</string>
     <string name="trans_calculating_app_sd_size">Calcolo dimensione dati da inviare, %s scansionati</string>
-    <string name="trans_please_waiting">Attendere prego...</string>
+    <string name="trans_please_waiting">Attendi…</string>
     <string name="size_byte">B</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -341,7 +341,7 @@ Si prega di liberare almeno %s"</string>
     <string name="trans_connect_failed_message">"Connessione fallita, riprova o riavvia. E sull'altro dispositivo, vai in Impostazioni > Impostazioni aggiuntive > Mi Mover, tocca [I'm a sender] o lancia di nuovo Mi Mover dopo il riavvio"</string>
     <string name="trans_retry">Riprova</string>
     <string name="trans_start_failed_title">Avvio fallito</string>
-    <string name="trans_start_failed_message">Avvio fallito, prova di nuovo o ritenta dopo un riavvio</string>
+    <string name="trans_start_failed_message">Avvio fallito, riprova ora o dopo un riavvio</string>
     <string name="trans_connection_failed">Dispositivo disconnesso</string>
     <string name="user_notice_title">Notifiche utente</string>
     <string name="user_notice_message">Alcune funzioni richiedono una connessione internet per funzionare correttamente.</string>
