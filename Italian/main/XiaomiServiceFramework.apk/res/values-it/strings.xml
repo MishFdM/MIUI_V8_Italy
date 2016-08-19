@@ -9,7 +9,7 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="sync_notification_title_format">Elemento in sincronizzazione: %1$s</string>
     <string name="explain_send_sms_permission_title">Verifica il tuo numero di telefono</string>
-    <string name="explain_send_sms_permission_msg">"Attiva %s, Xiaomi Service Framework invierà un SMS per verificar eil numero di telefono. Pagheri l'SMS in base al tuo piano tariffario."</string>
+    <string name="explain_send_sms_permission_msg">"Attiva %s, Xiaomi Service Framework invierà un SMS per verificare il numero di telefono. È previsto un addebito per l'SMS in base al tuo piano tariffario."</string>
     <string name="explain_send_sms_permission_button">Verifica</string>
     <string name="activate_phone_failed_notif_title">Impossibile attivare SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Impossibile avviare Mi Cloud per la SIM %s</string>
@@ -91,7 +91,7 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
 Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">Riprova</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">Impossibile trovare il numero</string>
-    <string name="activate_popup_desc_all_gateway_failed_query_info">Non è possibile trovare il tuo numero. Accertati che la SIM sia stata attivata.
+    <string name="activate_popup_desc_all_gateway_failed_query_info">Non è possibile trovare il tuo numero. Assicurati che la SIM sia stata attivata.
 Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">Riprova</string>
     <string name="activate_popup_title_error_device_id">IMEI non valido</string>
