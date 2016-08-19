@@ -332,7 +332,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="dialog_app_roaming_title">Roaming estero non è attivo per %1$s</string>
     <string name="dialog_app_roaming_message">"%1$s non può usare la connessione dati durante il roaming. Quando usi il roaming all'estero, solo le app che hai aggiunto alle eccezioni potranno usare la connessione dati."</string>
     <string name="add_miservice_dialog_title">MIUI service framework</string>
-    <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di MIUI services framework alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
+    <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di \"MIUI services framework\" alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Limite dati giornaliero</string>
     <string name="pref_roaming_daily_limit_setting">Imposta limite dati giornaliero quando sei in roaming</string>
     <string name="dialog_roaming_apps_sorted_title">Ordina per</string>
@@ -415,8 +415,8 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="load_fail">"Impossibile caricare"</string>
     <string name="notify_weekly_traffic_title">Usati %s questa settimana</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s usati %2$s questa settimana</string>
-    <string name="notify_weekly_traffic_body">Per limitare l\'uso dei dati automaticamente imposta il tuo piano dati mensile.</string>
-    <string name="notify_daily_data_usage_body">Per limitare l\'uso dei dati automaticamente imposta il tuo piano dati mensile.</string>
+    <string name="notify_weekly_traffic_body">"Per limitare l'uso dei dati automaticamente imposta il tuo piano dati mensile."</string>
+    <string name="notify_daily_data_usage_body">"Per limitare l'uso dei dati automaticamente imposta il tuo piano dati mensile."</string>
     <string name="notify_month_traffic_title">Usati %s questo mese</string>
     <string name="notify_month_traffic_title_for_slotnum">%1$s usati %2$s questo mese</string>
     <string name="notify_month_traffic_body">Imposta un limite di uso dati per evitare di sforare il tuo piano dati mensile.</string>
@@ -433,8 +433,8 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="network_connected_exception_title">Testa la rete</string>
     <string name="protocol_exception_title">Diagnostica protocolli di rete</string>
     <string name="protocol_loop_back_exception_summary">Test local loop back fallito. Per riportare questo problema a MIUI, vai nella app di segnalazione ed invia un log dal tuo dispositivo.</string>
-    <string name="ip_address_exception_summary">"Impossibile ottenere l\'indirizzo IP. Se questo succede di nuovo considera l\'uso di un indirizzo IP statico."</string>
-    <string name="local_ip_exception_summary">"Impossibile ottenere l\'indirizzo IP. Se questo succede di nuovo considera l\'uso di un indirizzo IP statico."</string>
+    <string name="ip_address_exception_summary">"Impossibile ottenere l'indirizzo IP. Se questo succede di nuovo considera l'uso di un indirizzo IP statico."</string>
+    <string name="local_ip_exception_summary">"Impossibile ottenere l'indirizzo IP. Se questo succede di nuovo considera l'uso di un indirizzo IP statico."</string>
     <string name="renew_ip">Riprova</string>
     <string name="network_permission_exception_tips">"Impossibile usare la connessione dati per connettersi alla rete"</string>
     <string name="open_now">Consenti alle app di usare la connessione dati</string>
