@@ -128,14 +128,14 @@
     <string name="serviceErased">Eliminazione effettuata.</string>
     <string name="passwordIncorrect">Password errata.</string>
     <string name="mmiComplete">MMI completo.</string>
-    <string name="badPin">Il vecchio PIN digitato è errato.</string>
+    <string name="badPin">Il PIN digitato è errato.</string>
     <string name="badPuk">Il PUK digitato è errato.</string>
     <string name="mismatchPin">I PIN inseriti non corrispondono.</string>
     <string name="invalidPin">Il PIN deve essere di 4-8 numeri.</string>
     <string name="invalidPuk">Digita un PUK formato da almeno 8 numeri.</string>
     <string name="needPuk">La SIM è bloccata tramite PUK. Digita il codice PUK per sbloccarla.</string>
     <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
-    <string name="enablePin">Operazione non riuscita; attiva blocco SIM/RUIM.</string>
+    <string name="enablePin">Operazione non riuscita. Attiva blocco SIM/RUIM.</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
     <string name="ClipMmi">ID chiamante in entrata</string>
@@ -150,7 +150,7 @@
     <string name="CnipMmi">Numero chiamante presente</string>
     <string name="CnirMmi">Numero chiamante con restrizioni</string>
     <string name="ThreeWCMmi">Chiamata a tre</string>
-    <string name="RuacMmi">Rifiuto di chiamate fastidiose non desiderate</string>
+    <string name="RuacMmi">Rifiuto di chiamate indesiderate</string>
     <string name="CndMmi">Recapito numero chiamante</string>
     <string name="DndMmi">Non disturbare</string>
     <string name="CLIRDefaultOnNextCallOn">ID chiamante generalmente limitato. Prossima chiamata: limitato</string>
@@ -158,7 +158,7 @@
     <string name="CLIRDefaultOffNextCallOn">ID chiamante generalmente non limitato. Prossima chiamata: limitato</string>
     <string name="CLIRDefaultOffNextCallOff">ID chiamante generalmente non limitato. Prossima chiamata: non limitato</string>
     <string name="serviceNotProvisioned">Servizio non fornito.</string>
-    <string name="CLIRPermanent">"Non è possibile modificare l'impostazione ID chiamante."</string>
+    <string name="CLIRPermanent">"Impossibile modificare l'impostazione dell'ID del chiamante."</string>
     <string name="RestrictedChangedTitle">Accesso limitato modificato</string>
     <string name="RestrictedOnData">Il servizio dati è bloccato.</string>
     <string name="RestrictedOnEmergency">Il servizio di emergenza è bloccato.</string>
@@ -218,15 +218,15 @@
     <string name="httpErrorIO">Comunicazione con il server non riuscita. Riprova più tardi.</string>
     <string name="httpErrorTimeout">Tempo esaurito per la connessione al server.</string>
     <string name="httpErrorRedirectLoop">La pagina contiene troppi reindirizzamenti sul server.</string>
-    <string name="httpErrorFailedSslHandshake">Impossibile stabilire una connessione sicura.</string>
-    <string name="httpErrorFile">Accesso al file non riuscito.</string>
+    <string name="httpErrorFailedSslHandshake">Impossibile stabilire una connessione protetta.</string>
+    <string name="httpErrorFile">Impossibile accedere al file.</string>
     <string name="httpErrorFileNotFound">Impossibile trovare il file richiesto.</string>
     <string name="httpErrorTooManyRequests">Troppe richieste in fase di elaborazione. Riprova più tardi.</string>
-    <string name="notification_title">Errore di accesso relativo a %1$s</string>
+    <string name="notification_title">Errore di accesso per %1$s</string>
     <string name="contentServiceSync">Sinc</string>
     <string name="contentServiceSyncNotificationTitle">Sincronizzazione</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Troppe eliminazioni di %s.</string>
-    <string name="low_memory">Spazio di archiviazione del telefono esaurito. Elimina alcuni file per liberare spazio.</string>
+    <string name="low_memory">Spazio di archiviazione del dispositivo esaurito. Elimina alcuni file per liberare spazio.</string>
     <string name="ssl_ca_cert_warning">La rete potrebbe essere monitorata</string>
     <string name="ssl_ca_cert_noti_by_unknown">Da una terza parte sconosciuta</string>
     <string name="ssl_ca_cert_noti_by_administrator">"Dall'amministratore del profilo di lavoro"</string>
@@ -244,9 +244,9 @@
     <string name="turn_off_radio">Disattiva wireless</string>
     <string name="screen_lock">Blocco schermo</string>
     <string name="power_off">Spegni</string>
-    <string name="silent_mode_silent">Suoneria disattivata</string>
-    <string name="silent_mode_vibrate">Suoneria vibrazione</string>
-    <string name="silent_mode_ring">Suoneria attiva</string>
+    <string name="silent_mode_silent">Silenzioso</string>
+    <string name="silent_mode_vibrate">Vibrazione</string>
+    <string name="silent_mode_ring">Suoneria</string>
     <string name="reboot_to_update_title">Aggiornamento di sistema</string>
     <string name="reboot_to_update_prepare">"Preparo l'aggiornamento…"</string>
     <string name="reboot_to_update_package">Elaboro il pacchetto di aggiornamento…</string>
@@ -254,14 +254,14 @@
     <string name="reboot_to_reset_title">Ripristino impostazioni di fabbrica</string>
     <string name="reboot_to_reset_message">Riavvio…</string>
     <string name="shutdown_progress">Spegnimento…</string>
-    <string name="shutdown_confirm">Il telefono verrà spento.</string>
+    <string name="shutdown_confirm">Il dispositivo verrà spento.</string>
     <string name="shutdown_confirm_question">Spegnere?</string>
     <string name="reboot_safemode_title">Riavvia in modalità provvisoria</string>
     <string name="reboot_safemode_confirm">Riavviare in modalità provvisoria? Ciò comporterà la disattivazione di tutte le applicazioni di terze parti installate. Verranno ripristinate al prossimo riavvio.</string>
     <string name="reboot_title">Riavvio</string>
-    <string name="reboot_confirm">Il tuo telefono verrà riavviato.</string>
+    <string name="reboot_confirm">Il tuo dispositivo verrà riavviato.</string>
     <string name="recent_tasks_title">Recenti</string>
-    <string name="no_recent_tasks">Nessuna applicazione recente.</string>
+    <string name="no_recent_tasks">Nessuna applicazione in esecuzione.</string>
     <string name="global_actions">Opzioni telefono</string>
     <string name="global_action_lock">Blocco schermo</string>
     <string name="global_action_power_off">Spegni</string>
@@ -863,7 +863,7 @@ Vuoi abbandonare la pagina?"</string>
     <string name="whichHomeApplicationNamed">Utilizza %1$s come Home</string>
     <string name="alwaysUse">Usa come predefinita per questa azione.</string>
     <string name="use_a_different_app">"Utilizza un'app diversa"</string>
-    <string name="clearDefaultHintMsg">"Cancella l'applicazione predefinita in Impostazioni di sistema > Applicazioni > Scaricate."</string>
+    <string name="clearDefaultHintMsg">"Modifica l'applicazione predefinita in Impostazioni di sistema > Applicazioni > Scaricate."</string>
     <string name="chooseActivity">"Scegli un'azione"</string>
     <string name="chooseUsbActivity">"Scegli un'applicazione per il dispositivo USB"</string>
     <string name="noApplications">Nessuna applicazione è in grado di eseguire questa azione.</string>
@@ -958,7 +958,7 @@ Vuoi chiuderla?"</string>
     <string name="wifi_p2p_to_message">A:</string>
     <string name="wifi_p2p_enter_pin_message">Inserisci il PIN richiesto:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Il telefono verrà momentaneamente scollegato dalla rete Wi-Fi durante il collegamento a %1$s.</string>
+    <string name="wifi_p2p_frequency_conflict_message">Il dispositivo verrà momentaneamente scollegato dalla rete Wi-Fi durante il collegamento a %1$s.</string>
     <string name="select_character">Inserisci carattere</string>
     <string name="sms_control_title">Invio SMS</string>
     <string name="sms_control_message">"&lt;b>%1$s&lt;/b> sta inviando molti SMS. Vuoi consentire all'applicazione di continuare a inviare messaggi?"</string>
@@ -1170,7 +1170,7 @@ per l'account %s."</string>
     <string name="shareactionprovider_share_with">Condividi con</string>
     <string name="shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="content_description_sliding_handle">Maniglia scorrevole. Tocca e tieni premuto.</string>
-    <string name="description_target_unlock_tablet">Fai scorrere per sbloccare.</string>
+    <string name="description_target_unlock_tablet">Scorri per sbloccare.</string>
     <string name="keyboard_headset_required_to_hear_password">Collega gli auricolari per ascoltare la pronuncia dei tasti premuti per la password.</string>
     <string name="keyboard_password_character_no_headset">Punto.</string>
     <string name="action_bar_home_description">Vai alla home page</string>
@@ -1223,8 +1223,8 @@ per l'account %s."</string>
     <string name="activity_resolver_use_once">Solo una volta</string>
     <string name="activity_resolver_work_profiles_support">%1$s non supporta il profilo di lavoro</string>
     <string name="default_audio_route_name">Telefono</string>
-    <string name="default_audio_route_name_headphones">Cuffie audio</string>
-    <string name="default_audio_route_name_dock_speakers">Altoparlanti dock</string>
+    <string name="default_audio_route_name_headphones">Cuffie</string>
+    <string name="default_audio_route_name_dock_speakers">Dock altoparlanti</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_category_name">Sistema</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
@@ -1462,7 +1462,7 @@ La funzione di risparmio energetico viene disattivata automaticamente quando il 
     <string name="China_Unicom">China Unicom</string>
     <string name="China_Telecom">China Telecom</string>
     <string name="usb_cd_installer_notification_title">Collegato come installer</string>
-    <string name="permission">Permission</string>
+    <string name="permission">Permessi</string>
     <string name="lock_to_app_description">"Il blocco su schermo blocca il display in un'unica visualizzazione.
 
 Per sbloccare, tocca e tieni premute contemporaneamente le opzioni Indietro e Panoramica."</string>
