@@ -516,7 +516,7 @@
     <string name="policylab_forceLock">Blocco dello schermo</string>
     <string name="policydesc_forceLock">Controlla come e quando si blocca lo schermo.</string>
     <string name="policylab_wipeData">Cancellazione di tutti i dati</string>
-    <string name="policydesc_wipeData">Cancella i dati del telefono senza preavviso eseguendo un ripristino dati di fabbrica.</string>
+    <string name="policydesc_wipeData">Cancella i dati del dispositivo senza preavviso eseguendo un ripristino dati di fabbrica.</string>
     <string name="policylab_wipeData_secondaryUser">"Resetta i dati dell'utente"</string>
     <string name="policydesc_wipeData_secondaryUser">"Resetta i dati dell'utente sul telefono senza preavviso."</string>
     <string name="policylab_setGlobalProxy">Imposta il proxy globale del dispositivo</string>

@@ -162,9 +162,9 @@
     <string name="shutdown_progress">Spegnimento…</string>
     <string name="reboot_progress">Riavvio…</string>
     <string name="shutdown_confirm">Il dispositivo verrà spento.</string>
-    <string name="shutdown_confirm_question">Continuare?</string>
-    <string name="reboot_safemode_title">Riavvia in safe mode</string>
-    <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
+    <string name="shutdown_confirm_question">Spegnere?</string>
+    <string name="reboot_safemode_title">Riavvia in modalità provvisoria</string>
+    <string name="reboot_safemode_confirm">Riavviare in modalità provvisoria? Ciò comporterà la disattivazione di tutte le applicazioni di terze parti installate. Verranno ripristinate al prossimo riavvio.</string>
     <string name="reboot_confirm">Il tuo dispositivo verrà riavviato.</string>
     <string name="recent_tasks_title">Recenti</string>
     <string name="no_recent_tasks">Nessuna applicazione in esecuzione.</string>
@@ -693,12 +693,12 @@
     <string name="policydesc_limitPassword">Controlla la lunghezza e i caratteri ammessi nelle password di sblocco dello schermo.</string>
     <string name="policylab_watchLogin">controllo tentativi di sblocco dello schermo</string>
     <string name="policydesc_watchLogin">Monitora il numero di password errate digitate durante lo sblocco dello schermo e blocca il telefono o cancella tutti i dati del telefono se vengono digitate troppe password errate.</string>
-    <string name="policylab_resetPassword">Cambia la password di sblocco dello schermo</string>
+    <string name="policylab_resetPassword">Modifica blocco schermo</string>
     <string name="policydesc_resetPassword">Modifica il blocco schermo.</string>
     <string name="policylab_forceLock">Blocco dello schermo</string>
     <string name="policydesc_forceLock">Controlla come e quando si blocca lo schermo.</string>
     <string name="policylab_wipeData">Cancellazione di tutti i dati</string>
-    <string name="policydesc_wipeData">Cancella i dati del telefono senza preavviso eseguendo un ripristino dati di fabbrica.</string>
+    <string name="policydesc_wipeData">Cancella i dati del dispositivo senza preavviso eseguendo un ripristino dati di fabbrica.</string>
     <string name="policylab_setGlobalProxy">Imposta il proxy globale del dispositivo</string>
     <string name="policydesc_setGlobalProxy">Imposta il proxy globale del dispositivo in modo da utilizzarlo mentre la norma è attiva. Il proxy globale effettivo è impostabile solo dal primo amministratore del dispositivo.</string>
     <string name="policylab_expirePassword">Impostazione scadenza password blocco schermo</string>

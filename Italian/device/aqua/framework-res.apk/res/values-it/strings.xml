@@ -169,12 +169,12 @@
     <string name="silent_mode_vibrate">Vibrazione</string>
     <string name="silent_mode_ring">Suoneria</string>
     <string name="shutdown_progress">Spegnimento…</string>
-    <string name="shutdown_confirm">Il telefono verrà spento.</string>
+    <string name="shutdown_confirm">Il dispositivo verrà spento.</string>
     <string name="shutdown_confirm_question">Spegnere?</string>
     <string name="reboot_safemode_title">Riavvia in modalità provvisoria</string>
     <string name="reboot_safemode_confirm">Riavviare in modalità provvisoria? Ciò comporterà la disattivazione di tutte le applicazioni di terze parti installate. Verranno ripristinate al prossimo riavvio.</string>
     <string name="reboot_title">Riavvio</string>
-    <string name="reboot_confirm">Il tuo telefono verrà riavviato.</string>
+    <string name="reboot_confirm">Il tuo dispositivo verrà riavviato.</string>
     <string name="recent_tasks_title">Recenti</string>
     <string name="no_recent_tasks">Nessuna applicazione in esecuzione.</string>
     <string name="global_actions">Opzioni telefono</string>
