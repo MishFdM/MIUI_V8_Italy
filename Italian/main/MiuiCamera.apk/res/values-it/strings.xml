@@ -110,8 +110,8 @@
     <string name="pref_camera_coloreffect_entry_aqua"/>
     <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color pop</string>
     <string name="pref_camera_coloreffect_entry_instagram_crema">Rustic</string>
-    <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
-    <string name="pref_camera_coloreffect_entry_vsco_a4">Analog</string>
+    <string name="pref_camera_coloreffect_entry_vsco_f2">Opaco</string>
+    <string name="pref_camera_coloreffect_entry_vsco_a4">Analogico</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">B/N</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
     <string name="pref_camera_coloreffect_entry_instagram_hudson">Icy</string>

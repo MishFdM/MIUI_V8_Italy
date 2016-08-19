@@ -10,9 +10,9 @@
     <string name="search_path_notes">App di sistema/Note</string>
     <string name="dlg_move_message">Spostamento…</string>
     <string name="dlg_stick_message">In evidenza…</string>
-    <string name="dlg_hide_message">Sto nascondendo...</string>
-    <string name="dlg_unhide_message">Sto mostrando...</string>
-    <string name="dlg_restore_message">Ripristino...</string>
+    <string name="dlg_hide_message">Sto nascondendo…</string>
+    <string name="dlg_unhide_message">Sto mostrando…</string>
+    <string name="dlg_restore_message">Ripristino…</string>
     <string name="dlg_quick_delete_title">Eliminazione rapida</string>
     <string name="dlg_check_reminder">Non mostrare più</string>
     <string name="rename_folder_dialog_tile">Rinomina cartella</string>
@@ -142,10 +142,10 @@ Tocca il + per creare una cartella"</string>
     <string name="sns_title_send">Invia messaggio</string>
     <string name="sns_action_send">Invia</string>
     <string name="sns_hint_title">Soggetto (Opzionale)</string>
-    <string name="sns_hint_content">Cosa hai in mente?</string>
+    <string name="sns_hint_content">A cosa stai pensando?</string>
     <string name="sns_footer_text">Creata con Mi Note</string>
     <string name="dlg_info_creating_message">Creazione messaggio…</string>
-    <string name="sns_message_disconnect">Impossibile collegarsi alla rete. Controlla la connessione e prova di nuovo.</string>
+    <string name="sns_message_disconnect">Impossibile collegarsi alla rete. Controlla la connessione e riprova.</string>
     <string name="sns_content_default">Condividi foto</string>
     <string name="sns_toast_empty">Non puoi inviare un messaggio vuoto</string>
     <string name="sns_toast_over_limit">Invia come immagine (oltre il limite del testo)</string>

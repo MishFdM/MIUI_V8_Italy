@@ -36,9 +36,9 @@
     <string name="video_editor_text_none">Nessuno</string>
     <string name="video_editor_text_preview_text">Testo</string>
     <string name="video_editor_text_input_empty_tips">Sembra che tu non abbia ancora inserito alcun testo</string>
-    <string name="video_editor_encode_video">Codifica video...</string>
-    <string name="video_editor_analyzing">Analisi video...</string>
-    <string name="video_editor_auto_trim_tip">Ritaglio automatico...</string>
+    <string name="video_editor_encode_video">Codifica video…</string>
+    <string name="video_editor_analyzing">Analisi video…</string>
+    <string name="video_editor_auto_trim_tip">Ritaglio automatico…</string>
     <string name="video_editor_encode_video_error">Impossibile codificare il video</string>
     <string name="video_editor_text_edit_start">Titolo</string>
     <string name="video_editor_text_edit_end">Crediti</string>
@@ -48,16 +48,16 @@
     <string name="video_editor_abandon_changes_tip_title">Annulla modifiche</string>
     <string name="video_editor_abandon_changes_tip_message">Annullare tutte le modifiche?</string>
     <string name="video_editor_ok">OK</string>
-    <string name="video_editor_invalid_trim_arguments">Potrebbe impiegare più di 1 secondo</string>
+    <string name="video_editor_invalid_trim_arguments">Potrebbe impiegare più di un secondo</string>
     <string name="video_editor_fatal_error">Errore sconosciuto</string>
-    <string name="video_editor_loading_plugin">Caricamento...</string>
+    <string name="video_editor_loading_plugin">Caricamento…</string>
     <string name="video_editor_down_load_no_wifi_tips">Collega al Wi-Fi per scaricare</string>
     <string name="video_editor_down_load_now">Scarica</string>
     <string name="video_editor_down_load_later">Più tardi</string>
     <string name="video_editor_res_not_load_dialog_msg">Scarica il plugin per poter utilizzare questa funzione.</string>
-    <string name="video_editor_res_download_mobil_network_confirm_title">Utilizza rete dati mobile</string>
-    <string name="video_editor_res_download_mobil_network_confirm_msg">Scaricare tramite rete dati mobile??</string>
-    <string name="video_editor_res_download_failed_tips">Impossibile scaricare, controlla le impostazioni di rete e prova di nuovo</string>
+    <string name="video_editor_res_download_mobil_network_confirm_title">Utilizza rete dati cellulare</string>
+    <string name="video_editor_res_download_mobil_network_confirm_msg">Scaricare tramite rete dati cellulare?</string>
+    <string name="video_editor_res_download_failed_tips">Impossibile scaricare, controlla le impostazioni di rete e riprova</string>
     <string name="photoeditor_name">Foto Studio</string>
     <string name="loading_failure">Impossibile caricare la foto</string>
     <string name="saving_failure">Impossibile salvare la foto</string>
@@ -602,7 +602,7 @@
     <string name="set_face_group_toast_title_old_user">I volti possono essere organizzati in gruppi</string>
     <string name="set_face_group_toast_msg_old_user">Tieni premuto sul volto di copertina, i volti possono essere suddivisi in famiglia, amici, compagni di classe, etc.</string>
     <string name="set_face_group_toast_title_new_user">Suggerimenti</string>
-    <string name="set_face_group_toast_msg_new_user">Tieni premuto sul volto di copertina, i volti possono essere .</string>
+    <string name="set_face_group_toast_msg_new_user">"Tieni premuto sul volto di copertina, i volti possono essere ."</string>
     <string name="have_known">Conosciuto</string>
     <string name="expand_people">Espandi altre persone</string>
     <string name="collaps_people">Chiudi altre persone</string>
@@ -734,7 +734,7 @@
     <string name="operation_remove_secret">Rimuovi Album privato</string>
     <string name="operation_set_wallpaper">Imposta come sfondo</string>
     <string name="operation_set_contact_photo">Imposta come foto contatto</string>
-    <string name="operation_slide_show">Avvia slideshow</string>
+    <string name="operation_slide_show">Avvia presentazione</string>
     <string name="operation_download">Scarica foto (%s)</string>
     <string name="operation_detail">Dettagli</string>
     <string name="operation_show_on_map">Mostra su mappa</string>
@@ -793,9 +793,9 @@
     <string name="projection_multi_title">Lista dispositivi</string>
     <string name="projection_single_title">Trasmetti a %s</string>
     <string name="projection_checkbox_text">Ricorda questo schermo</string>
-    <string name="projection_slide_playing">Slideshow in riproduzione su %s</string>
-    <string name="projection_slide_exit">Esci da slideshow</string>
-    <string name="projection_slide_fail_cause_loading">"Riavvia lo slideshow dopo il caricamento dell'immagine"</string>
+    <string name="projection_slide_playing">Presentazione in riproduzione su %s</string>
+    <string name="projection_slide_exit">Esci da Presentazione</string>
+    <string name="projection_slide_fail_cause_loading">"Riavvia la presentazione dopo il caricamento dell'immagine"</string>
     <string name="projection_video_quit">Tocca per uscire</string>
     <string name="projection_device_connection_failed">Impossibile collegare il proiettore</string>
     <string name="view_by_gallery_tip">Galleria MIUI</string>
@@ -1063,7 +1063,7 @@
     <string name="download_title">Preparazione file…</string>
     <string name="download_retry_title">Impossibile scaricare il file</string>
     <string name="download_retry_message">Impossibile scaricare i file, verifica la connessione di rete e riprova</string>
-    <string name="download_retry_text">Prova di nuovo</string>
+    <string name="download_retry_text">Riprova</string>
     <string name="custom_select_title_select_item">Seleziona elementi</string>
     <string name="custom_select_title_quickly_share">Condividi</string>
     <string name="custom_select_title_select_all">Seleziona tutto</string>
@@ -1136,6 +1136,6 @@
     <string name="adjust_contrast">Contrasto</string>
     <string name="adjust_saturation">Saturazione</string>
     <string name="adjust_sharpen">Nitido</string>
-    <string name="adjust_vignette">Vigneta</string>
+    <string name="adjust_vignette">Vignetta</string>
     <string name="renren_description">Fornito da by RenRen</string>
 </resources>
