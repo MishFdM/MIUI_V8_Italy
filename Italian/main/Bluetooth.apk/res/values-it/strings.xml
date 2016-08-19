@@ -125,7 +125,7 @@
     <string name="status_running">Trasferimento file</string>
     <string name="status_success">Trasferimento file completato.</string>
     <string name="status_not_accept">Contenuti non supportati.</string>
-    <string name="status_forbidden">Il dispositivo di destinazione non consente il trasferimento.</string>
+    <string name="status_forbidden">Il dispositivo di destinazione non accetta il trasferimento.</string>
     <string name="status_canceled">"Trasferimento annullato dall'utente."</string>
     <string name="status_file_error">Problema di memorizzazione.</string>
     <string name="status_no_sd_card">Nessun archivio USB.</string>
