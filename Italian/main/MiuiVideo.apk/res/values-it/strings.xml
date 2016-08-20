@@ -2,7 +2,7 @@
 <resources>
     <string name="episode_name_format">Ep. %1$s</string>
     <string name="app_name">Video</string>
-    <string name="xiaomi_account_type_unsupported">Il sistema non supporta gli Mi Account.</string>
+    <string name="xiaomi_account_type_unsupported">Il sistema non supporta Mi Account.</string>
     <string name="no_login_xiaomi_account">Accedi con il tuo Mi Account per lasciare un commento</string>
     <string name="authenticating"><cdata>Verifica in corso </cdata></string>
     <string name="authenticated_failed">Accesso non riuscito</string>
@@ -85,7 +85,7 @@
     <string name="clarity_standard">Luminosità standard</string>
     <string name="vp_unknown_source">Fonte sconosciuta</string>
     <string name="vp_download_file_fail">Download fallito. Assicurati di avere spazio sufficiente</string>
-    <string name="vp_download_connect_fail">Impossibile trovare il link. Controlla la tua connessione e riprova."</string>
+    <string name="vp_download_connect_fail">Impossibile trovare il link. Controlla la connessione e riprova."</string>
     <string name="file_not_exist">Il file non esiste</string>
     <string name="vp_app_name">Video Player</string>
     <string name="temp_play_history_button_label">Mostra cronologia</string>
@@ -97,11 +97,11 @@
     <string name="about_app_name">Mi Player</string>
     <string name="suffix_countdown">secondi</string>
     <string name="ad_moredetail">Altri dettagli</string>
-    <string name="vp_more_show_video">Show AD</string>
-    <string name="vp_ad_skip_at">Skip AD after %1$d</string>
-    <string name="vp_ad_skip">Skip AD</string>
-    <string name="vp_ad_countdown_m_s">AD %1$dm%2$ss</string>
-    <string name="vp_ad_countdown_s">AD %1$s</string>
+    <string name="vp_more_show_video">Mostra Spot</string>
+    <string name="vp_ad_skip_at">Salta Spot dopo %1$d</string>
+    <string name="vp_ad_skip">Salta Spot</string>
+    <string name="vp_ad_countdown_m_s">Spot %1$dm%2$ss</string>
+    <string name="vp_ad_countdown_s">Spot %1$s</string>
     <string name="about_version">1.0.1</string>
     <string name="video_info_length_label">Durata:</string>
     <string name="video_info_resolution_label">Risoluzione video:</string>
@@ -131,7 +131,7 @@
     <string name="vp_play_youku_time_out">Connessione scaduta</string>
     <string name="vp_play_youku_failed_get_video_info">Impossibile recuperare informazioni sul video</string>
     <string name="vp_mplayer_error_io">Errore operazione IO</string>
-    <string name="vp_mplayer_error_malformed">Errore nel formato del contenuto media </string>
+    <string name="vp_mplayer_error_malformed">Errore nel formato del contenuto media</string>
     <string name="vp_mplayer_error_server_died">Server media fuori uso</string>
     <string name="vp_mplayer_error_timed_out">Operazione scaduta</string>
     <string name="top_status_local_media">Contenuti locali</string>
@@ -221,7 +221,7 @@
     <string name="vp_notify_apk_installed">Installazione applicazione %1$s completata</string>
     <string name="vp_downloading_apk_title">Download %1$s in corso</string>
     <string name="vp_mobile_network_using_warning">"L'utilizzo della rete dati per la visione dei video può incrementare il traffico dati."</string>
-    <string name="vp_mobile_network_using_warning_line_1">"L'utilizzo della connessione dati mobile per la visione dei video aumenterà il traffico dati."</string>
+    <string name="vp_mobile_network_using_warning_line_1">"L'utilizzo della connessione dati cellulare per la visione dei video aumenterà il traffico dati."</string>
     <string name="vp_mobile_network_using_warning_line_2">Il superamento della soglia prevista del tuo piano potrebbe comportare costi aggiuntivi.</string>
     <string name="vp_mobile_network_using_positive">Continua</string>
     <string name="vp_mobile_network_using_negative">Annulla</string>
@@ -241,7 +241,7 @@
 2. Aiutaci a migliorare questo prodotto inviando automaticamente a Xiaomi dati diagnostici e sull'utilizzo.
 3. Il nostro Plugin Video HD verrà installato automaticamente.
 4. Questo servizio deve collegarsi ad internet per funzionare correttamente."</string>
-    <string name="declaration">"Termini d'uso"</string>
+    <string name="declaration">"Condizioni d'uso"</string>
     <string name="no_longer_tips">"Ricorda la mia scelta"</string>
     <string name="search">Cerca</string>
     <string name="menu_name">Menu</string>
@@ -269,10 +269,10 @@
     <string name="send">Invia</string>
     <string name="media_name_comment">%s commento</string>
     <string name="comment_edit_et_hint">Inserisci un commento</string>
-    <string name="comment_edit_start_hint">Clicca una stella per votare:</string>
+    <string name="comment_edit_start_hint">Premi una stella per votare:</string>
     <string name="comment_count_less_tip">Devi scrivere almeno %1$s caratteri</string>
     <string name="comment_count_much_tip">Il tuo commento non può superare i %1$s caratteri</string>
-    <string name="click_star_rate">Clicca una stella per votare</string>
+    <string name="click_star_rate">Premi una stella per votare</string>
     <string name="tab_loading"><cdata>…</cdata></string>
     <string name="reload_title_ep">Impossibile recuperare tutta la serie</string>
     <string name="reload_title">Impossibile collegarsi alla rete</string>
@@ -351,7 +351,7 @@
     <string name="good">OK</string>
     <string name="offline_no_selected_item_hint">Scegli un video</string>
     <string name="offline_no_avail_item_hint">Non ci sono episodi disponibili</string>
-    <string name="offline_alert_wifi">I download riprenderanno quando il dispositivo si connetterà al WiFi.</string>
+    <string name="offline_alert_wifi">I download riprenderanno quando il dispositivo si connetterà al Wi-Fi.</string>
     <string name="datastream_alert_play">Utilizzando la connessione dati cellulare per guardare i video consumerai un notevole quantitativo di dati.</string>
     <string name="datastream_alert_download">Utilizzando la connessione dati cellulare per scaricare i video consumerai un notevole quantitativo di dati.</string>
     <string name="datastream_alert_hint">Puoi disattivare le notifiche in qualsiasi momento nelle Impostazioni.</string>
@@ -507,7 +507,7 @@
     <string name="subscribe">Sottoscrivi</string>
     <string name="detail">Dettagli</string>
     <string name="enter_detail">Altre informazioni</string>
-    <string name="account_auth_fail">autenticazione account fallito</string>
+    <string name="account_auth_fail">Autenticazione account fallita</string>
     <string name="live">Live</string>
     <string name="replay">Riprova</string>
     <string name="error_empty_epg">Nessuna informazione EPG</string>

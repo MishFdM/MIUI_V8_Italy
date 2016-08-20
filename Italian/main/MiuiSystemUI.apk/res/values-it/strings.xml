@@ -347,7 +347,7 @@ scorri in basso per bloccare"</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
     <string name="accessibility_ime_switch_button">Cambia pulsante tastiera.</string>
     <string name="accessibility_assistant">Assistente touch</string>
-    <string name="status_bar_volte_label">HD</string>
+    <string name="status_bar_volte_label">VoLTE</string>
     <string name="lland">Lollipop Land</string>
     <string name="mland">Marshmallow Land</string>
 </resources>

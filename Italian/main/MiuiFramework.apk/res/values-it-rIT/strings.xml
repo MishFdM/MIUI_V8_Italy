@@ -32,7 +32,7 @@
     <string name="status_bar_toggle_sync_manual">Sincr. Man.</string>
     <string name="status_bar_toggle_syncing">Sincronizza</string>
     <string name="screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
-    <string name="screen_button_disabled_message">Tasti di navigazione disattivati. Per riattivarli premi Home ed il tasto accensione contemporaneamente.</string>
+    <string name="screen_button_disabled_message">Tasti di navigazione disattivati. Per riattivarli premi Home e Tasto accensione contemporaneamente.</string>
     <string name="screen_button_enabled_message">Tasti di navigazione attivati.</string>
     <string name="shutdown_confirm_title">Il tuo dispositivo sarà spento.</string>
     <string name="shutdown_progress">Spegnimento in corso…</string>

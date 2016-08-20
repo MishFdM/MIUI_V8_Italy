@@ -86,7 +86,7 @@
     <string name="too_many_attachments">"C'è un limite di %1$s allegati. Verranno aggiunti solo i primi %2$s."</string>
     <string name="adding_attachments_title">Aggiunta di allegati</string>
     <string name="adding_attachments">"Attendi il termine dell'aggiunta degli elementi alla presentazione."</string>
-    <string name="over_max_mms_size">Mms troppo grande.</string>
+    <string name="over_max_mms_size">MMS troppo grande.</string>
     <string name="recipients_over_size">Troppi destinatari.</string>
     <string name="preview">Anteprima</string>
     <string name="preview_slideshow">Anteprima</string>
@@ -197,7 +197,7 @@
     <string name="notification_failed_multiple_title">Messaggi non inviati</string>
     <string name="sim_full_body">Elimina alcuni messaggi SIM per fare spazio.</string>
     <string name="sms_full_title">Memoria SMS piena</string>
-    <string name="sms_full_body">SMS in entrata rifiutato a causa di memoria piena. Eliminare vecchi messaggi.</string>
+    <string name="sms_full_body">SMS in entrata rifiutato a causa di memoria piena. Elimina i vecchi messaggi.</string>
     <string name="sms_rejected_title">SMS rifiutato</string>
     <string name="sms_rejected_body">SMS in entrata rifiutato per cause sconosciute.</string>
     <string name="type_audio">Audio</string>
@@ -246,7 +246,7 @@
     <string name="pick_too_many_recipients">Troppi destinatari</string>
     <string name="adding_recipients">Destinatari in aggiunta…</string>
     <string name="error_state">Errore di incoerenza</string>
-    <string name="error_state_text">Lo stato delle conversazioni e dei destinatari è incoerente. raccogli un rapporto ed invialo a http://go/droidanizer</string>
+    <string name="error_state_text">Lo stato delle conversazioni e dei destinatari è incoerente. Raccogli un rapporto ed invialo a http://go/droidanizer</string>
     <string name="disable_notifications_dialog_message">"Interrompere la notifica dei messaggi di testo provenienti dall'applicazione predefinita ?"</string>
     <string name="conversation">Messaggi</string>
     <string name="bookmark">Preferiti</string>
@@ -312,7 +312,7 @@
     <string name="phrase_from">Da %1s</string>
     <string name="phrase_empty">Nessuna anteprima</string>
     <string name="pref_title_notification_body_enabled">Mostra anteprima</string>
-    <string name="pref_summary_notification_body_enabled">"Mostra un'anteprima nella lockscreen e nella barra di stato"</string>
+    <string name="pref_summary_notification_body_enabled">"Mostra un'anteprima nella Schermata di blocco e nella barra di stato"</string>
     <string name="pref_summary_notification_body_enabled_when_secure">"L'anteprima dei messaggi è disabilitata quando l'accesso ha restrizioni"</string>
     <string name="pref_title_wake_up_screen">Attivazione schermo</string>
     <string name="pref_summary_wake_up_screen">Attiva lo schermo alla ricezione di un nuovo SMS</string>
@@ -335,7 +335,7 @@
     <string name="pref_message_recovery_introduction_title">Ripristina messaggio</string>
     <string name="pref_cell_broadcast">Trasmissioni cella</string>
     <string name="send_signature_confirm_dialog_title">Invio conferma</string>
-    <string name="send_signature_confirm_dialog_message">Corpo messaggio mancante. Vuoi inviare comunque il messaggio?</string>
+    <string name="send_signature_confirm_dialog_message">Corpo messaggio mancante. Inviare comunque il messaggio?</string>
     <string name="enter_edit_mode">Elimina</string>
     <string name="check_all">Seleziona tutto</string>
     <string name="batch_delete_confirm_dialog_message">Sicuro di voler eliminare i %1$s messaggi selezionati?</string>
@@ -394,16 +394,16 @@
     <string name="msg_type_hint_mx_omit">Mi Msg</string>
     <string name="msg_type_hint_mx">Messaggio Mi Cloud</string>
     <string name="mx_reactivate">Riattiva messaggi Mi Cloud</string>
-    <string name="mx_activate_error_title">Impossibile attivare la carta SIM</string>
+    <string name="mx_activate_error_title">Impossibile attivare la scheda SIM</string>
     <string name="mx_activate_error_sim_change">Sembra che tu abbia cambiato le SIM. Per attivare i messaggi cloud, il tuo dispositivo deve inviare un SMS ai server di Xiaomi.</string>
-    <string name="mx_activate_error_malformed_info">Devi riattivare i messaggi cloud per questa carta SIM.</string>
-    <string name="mx_activate_error_server">Impossibile attivare la carta SIM</string>
-    <string name="mx_activate_hint_sim_change">"Verrà inviato un SMS per riattivare i messaggi cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
-    <string name="mx_activate_int_hint_sim_change">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
-    <string name="mx_activate_hint_malformed_info">"Verrà inviato un SMS per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
-    <string name="mx_activate_int_hint_malformed_info">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
-    <string name="mx_activate_hint_server">"Verrà inviato un SMS per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
-    <string name="mx_activate_int_hint_server">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la carta SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_error_malformed_info">Devi riattivare i messaggi cloud per questa scheda SIM.</string>
+    <string name="mx_activate_error_server">Impossibile attivare la scheda SIM</string>
+    <string name="mx_activate_hint_sim_change">"Verrà inviato un SMS per riattivare i messaggi cloud per la scheda SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_int_hint_sim_change">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la scheda SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_hint_malformed_info">"Verrà inviato un SMS per riattivare i messaggi Mi Cloud per la scheda SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_int_hint_malformed_info">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la scheda SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_hint_server">"Verrà inviato un SMS per riattivare i messaggi Mi Cloud per la scheda SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
+    <string name="mx_activate_int_hint_server">"Verrà inviato un SMS internazionale per riattivare i messaggi Mi Cloud per la scheda SIM corrente. Verranno applicate le tariffe previste dall'operatore."</string>
     <string name="need_download">Sincronizzazione…</string>
     <string name="found_wild_messages_title">Scarica messaggi</string>
     <string name="found_wild_messages_guide_settings_desc">Sincronizza messaggi da Mi Cloud nelle Impostazioni dei Messaggi.</string>
@@ -522,7 +522,7 @@
     <string name="send_message_dlg_check_hint">Ricorda la mia scelta</string>
     <string name="send_message_dlg_mgs">Avviso CMCC: Abbiamo la necessità di registrare il tuo dispositivo sulla piattaforma di gestione dispositivi per fornire il servizio gratuito di post-service. (Post-service è una piattaforma di CMCC che consente la gestione dei dispositivi. Fornisce il servizio di impostazione remota ed aggiornamento delle applicazioni). Un messaggio gratuito con le informazioni sul dispositivo sarà inviato per la registrazione. Il messaggio sarà inviato solo una volta e non richiede nessuno dei tuoi dati personali. (Non invia in roaming da Hong Kong, Macao, Taiwan e in roaming internazionale). Seleziona “OK” per acconsentire alla registrazione e usare il servizio. Seleziona "Annulla" per non procedere e rinunciare al servizio fornito da CMCC.</string>
     <string name="confirm_dlg_title">Gestione dispositivo</string>
-    <string name="confirm_dlg__msg">Avviso CMCC: il servizio gratuito post-vendita di CMCC non sarà fornito se annulli la registrazione al servizio. Sei certo di annullare?</string>
+    <string name="confirm_dlg__msg">Avviso CMCC: il servizio gratuito post-vendita di CMCC non sarà fornito se annulli la registrazione al servizio. Continuare?</string>
     <string name="alert_dlg_ok_button">OK</string>
     <string name="alert_dlg_cancel_button">Annulla</string>
     <string name="cloud_recommend_msg">Tocca per sincronizzare i messaggi con Mi Cloud.</string>
@@ -545,7 +545,7 @@
     <string name="festival_continue">OK</string>
     <string name="festival_never_remind">Non mostrare di nuovo</string>
     <string name="pref_title_festival_networking">Notifica connessione</string>
-    <string name="hms_add_image_progress_message">In elaborazione...</string>
+    <string name="hms_add_image_progress_message">In elaborazione…</string>
     <string name="view_hms_attachment_fail">Impossibile scaricare immagine</string>
     <string name="mx_type_guide">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi</string>
     <string name="mx_dspt_provision">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi. Il tuo operatore potrebbe addebitarti il costo di un SMS, necessario per attivare il servizio.</string>
@@ -601,17 +601,17 @@
     <string name="mx_activate_status_desc_prepare_sending_sms">Invio messaggio attivazione…</string>
     <string name="mx_activate_status_desc_check_net_connection">Impossibile collegarsi alla rete</string>
     <string name="voip_enable">Mi Message e Voce</string>
-    <string name="voip_enable_popup_msg">"Chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Infomrativasull Privacy di Weihui."</string>
+    <string name="voip_enable_popup_msg">"Chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Informativa sulla Privacy di Weihui."</string>
     <string name="voip_enable_popup_msg2">Informativa sulla Privacy</string>
     <string name="mx_and_voip_enable">Mi Message e Voce</string>
-    <string name="mx_and_voip_enable_popup_msg">"Invia messaggi e chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Infomrativasull Privacy di Weihui."</string>
+    <string name="mx_and_voip_enable_popup_msg">"Invia messaggi e chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Informativa sulla Privacy di Weihui."</string>
     <string name="mx_and_voip_enable_popup_msg2">Informativa sulla Privacy</string>
     <string name="mx_b2c_message_desc">Notifiche di rete</string>
     <string name="networking_allow_title">Attenzione</string>
-    <string name="networking_allow_desc">I messaggi smart ti consentono di inviare gratuitamente SMS e messaggi vocali, riconoscere numeri sconosciuti, filtrare lo spam, etc. Utilizzando questo dispositivo accetti %1$s e %2$s di Xiaomi. evi passare alle Pagine Gialle e collegarti ad internet per utilizzare questo servizio.</string>
+    <string name="networking_allow_desc">I messaggi smart ti consentono di inviare gratuitamente SMS e messaggi vocali, riconoscere numeri sconosciuti, filtrare lo spam, etc. Utilizzando questo dispositivo accetti %1$s e %2$s di Xiaomi. Devi passare alle Pagine Gialle e collegarti ad internet per utilizzare questo servizio.</string>
     <string name="networking_allow_desc_without_mx">I messaggi smart ti permettono di riconoscere numeri sconosciuti, filtrare lo spam, etc. Utilizzando questo servizio accetti %1$s e %2$s di Xiaomi. Devi attivare le Pagine Gialle e collegarti ad internet per utilizzare questo servizio.</string>
     <string name="networking_allow_continue">OK</string>
-    <string name="mx_activate_allow_notice">Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato epr attivare i servizi di messaggi e chiamate gratuiti.</string>
+    <string name="mx_activate_allow_notice">Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato per attivare i servizi di messaggi e chiamate gratuiti.</string>
     <string name="mx_b2c_message_resend_not_online">Impossibile leggere il messaggio. Mi Message è offline.</string>
     <string name="msg_type_hint_mx_b2c">Notifica di rete</string>
     <string name="msg_type_hint_mx_b2c_omit">Notifica di rete</string>
@@ -620,7 +620,7 @@
     <string name="mx_filter_message_from_stranger_summary">Potrai ancora ricevere SMS normali da numeri sconosciuti</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Blocca Mi Message da numeri sconosciuti</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Potrai ancora ricevere SMS normali da numeri sconosciuti. Puoi attivare e disattivare questa funzione in qualsiasi momento da Messaggi > Impostazioni."</string>
-    <string name="wild_msg_processing">Elaborazione...</string>
+    <string name="wild_msg_processing">Elaborazione…</string>
     <string name="wild_msg_title">Attiva sincronizzazione cloud</string>
     <string name="select_message_send_sim">Scegli SIM</string>
     <string name="card_insert_to_contact">Importa contatto</string>
@@ -636,13 +636,13 @@
     <string name="fake_cell_detection_entry">Rilevamento base fallito</string>
     <string name="delete_wild_sims">Elimina numeri</string>
     <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
-    <string name="delete_wild_sims_confirm">Tutti i numeri associati a questo contatto verranno eliminati dal telefono. Puoi ripristinarli su i.mi.com.</string>
+    <string name="delete_wild_sims_confirm">Tutti i numeri associati a questo contatto verranno eliminati dal dispositivo. Puoi ripristinarli su i.mi.com.</string>
     <string name="url_scanning">Scansione URL…</string>
     <string name="url_result_safe">Questo URL è sicuro</string>
     <string name="url_fraud_title">Possibile truffa</string>
-    <string name="url_fraud_risky_alert">"Il sito che stai per visitare potrebbe essere una truffa, sei sicuro di voler procedere? 
+    <string name="url_fraud_risky_alert">"Il sito che stai per visitare potrebbe non essere sicuro. Continuare? 
 %s"</string>
-    <string name="url_fraud_dangerous_alert">"Il sito che stai per visitare potrebbe essere una truffa, potrebbe danneggiare il tuo dispositivo ed i tuoi beni, sei sicuro di voler procedere? 
+    <string name="url_fraud_dangerous_alert">"Il sito che stai per visitare potrebbe non essere sicuro e potrebbe danneggiare il tuo dispositivo. Continuare? 
 %s"</string>
     <string name="url_fraud_visit"><u>Visita comunque</u></string>
     <string name="url_fraud_insurance">Truffa assicurativa</string>
