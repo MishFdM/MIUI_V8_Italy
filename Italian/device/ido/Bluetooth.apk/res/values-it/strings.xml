@@ -7,8 +7,8 @@
     <string name="progress_scanning">Ricerca</string>
     <string name="bluetooth_search_for_devices">Ricerca dispositivi</string>
     <string name="mi_key_alert_dialog_title">Avviso Mi Key</string>
-    <string name="mi_key_alert_dialog_message">"Tocca OK per silenziare l'avviso."</string>
-    <string name="ble_device_profile">Bluetooth device profile</string>
+    <string name="mi_key_alert_dialog_message">"Tocca OK per nascondere l'avviso."</string>
+    <string name="ble_device_profile">Profilo dispositivo bluetooth</string>
     <string name="ble_device_address">MAC dispositivo BLE</string>
     <string name="disconnect">Disconnetti</string>
     <string name="ble_device_rename">Rinomina</string>
@@ -37,9 +37,9 @@
     <string name="some_app_taking">(%1$s sta già utilizzando questa funzione…)</string>
     <string name="reset_function_msg">"La riapertura della funzione interromperà l'operazione di %1$s"</string>
     <string name="notify_device_lose_connection_title">Il dispositivo %1$s si è disconnesso</string>
-    <string name="notify_device_lose_connection_text">%1$s si è disconnesso per un lungo periodo, tocca per disaccoppiare.</string>
-    <string name="unbind_device_alert_title">Disaccoppia dispositivo</string>
-    <string name="unbind_device_alert_content">Il dispositivo %1$s si è disconnesso per un lungo periodo di tempo, disaccoppiandolo migliorerai le prestazioni. Vuoi disaccoppiare?</string>
+    <string name="notify_device_lose_connection_text">%1$s si è disconnesso per un lungo periodo, tocca per dissociare.</string>
+    <string name="unbind_device_alert_title">Dissocia dispositivo</string>
+    <string name="unbind_device_alert_content">Il dispositivo %1$s si è disconnesso per un lungo periodo, rimuovendolo migliorerai le prestazioni. Vuoi dissociarlo?</string>
     <string name="unbind_device_alert_ok">OK</string>
     <string name="unbind_device_alert_cancel">Annulla</string>
     <string name="miui_transfer_history_title">Trasferimenti Bluetooth</string>
@@ -54,7 +54,7 @@
     <string name="suggested">Seggeriti</string>
     <string name="bluetooth_busy">Il bluetooth è occupato, si prega di riprovare più tardi</string>
     <string name="permlab_bluetoothShareManager">Accedere al gestore dei download.</string>
-    <string name="permdesc_bluetoothShareManager">"Consente all'applicazione di accedere al gestore BluetoothShare e di utilizzarlo per trasferire file."</string>
+    <string name="permdesc_bluetoothShareManager">"Consente all'applicazione di accedere al gestore BluetoothShare e di utilizzarlo per trasferire i file."</string>
     <string name="permlab_bluetoothWhitelist">"Autorizzazione dell'accesso del dispositivo Bluetooth."</string>
     <string name="permdesc_bluetoothWhitelist">"Consente all'applicazione di autorizzare temporaneamente un dispositivo Bluetooth, permettendo a tale dispositivo di inviare file a questo dispositivo senza la conferma dell'utente."</string>
     <string name="bt_share_picker_label">Bluetooth</string>
@@ -68,7 +68,9 @@
     <string name="bt_enable_cancel">Annulla</string>
     <string name="bt_enable_ok">Attiva</string>
     <string name="incoming_file_confirm_title">Trasferimento file</string>
-    <string name="incoming_file_confirm_content">Accetti file in entrata?</string>
+    <string name="incoming_file_confirm_content">"\"%1$s\" vuole inviarti %2$s (%3$s). 
+
+ Accetti il file?"</string>
     <string name="incoming_file_confirm_cancel">Rifiuta</string>
     <string name="incoming_file_confirm_ok">Accetta</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
@@ -93,7 +95,7 @@
     <string name="download_cancel">Interrompi</string>
     <string name="download_ok">Nascondi</string>
     <string name="incoming_line1">Da</string>
-    <string name="incoming_line2">File</string>
+    <string name="incoming_line2">Nome file</string>
     <string name="incoming_line3">Dimensione</string>
     <string name="download_fail_line1">File non ricevuto</string>
     <string name="download_fail_line2">File: %1$s</string>
@@ -132,7 +134,7 @@
     <string name="status_running">Trasferimento file</string>
     <string name="status_success">Trasferimento file completato.</string>
     <string name="status_not_accept">Contenuti non supportati.</string>
-    <string name="status_forbidden">Il dispositivo di destinazione non consente il trasferimento.</string>
+    <string name="status_forbidden">Il dispositivo di destinazione non accetta il trasferimento.</string>
     <string name="status_canceled">"Trasferimento annullato dall'utente."</string>
     <string name="status_file_error">Problema di memorizzazione.</string>
     <string name="status_no_sd_card">Nessun archivio USB.</string>
@@ -145,7 +147,7 @@
     <string name="inbound_history_title">Trasferimenti in entrata</string>
     <string name="outbound_history_title">Trasferimenti in uscita</string>
     <string name="no_transfers">La cronologia di trasferimento è vuota.</string>
-    <string name="transfer_clear_dlg_msg">"Tutti gli elementi verranno cancellati dall'elenco."</string>
+    <string name="transfer_clear_dlg_msg">"Tutti gli elementi verranno rimossi dall'elenco."</string>
     <string name="outbound_noti_title">Condivisione Bluetooth: file inviati</string>
     <string name="inbound_noti_title">Condivisione Bluetooth: file ricevuti</string>
     <string name="noti_caption">%1$s operazioni riuscite, %2$s operazioni non riuscite.</string>

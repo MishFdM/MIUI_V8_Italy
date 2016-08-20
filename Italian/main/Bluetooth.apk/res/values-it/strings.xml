@@ -7,7 +7,7 @@
     <string name="progress_scanning">Ricerca</string>
     <string name="bluetooth_search_for_devices">Ricerca dispositivi</string>
     <string name="mi_key_alert_dialog_title">Avviso Mi Key</string>
-    <string name="mi_key_alert_dialog_message">"Tocca OK per silenziare l'avviso."</string>
+    <string name="mi_key_alert_dialog_message">"Tocca OK per nascondere l'avviso."</string>
     <string name="ble_device_profile">Profilo dispositivo bluetooth</string>
     <string name="ble_device_address">MAC dispositivo BLE</string>
     <string name="disconnect">Disconnetti</string>
@@ -39,14 +39,14 @@
     <string name="notify_device_lose_connection_title">Il dispositivo %1$s si è disconnesso</string>
     <string name="notify_device_lose_connection_text">%1$s si è disconnesso per un lungo periodo, tocca per dissociare.</string>
     <string name="unbind_device_alert_title">Dissocia dispositivo</string>
-    <string name="unbind_device_alert_content">Il dispositivo %1$s si è disconnesso per un lungo periodo di tempo, rimuovendolo migliorerai le prestazioni. Vuoi dissociarlo?</string>
+    <string name="unbind_device_alert_content">Il dispositivo %1$s si è disconnesso per un lungo periodo, rimuovendolo migliorerai le prestazioni. Vuoi dissociarlo?</string>
     <string name="unbind_device_alert_ok">OK</string>
     <string name="unbind_device_alert_cancel">Annulla</string>
     <string name="miui_transfer_history_title">Trasferimenti Bluetooth</string>
     <string name="miui_transfer_inbound_title">Ricevuti</string>
     <string name="miui_transfer_outbound_title">Inviati</string>
     <string name="permlab_bluetoothShareManager">Accedere al gestore dei download.</string>
-    <string name="permlab_bluetoothAvrcpDataManager">Access avrcp metadata.</string>
+    <string name="permlab_bluetoothAvrcpDataManager">Accesso metadati avrcp.</string>
     <string name="permdesc_bluetoothShareManager">"Consente all'applicazione di accedere al gestore BluetoothShare e di utilizzarlo per trasferire i file."</string>
     <string name="permdesc_bluetoothAvrcpDataManager">"Consente all'applicazione di accedere al gestore BluetoothAvrcpData e visualizzarlo nell'interfaccia."</string>
     <string name="permlab_bluetoothWhitelist">"Autorizzazione dell'accesso del dispositivo Bluetooth."</string>
@@ -58,7 +58,7 @@
     <string name="airplane_error_msg">Non puoi utilizzare Bluetooth in modalità aereo.</string>
     <string name="bt_enable_title"/>
     <string name="bt_enable_line1">Per utilizzare i servizi Bluetooth è necessario attivare il Bluetooth.</string>
-    <string name="bt_enable_line2">Attivare Bluetooth adesso?</string>
+    <string name="bt_enable_line2">Attivare il Bluetooth adesso?</string>
     <string name="bt_enable_cancel">Annulla</string>
     <string name="bt_enable_ok">Attiva</string>
     <string name="incoming_file_confirm_title">Trasferimento file</string>
@@ -107,9 +107,11 @@
     <string name="upload_fail_cancel">Chiudi</string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">File sconosciuto</string>
-    <string name="unknown_file_desc">"Non sono disponibili applicazioni in grado di gestire questo tipo di file."</string>
+    <string name="unknown_file_desc">"Non sono disponibili applicazioni in grado di gestire questo tipo di file.
+"</string>
     <string name="not_exist_file">Nessun file</string>
-    <string name="not_exist_file_desc">"Il file non esiste."</string>
+    <string name="not_exist_file_desc">"Il file non esiste.
+"</string>
     <string name="enabling_progress_title">Attendi…</string>
     <string name="enabling_progress_content">Attivazione Bluetooth…</string>
     <string name="bt_toast_1">"Il file verrà ricevuto. Controlla l'avanzamento nel pannello Notifiche."</string>
