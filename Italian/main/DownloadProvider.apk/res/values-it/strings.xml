@@ -2,7 +2,7 @@
 <resources>
     <string name="dialog_insufficient_space_on_external">Spazio insufficiente sulla memoria esterna</string>
     <string name="dialog_insufficient_space_on_cache">Spazio insufficiente sulla memoria interna</string>
-    <string name="auto_restart_under_wifi">Questo file verrà scaricato automaticamente sotto copertura Wi-Fi</string>
+    <string name="auto_restart_under_wifi">Questo file verrà scaricato automaticamente quando connesso al Wi-Fi</string>
     <string name="task_already_exist">Processo già esistente</string>
     <string name="privacy_tip_title">Utilizzare Xunlei Accelerator?</string>
     <string name="privacy_tip_content">"Utilizzare Xunlei Accelerator per velocizzare i download? L'URL del download verrà caricato sui server Xunlei. Anche i dettagli del tuo Mi Account verranno caricati per verificare se hai qualche iscrizione attiva per questo servizio."</string>
@@ -17,7 +17,7 @@
     <string name="notif_title_file_size">Totale %1$d</string>
     <string name="paused_waiting_for_network">In attesa di reti disponibili</string>
     <string name="warning_tip_title">Avviso utilizzo dati</string>
-    <string name="warning_tip_content">"Non sei più connesso ad una rete WiFi. L'utilizzo della tua connessione dati per il completamento di questo download rdurrà il tuo pacchetto dati. Se supererai la soglia previta dal tuo piano, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+    <string name="warning_tip_content">"Non sei più connesso alla rete Wi-Fi. L'utilizzo della connessione dati cellulare influirà sul tuo piano dati. Se superi la soglia prevista il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
     <string name="warning_tip_cancel">Download</string>
     <string name="warning_tip_ok">Pausa</string>
     <string name="dialog_not_show_again">"Non mostrare più"</string>
@@ -26,8 +26,8 @@
     <string name="notification_download_success_more">%1$d file scaricati</string>
     <string name="notification_download_failed_more">%1$d file non scaricati</string>
     <string name="mobile_recommended_title">Utilizzo dati</string>
-    <string name="recommended_file_size_download_in_mobile">Usa %s di dati su rete mobile per scaricare questo file?</string>
-    <string name="recommended_no_file_size_download_in_mobile">Utilizzare la rete dati mobile per scaricare questo file?</string>
+    <string name="recommended_file_size_download_in_mobile">Usare %s di dati su rete cellulare per scaricare questo file?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Utilizzare la rete dati cellulare per scaricare questo file?</string>
     <string name="button_wait_for_wifi">Attendi</string>
     <string name="button_download_now">Scarica adesso</string>
     <string name="insufficient_space">Spazio insufficiente sul tuo dispositivo</string>
@@ -37,9 +37,9 @@
     <string name="download_apk_desktop_running">In download</string>
     <string name="download_apk_desktop_installing">Installazione in corso</string>
     <string name="xl_speedup_experience_notify_title">Abbonamento Xunlei</string>
-    <string name="xl_speedup_experience_notify_context">La velocità viene aumentata per ogni download se sei un membro Xunlei</string>
+    <string name="xl_speedup_experience_notify_context">La velocità viene aumentata per ogni download se sei un utente Xunlei</string>
     <string name="xl_speedup_notify_button_experience">Prova gratis</string>
-    <string name="xl_speedup_notify_button_member">Diventa un membro</string>
+    <string name="xl_speedup_notify_button_member">Diventa un utente</string>
     <string name="notify_disabled_net_by_app">"Connessione internet limitata dall'app Sicurezza"</string>
     <string name="notify_only_wifi_download">In attesa di Wi-Fi</string>
     <string name="app_label">Download Manager</string>
@@ -60,12 +60,12 @@
     <string name="download_unknown_title">&lt;Senza nome></string>
     <string name="notification_need_wifi_for_size">Wi-Fi richiesto per download</string>
     <string name="notification_paused_in_background">In pausa in background.</string>
-    <string name="wifi_required_title">Download troppo grande per rete operatore</string>
+    <string name="wifi_required_title">Download troppo grande per rete cellulare</string>
     <string name="wifi_required_body" formatted="false">"Devi utilizzare la rete Wi-Fi per completare questo download di %s . 
 
 Tocca %s per avviare il download la prossima volta che sei connesso a una rete Wi-Fi."</string>
     <string name="wifi_recommended_title">Mettere in coda per scaricare più tardi?</string>
-    <string name="wifi_recommended_body" formatted="false">"Questo download di %s  potrebbe ridurre la durata della batteria e/o causare un uso eccessivo della connessione dati mobile con conseguente addebito da parte dell'operatore.
+    <string name="wifi_recommended_body" formatted="false">"Questo download di %s  potrebbe ridurre la durata della batteria e/o causare un uso eccessivo della connessione dati cellulare con conseguente addebito da parte dell'operatore.
 
  Tocca %s per avviarlo quando sarai connesso a una rete Wi-Fi."</string>
     <string name="button_queue_for_wifi">Metti in coda</string>
