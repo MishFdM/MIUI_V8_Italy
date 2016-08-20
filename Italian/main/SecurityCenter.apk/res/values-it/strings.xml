@@ -189,7 +189,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="traffic_setting_fragment_send_num_tips">Inserisci numero di telefono</string>
     <string name="traffic_setting_fragment_sms_content_tips">Scrivi qui il tuo messaggio</string>
     <string name="traffic_setting_fragment_null">Vuoto</string>
-    <string name="traffic_setting_fragment_loacation_alert_nomore">non mostrare più</string>
+    <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
     <string name="data_usage_warning_title">Avviso utilizzo dati</string>
     <string name="data_usage_warning_body">Tocca per mostrare i dettagli di utilizzo dati.</string>
     <string name="data_usage_mobile_limit_title">Limite utilizzo dati raggiunto</string>
@@ -345,7 +345,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="roaming_limit_network_notification_body">Tocca per visualizzare le reti disponibili</string>
     <string name="roaming_limit_dialog_message">Limite di dati giornaliero in roaming raggiunto.</string>
     <string name="search_input_txt_na">"<font color="#ff0000">%s</font>"</string>
-    <string name="roaming_allow_network_dialog_title">Consentire il roaming dati su rete mobile?</string>
+    <string name="roaming_allow_network_dialog_title">Consentire il roaming dati su rete cellulare?</string>
     <string name="title_limit_traffic_per_day">Limite dati giornaliero</string>
     <string name="daily_limit_and_lock_screen">Limite dati e notifiche</string>
     <string name="pref_title_traffic_limit_number">Dimensione</string>
@@ -387,8 +387,8 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="connect_internet_by_mobiledata">Connessione dati</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="unable_connect_internet">Nessuna connessione internet</string>
-    <string name="enable_network">Abilita la rete prima</string>
-    <string name="disable_air_mode">Disabilita modalità aerea prima</string>
+    <string name="enable_network">Abilita prima la rete</string>
+    <string name="disable_air_mode">Disabilita prima la modalità aereo</string>
     <string name="repair">Ripara</string>
     <string name="check_network_state">Test rete</string>
     <string name="current_network_state_not_need_diagnose">La connessione internet è regolare.</string>
@@ -450,7 +450,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
 
  1. Assicurati di essere in regola con il tuo operatore. Prova ad usare la SIM card di un tuo amico e vedi se sei in grado di connetterti normalmente.
 
- 2. Se stai usando due SIM card, prova a spostarti sull\'altra e vedi se sei in grado di connetterti normalmente.
+ 2. Se stai usando due SIM card, prova a spostarti sull'altra e vedi se sei in grado di connetterti normalmente.
 
  3. Assicurati che la SIM card e lo slot per la SIM non siano danneggiati. Controlla che la SIM card sia correttamente inserita nello slot."</string>
     <string name="network_route_exception_detail">"Potrebbe esserci qualche problema con il router cui sei connesso:
@@ -486,7 +486,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
     <string name="tc_diagnostic_upload_button">Riporta</string>
     <string name="tc_diagnostic_fragment_default">"Sulla diagnostica
-1. Il dispositivo si connetterà alla rete dell\'operatore e invierà un messaggio gratuito aspettando la risposta dell\'operatore. Questo può richidere più di 5 minuti.
+1. Il dispositivo si connetterà alla rete dell'operatore e invierà un messaggio gratuito aspettando la risposta dell'operatore. Questo può richidere più di 5 minuti.
 2. Puoi chiudere questa pagina durante la diagnostica perché proseguirà anche in background."</string>
     <string name="sim_location_diagnostic">Diagnostica posizione</string>
     <string name="operator_diagnostic">Diagnostica operatore</string>
@@ -505,26 +505,26 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Risultato: Non è stato possibile completare la diagnostica&lt;br/>&lt;br/>Segnala questo problema per aiutare MIUI a migliorare gli strumenti di diagnostica&lt;/font>"</string>
     <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Risultato: Rete e marchio operatore impostati correttamente&lt;br/>&lt;br/>Impossibile completare la regolazione:&lt;br/>1. Le statistiche dell'operatore potrebbero non essere affidabile all'inizio e alla fine del mese.&lt;br/>2. L'assistente di rete non era aggiornato.&lt;br/>&lt;br/>Segnala questa uscita per aiutare MIUI a migliorare gli strumenti di diagnostica&lt;/font>"</string>
     <string name="tc_diagnostic_notification_title">Diagnostica operatore</string>
-    <string name="tc_diagnostic_notification_summary">"Impossibile regolare 5 volte di fila. Toccare per avviare la diagnostica."</string>
+    <string name="tc_diagnostic_notification_summary">"Impossibile regolare 5 volte di fila. Tocca per avviare la diagnostica."</string>
     <string name="tc_diagnostic_upload_success">Grazie per il tuo feedback!</string>
     <string name="tc_diagnostic_upload_no_network">Grazie per il tuo feedback! La tua segnalazione sarà inviata non appena ti connetti alla rete.</string>
     <string name="tc_diagnostic_location_error_notification_title">Posizione sbagliata</string>
-    <string name="tc_diagnostic_location_error_notification_summary">Toccare per aggiustare la posizione</string>
+    <string name="tc_diagnostic_location_error_notification_summary">Tocca per aggiustare la posizione</string>
     <string name="tc_diagnostic_operator_error_notification_title">Operatore sbagliato</string>
-    <string name="tc_diagnostic_operator_error_notification_summary">Toccare per aggiustare l\'operatore</string>
+    <string name="tc_diagnostic_operator_error_notification_summary">"Tocca per aggiustare l'operatore"</string>
     <string name="tc_diagnostic_brand_error_notification_title">Tipo rete sbagliata</string>
-    <string name="tc_diagnostic_brand_error_notification_summary">Toccare per aggiustare la rete</string>
+    <string name="tc_diagnostic_brand_error_notification_summary">Tocca per aggiustare la rete</string>
     <string name="tc_diagnostic_all_error_notification_title">"Impossibile completare la diagnostica"</string>
-    <string name="tc_diagnostic_all_error_notification_summary">Toccare per inviare una segnalazione</string>
+    <string name="tc_diagnostic_all_error_notification_summary">Tocca per inviare una segnalazione</string>
     <string name="tc_diagnostic_success_notification_title">Rete operatore e marca sono corretti</string>
     <string name="tc_diagnostic_success_notification_summary">Riporta questo problema per aiutare MIUI a migliorare gli strumenti per la diagnostica</string>
     <string name="tc_diagnostic_repair_success_toast">Modificato con successo</string>
     <string name="tc_diagnostic_complete">Fatto</string>
     <string name="tc_diagnostic_notification_sumarry">Toccare per vedere i risultati</string>
-    <string name="tc_diagnostic_repair_location">"<font color="#3EC234">Diagnostica completata, risolti problemi posizione.</font>"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"<font color="#3EC234">Diagnostica completa, risolti problemi posizione e operatore.</font>"</string>
-    <string name="diagnostic_attention_dialog_message">"La diagnostica per %1$s in corso. Aspetta che finisca e prova ancora."</string>
-    <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Aspetta che il processo termini e prova ancora.</string>
+    <string name="tc_diagnostic_repair_location">"<font color="#3EC234">Diagnostica completata. Risolti problemi posizione.</font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"<font color="#3EC234">Diagnostica completata. Risolti problemi posizione e operatore.</font>"</string>
+    <string name="diagnostic_attention_dialog_message">"La diagnostica per %1$s in corso. Aspetta che finisca e riprova."</string>
+    <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Aspetta che il processo termini e riprova.</string>
     <string name="text_button">OK</string>
     <string name="celcius_symbol">°C</string>
     <string name="voltage_symbol">V</string>
@@ -570,7 +570,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="battery_desc_wifi">Batteria utilizzata da Wi-Fi</string>
     <string name="battery_desc_bluetooth">Batteria utilizzata da Bluetooth</string>
     <string name="battery_desc_display">Batteria utilizzata da Display</string>
-    <string name="battery_desc_apps">"Batteria utilizzata dall'applicazione"</string>
+    <string name="battery_desc_apps">Batteria utilizzata dalle app</string>
     <string name="percentage">%d%%</string>
     <string name="usage_type_data_recv">Dati ricevuti</string>
     <string name="usage_type_data_send">Dati inviati</string>
@@ -590,7 +590,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="usage_type_wifi_running">Wi-Fi attivo</string>
     <string name="usage_type_phone">Telefono</string>
     <string name="usage_type_data_wifi_send">Dati Wi-Fi inviati</string>
-    <string name="usage_type_data_wifi_recv">WDati Wi-Fi ricevuti</string>
+    <string name="usage_type_data_wifi_recv">Dati Wi-Fi ricevuti</string>
     <string name="usage_type_audio">Audio</string>
     <string name="usage_type_video">Video</string>
     <string name="usage_type_on_time">Tempo attivazione</string>
@@ -668,7 +668,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="btn_text_goto_power_rank">Visualizza i consumi di ogni app</string>
     <string name="btn_text_goto_setup">Vai in impostazioni</string>
     <string name="power_save_title_text">Risparmio batteria</string>
-    <string name="power_save_summary_text">Attivando il risparmio batteria ridurrai le attività di background delle app,stopperai le sincronizzazioni e ridurrai al minimo le animazioni di sistema.</string>
+    <string name="power_save_summary_text">Attivando il risparmio batteria verranno ridotte le attività in background delle app, le sincronizzazioni e le animazioni di sistema.</string>
     <string name="hide_mode_title_text">Modalità nascosta</string>
     <string name="hide_mode_summary_text">Gestisci le attività di background delle app per risparmiare la batteria</string>
     <string name="hide_mode_app_background_setting_text">Risparmio batteria app</string>
@@ -679,7 +679,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="battery_charge_full">Carica</string>
     <string name="battery_charge_estimating">Calcolo…</string>
     <string name="battery_charging_prompt">In carica</string>
-    <string name="deep_save_memory_clean_summary">"Pulisci la cache quando il tuo dispositivo è bloccato per evitare l'utilizzo della batteria dalle app."</string>
+    <string name="deep_save_memory_clean_summary">"Svuota la cache quando il tuo dispositivo è bloccato per evitare l'utilizzo della batteria dalle app."</string>
     <string name="btn_text_open_now">Attiva</string>
     <string name="btn_text_already_opened">Già attivato</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Orari in cui il dispositivo sarà attivo e disattivo</string>
@@ -689,10 +689,10 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="notification_battery_consume_abnormal_title">La batteria sta scendendo molto velocemente</string>
     <string name="notification_battery_consume_abnormal_summary">%2$s di consumo della batteria negli ultimi %1$d minuti</string>
     <string name="app_check_sub_title_text">Ottimizza le app per risolvere i problemi batteria</string>
-    <string name="app_check_no_issue">Non ci sono problemi sulla batteria.Bene!</string>
+    <string name="app_check_no_issue">Non ci sono problemi sulla batteria. Bene!</string>
     <string name="app_check_reason_wakelock">Tempi di spegnimento non impostati</string>
     <string name="app_check_reason_wifi_scan">Scansioni frequenti Wi-Fi</string>
-    <string name="app_check_reason_background_gps">Gps in esecuzione in background</string>
+    <string name="app_check_reason_background_gps">GPS in esecuzione in background</string>
     <string name="app_check_reason_background_cpu">Attività di CPU in background</string>
     <string name="app_check_reason_wakeup_alarm">Schermata di blocco attivata frequentemente</string>
     <string name="app_check_optimize_title">Ottimizza le attività di background</string>
@@ -711,8 +711,8 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="power_optimize_battery_save_more">Altro</string>
     <string name="settings_battery_consume_abnormal_title">Notifiche scaricamento batteria</string>
     <string name="settings_battery_consume_abnormal_summary">Ricevi le notifiche quando la batteria scende velocemente.</string>
-    <string name="settings_battery_over_heat_title">Notifiche salute batteria</string>
-    <string name="settings_battery_over_heat_summary">Ricevi le notifiche quando il dispositivo è più caldo del normale</string>
+    <string name="settings_battery_over_heat_title">Notifiche surriscaldamento</string>
+    <string name="settings_battery_over_heat_summary">Ricevi le notifiche quando il dispositivo si surriscalda</string>
     <string name="settings_category_overheat">Riscaldamento</string>
     <string name="settings_category_other">Altre impostazioni</string>
     <string name="settings_choice_no_notification">Disattivo</string>
@@ -961,7 +961,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="pm_root_success_notification_title">Permessi root consentiti</string>
     <string name="pm_root_success_notification_infomation">Conferma di aver capito i rischi legati ai permessi di root</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
-    <string name="hints_auto_start_warning_info">"Non si riceverà nessun avviso per le app a cui è stato negato l'avvio automatico"</string>
+    <string name="hints_auto_start_warning_info">"Non riceverai le notifiche per le app a cui è stato negato l'avvio automatico"</string>
     <string name="activity_title_apps_manager">App</string>
     <string name="activity_title_permissions_manager">Permessi</string>
     <string name="dialog_title_auto_start_declare">"Info sull'avvio automatico"</string>
@@ -1008,7 +1008,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="permission_close_permission_control_dialog_title">Disattivare Gestione Permessi?</string>
     <string name="permission_close_permission_control_dialog_msg">Quando la Gestione dei Permessi è disattivata, le applicazioni non chiederanno il permesso per leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gestione Permessi disattivato</string>
-    <string name="permission_permission_control_closed_desc_dialog_msg">Le applicazioni non chiederanno il permesso di leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse.Puoi disattivare questa funzione nelle impostazioni dei Permessi.</string>
+    <string name="permission_permission_control_closed_desc_dialog_msg">Le applicazioni non chiederanno il permesso di leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse. Puoi disattivare questa funzione nelle impostazioni dei Permessi.</string>
     <string name="scanning_bar_system_title">Scansione sistema…</string>
     <string name="scanning_bar_memory_title">Scansione cache…</string>
     <string name="scanning_bar_cache_title">Scansione cestino…</string>
@@ -1069,7 +1069,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="title_garbage_lib">Aggiornamenti automatici</string>
     <string name="summary_garbage_lib">Utilizza le ultime definizioni per spyware, adware ed altri elementi indesiderati</string>
     <string name="title_permission_root">Avviso accesso root</string>
-    <string name="summary_permission_root">Il tuo dispositivo ed i dati personali contenuti in esso sono più vulnerabili ad attacchi provenienti da applicazioni con permessi root</string>
+    <string name="summary_permission_root">Il tuo dispositivo ed i dati personali in esso contenuti sono più vulnerabili ad attacchi provenienti da applicazioni con permessi root</string>
     <string name="title_app_update">Aggiornamento disponibile</string>
     <string name="title_find_device">Attiva Trova dispositivo</string>
     <string name="summary_find_device">Localizza e rintraccia il tuo dispositivo ovunque ti trovi</string>
@@ -1116,9 +1116,9 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="cmcc_app_check_dialog_negative">Più tardi</string>
     <string name="app_not_installed_toast">"L'applicazione non è installata sul tuo dispositivo."</string>
     <string name="month_report_month_report_switch">Mostra rapporto mensile</string>
-    <string name="antivirus_choose_engine_settings">Impostazioni definizione virus</string>
+    <string name="antivirus_choose_engine_settings">Impostazioni definizioni virus</string>
     <string name="antivirus_choose_engine_title">Definizioni</string>
-    <string name="antivirus_choose_engine_disable_toast">Impossibile cambiare le definizioni quando la scansione è in corso</string>
+    <string name="antivirus_choose_engine_disable_toast">Impossibile modificare le definizioni durante la scansione</string>
     <string name="antivirus_choose_engine_dialog_title">Scegli le definizioni</string>
     <string name="antivirus_choose_engine">Utilizza le definizioni da %s</string>
     <string name="antivirus_update_db">%s</string>
@@ -1128,7 +1128,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="antivirus_privacy_dialog_summary">"Questa caratteristica cifra e carica l'ID del dispositivo sul server (%s) di AVL e Tencent."</string>
     <string name="antivirus_privacy_dialog_summary_link">"visualizza l'informativa sulla Privacy"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Carica i nomi e i dettagli delle applicazioni</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">Carica e scansiona i nomi e dettagli delle app utilizzando le definizioni dei virus online.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">Carica e scansiona nomi e dettagli delle app utilizzando le definizioni dei virus online.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_more_engine_dialog_title">Attenzione</string>
     <string name="antivirus_more_engine_dialog_summary">"L'utilizzo di più definizioni virus può richiedere maggior tempo per la scansione."</string>
@@ -1195,9 +1195,9 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="convenient_summary">"Non richiedere la password dopo che un'app è stata sbloccata"</string>
     <string name="suggest_app_tolock">Suggerimenti</string>
     <string name="forget_password_button_text"><u>Password dimenticata</u></string>
-    <string name="lockpattern_need_to_unlock">Conferma la sequenza sequenza</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi sbagliati!</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Attendi %d secondi e prova di nuovi.</string>
+    <string name="lockpattern_need_to_unlock">Conferma la sequenza</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi errati!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Attendi %d secondi e riprova.</string>
     <string name="lockpassword_confirm_your_pattern_header">Conferma sequenza</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_submit_button">Accedi</string>
@@ -1217,11 +1217,11 @@ o inserisci la password"</string>
     <string name="lockpattern_recording_intro_header">Collega almeno 4 per creare una sequenza</string>
     <string name="lockpattern_pattern_entered_header">Sequenza aggiunta</string>
     <string name="lockpattern_need_to_confirm">Disegna di nuovo la sequenza per confermare</string>
-    <string name="lockpattern_need_to_unlock_wrong">Prova di nuovo</string>
+    <string name="lockpattern_need_to_unlock_wrong">Riprova</string>
     <string name="lockpattern_recording_inprogress">Togli il dito quando hai completato al sequenza</string>
     <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco</string>
     <string name="lockpassword_confirm_your_password_header">Conferma password</string>
-    <string name="lock_settings_title">Lockscreen e password</string>
+    <string name="lock_settings_title">Blocco schermo e password</string>
     <string name="access_control_recording_intro_header">Disegna sequenza per aggiungere Blocco App</string>
     <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
     <string name="recommend_app">App consigliate</string>
@@ -1231,11 +1231,11 @@ o inserisci la password"</string>
     <string name="third_application">App di terze parti</string>
     <string name="security_app_lock">Blocco applicazioni</string>
     <string name="fingerprint_verification_message">"Verifica l'impronta attuale per iniziare ad utilizzare questa funzione."</string>
-    <string name="finger_remind_message">Supporta lo sblocco con impronta digitale. Aggiungi impronta?</string>
+    <string name="finger_remind_message">Supporta lo sblocco con impronta digitale. Aggiungere impronta?</string>
     <string name="fingerprint_not_remind">Non chiedere più</string>
     <string name="fingerprint_verify_succeed">Verificata con successo</string>
     <string name="fingerprint_verify_failed">Impossibile verificare</string>
-    <string name="fingerprint_verify_try_agin">Impossibile scansionare,prova di nuovo</string>
+    <string name="fingerprint_verify_try_agin">Impossibile scansionare, riprova</string>
     <string name="cancal_to_setting_fingerprint">Annulla</string>
     <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
     <string name="fingerprint_remind_dialog_title">Sblocco con impronta</string>
@@ -1258,7 +1258,7 @@ o inserisci la password"</string>
     <string name="apps_item_title_system">Aggiornamento di sistema</string>
     <string name="apps_item_summary_system_update">Alcuni bug sono stati risolti nella nuova versione per rendere i pagamenti più sicuri.</string>
     <string name="apps_item_summary_system_rooted">Sono stati concessi i permessi di root, ripristina le impostazioni predefinite per evitare rischi.</string>
-    <string name="apps_item_summary_sms">%s ha accesso ai tuoi messaggi, questo potrebbe essere fonte di problemi di sicurezza</string>
+    <string name="apps_item_summary_sms">%s ha accesso ai tuoi messaggi, questo potrebbe creare problemi di sicurezza</string>
     <string name="button_text_update_now">Aggiorna</string>
     <string name="button_text_fix_now">Fissa</string>
     <string name="button_text_open_now">Apri</string>
@@ -1272,9 +1272,9 @@ o inserisci la password"</string>
     <string name="apps_item_virus_summary_uninstalled">Apk</string>
     <string name="apps_item_sign_install_button_text">Sostituisci</string>
     <string name="apps_item_sign_dialog_title">"Installa versione ufficiale dell'app"</string>
-    <string name="apps_item_sign_dialog_content">La firma di \"%s\ è diversa da quella nell\'App Store. Eliminare questa app ed installare la versione ufficiale? Nota: installando un\'app con una firmadiversa si potrebbe incorrere in perdite di dati.</string>
+    <string name="apps_item_sign_dialog_content">La firma di \"%s\ è diversa da quella nell\'App Store. Eliminare questa app ed installare la versione ufficiale? Nota: installando un\'app con una firma diversa si potrebbe incorrere in perdite di dati.</string>
     <string name="wifi_item_title_connection">Connessione Wi-Fi</string>
-    <string name="wifi_item_title_encryption">CRittografia Wi-Fi</string>
+    <string name="wifi_item_title_encryption">Crittografia Wi-Fi</string>
     <string name="wifi_item_title_fake">Riconosci Wi-Fi fasulle</string>
     <string name="wifi_item_title_dns">Sicurezza server DNS</string>
     <string name="wifi_item_title_arp_attack">Attacchi ARP</string>
@@ -1380,7 +1380,7 @@ o inserisci la password"</string>
     <string name="optimize_result_button_correct_now">Calibrare</string>
     <string name="optimize_result_button_cooldown_now">Raffredda ora</string>
     <string name="optimize_result_button_consume_power_analysis">Scansione batteria</string>
-    <string name="optimize_result_button_purchase_flow">Acquista altri dati mobili</string>
+    <string name="optimize_result_button_purchase_flow">Acquista altri dati cellulare</string>
     <string name="optimize_result_button_purchase">Acquista</string>
     <string name="optimize_result_button_cloudspace">Amplia spazio cloud</string>
     <string name="optimize_result_title_system_default_settings">Le impostazioni predefinite sono state modificate</string>
