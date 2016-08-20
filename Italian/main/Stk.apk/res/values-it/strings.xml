@@ -23,7 +23,7 @@
     <string name="default_send_data_msg">Invio dati</string>
     <string name="default_receive_data_msg">Ricezione dati</string>
     <string name="default_close_channel_msg">Canale chiuso</string>
-    <string name="stk_dialog_accept">SI</string>
+    <string name="stk_dialog_accept">SÌ</string>
     <string name="stk_dialog_reject">NO</string>
     <string name="no_sim_card_inserted">Si prega di inserire la SIM prima di avviare Strumenti SIM.</string>
     <string name="stk_intent_permission">Consenti Strumenti SIM</string>

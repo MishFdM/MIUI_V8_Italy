@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="prompt">%s tenta di creare una connessione VPN.</string>
-    <string name="warning">"Se procedi, concedi all'applicazione l'autorizzazione per intercettare tutto il traffico di rete. "<b>"NON accettare se non consideri l'applicazione attendibile"</b>, altrimenti corri il rischio che i tuoi dati vengano compromessi da programmi software dannosi.</string>
+    <string name="prompt">%s sta tentando di creare una connessione VPN.</string>
+    <string name="warning">"Se procedi, concedi all'applicazione l'autorizzazione ad intercettare tutto il traffico di rete. "<b>"NON accettare se non consideri l'applicazione attendibile"</b>, altrimenti i tuoi dati potrebbero essere compromessi da software dannosi.</string>
     <string name="accept">Considero questa applicazione attendibile.</string>
     <string name="legacy_title">VPN connessa</string>
     <string name="configure">Configura</string>
