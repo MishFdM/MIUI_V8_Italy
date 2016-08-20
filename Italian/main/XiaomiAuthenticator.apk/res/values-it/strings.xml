@@ -30,7 +30,7 @@
   <string name="correct_enter_password">Inserisci una password valida</string>
   <string name="correct_enter_update_password">La password inserita non è corretta</string>
   <string name="counter_pin">Ottieni codice</string>
-  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">"I tuoi dati sono stati importati con successo dalla app deprecata Xiaomi Authenticator. Ora si può disinstallare in sicurezza la versione precedente dell'app cliccando qui sotto."</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">"I tuoi dati sono stati importati con successo dalla app deprecata Xiaomi Authenticator. Ora puoi disinstallare in sicurezza la versione precedente dell'app premendo qui sotto."</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Importazione eseguita con successo</string>
   <string name="decoding_exception">Decodifica eccezione in corso</string>
   <string name="details_patternforgotten">"Resetta la password:
@@ -54,34 +54,34 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
   <string name="how_it_works_menu_item">Come funziona</string>
   <string name="howitworks_page_enter_code_details">"Questa app genererà il codice necessario per procedere con la creazione dell'account".</string>
   <string name="howitworks_page_enter_code_title">Se sei su un nuovo computer, inserisci un codice dal tuo telefono.</string>
-  <string name="howitworks_page_enter_password_details">Comunque, se sei su un nuovo computer o su un nuovo dispositivo, Xiaomi ti richiederà un codice speciale per assicurarsi che sei realmente tu.</string>
+  <string name="howitworks_page_enter_password_details">Comunque, se sei su un nuovo computer o su un nuovo dispositivo, Xiaomi ti richiederà un codice speciale per assicurarsi che sia realmente tu.</string>
   <string name="howitworks_page_enter_password_title">"Per creare l'account dovrai inserire la tua password"</string>
   <string name="howitworks_page_verify_device_details">Puoi anche scegliere di ricordare il computer, e Xiaomi non ti richiederà più il codice.</string>
   <string name="howitworks_page_verify_device_title">A questo punto il tuo account sarà stato creato</string>
   <string name="install_button">Installa</string>
   <string name="install_dialog_message">Per scansionare un codice a barre che contiene delle chiavi, devi installare lo ZXing barcode scanner.</string>
   <string name="install_dialog_title">Installare lo scanner di codici a barre?</string>
-  <string name="jump_createpattern_tip">"Saltare questa impostazione di sicurezza non è raccomandabile, saltare questo passaggio?"</string>
+  <string name="jump_createpattern_tip">"Saltare questa impostazione di sicurezza non è raccomandato. Continuare?"</string>
   <string name="jump_lockpattern_title">Nota</string>
-  <string name="jump_updatepattern_tip">Disattivazione il blocco password è un rischio per la sicurezza, ti riccomandiamo di non disattivare questa opzione.</string>
+  <string name="jump_updatepattern_tip">Disattivare il blocco password è un rischio per la sicurezza, ti raccomandiamo di non disattivare questa opzione.</string>
   <string name="lockpassword_choose_your_pattern_header">Scegli la tua sequenza</string>
   <string name="lockpassword_confirm_your_pattern_header">Conferma la tua sequenza</string>
   <string name="lockpassword_input_your_pattern_header">Conferma la tua sequenza</string>
   <string name="lockpattern_confirm_button_text">Conferma</string>
   <string name="lockpattern_continue_button_text">Continua</string>
   <string name="lockpattern_need_to_confirm">Disegna la sequenza di nuovo per confermare:</string>
-  <string name="lockpattern_need_to_confirm_wrong">Non corrisponde alla sequenza precedente, per favore riprova:</string>
+  <string name="lockpattern_need_to_confirm_wrong">Non corrisponde alla sequenza precedente, riprova:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Password errata, ti rimangono ancora %d tentativi&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Password errata, restano ancora %d tentativi&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco:</string>
+  <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di blocco:</string>
   <string name="lockpattern_pattern_entered_header">Sequenza salvata.</string>
   <string name="lockpattern_recording_incorrect_too_short">Collga almeno %d punti. Riprova:</string>
   <string name="lockpattern_recording_inprogress">Solleva il dito quando hai finito.</string>
-  <string name="lockpattern_recording_intro_header">Disegna una sequenza di sblocco:</string>
+  <string name="lockpattern_recording_intro_header">Disegna una sequenza di blocco:</string>
   <string name="lockpattern_redraw_button_text">Ridisegnala</string>
   <string name="lockpattern_retry_text">&lt;u&gt;Reimposta la sequenza&lt;/u&gt;</string>
-  <string name="lockpattern_settings_help_how_to_record">Come disegnare una sequenza di sblocco</string>
+  <string name="lockpattern_settings_help_how_to_record">Come disegnare una sequenza di blocco</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Riprova tra %d secondi.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Troppi tentativi falliti!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Annulla</string>
@@ -95,16 +95,16 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
   <string name="new_pattern_tip">Inserisci una &lt;font color=#fb3500&gt;Nuova&lt;/font&gt; sequenza di movimenti da usare come password, con almeno 4 punti connessi.</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
-  <string name="open_camera_exception_dialog_content">"Impossibile aprire l'app Fotocamera, forse devi riavviare il tuo dispositivo."</string>
+  <string name="open_camera_exception_dialog_content">"Impossibile aprire l'app Fotocamera, prova a riavviare il tuo dispositivo."</string>
   <string name="open_camera_exception_dialog_title">malfunzionamento fotocamera</string>
   <string name="opensource_page_url">http://code.xiaomi.com/p/xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Progetto open-source</string>
   <string name="original_pattern_tip">Inserisci la sequenza di movimenti &lt;font color=#fb3500&gt;originalr&lt;/font&gt; usata come password.</string>
   <string name="password_error">Autenticazione tramite password fallita</string>
   <string name="password_forget">Hai dimenticato la password?</string>
-  <string name="password_hint">Prego inserire la tua password</string>
+  <string name="password_hint">Inserisci la tua password</string>
   <string name="privacy_page_url">http://www.xiaomi.com/policies/privacy/</string>
-  <string name="privacy_preference_title">Privacy policy</string>
+  <string name="privacy_preference_title">Informativa Privacy</string>
   <string name="progress_loading">Caricamento in corso…</string>
   <string name="remove_Xiaomi_account_dialog_message">Rimuovendo questo account &lt;b&gt;perderai la possibilità&lt;/b&gt; di generare dei codici, comunque questo &lt;b&gt;non&lt;/b&gt; disattiverà la verifica in 2 passi. Questo potrebbe impedirti di accedere al tuo account. &lt;p&gt; Prima di procedere con la rimozione: &lt;ul&gt; &lt;li&gt;Disattivare la verifica in 2 passi per questo account, oppure &lt;/li&gt; &lt;li&gt;Assicurati di avere un meccanismo alternativo per la generazione dei codici.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account_dialog_button_remove">Rimuovi account</string>
@@ -131,7 +131,7 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
   <string name="timesync_about_feature_screen_title">Informazioni su questa feature</string>
   <string name="timesync_preference_screen_summary">"Sincronizza l'orologio interno di Authenticator con i server"</string>
   <string name="timesync_preference_screen_title">Correzione orario per i codici</string>
-  <string name="timesync_sync_now_connectivity_error_dialog_details">Si è verificato un problema nel contattare il server. Si prega di verificare le impostazioni di rete e riprovare.</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">Si è verificato un problema nel contattare il server. Verifica le impostazioni di rete e riprova.</string>
   <string name="timesync_sync_now_connectivity_error_dialog_title">Sincronizza ora</string>
   <string name="timesync_sync_now_preference_title">Sincronizza ora</string>
   <string name="timesync_sync_now_progress_dialog_details">Connessione al server in corso…</string>
@@ -143,11 +143,11 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
 
 La data e l'ora impostati sul dispositivo non sono stati modificati."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Orario aggiornato</string>
-  <string name="tip1_patternforgotten">"Disintalla il token di sicurezza dell'account, re-installa e attiva"</string>
-  <string name="tip2_patternforgotten">Cliccare il pulsante qui sotto "Reimposta ora" per iniziare il recupero della tua password</string>
+  <string name="tip1_patternforgotten">"Disintalla il token di sicurezza dell'account, reinstalla e attiva"</string>
+  <string name="tip2_patternforgotten">Premi il pulsante "Reimposta ora" per recuperare la tua password</string>
   <string name="tip_lockpattern">Proteggi il tuo token con una sequenza di blocco.</string>
-  <string name="title_change_lockpattern">Configuraz sequenza di blocco</string>
-  <string name="title_createpattern">Crea password a sequenza </string>
+  <string name="title_change_lockpattern">Config. sequenza di blocco</string>
+  <string name="title_createpattern">Crea password a sequenza</string>
   <string name="title_forgetpattern">Password dimenticata</string>
   <string name="title_gesture">Sequenza di blocco</string>
   <string name="title_lockpattern">Richiesta sequenza di blocco</string>
@@ -164,7 +164,7 @@ Ecco cosa puoi fare: "</string>
   <string name="update_pattern_jump">&lt;u&gt;Chiudi blocco password&lt;/u&gt;</string>
   <string name="version_preference_title">Versione</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;Nota: &lt;/font&gt; Non cancellare il tuo token altrimenti non potrai eseguire l'accesso."</string>
-  <string name="welcome_page_details">"- proteggi il tuo account da furti.
+  <string name="welcome_page_details">"- proteggi il tuo account dai furti.
 - Mantieni il tuo account sicuro."</string>
   <string name="welcome_page_title">Sicurezza Mi Account</string>
 </resources>
