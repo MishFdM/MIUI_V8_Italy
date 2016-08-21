@@ -2675,7 +2675,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="sim_cellular_data_unavailable_summary">Tocca per selezionare una SIM dati</string>
     <string name="sim_calls_always_use">Usa sempre questa SIM per le chiamate</string>
     <string name="select_sim_for_data">Scegli la SIM per i dati</string>
-    <string name="data_switch_started">Cambio la SIM per i dati, attendere…</string>
+    <string name="data_switch_started">Modifico la SIM per i dati, attendere…</string>
     <string name="select_sim_for_calls">Chiama con</string>
     <string name="sim_select_card">Seleziona una SIM</string>
     <string name="sim_card_number_title">SIM %1$d</string>
@@ -2753,7 +2753,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="status_invalid_password">Password non valida. Riprova.</string>
     <string name="status_write_success">Con successo!</string>
     <string name="status_failed_to_write">Impossibile scrivere i dati su un Tag NFC. Se il problema persiste, prova su un tag diverso</string>
-    <string name="status_tag_not_writable">Tag NFC non scrivibile. Si prega di usare un tag differente.</string>
+    <string name="status_tag_not_writable">Tag NFC non modificabile. Usa un tag differente.</string>
     <string name="default_sound">Suoni predefiniti</string>
     <string name="notification_settings">Suoni e notifiche</string>
     <string name="media_volume_option_title">Media</string>
@@ -2874,18 +2874,18 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="restr_pin_enter_admin_pin">Inserisci PIN amministratore</string>
     <string name="switch_on_text">Attivato</string>
     <string name="switch_off_text">Disattivato</string>
-    <string name="screen_pinning_title">Blocca su schermo</string>
-    <string name="screen_pinning_description">"Quando attivato, blocca su schermo fissa la visualizzazione attuale sullo schermo.
+    <string name="screen_pinning_title">Mantieni su schermo</string>
+    <string name="screen_pinning_description">"Quando attivo, Mantieni su schermo fissa la visualizzazione attuale sullo schermo.
 
-Per blocca su schermo:
+Come usare Mantieni su schermo:
 
-1. Assicurati che blocca su schermo sia attivato.
+1. Assicurati che Mantieni su schermo sia attivato
 
-2. Apri un'app.
+2. Apri un'app
 
 3. Tocca il pulsante Recenti
 
-4. Tocca l'icona della puntina."</string>
+4. Tocca l'icona della puntina"</string>
     <string name="screen_pinning_unlock_pattern">Richiedi sequenza di sblocco prima di sbloccare</string>
     <string name="screen_pinning_unlock_pin">Richiedi PIN per lo sblocco</string>
     <string name="screen_pinning_unlock_password">Richiedi password prima di sbloccare</string>
@@ -2929,9 +2929,9 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="encrypt_talkback_dialog_require_pin">Richiedere PIN?</string>
     <string name="encrypt_talkback_dialog_require_pattern">Richiedere sequenza?</string>
     <string name="encrypt_talkback_dialog_require_password">Richiedere password?</string>
-    <string name="encrypt_talkback_dialog_message_pin">Quando si inserisce il codice PIN per avviare questo dispositivo, i servizi di accessibilità come %1$s non saranno ancora disponibili.</string>
-    <string name="encrypt_talkback_dialog_message_pattern">Quando si inserisce la sequenza di sblocco per avviare questo dispositivo, i servizi di accessibilità come %1$s non saranno ancora disponibili.</string>
-    <string name="encrypt_talkback_dialog_message_password">Quando si inserisce la password per avviare questo dispositivo, i servizi di accessibilità come %1$s non saranno ancora disponibili.</string>
+    <string name="encrypt_talkback_dialog_message_pin">Quando si inserisce il codice PIN per avviare il dispositivo, i servizi di accessibilità come %1$s saranno disponibili solo dopo lo sblocco.</string>
+    <string name="encrypt_talkback_dialog_message_pattern">Quando si inserisce la sequenza di sblocco per avviare il dispositivo, i servizi di accessibilità come %1$s saranno disponibili solo dopo lo sblocco.</string>
+    <string name="encrypt_talkback_dialog_message_password">Quando si inserisce la password per avviare il dispositivo, i servizi di accessibilità come %1$s saranno disponibili solo dopo lo sblocco.</string>
     <string name="imei_information_summary">"Informazioni relative all'IMEI"</string>
     <string name="slot_number">(Slot %1$d)</string>
     <string name="launch_by_default">Apri predefinita</string>
@@ -3022,9 +3022,9 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="high_power_on">Ottimizzazione utilizzo batteria ignorata</string>
     <string name="high_power_off">Ottimizzazione utilizzo batteria attiva</string>
     <string name="high_power_system">Ottimizzazione del consumo non disponibile</string>
-    <string name="high_power_desc">Non applicare le ottimizzazioni del consumo di batteria. Può comportare un più rapido scaricamento della batteria.</string>
+    <string name="high_power_desc">Non applicare le ottimizzazioni del consumo di batteria. Il consumo di batteria potrebbe aumentare.</string>
     <string name="high_power_prompt_title">Vuoi ignorare le ottimizzazioni del consumo?</string>
-    <string name="high_power_prompt_body">Vuoi consentire a %1$s di rimanere connessa in background? Potrebbe aumentare il consumo della batteria.</string>
+    <string name="high_power_prompt_body">Vuoi consentire a %1$s di rimanere connessa in background? Il consumo di batteria potrebbe aumentare.</string>
     <string name="battery_summary">"%1$d%% utilizzo dall'ultima ricarica completa"</string>
     <string name="no_battery_summary">"Nessun utilizzo della batteria dall'ultima ricarica completa"</string>
     <string name="app_notification_preferences">Impostazioni app</string>
@@ -3043,7 +3043,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="assist_access_context_summary">Consenti alle app di assistenza di accedere al contenuto dello schermo come testo</string>
     <string name="assist_access_screenshot_title">Utilizza screenshot</string>
     <string name="assist_access_screenshot_summary">"Consenti alle app di assistenza di accede all'immagine dello schermo"</string>
-    <string name="assist_footer">Le app di assistenza possono aiutarti in base alle informazioni tratte dalle schermate che stai visualizzando. Alcune app supporto sia il launcher che i servizi di immissione vocale per fornirti assistenza maggiormente integrata.</string>
+    <string name="assist_footer">Le app di assistenza possono aiutarti in base alle informazioni tratte dalle schermate che stai visualizzando. Alcune app supportano sia il launcher che i servizi di immissione vocale per fornirti assistenza maggiormente integrata.</string>
     <string name="average_memory_use">Media memoria utilizzata</string>
     <string name="maximum_memory_use">Massimo memoria utilizzata</string>
     <string name="memory_usage">Memoria occupata</string>
@@ -3061,8 +3061,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="running_frequency">Frequenza</string>
     <string name="memory_maximum_usage">Massimo utilizzo</string>
     <string name="no_data_usage">Nessun dato usato</string>
-    <string name="zen_access_warning_dialog_title">"Vuoi consentire l'accesso alla Modalità Anti-disturbo a %1$s?"</string>
-    <string name="zen_access_warning_dialog_summary">"L'app sarà in grado di attivare e disattivare la Modalità Anti-disturbo e modificare le relative impostazioni."</string>
+    <string name="zen_access_warning_dialog_title">"Vuoi consentire l'accesso alla Modalità Non disturbare a %1$s?"</string>
+    <string name="zen_access_warning_dialog_summary">"L'app sarà in grado di attivare e disattivare la Modalità Non disturbare e modificare le relative impostazioni."</string>
     <string name="ignore_optimizations_on">Non ottimizzare</string>
     <string name="ignore_optimizations_off">Ottimizza</string>
     <string name="ignore_optimizations_on_desc">Può scaricare la batteria più rapidamente</string>
@@ -3521,7 +3521,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="path_xiaomi_money_service">App</string>
     <string name="debug_log">Programma esperienza utente</string>
     <string name="upload_debug_log_title">Programma esperienza utente</string>
-    <string name="upload_debug_log_summary">"Aiuta Xiaomi a migliorare i suoi prodotti ed i suoi servizi inviando dati anonimi di diagnostica e sull'utilizzo"</string>
+    <string name="upload_debug_log_summary">"Aiuta Xiaomi a migliorare i suoi prodotti ed i suoi servizi inviando dati anonimi di diagnostica e utilizzo"</string>
     <string name="sound_vibrate_settings">Suoni e vibrazione</string>
     <string name="device_miui_version">Versione MIUI</string>
     <string name="device_cpu">CPU</string>
@@ -3939,7 +3939,7 @@ ed esegui il software."</string>
     <string name="drive_mode_calling_auto_sms_reply">Risposta alle chiamate</string>
     <string name="drive_mode_sms_auto_sms_reply">Risposta agli SMS</string>
     <string name="drive_mode_only_contact_reply">Rispondi solo ai tuoi contatti</string>
-    <string name="drive_mode_auto_sms_reply_content">Non posso parlare ora. Ti chiamo più tardi</string>
+    <string name="drive_mode_auto_sms_reply_content">Non posso parlare ora. Ti richiamo più tardi</string>
     <string name="drive_mode_auto_sms_reply_content_title">Risposta rapida</string>
     <string name="clear_activities_summary">Usa questa app come predefinita per alcune operazioni</string>
     <string name="permission_detail_info">Dettagli permessi</string>
@@ -4034,7 +4034,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="internal_media_format_button_text">Formatta memoria interna</string>
     <string name="internal_media_format_title">Formatta memoria interna</string>
     <string name="internal_format">Formatta memoria interna</string>
-    <string name="internal_format_summary">Elimina tutti i dati sulla tua memoria interna</string>
+    <string name="internal_format_summary">Elimina tutti i dalla memoria interna</string>
     <string name="wifi_tether_setting_title">Impostazioni base</string>
     <string name="audio_profile_settings_title">Profili audio</string>
     <string name="enable_wifi_display">Abilita schermo wireless</string>
@@ -4053,7 +4053,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wifi_configured_ap_list">"Punti d'accesso configurati in precedenza"</string>
     <string name="wifi_priority_label">Priorità</string>
     <string name="wifi_available_title">Connettiti al Wi-Fi</string>
-    <string name="msg_wlan_signal_found">"È disponibile punto d'accesso Wi-Fi %s, vuoi connetterti ora?"</string>
+    <string name="msg_wlan_signal_found">"È disponibile un punto d'accesso Wi-Fi %s, vuoi connetterti ora?"</string>
     <string name="wifi_signal_found_msg">"Punto d'accesso Wi-Fi disponibile, vuoi connetterti ora?"</string>
     <string name="miui_data_usage_menu_metered">Hotspot Dati cellulare</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
@@ -4387,7 +4387,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="page_layout_page2_large_summary">Grande</string>
     <string name="page_layout_page2_huge_summary">Molto grande</string>
     <string name="page_layout_page2_godzilla_summary">XXL</string>
-    <string name="oldman_mode_summary_cta">La Modalità Semplificata deve per collegarsi ad internet ed accedere ai tuoi contatti, messaggi e posizione per funzionare correttamente.</string>
+    <string name="oldman_mode_summary_cta">La Modalità Semplificata deve collegarsi ad internet ed accedere ai tuoi contatti, messaggi e posizione per funzionare correttamente.</string>
     <string name="page_layout_32">Play Store</string>
     <string name="page_layout_33">Google</string>
     <string name="zen_mode_option_miui_silent">Modalità silenziosa</string>
