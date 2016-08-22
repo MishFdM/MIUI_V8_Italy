@@ -2804,7 +2804,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="app_notification_block_title">Blocca tutto</string>
     <string name="app_notification_block_summary">Non mostrare mai notifiche da questa app</string>
     <string name="app_notification_priority_title">Priorità</string>
-    <string name="app_notification_priority_summary">Mostra le notifiche in cima alla lista e mantieni le fino quando il dispositivo è impostato solo su interruzioni di priorità</string>
+    <string name="app_notification_priority_summary">Mostra le notifiche in cima alla lista e mantienile finché il dispositivo è impostato solo su interruzioni di priorità</string>
     <string name="app_notification_peekable_title">Consenti breve visualizzazione</string>
     <string name="app_notification_peekable_summary">Consenti a questa app di mettere in evidenza determinate notifiche mostrandole brevemente nella schermata corrente</string>
     <string name="app_notification_sensitive_title">Nascondi contenuti riservati</string>
@@ -3124,10 +3124,10 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="dndm_auto_time_turn_off_title">Disattiva Non disturbare automaticamente</string>
     <string name="dndm_dlg_remove_vip">Vuoi rimuovere dalle eccezioni?</string>
     <string name="dndm_dlg_remove_ok">Rimuovi</string>
-    <string name="dndm_menu_add_vip_custom">Aggiungi eccezione</string>
+    <string name="dndm_menu_add_vip_custom">Aggiungi contatto</string>
     <string name="dndm_mute_all">Silenzia chiamate e messaggi</string>
     <string name="dndm_special_call_setting_group">Eccezioni</string>
-    <string name="dndm_vip_call_setting_title">Impostazione eccezioni</string>
+    <string name="dndm_vip_call_setting_title">Eccezioni</string>
     <string name="dndm_vip_call_setting_detal">Accetta sempre le chiamate dalle eccezioni</string>
     <string name="dndm_vip_call_summary_none">Tocca per configurare</string>
     <string name="dndm_vip_call_summary_custom">%d eccezioni</string>
@@ -3136,8 +3136,8 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="dndm_vip_list_group">Lista eccezioni</string>
     <string name="dndm_vip_list_all">Tutti</string>
     <string name="dndm_vip_list_contact">Tutti i contatti</string>
-    <string name="dndm_vip_list_starred_contact">Favorites</string>
-    <string name="dndm_vip_list_custom">Eccezioni</string>
+    <string name="dndm_vip_list_starred_contact">Preferiti</string>
+    <string name="dndm_vip_list_custom">Personalizzata</string>
     <string name="dndm_vip_list_custom_group">Eccezioni</string>
     <string name="dndm_repeated_call_setting_title">Chiamate ripetute</string>
     <string name="dndm_repeated_call_summary_none">Silenzia chiamate ripetute dallo stesso numero</string>
@@ -3719,7 +3719,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="activating">Attivazione in corso\u2026</string>
     <string name="wifi_enable_watchdog_service_summary">Evita connessioni di scarsa qualità</string>
     <string name="wifi_disabled_help">Wi-Fi disconnesso a causa della scarsa qualità della connessione</string>
-    <string name="wifi_wps_overlap_error">"È stata rilevata un'altra sessione Wi-Fi. Riprova fra qualche minuto."</string>
+    <string name="wifi_wps_overlap_error">"È stata rilevata un'altra sessione Wi-Fi. Riprova più tardi."</string>
     <string name="wifi_p2p_wps_setup">Impostazione WPS</string>
     <string name="default_input_method">Scegli tastiera</string>
     <string name="locale_settings">Paese</string>
@@ -3862,7 +3862,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="wfd_settings_title">Schermo wireless</string>
     <string name="wfd_settings_description">Connessione ad uno schermo wireless</string>
     <string name="wfd_enabler_title">Abilita schermo wireless</string>
-    <string name="wfd_enable_wifi_diag_title">È possibile usare uno schermo wireless solo quando il Wi-Fi è abilitato. Vuoi abilitarlo ora?</string>
+    <string name="wfd_enable_wifi_diag_title">È possibile usare uno schermo wireless solo quando il Wi-Fi è abilitato. Abilitare ora?</string>
     <string name="wfd_menu_search">Cerca dispositivi</string>
     <string name="wfd_menu_searching">Ricerca in corso\u2026</string>
     <string name="wfd_menu_teardown">Ferma</string>
@@ -4057,8 +4057,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wifi_signal_found_msg">"Punto d'accesso Wi-Fi disponibile, vuoi connetterti ora?"</string>
     <string name="miui_data_usage_menu_metered">Hotspot Dati cellulare</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
-    <string name="wifi_enable_data_and_wifi_roam">Dati e Wi-Fi roaming</string>
-    <string name="wifi_enable_data_and_wifi_roam_summary">Passa alla connessione dati quando la connessione dati e il Wi-Fi sta tentando di collegarsi e il Wi-Fi non può accedere a internet.</string>
+    <string name="wifi_enable_data_and_wifi_roam">Roaming Dati e Wi-Fi</string>
+    <string name="wifi_enable_data_and_wifi_roam_summary">Passa alla connessione dati quando la connessione dati e il Wi-Fi provano a collegarsi e il Wi-Fi non può accedere a internet.</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi scegli il contenuto che vuoi inviare.</string>
     <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
@@ -4089,7 +4089,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wifi_share_connected_title">Wi-Fi condiviso MIUI</string>
     <string name="wifi_share_connected_summary">Sei connesso ad una rete Wi-Fi pubblica che è stata condivisa da un altro utente</string>
     <string name="wifi_share_action_turn_on">Condivisione Wi-Fi</string>
-    <string name="wifi_share_action_turn_on_summary">Accedi al tuo account Xiaomi per condividere</string>
+    <string name="wifi_share_action_turn_on_summary">Accedi al tuo Mi Account per condividere</string>
     <string name="wifi_share_action_turn_off">Interrompi la condivisione reti</string>
     <string name="wifi_share_list_empty">Nessuna rete condivisa trovata.</string>
     <string name="wifi_share_connect">Connetti</string>
@@ -4119,7 +4119,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="hdmi_3d_help_title">"Info sul supporto all'HDMI 3D stereoscopico"</string>
     <string name="power_mode_balanced_title">Abilita alimentazione bilanciata</string>
     <string name="usb_host_mode_text">Abilita modalità host USB</string>
-    <string name="usb_host_mode_subtext">Usare dei controller per il gioco e altre periferiche tramite la porta USB potrebbe ridurre la durata della batteria</string>
+    <string name="usb_host_mode_subtext">Usare controller di gioco e altre periferiche tramite la porta USB potrebbe ridurre la durata della batteria</string>
     <string name="power_settings_title">Prestazioni del sistema</string>
     <string name="title_color_calibration">Preimpostazione correzione colore</string>
     <string name="dialog_title_color_calibration">Preimpostazione correzione colore</string>
@@ -4142,8 +4142,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="line_breaking_summary">Ottimizza testo a capo nei paragrafi</string>
     <string name="nfc_se_route_title">Posizione elemento di sicurezza</string>
     <string name="se_route_ese">Elemento di sicurezza incorporato</string>
-    <string name="se_route_uicc">Elemento di sicurezza sulla carta SIM</string>
-    <string name="current_use_uicc_se">Usando elemento di sicurezza sulla carta SIM</string>
+    <string name="se_route_uicc">Elemento di sicurezza sulla scheda SIM</string>
+    <string name="current_use_uicc_se">Usando elemento di sicurezza sulla scheda SIM</string>
     <string name="current_use_ese">Usando elemento di sicurezza incorporato</string>
     <string name="open_wifi_connect_title">Connettiti alla rete aperta %1$s</string>
     <string name="open_wifi_connect_summary">Tocca per gestire</string>
@@ -4172,7 +4172,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="xiaomi_router_available_notif_summary">Tocca per visualizzare</string> 
     <string name="accessibility_screen_magnification_enable">"Gesti per l'ingrandimento"</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Lo schermo wireless è disattivato perché il Wi-Fi è spento</string>
-    <string name="wifi_required_info_text">Per poter completare la configurazione il dispositivo deve poter accedere ad una rete Wi-Fi. Dopo la configurazione potrai passare dalla connessione dati alla rete Wi-Fi e viceversa.</string>
+    <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere ad una rete Wi-Fi. Dopo la configurazione potrai passare dalla connessione dati alla rete Wi-Fi e viceversa.</string>
     <string name="toast_need_login">Accedi al tuo Mi Account</string>
     <string name="preferred_app_settings">App predefinite</string>
     <string name="preferred_app_settings_default">Predefinita</string>
@@ -4194,7 +4194,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="no_update_found">"Hai già l'ultima versione: "</string>
     <string name="no_updates_found">"Stai già usando l'ultima versione di MIUI."</string>
     <string name="no_updates_warning">Nessun aggiornamento disponibile.</string>
-    <string name="no_updates_warning2">"Rilassati, ti avviseremo se c'è un aggiornamento."</string>
+    <string name="no_updates_warning2">"Tranquillo, ti avviseremo se c'è un aggiornamento."</string>
     <string name="network_error">Errore di rete.</string>
     <string name="checking_for_updates">Ricerca aggiornamenti in corso\u2026</string>
     <string name="rebootiing_for_updates">Riavvio in corso\u2026</string>
@@ -4398,7 +4398,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="miui_allow_vibrate">Vibrazione</string>
     <string name="miui_allow_light">Led di notifica</string>
     <string name="zen_mode_phone_calls">Chiamate</string>
-    <string name="zen_mode_important_category">Interruzioni di priorità</string>
+    <string name="zen_mode_important_category">Priorità</string>
     <string name="zen_mode_alarm_use">Suoni</string>
     <string name="location_agps_register_network_type_summary">"Seleziona le rete per l'utilizzo di A-GPS"</string>
     <string name="agps_roaming">A-GPS in roaming</string>
@@ -4458,7 +4458,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="edge_mode_back">Vai indietro</string>
     <string name="edge_mode_clean">Svuota la cache di sistema</string>
     <string name="edge_mode_screenshot">Screenshot</string>
-    <string name="edge_mode_photo_summary">Quando sei nella fotocamera tocca il bordo per mettere a fuoco e premi di nuovo per scattare la foto</string>
+    <string name="edge_mode_photo_summary">Quando sei nella fotocamera, tocca il bordo per mettere a fuoco e premi di nuovo per scattare la foto</string>
     <string name="edge_mode_back_summary">Tocca due volte il bordo per tornare indietro</string>
     <string name="edge_mode_clean_summary">Scorri su entrambi i bordi per svuotare la cache di sistema</string>
     <string name="edge_mode_screenshot_summary">Tocca due volte entrambi i bordi per eseguire uno screenshot</string>
@@ -4472,9 +4472,9 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="crypt_keeper_content_title">Cripta il dispositivo</string>
     <string name="crypt_keeper_content">Puoi criptare account, impostazioni, app scaricate e relativi dati, file multimediali e altri file.</string>
     <string name="crypt_keeper_decrypt_methods_title">Decriptazione del tuo dispositivo</string>
-    <string name="crypt_keeper_decrypt_methods">"Dopo aver criptato il tuo telefono, partendo dal presupposto che tu abbia impostato la schermata di blocco (cioè una sequenza, un PIN o una password), dovrai sbloccare lo schermo per decriptare il telefono ogni volta che lo accendi. L'unico altro modo per decriptarlo è eseguire un ripristino di fabbrica, eliminando così tutti i tuoi dati"</string>
+    <string name="crypt_keeper_decrypt_methods">"Dopo aver criptato il tuo dispositivo e impostato il Blocco schermo (cioè una sequenza, un PIN o una password), dovrai sbloccare lo schermo per decriptare il dispositivo ogni volta che lo accendi. L'unico altro modo per decriptarlo è eseguire un ripristino di fabbrica, eliminando così tutti i tuoi dati"</string>
     <string name="crypt_keeper_conditions_title">Info sulla criptazione del tuo dispositivo</string>
-    <string name="crypt_keeper_conditions">"La criptazione richiede un'ora o anche più. Devi iniziare quando hai la batteria carica e mantenere il telefono collegato alla corrente per tutta la durata dell'operazione. Se lo interrompi, perderai alcuni o anche tutti i tuoi dati."</string>
+    <string name="crypt_keeper_conditions">"La criptazione richiede un'ora o anche più. Inizia quando la batteria è carica e mantieni il dispositivo collegato alla corrente per tutta la durata dell'operazione. Se lo interrompi, perderai alcuni o anche tutti i tuoi dati."</string>
     <string name="application_lock_name">Blocco applicazioni</string>
     <string name="connecting_to_vpn">Connetto alla VPN</string>
     <string name="vpn_on">ON</string>
