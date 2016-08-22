@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Gestione Permessi</string>
-    <string name="Generic_Copyright">Powered by team LBE</string>
+    <string name="Generic_Copyright">Supportato da team LBE</string>
     <string name="Generic_Version">Versione: %1$s</string>
     <string name="Generic_Configuration">Impostazioni</string>
     <string name="Generic_UserApp">App Scaricate (%d)</string>
@@ -26,7 +26,7 @@
     <string name="Generic_Clean">Cancella</string>
     <string name="Generic_Good">Buono</string>
     <string name="Generic_Update">Aggiornamento Software</string>
-    <string name="Generic_Shortcut">Menu contestuale</string>
+    <string name="Generic_Shortcut">Menù contestuale</string>
     <string name="HIPS_Action_Accept">Consenti</string>
     <string name="HIPS_Action_Prompt">Chiedi</string>
     <string name="HIPS_Action_Reject">Nega</string>
@@ -266,7 +266,7 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Accesso hardware near field communication (NFC)</string>
     <string name="HIPS_Perm_install_shortcut">Collegamenti home</string>
-    <string name="HIPS_Perm_install_shortcut_Desc">Aggiungi collegamenti alla home Home</string>
+    <string name="HIPS_Perm_install_shortcut_Desc">Aggiungi collegamenti alla Home</string>
     <string name="HIPS_Perm_read_notification_sms">Servizi SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Leggere Servizi SMS</string>
     <string name="HIPS_Perm_get_tasks">Recupera operazioni</string>
@@ -282,8 +282,8 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="ok">OK</string>
     <string name="default_permission_description">"eseguire un'operazione sconosciuta"</string>
     <string name="location_settings">Impostazioni posizione</string>
-    <string name="location_warning">"%1$s è un provider di servizi di localizzazione per questo dispositivo. L'acesso alla posizione può essere modificato nelle impostazioni di localizzazione."</string>
-    <string name="permission_request_title">Richiesta autoriazzazione</string>
+    <string name="location_warning">"%1$s è un provider di servizi di localizzazione per questo dispositivo. L'accesso alla posizione può essere modificato nelle impostazioni di localizzazione."</string>
+    <string name="permission_request_title">Richiesta autorizzazione</string>
     <string name="permission_warning_template">Consentire a %1$s di %2$s ?</string>
     <string name="screen_overlay_title">Sovrapposizione schermo rilevato</string>
     <string name="screen_overlay_message">Per modificare queste impostazioni di autorizzazione, devi prima disattivare la sovrapposizione dello schermo da Impostazioni > Applicazioni</string>

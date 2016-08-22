@@ -19,7 +19,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="button_send">Invia</string>
     <string name="backup_empty">Nessun backup trovato</string>
     <string name="backup_items_sysdata_tailer">" Dati Sistema, "</string>
-    <string name="backup_items_app_tailer">" Dati Apps "</string>
+    <string name="backup_items_app_tailer">" Dati App "</string>
     <string name="backup_failed">Backup fallito, riprova</string>
     <string name="sdcard_unmounted">Scheda SD non trovata.</string>
     <string name="backup_progress">Creazione backup in corso…</string>
@@ -137,7 +137,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="local_select_userapp">Applicazioni</string>
     <string name="local_select_account_contact">Account / Contatti</string>
     <string name="local_select_files">Scheda SD</string>
-    <string name="local_select_image">Immmagini</string>
+    <string name="local_select_image">Immagini</string>
     <string name="local_select_audio">Audio</string>
     <string name="local_select_video">Video</string>
     <string name="local_select_doc">Documenti</string>
@@ -162,7 +162,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="restore">Ripristino</string>
     <string name="cloud_last_backup">Ultimo backup:</string>
     <string name="cloud_search">Ricerca Online…</string>
-    <string name="cloud_no_backup">Nessu backup online</string>
+    <string name="cloud_no_backup">Nessun backup online</string>
     <string name="current_account">Accesso come: %s</string>
     <string name="current_sim">SIM card</string>
     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
@@ -183,10 +183,10 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su dispositivi di altre marche</string>
     <string name="guarded_mode_dialog_title">Sei in modalità Ospite</string>
-    <string name="guarded_mode_dialog_backup_message">I backup non sono ocnsentiti in modalità Ospite</string>
+    <string name="guarded_mode_dialog_backup_message">I backup non sono consentiti in modalità Ospite</string>
     <string name="guarded_mode_dialog_transfer_message">Impossibile utilizzare Mi Mover in modalità Ospite</string>
     <string name="multi_user_mode_dialog_title">Sei in modalità Multi-utente</string>
-    <string name="multi_user_mode_dialog_message">Non puoi utilizzare Mi Mover in modalità Multi-utente. Disttiva la modalità Multi-utente per contnuare.</string>
+    <string name="multi_user_mode_dialog_message">Non puoi utilizzare Mi Mover in modalità Multi-utente. Disattiva la modalità Multi-utente per contnuare.</string>
     <string name="multi_user_mode_backup_message">Impossibile utilizzare il Backup in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare.</string>
     <string name="multi_select_title">Selezionati %1$s elemento(i)</string>
     <string name="enable_encrypt_title">Crittografia abilitata</string>
