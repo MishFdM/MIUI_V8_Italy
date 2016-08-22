@@ -3966,7 +3966,7 @@ ed esegui il software."</string>
     <string name="screen_paper_mode_turn_off">Disattivata</string>
     <string name="screen_paper_mode_apps_title">Utilizza la modalità Lettura per queste applicazioni</string>
     <string name="screen_paper_mode_off_apps_title">Non utilizzare la modalità Lettura per queste applicazioni</string>
-    <string name="screen_paper_mode_adjust_level">Livello</string>
+    <string name="screen_paper_mode_adjust_level">Intensità</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Aggiorna automaticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Aggiorna la lista delle applicazioni compatibili con la modalità Lettura</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termini e Condizioni</string>
@@ -3982,7 +3982,7 @@ ed esegui il software."</string>
     <string name="screen_paper_mode_apps_loading">Solo un attimo\u2026</string>
     <string name="screen_resolution_title">Risoluzione dello schermo</string>
     <string name="screen_resolution_switch">Modifica risoluzione</string>
-    <string name="screen_resolution_summary">Diminuire la risoluzione dello schermo può aumentare la durata della batteria e la velocità del sistema, ma le immagini appariranno meno definite. Devi riavviare per applicare la modifica.</string>
+    <string name="screen_resolution_summary">Diminuendo la risoluzione dello schermo aumenta la durata della batteria e la velocità del sistema, ma le immagini appariranno meno definite. Devi riavviare per applicare la modifica.</string>
     <string name="screen_resolution_confirm">Riavvia</string>
     <string name="finish_application">Fine</string>
     <string name="header_category_accounts">Account</string>
@@ -4007,8 +4007,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router supporti il WPS e che sia abilitato</string>
     <string name="retry">Riprova</string>
-    <string name="brightness_auto_adjust_off">La luminosità dello schermo rimarrà invariata in ogni condizione di luce</string>
-    <string name="brightness_auto_adjust_on">La luminosità dello schermo varierà in base alla luce ambientale</string>
+    <string name="brightness_auto_adjust_off">La retroilluminazione rimarrà invariata in ogni condizione di luce</string>
+    <string name="brightness_auto_adjust_on">La retroilluminazione varierà in base alla luce ambientale</string>
     <string name="private_sms_need_to_unlock">Password richiesta:</string>
     <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
