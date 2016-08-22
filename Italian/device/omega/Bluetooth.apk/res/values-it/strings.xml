@@ -62,9 +62,7 @@
     <string name="bt_enable_cancel">Annulla</string>
     <string name="bt_enable_ok">Attiva</string>
     <string name="incoming_file_confirm_title">Trasferimento file</string>
-    <string name="incoming_file_confirm_content">"\"%1$s\" vuole inviarti %2$s (%3$s). 
-
- Accetti il file?"</string>
+    <string name="incoming_file_confirm_content">Accettare il file in arrivo?</string>
     <string name="incoming_file_confirm_cancel">Rifiuta</string>
     <string name="incoming_file_confirm_ok">Accetta</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
@@ -186,4 +184,18 @@
     <string name="noti_caption">%1$s operazioni riuscite, %2$s operazioni non riuscite.</string>
     <string name="airplane_can_not_share">Impossibile condividere tramite bluetooth in modalità Aereo"</string>
     <string name="bluetooth_in_airplane_mode">In modalità Aereo</string>
+    <string name="bluetooth_dun_authorize_title">Autorizzazione Dial-up Bluetooth</string>
+    <string name="bluetooth_dun_authorize_message">Autorizzazione la connessione Dial-up da %1$s?</string>
+    <string name="bluetooth_dun_authorize_allow">Accetta</string>
+    <string name="bluetooth_dun_authorize_decline">Rifiuta</string>
+    <string name="bluetooth_dun_notification_connect_request_ticker">Richiesta autorizzazione Dial-up Bluetooth</string>
+    <string name="bluetooth_dun_notification_connect_request_title">Autorizzazione Dial-up Bluetooth</string>
+    <string name="bluetooth_dun_notification_connect_request_message">Accetta la richiesta da %1$s</string>
+    <string name="too_much_file_sent">Al massimo %1$s file alla volta</string>
+    <string name="panu_no_need_connect">Impossibile usare il tethering Bluetooth quando connesso al Wi-Fi</string>
+    <string name="panu_disconnect_while_wifi_connected">Tethering Bluetooth disconnesso</string>
+    <string name="notify_need_on_BT_before_retry">Bluetooth disattivato. Abilita il Bluetooth prima di riprovare</string>
+    <string name="sim_selected_dialog_title">Seleziona SIM</string>
+    <string name="empty_sub_name">Slot SIM %1$d</string>
+    <string name="suggested">Consigliati</string>
 </resources>
