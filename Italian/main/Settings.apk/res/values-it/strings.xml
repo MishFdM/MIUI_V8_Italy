@@ -4396,7 +4396,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="miui_allow_music">Musica</string>
     <string name="miui_allow_alarm">Sveglia</string>
     <string name="miui_allow_vibrate">Vibrazione</string>
-    <string name="miui_allow_light">Led di notifica</string>
+    <string name="miui_allow_light">LED di notifica</string>
     <string name="zen_mode_phone_calls">Chiamate</string>
     <string name="zen_mode_important_category">Priorità</string>
     <string name="zen_mode_alarm_use">Suoni</string>
