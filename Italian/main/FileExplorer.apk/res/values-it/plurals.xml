@@ -25,20 +25,20 @@
         <item quantity="many">%d elementi</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">Ancora %1$d file da scaricare</item>
-        <item quantity="zero">Ancora %1$d file da scaricare</item>
-        <item quantity="one">Ancora %1$d file da scaricare</item>
-        <item quantity="two">Ancora %1$d file da scaricare</item>
-        <item quantity="few">Ancora %1$d file da scaricare</item>
-        <item quantity="many">Ancora %1$d file da scaricare</item>
+        <item quantity="other">Restano %1$d file da scaricare</item>
+        <item quantity="zero">Restano %1$d file da scaricare</item>
+        <item quantity="one">Resta %1$d file da scaricare</item>
+        <item quantity="two">Restano %1$d file da scaricare</item>
+        <item quantity="few">Restano %1$d file da scaricare</item>
+        <item quantity="many">Restano %1$d file da scaricare</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">Ancora %1$d file da caricare</item>
-        <item quantity="zero">Ancora %1$d file da caricare</item>
-        <item quantity="one">Ancora %1$d file da caricare</item>
-        <item quantity="two">Ancora %1$d file da caricare</item>
-        <item quantity="few">Ancora %1$d file da caricare</item>
-        <item quantity="many">Ancora %1$d file da caricare</item>
+        <item quantity="other">Restano %1$d file da caricare</item>
+        <item quantity="zero">Restano %1$d file da caricare</item>
+        <item quantity="one">Resta %1$d file da caricare</item>
+        <item quantity="two">Restano %1$d file da caricare</item>
+        <item quantity="few">Restano %1$d file da caricare</item>
+        <item quantity="many">Restano %1$d file da caricare</item>
     </plurals>
     <plurals name="ui_bar_txt_transport_progress">
         <item quantity="other">%1$d file da trasferire</item>
@@ -193,12 +193,12 @@
         <item quantity="many">%1$d file Video di WeChat stanno per scadere</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
-        <item quantity="zero">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
-        <item quantity="one">%1$d file Video di WeChat sta per essere cancellato, Vuoi fare un backup?</item>
-        <item quantity="two">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
-        <item quantity="few">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
-        <item quantity="many">%1$d file Video di WeChat stanno per essere cancellati, Vuoi fare un backup?</item>
+        <item quantity="other">%1$d file Video di WeChat stanno per essere cancellati. Vuoi fare un backup?</item>
+        <item quantity="zero">%1$d file Video di WeChat stanno per essere cancellati. Vuoi fare un backup?</item>
+        <item quantity="one">%1$d file Video di WeChat sta per essere cancellato. Vuoi fare un backup?</item>
+        <item quantity="two">%1$d file Video di WeChat stanno per essere cancellati. Vuoi fare un backup?</item>
+        <item quantity="few">%1$d file Video di WeChat stanno per essere cancellati. Vuoi fare un backup?</item>
+        <item quantity="many">%1$d file Video di WeChat stanno per essere cancellati. Vuoi fare un backup?</item>
     </plurals>
     <plurals name="file_notify_title_wechat_sticker">
         <item quantity="other">%1$d nuovi adesivi WeChat oggi</item>

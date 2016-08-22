@@ -26,7 +26,7 @@
     <string name="petabyteShort">PB</string>
     <string name="update_date_format">dd-MM-yyyy</string>
     <string name="activity_title_garbage_cleanup">Pulizia</string>
-    <string name="activity_title_scanfinish">Scan complete</string>
+    <string name="activity_title_scanfinish">Scansione completata</string>
     <string name="empty_title_garbage_cache">Cache vuota</string>
     <string name="empty_title_ad">Nessuna pubblicità trovata</string>
     <string name="empty_title_apk">Nessun pacchetto di installazione trovato</string>
@@ -156,7 +156,7 @@
     <string name="hints_finish_quick_scan">Scansione terminata</string>
     <string name="hints_finish_quick_cleanup">Pulizia terminata</string>
     <string name="hints_finish_quick_cleanup_title">Pulizia di %s dal cestino completata</string>
-    <string name="dialog_title_load_cleanup_engine_error">Qualcosa è andato storto</string>
+    <string name="dialog_title_load_cleanup_engine_error">Si è verificato un errore</string>
     <string name="dialog_msg_load_cleanup_engine_error">Il motore di pulizia è corrotto.</string>
     <string name="dialog_title_add_white_list_error">Attenzione</string>
     <string name="dialog_msg_add_white_list_error">"Il file non supporta l'aggiunta di eccezioni"</string>
@@ -208,7 +208,7 @@
     <string name="default_cache_type">Dati File</string>
     <string name="deepclean_normal_title">Pulizia automatica</string>
     <string name="deepclean_normal_item_desc1">Pulizia generale</string>
-    <string name="deepclean_normal_item_desc2">"E' meglio effettuare la pulizia"</string>
+    <string name="deepclean_normal_item_desc2">È consigliato effettuare la pulizia</string>
     <string name="deepclean_1_k_clean">Pulizia rapida</string>
     <string name="similar_image_title">Rimuovi duplicati</string>
     <string name="similar_image_desc">Rimuovi le foto duplicate presenti in Galleria</string>
@@ -319,7 +319,7 @@
     <string name="harass_detail">Bloccati %1$d SMS e %2$d chiamate</string>
     <string name="authorize_detail">%d bloccati</string>
     <string name="safety_rank">Migliore al %d%% rispetto alla media degli utenti MIUI in termini di sicurezza</string>
-    <string name="net_assistant_title">Utilizzati %s di dati mobili questo mese</string>
+    <string name="net_assistant_title">Utilizzati %s di dati cellulare questo mese</string>
     <string name="traffic_top">5 app con maggiore consumo</string>
     <string name="empty">" "</string>
     <string name="open_browser">Apri nel browser</string>
@@ -388,7 +388,7 @@
     <string name="hints_quick_deep_clean">Pulisci</string>
     <string name="hints_quick_deep_uninstall">Rimuovi</string>
     <string name="hints_cache_msd_title">Aggiornamento delta</string>
-    <string name="hints_cache_msd_desc">"L'eliminazione degli aggiornamenti delta non influenzeranno l'utilizzo dell'applicazione"</string>
+    <string name="hints_cache_msd_desc">"L'eliminazione degli aggiornamenti delta non influenza l'utilizzo dell'applicazione"</string>
     <string name="hints_installed_app_never">Mai utilizzata</string>
     <string name="hints_installed_app_fewer">Utilizzata raramente</string>
     <string name="hints_installed_app_near">Utilizzata di recente</string>
@@ -412,7 +412,7 @@
     <string name="dialog_msg_stop_scan">Interrompere la scansione prima della fine?</string>
     <string name="dialog_title_esc_cleanmaster">"Esci dall'app di pulizia"</string>
     <string name="dialog_msg_esc_cleanmaster">Interrompere la scansione in corso?</string>
-    <string name="pref_category_title_engine_settings">Impostazioni definizione scansione</string>
+    <string name="pref_category_title_engine_settings">Impostazioni Definizioni scansione</string>
     <string name="pref_title_choose_engine">Definizioni</string>
     <string name="recommend_the_following">Esegui le seguenti azioni per ottenere il massimo dal tuo dispositivo</string>
     <string name="news_change">Cambia</string>

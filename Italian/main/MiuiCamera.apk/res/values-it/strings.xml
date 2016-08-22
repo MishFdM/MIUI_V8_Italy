@@ -34,7 +34,7 @@
     <string name="pref_video_quality_entry_wvga">Wide VGA (480p)</string>
     <string name="pref_video_quality_entry_vga">VGA (480p)</string>
     <string name="pref_video_quality_entry_wqvga">Wide QVGA (240p)</string>
-    <string name="pref_video_time_lapse_frame_interval_title">Intervallo time-lapse</string>
+    <string name="pref_video_time_lapse_frame_interval_title">Intervallo Time-lapse</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">Intervallo di 0.06 secondi (2x)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">Intervallo di 0.12 secondi (4x)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Intervallo di 0.3 secondi (10x)</string>
@@ -73,8 +73,8 @@
     <string name="pref_camera_picturesize_entry_1472x832">1,2 MP (1472x832)</string>
     <string name="pref_camera_picturesize_entry_1280x720">0,9 MP (1280x720)</string>
     <string name="pref_camera_picturesize_entry_1024x768">0,8 MP (1024x768)</string>
-    <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
-    <string name="pref_camera_picture_format_entry_raw">Raw</string>
+    <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
+    <string name="pref_camera_picture_format_entry_raw">RAW</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
@@ -92,8 +92,8 @@
     <string name="pref_video_focusmode_entry_auto">Tocca</string>
     <string name="pref_camera_flashmode_title">Flash</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
-    <string name="pref_camera_flashmode_entry_on">On</string>
-    <string name="pref_camera_flashmode_entry_off">Off</string>
+    <string name="pref_camera_flashmode_entry_on">ON</string>
+    <string name="pref_camera_flashmode_entry_off">OFF</string>
     <string name="pref_camera_flashmode_entry_torch">Torcia</string>
     <string name="pref_camera_whitebalance_title">Bil. bianco</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -110,8 +110,8 @@
     <string name="pref_camera_coloreffect_entry_aqua"/>
     <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color pop</string>
     <string name="pref_camera_coloreffect_entry_instagram_crema">Rustic</string>
-    <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
-    <string name="pref_camera_coloreffect_entry_vsco_a4">Analog</string>
+    <string name="pref_camera_coloreffect_entry_vsco_f2">Opaco</string>
+    <string name="pref_camera_coloreffect_entry_vsco_a4">Analogico</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">B/N</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
     <string name="pref_camera_coloreffect_entry_instagram_hudson">Icy</string>
@@ -167,8 +167,8 @@
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
     <string name="pref_camera_antibanding_entry_3">Auto</string>
     <string name="dialog_ok">OK</string>
-    <string name="spaceIsLow_content_primary_storage_priority">La memoria USB  è quasi esaurita</string>
-    <string name="spaceIsLow_content_external_storage_priority">LA SD card è quasi esaurita</string>
+    <string name="spaceIsLow_content_primary_storage_priority">La memoria interna è quasi esaurita</string>
+    <string name="spaceIsLow_content_external_storage_priority">La scheda SD è quasi esaurita</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -205,7 +205,7 @@
     <string name="pref_camera_autoexposure_entry_centerweighted">Media ponderata al centro</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Misurazione a punto</string>
     <string name="pref_camera_audio_capture_title">Scatto vocale</string>
-    <string name="simple_mode_button_text_audio_capture">Turn off voice trigger</string>
+    <string name="simple_mode_button_text_audio_capture">Disattiva Scatto vocale</string>
     <string name="pref_camera_video_duration_entry_mms">30 secondi(MMS)</string>
     <string name="pref_camera_video_duration_entry_10">10 minuti</string>
     <string name="pref_camera_video_duration_entry_30">30 minuti</string>
@@ -344,11 +344,11 @@
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto continuo</string>
     <string name="pref_camera_hdr_entry_auto">Auto</string>
-    <string name="pref_camera_hdr_entry_off">Off</string>
+    <string name="pref_camera_hdr_entry_off">OFF</string>
     <string name="pref_camera_hdr_entry_normal">Normale</string>
     <string name="pref_camera_hdr_entry_live">Live</string>
-    <string name="pref_simple_hdr_entry_off">Off</string>
-    <string name="pref_simple_hdr_entry_on">On</string>
+    <string name="pref_simple_hdr_entry_off">OFF</string>
+    <string name="pref_simple_hdr_entry_on">ON</string>
     <string name="pref_camera_delay_capture_title">Autoscatto</string>
     <string name="simple_mode_button_text_delay_capture">Disattiva Autoscatto</string>
     <string name="pref_camera_delay_capture_entry_audio">Audio</string>
@@ -382,15 +382,15 @@
     <string name="simple_mode_button_text_fisheye">Disattiva Fish-eye</string>
     <string name="pref_camera_magic_mirror_title">Specchio magico</string>
     <string name="simple_mode_button_text_magic_mirror">Disattiva specchio magico</string>
-    <string name="pano_how_to_use_prompt_align_reference_line">Allineare la freccia con la linea di riferimento</string>
+    <string name="pano_how_to_use_prompt_align_reference_line">Allinea la freccia con la linea di riferimento</string>
     <string name="pano_how_to_use_prompt_slow_down">Si prega di rallentare</string>
     <string name="pref_camera_stereo_mode_title">Stereo</string>
     <string name="simple_mode_button_text_stereo_mode">Disattiva Stereo</string>
-    <string name="dual_camera_too_close_toast">"La fotocamera è troppo vicina all'oggetto."</string>
-    <string name="dual_camera_lowlight_toast">"Sembra che l'ambiente sia troppo scuro."</string>
+    <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
+    <string name="dual_camera_lowlight_toast">"Sembra che l'ambiente sia troppo buio."</string>
     <string name="dual_camera_lens_covered_toast">"L'obiettivo è coperto".</string>
-    <string name="dual_camera_use_hint">"La modalità Stereo ti aiuta a mettere fuori fuoco lo sfondo.
-L'oggetto non deve essere più lontano di 2 metri."</string>
+    <string name="dual_camera_use_hint">"La modalità Stereo permette di esaltare il soggetto in primo piano.
+Il soggetto non deve essere più lontano di 2 metri."</string>
     <string name="pref_camera_square_mode_title">Quadrato</string>
     <string name="simple_mode_button_text_square">Disattiva Quadrato</string>
     <string name="face_beauty_smart">Smart</string>
@@ -400,7 +400,7 @@ L'oggetto non deve essere più lontano di 2 metri."</string>
     <string name="pref_skin_beautify_slim_title">Slim</string>
     <string name="pref_skin_beautify_eye_title">Occhi</string>
     <string name="pref_skin_beautify_smooth_title">Smooth</string>
-    <string name="pref_skin_beautify_color_title">Color</string>
+    <string name="pref_skin_beautify_color_title">Colore</string>
     <string name="pref_camera_beautify_entry_auto">Disattivato</string>
     <string name="pref_camera_beautify_entry_low">Basso</string>
     <string name="pref_camera_beautify_entry_normal">Medio</string>

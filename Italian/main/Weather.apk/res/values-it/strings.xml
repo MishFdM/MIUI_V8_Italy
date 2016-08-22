@@ -88,7 +88,7 @@
     <string name="twc_logo_title" />
     <string name="information_menu_title" />
     <string name="information_manager_wlan">Carica quando connesso a Wi-Fi</string>
-    <string name="information_manager_information">Inormazioni Meteo</string>
+    <string name="information_manager_information">Informazioni Meteo</string>
     <string name="activity_main_clickable">></string>
     <string name="aqi_short_desc">AQI %1$s</string>
     <string name="wind_unit">%1$skm/h</string>
@@ -133,7 +133,7 @@
     <string name="menu_add_city">Aggiungi/elimina città</string>
     <string name="button_add_city">Aggiungi città</string>
     <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
-Tocca lo schermo per aggiungere manualmente o localizzare di nuovo"</string>
+Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="video_dialog_title" />
     <string name="video_dialog_subtitle" />
     <string name="video_dialog_no_play" />
@@ -144,7 +144,7 @@ Tocca lo schermo per aggiungere manualmente o localizzare di nuovo"</string>
     <string name="activity_alert_detail_title" />
     <string name="close">Chiudi</string>
     <string name="hide_topic">Nascondi</string>
-    <string name="install">Install</string>
+    <string name="install">Installa</string>
     <string name="open">Apri</string>
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="aqi_publish_source">Aggiornato a %1$s di CNEMC</string>
@@ -155,13 +155,13 @@ Tocca lo schermo per aggiungere manualmente o localizzare di nuovo"</string>
     <string name="traffic_control_tomorrow_numbers">Domani: %1$s %2$s</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">Dopo domani: %1$s %2$s</string>
     <string name="retry">Riprova</string>
-    <string name="button_sure_abandon">Annullare modifiche?</string>
+    <string name="button_sure_abandon">Annullare le modifiche?</string>
     <string name="commercial">Pubblicità</string>
     <string name="mi_pad2">latte</string>
     <string name="more_details">Altri dettagli</string>
     <string name="international_details_title">Dettagli</string>
     <string name="international_details_wind_title">VENTO</string>
-    <string name="international_details_real_feel_title">PERCEPITO®</string>
+    <string name="international_details_real_feel_title">PERCEPITO</string>
     <string name="international_details_uv_index_title">Indice UV</string>
     <string name="international_details_pressure_title">Pressione</string>
     <string name="pressure_connect">%1$s MB</string>

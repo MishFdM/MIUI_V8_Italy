@@ -5,9 +5,9 @@
     <string name="search_for_devices">Aggiorna</string>
     <string name="media_feature_projection">Schermo specchio</string>
     <string name="media_status_error">Errore</string>
-    <string name="media_status_starting">Connessione...</string>
+    <string name="media_status_starting">Connessione…</string>
     <string name="media_status_started">Connesso</string>
-    <string name="media_status_stopping">Interruzione...</string>
+    <string name="media_status_stopping">Interruzione…</string>
     <string name="media_status_stopped">Interrotto</string>
     <string name="wifi_display_settings_title">Trasmetti</string>
     <string name="wifi_display_enable_menu_item">Attiva display wireless</string>
@@ -32,6 +32,6 @@
     <string name="wifi_display_operating_channel">Canale operativo</string>
     <string name="cancel">Annulla</string>
     <string name="enable_wifi_title">Attiva Wi-Fi</string>
-    <string name="enable_wifi_message">Attiva Wi-Fi per rilevare e collegarti a dispositivi nelle vicinanze.</string>
+    <string name="enable_wifi_message">Attiva Wi-Fi per rilevare e collegarti ai dispositivi nelle vicinanze.</string>
     <string name="enable_wifi_btn">Attiva</string>
 </resources>

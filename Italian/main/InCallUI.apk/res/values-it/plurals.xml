@@ -2,6 +2,6 @@
 <resources>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d registrate.</item>
-        <item quantity="one">1 chiamata registrata.</item>
+        <item quantity="one">Una chiamata registrata.</item>
     </plurals>
 </resources>

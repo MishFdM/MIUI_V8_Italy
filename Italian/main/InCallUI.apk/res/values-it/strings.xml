@@ -213,7 +213,7 @@
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
     <string name="conference_callers_exceeded">Limite partecipanti superato</string>
-    <string name="do_not_support_video_calls_by_remote">"Le video chiamate non sono supportate dall'altro dispositivo"</string>
+    <string name="do_not_support_video_calls_by_remote">"Le videochiamate non sono supportate dall'altro dispositivo"</string>
     <string name="call_button_tools_text">Funzioni</string>
     <string name="call_button_dialer_text">Tastiera</string>
     <string name="select_audio_dialog_title">Scegli la modalità di risposta</string>

@@ -17,8 +17,8 @@
     <string name="unknownName">(Sconosciuto)</string>
     <string name="untitled">(senza nome)</string>
     <string name="VideoView_error_button">OK</string>
-    <string name="VideoView_error_text_unknown">Impossibile riprodurre il video.</string>
-    <string name="VideoView_error_title">Impossibile riprodurre il video</string>
+    <string name="VideoView_error_text_unknown">Spiacenti. Impossibile riprodurre il video.</string>
+    <string name="VideoView_error_title">Errore video</string>
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attenzione</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Questo video non è valido per lo streaming su questo dispositivo.</string>
@@ -165,9 +165,9 @@
     <string name="shutdown_progress">Spegnimento…</string>
     <string name="reboot_progress">Riavvio…</string>
     <string name="shutdown_confirm">Il dispositivo verrà spento.</string>
-    <string name="shutdown_confirm_question">Continuare?</string>
-    <string name="reboot_safemode_title">Riavvia in safe mode</string>
-    <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
+    <string name="shutdown_confirm_question">Spegnere?</string>
+    <string name="reboot_safemode_title">Riavvia in modalità provvisoria</string>
+    <string name="reboot_safemode_confirm">Riavviare in modalità provvisoria? Ciò comporterà la disattivazione di tutte le applicazioni di terze parti installate. Verranno ripristinate al prossimo riavvio.</string>
     <string name="reboot_confirm">Il tuo dispositivo verrà riavviato.</string>
     <string name="recent_tasks_title">Recenti</string>
     <string name="no_recent_tasks">Nessuna applicazione in esecuzione.</string>
@@ -203,7 +203,7 @@
     <string name="permgrouplab_developmentTools">Strumenti di sviluppo</string>
     <string name="permgroupdesc_developmentTools">Funzionalità necessarie soltanto agli sviluppatori di applicazioni.</string>
     <string name="permgrouplab_storage">Archiviazione</string>
-    <string name="permgroupdesc_storage">"Accesso all'archivio USB."</string>
+    <string name="permgroupdesc_storage">"accesso all'archivio USB."</string>
     <string name="permlab_statusBar">disattivare o modificare la barra di stato</string>
     <string name="permdesc_statusBar">"Consente all'applicazione di disattivare la barra di stato o di aggiungere e rimuovere icone di sistema."</string>
     <string name="permlab_statusBarService">barra di stato</string>

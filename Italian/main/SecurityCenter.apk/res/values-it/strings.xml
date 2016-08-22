@@ -165,7 +165,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="power_save_on_time_end_time_summary_na">A</string>
     <string name="manual_input_traffic">Imposta utilizzo dati</string>
     <string name="manual_input_free_traffic">Imposta utilizzo dati fuori soglia</string>
-    <string name="declaration_dialog_msg">Questa funzione può aiutarti a tenere traccia del tuo utilizzo dati, ma non è garantito il risparmio di costi aggiuntivi. Per migliori risultati, consigliamo un limite più prudente.</string>
+    <string name="declaration_dialog_msg">Questa funzione può aiutarti a tenere traccia del tuo utilizzo dati, ma non è garantito il risparmio di costi aggiuntivi. Per migliori risultati, si consiglia un limite più prudente.</string>
     <string name="input_used_hint">Inserisci utilizzo dati</string>
     <string name="input_used_max_hint">Inserisci utilizzo dati (meno di %s)</string>
     <string name="text_day"/>
@@ -189,7 +189,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="traffic_setting_fragment_send_num_tips">Inserisci numero di telefono</string>
     <string name="traffic_setting_fragment_sms_content_tips">Scrivi qui il tuo messaggio</string>
     <string name="traffic_setting_fragment_null">Vuoto</string>
-    <string name="traffic_setting_fragment_loacation_alert_nomore">non mostrare più</string>
+    <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
     <string name="data_usage_warning_title">Avviso utilizzo dati</string>
     <string name="data_usage_warning_body">Tocca per mostrare i dettagli di utilizzo dati.</string>
     <string name="data_usage_mobile_limit_title">Limite utilizzo dati raggiunto</string>
@@ -209,7 +209,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="data_usage_no_total_package_body_dual">Nessun limite impostato per %s</string>
     <string name="network_assistant_upgraded_title">Aggiornato</string>
     <string name="network_assistant_upgraded_body">Tocca per vedere i dettagli.</string>
-    <string name="lock_screen_traffic_warn_title">Notifiche lockscreen</string>
+    <string name="lock_screen_traffic_warn_title">Notifiche Schermata di blocco</string>
     <string name="lock_screen_traffic_notify_body">Bloccate per %2$s alle %1$s, dati utilizzati %3$s</string>
     <string name="timeshow_h_m">%1$d o %2$d m</string>
     <string name="timeshow_m_s">%1$d m %2$d s</string>
@@ -218,7 +218,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="timeshow_h">%.1f o</string>
     <string name="timeshow_h_int">%d o</string>
     <string name="lock_screen_traffic_guide_notification_title">"Tocca per gestire l'utilizzo dati."</string>
-    <string name="lock_screen_traffic_guide_notification_summary">%s utilizzati nella lockscreen</string>
+    <string name="lock_screen_traffic_guide_notification_summary">%s utilizzati nella Schermata di blocco</string>
     <string name="lock_screen_traffic_purchase_textview">Compra dati mobili</string>
     <string name="free_time_traffic_title">Inserisci limite dati fuori soglia</string>
     <string name="free_time_traffic_hint">Inserisci limite dati fuori soglia</string>
@@ -238,7 +238,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="traffic_config_alert_auto_modify">Aggiorna automaticamente piano dati</string>
     <string name="traffic_config_alert_body">"Il tuo operatore segna:%s.
 
-E' corretto?"</string>
+È corretto?"</string>
     <string name="traffic_config_alert_body_normal">"
 La soglia del tuo piano dati mensile peak-time è %1$s. Questa è diverso dalla soglia che hai impostato manualmente di %2$s."</string>
     <string name="traffic_config_alert_body_leisure">"
@@ -253,10 +253,10 @@ Questo mese hai acquistato %s di dati aggiuntivi. Questo valore è diverso dalla
     <string name="traffic_config_alert_package">"
 Aggiunti dati extra"</string>
     <string name="traffic_limit_error_alert_title">Avviso limite dati %s</string>
-    <string name="traffic_limit_error_alert_body">I dati mensili rimanenti (%1$s) superano quelli del tuo piano  mensile (%2$s). Consideri i dati extra come pacchetto di ricarica?</string>
+    <string name="traffic_limit_error_alert_body">I dati mensili rimanenti (%1$s) superano quelli del tuo piano mensile (%2$s). Consideri i dati extra come pacchetto di ricarica?</string>
     <string name="traffic_limit_error_alert_package">"
 
-I dati rimaennti includono dati che sono stati erogati il mese precedente."</string>
+I dati rimanenti includono dati che sono stati erogati il mese precedente."</string>
     <string name="traffic_alert_auto_modify_notification_titile">Piano dati aggiornato</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Piano mensile cambiato in %s.</string>
     <string name="traffic_alert_auto_modify_package_summary">"Regola automaticamente il pacchetto dati in base alle informazioni dell'operatore"</string>
@@ -332,7 +332,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="dialog_app_roaming_title">Roaming estero non è attivo per %1$s</string>
     <string name="dialog_app_roaming_message">"%1$s non può usare la connessione dati durante il roaming. Quando usi il roaming all'estero, solo le app che hai aggiunto alle eccezioni potranno usare la connessione dati."</string>
     <string name="add_miservice_dialog_title">MIUI service framework</string>
-    <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di MIUI services framework alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
+    <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di \"MIUI services framework\" alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Limite dati giornaliero</string>
     <string name="pref_roaming_daily_limit_setting">Imposta limite dati giornaliero quando sei in roaming</string>
     <string name="dialog_roaming_apps_sorted_title">Ordina per</string>
@@ -345,7 +345,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="roaming_limit_network_notification_body">Tocca per visualizzare le reti disponibili</string>
     <string name="roaming_limit_dialog_message">Limite di dati giornaliero in roaming raggiunto.</string>
     <string name="search_input_txt_na">"<font color="#ff0000">%s</font>"</string>
-    <string name="roaming_allow_network_dialog_title">Consentire il roaming dati su rete mobile?</string>
+    <string name="roaming_allow_network_dialog_title">Consentire il roaming dati su rete cellulare?</string>
     <string name="title_limit_traffic_per_day">Limite dati giornaliero</string>
     <string name="daily_limit_and_lock_screen">Limite dati e notifiche</string>
     <string name="pref_title_traffic_limit_number">Dimensione</string>
@@ -387,8 +387,8 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="connect_internet_by_mobiledata">Connessione dati</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="unable_connect_internet">Nessuna connessione internet</string>
-    <string name="enable_network">Abilita la rete prima</string>
-    <string name="disable_air_mode">Disabilita modalità aerea prima</string>
+    <string name="enable_network">Abilita prima la rete</string>
+    <string name="disable_air_mode">Disabilita prima la modalità aereo</string>
     <string name="repair">Ripara</string>
     <string name="check_network_state">Test rete</string>
     <string name="current_network_state_not_need_diagnose">La connessione internet è regolare.</string>
@@ -404,7 +404,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="usbsharenet_exception_summary">"Impossibile connettersi ad internet attraverso connessione USB condivisa. Controlla la connessione del dispositivo USB e riavvia Mi PC Suite."</string>
     <string name="usbsharenet_pc_exception_summary">"Impossibile connettersi ad internet attraverso connessione USB condivisa. Controlla la connessione internet del tuo computer."</string>
     <string name="gateway_exception_title">Test router</string>
-    <string name="gateway_exception_summary">Controlla il tuo router e prova di nuovo.</string>
+    <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
     <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
     <string name="other_exception_title">In cerca di altri problemi</string>
     <string name="other_exception_summary">"Non hai una connessione internet"</string>
@@ -415,8 +415,8 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="load_fail">"Impossibile caricare"</string>
     <string name="notify_weekly_traffic_title">Usati %s questa settimana</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s usati %2$s questa settimana</string>
-    <string name="notify_weekly_traffic_body">Per limitare l\'uso dei dati automaticamente imposta il tuo piano dati mensile.</string>
-    <string name="notify_daily_data_usage_body">Per limitare l\'uso dei dati automaticamente imposta il tuo piano dati mensile.</string>
+    <string name="notify_weekly_traffic_body">"Per limitare l'uso dei dati automaticamente imposta il tuo piano dati mensile."</string>
+    <string name="notify_daily_data_usage_body">"Per limitare l'uso dei dati automaticamente imposta il tuo piano dati mensile."</string>
     <string name="notify_month_traffic_title">Usati %s questo mese</string>
     <string name="notify_month_traffic_title_for_slotnum">%1$s usati %2$s questo mese</string>
     <string name="notify_month_traffic_body">Imposta un limite di uso dati per evitare di sforare il tuo piano dati mensile.</string>
@@ -427,14 +427,14 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="network_blocked_switch_wifi">Scegli le reti</string>
     <string name="wifi_network_blocked_notification_title">Nessuna connessione internet</string>
     <string name="data_network_blocked_notification_title">Nessuna connessione internet</string>
-    <string name="sim_state_exception_summary">Lo stato della SIM indica che potrebbero esserci problemi con la tua SIM card.</string>
-    <string name="network_operator_exception_summary">"Impossibile attivare la SIM card. Assicurati che la tua SIM card sia inserita correttamente e che il tuo piano dati sia stato attivato dal tuo operatore."</string>
+    <string name="sim_state_exception_summary">Lo stato della SIM indica che potrebbero esserci problemi con la tua scheda SIM.</string>
+    <string name="network_operator_exception_summary">"Impossibile attivare la scheda SIM. Assicurati che la tua scheda SIM sia inserita correttamente e che il tuo piano dati sia stato attivato dal tuo operatore."</string>
     <string name="network_blocked_connected_open_wifi">Connesso ad una rete pubblica</string>
     <string name="network_connected_exception_title">Testa la rete</string>
     <string name="protocol_exception_title">Diagnostica protocolli di rete</string>
     <string name="protocol_loop_back_exception_summary">Test local loop back fallito. Per riportare questo problema a MIUI, vai nella app di segnalazione ed invia un log dal tuo dispositivo.</string>
-    <string name="ip_address_exception_summary">"Impossibile ottenere l\'indirizzo IP. Se questo succede di nuovo considera l\'uso di un indirizzo IP statico."</string>
-    <string name="local_ip_exception_summary">"Impossibile ottenere l\'indirizzo IP. Se questo succede di nuovo considera l\'uso di un indirizzo IP statico."</string>
+    <string name="ip_address_exception_summary">"Impossibile ottenere l'indirizzo IP. Se questo succede di nuovo considera l'uso di un indirizzo IP statico."</string>
+    <string name="local_ip_exception_summary">"Impossibile ottenere l'indirizzo IP. Se questo succede di nuovo considera l'uso di un indirizzo IP statico."</string>
     <string name="renew_ip">Riprova</string>
     <string name="network_permission_exception_tips">"Impossibile usare la connessione dati per connettersi alla rete"</string>
     <string name="open_now">Consenti alle app di usare la connessione dati</string>
@@ -443,16 +443,16 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
 
  1. Assicurati di non aver sforato i limiti del tuo piano dati.
 
- 2. Se hai appena ricaricato il credito telefonico, riavvia e prova ancora.
+ 2. Se hai appena ricaricato il credito telefonico, riavvia e riprova.
 
  3. Il segnale del tuo operatore potrebbe essere debole nella zona in cui ti trovi."</string>
-    <string name="network_sim_exception_detail">"Potrebbe esserci qualche problema con la SIM card:
+    <string name="network_sim_exception_detail">"Potrebbe esserci qualche problema con la scheda SIM:
 
- 1. Assicurati di essere in regola con il tuo operatore. Prova ad usare la SIM card di un tuo amico e vedi se sei in grado di connetterti normalmente.
+ 1. Assicurati di essere in regola con il tuo operatore. Prova ad usare la scheda SIM di un tuo amico e vedi se sei in grado di connetterti normalmente.
 
- 2. Se stai usando due SIM card, prova a spostarti sull\'altra e vedi se sei in grado di connetterti normalmente.
+ 2. Se stai usando due schede SIM, prova a spostarti sull'altra e vedi se sei in grado di connetterti normalmente.
 
- 3. Assicurati che la SIM card e lo slot per la SIM non siano danneggiati. Controlla che la SIM card sia correttamente inserita nello slot."</string>
+ 3. Assicurati che la scheda SIM e lo slot per la SIM non siano danneggiati. Controlla che la scheda SIM sia correttamente inserita nello slot."</string>
     <string name="network_route_exception_detail">"Potrebbe esserci qualche problema con il router cui sei connesso:
 
  "<b>"1. Problemi con la rete Wi-Fi pubblica
@@ -486,45 +486,45 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
     <string name="tc_diagnostic_upload_button">Riporta</string>
     <string name="tc_diagnostic_fragment_default">"Sulla diagnostica
-1. Il dispositivo si connetterà alla rete dell\'operatore e invierà un messaggio gratuito aspettando la risposta dell\'operatore. Questo può richidere più di 5 minuti.
+1. Il dispositivo si connetterà alla rete dell'operatore e invierà un messaggio gratuito aspettando la risposta dell'operatore. Questo può richidere più di 5 minuti.
 2. Puoi chiudere questa pagina durante la diagnostica perché proseguirà anche in background."</string>
     <string name="sim_location_diagnostic">Diagnostica posizione</string>
     <string name="operator_diagnostic">Diagnostica operatore</string>
-    <string name="brand_diagnostic">Diagnostica marca operatore</string>
+    <string name="brand_diagnostic">Diagnostica nome operatore</string>
     <string name="tc_diagnostic_status_updating">Testando…</string>
     <string name="tc_diagnostic_status_success">"<font color="#3EC234">Corretto</font>"</string>
     <string name="tc_diagnostic_status_failure">"<font color="#CC0000">Errore</font>"</string>
     <string name="tc_diagnostic_status_not_get">"<font color="#ED9523">Impossibile ottenere informazioni</font>"</string>
-    <string name="tc_diagnostic_status_no_network">"<font color="#ED9523">Nessuna connessione rete</font>"</string>
+    <string name="tc_diagnostic_status_no_network">"<font color="#ED9523">Nessuna connessione di rete</font>"</string>
     <string name="tc_diagnostic_status_timeout">"<font color="#CC0000">Timeout</font>"</string>
     <string name="tc_diagnostic_status_error_brand">Rete operatore non trovata</string>
    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Rete operatore risponde&lt;/font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Risultato: Posizione sbagliata&lt;br/>&lt;br/>Imposta posizione: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Posizione attuale: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Risultato: Operatore sbagliato&lt;br/>&lt;br/>Imposta operatore: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Operatore attuale: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Risultato: Marchio operatore sbagliato&lt;br/>&lt;br/>Imposta marchio: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Marchio attuale: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Risultato: Posizione errata&lt;br/>&lt;br/>Imposta posizione: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Posizione attuale: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Risultato: Operatore errato&lt;br/>&lt;br/>Imposta operatore: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Operatore attuale: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Risultato: Nome operatore errato&lt;br/>&lt;br/>Imposta marchio: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Nome attuale: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Risultato: Non è stato possibile completare la diagnostica&lt;br/>&lt;br/>Segnala questo problema per aiutare MIUI a migliorare gli strumenti di diagnostica&lt;/font>"</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Risultato: Rete e marchio operatore impostati correttamente&lt;br/>&lt;br/>Impossibile completare la regolazione:&lt;br/>1. Le statistiche dell'operatore potrebbero non essere affidabile all'inizio e alla fine del mese.&lt;br/>2. L'assistente di rete non era aggiornato.&lt;br/>&lt;br/>Segnala questa uscita per aiutare MIUI a migliorare gli strumenti di diagnostica&lt;/font>"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Risultato: Rete e nome operatore impostati correttamente&lt;br/>&lt;br/>Impossibile completare la regolazione:&lt;br/>1. Le statistiche dell'operatore potrebbero non essere affidabili all'inizio e alla fine del mese.&lt;br/>2. L'assistente di rete non era aggiornato.&lt;br/>&lt;br/>Segnala questa uscita per aiutare MIUI a migliorare gli strumenti di diagnostica&lt;/font>"</string>
     <string name="tc_diagnostic_notification_title">Diagnostica operatore</string>
-    <string name="tc_diagnostic_notification_summary">"Impossibile regolare 5 volte di fila. Toccare per avviare la diagnostica."</string>
+    <string name="tc_diagnostic_notification_summary">"Impossibile regolare 5 volte di fila. Tocca per avviare la diagnostica."</string>
     <string name="tc_diagnostic_upload_success">Grazie per il tuo feedback!</string>
     <string name="tc_diagnostic_upload_no_network">Grazie per il tuo feedback! La tua segnalazione sarà inviata non appena ti connetti alla rete.</string>
     <string name="tc_diagnostic_location_error_notification_title">Posizione sbagliata</string>
-    <string name="tc_diagnostic_location_error_notification_summary">Toccare per aggiustare la posizione</string>
+    <string name="tc_diagnostic_location_error_notification_summary">Tocca per aggiustare la posizione</string>
     <string name="tc_diagnostic_operator_error_notification_title">Operatore sbagliato</string>
-    <string name="tc_diagnostic_operator_error_notification_summary">Toccare per aggiustare l\'operatore</string>
+    <string name="tc_diagnostic_operator_error_notification_summary">"Tocca per aggiustare l'operatore"</string>
     <string name="tc_diagnostic_brand_error_notification_title">Tipo rete sbagliata</string>
-    <string name="tc_diagnostic_brand_error_notification_summary">Toccare per aggiustare la rete</string>
+    <string name="tc_diagnostic_brand_error_notification_summary">Tocca per aggiustare la rete</string>
     <string name="tc_diagnostic_all_error_notification_title">"Impossibile completare la diagnostica"</string>
-    <string name="tc_diagnostic_all_error_notification_summary">Toccare per inviare una segnalazione</string>
+    <string name="tc_diagnostic_all_error_notification_summary">Tocca per inviare una segnalazione</string>
     <string name="tc_diagnostic_success_notification_title">Rete operatore e marca sono corretti</string>
     <string name="tc_diagnostic_success_notification_summary">Riporta questo problema per aiutare MIUI a migliorare gli strumenti per la diagnostica</string>
     <string name="tc_diagnostic_repair_success_toast">Modificato con successo</string>
     <string name="tc_diagnostic_complete">Fatto</string>
     <string name="tc_diagnostic_notification_sumarry">Toccare per vedere i risultati</string>
-    <string name="tc_diagnostic_repair_location">"<font color="#3EC234">Diagnostica completata, risolti problemi posizione.</font>"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"<font color="#3EC234">Diagnostica completa, risolti problemi posizione e operatore.</font>"</string>
-    <string name="diagnostic_attention_dialog_message">"La diagnostica per %1$s in corso. Aspetta che finisca e prova ancora."</string>
-    <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Aspetta che il processo termini e prova ancora.</string>
+    <string name="tc_diagnostic_repair_location">"<font color="#3EC234">Diagnostica completata. Risolti problemi posizione.</font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"<font color="#3EC234">Diagnostica completata. Risolti problemi posizione e operatore.</font>"</string>
+    <string name="diagnostic_attention_dialog_message">"Diagnostica per %1$s in corso. Attendi che finisca e riprova."</string>
+    <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Attendi che il processo termini e riprova.</string>
     <string name="text_button">OK</string>
     <string name="celcius_symbol">°C</string>
     <string name="voltage_symbol">V</string>
@@ -570,7 +570,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="battery_desc_wifi">Batteria utilizzata da Wi-Fi</string>
     <string name="battery_desc_bluetooth">Batteria utilizzata da Bluetooth</string>
     <string name="battery_desc_display">Batteria utilizzata da Display</string>
-    <string name="battery_desc_apps">"Batteria utilizzata dall'applicazione"</string>
+    <string name="battery_desc_apps">Batteria utilizzata dalle app</string>
     <string name="percentage">%d%%</string>
     <string name="usage_type_data_recv">Dati ricevuti</string>
     <string name="usage_type_data_send">Dati inviati</string>
@@ -590,7 +590,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="usage_type_wifi_running">Wi-Fi attivo</string>
     <string name="usage_type_phone">Telefono</string>
     <string name="usage_type_data_wifi_send">Dati Wi-Fi inviati</string>
-    <string name="usage_type_data_wifi_recv">WDati Wi-Fi ricevuti</string>
+    <string name="usage_type_data_wifi_recv">Dati Wi-Fi ricevuti</string>
     <string name="usage_type_audio">Audio</string>
     <string name="usage_type_video">Video</string>
     <string name="usage_type_on_time">Tempo attivazione</string>
@@ -602,8 +602,8 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="battery_history_hours_no_seconds">%1$d o %2$d m</string>
     <string name="battery_history_minutes_no_seconds">%1$d m</string>
     <string name="delete">Elimina</string>
-    <string name="brightness_auto_adjust_on">La luminosità automatica può essere regolata spostando lo slider ma la luminosità dello schermo varierà in base alla luce ambientale.</string>
-    <string name="brightness_auto_adjust_off">La luminosità manuale può essere regolata a tuo piacimento spostando lo slider. La luminosità dello schermo rimarrà costante in ogni schermata.</string>
+    <string name="brightness_auto_adjust_on">La luminosità automatica può essere regolata spostando il selettore, ma la luminosità dello schermo varierà in base alla luce ambientale.</string>
+    <string name="brightness_auto_adjust_off">La luminosità manuale può essere regolata a tuo piacimento spostando il selettore. La luminosità dello schermo rimarrà costante in ogni schermata.</string>
     <string name="st_title_mode_choose_group">Scegli modalità</string>
     <string name="power_mode_choose_summary_change">Qualcosa è cambiato nella configurazione</string>
     <string name="every_day">Tutti i giorni</string>
@@ -668,7 +668,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="btn_text_goto_power_rank">Visualizza i consumi di ogni app</string>
     <string name="btn_text_goto_setup">Vai in impostazioni</string>
     <string name="power_save_title_text">Risparmio batteria</string>
-    <string name="power_save_summary_text">Attivando il risparmio batteria ridurrai le attività di background delle app,stopperai le sincronizzazioni e ridurrai al minimo le animazioni di sistema.</string>
+    <string name="power_save_summary_text">Attivando il risparmio batteria verranno ridotte le attività in background delle app, le sincronizzazioni e le animazioni di sistema.</string>
     <string name="hide_mode_title_text">Modalità nascosta</string>
     <string name="hide_mode_summary_text">Gestisci le attività di background delle app per risparmiare la batteria</string>
     <string name="hide_mode_app_background_setting_text">Risparmio batteria app</string>
@@ -679,7 +679,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="battery_charge_full">Carica</string>
     <string name="battery_charge_estimating">Calcolo…</string>
     <string name="battery_charging_prompt">In carica</string>
-    <string name="deep_save_memory_clean_summary">"Pulisci la cache quando il tuo dispositivo è bloccato per evitare l'utilizzo della batteria dalle app."</string>
+    <string name="deep_save_memory_clean_summary">"Svuota la cache quando il tuo dispositivo è bloccato per evitare l'utilizzo della batteria dalle app."</string>
     <string name="btn_text_open_now">Attiva</string>
     <string name="btn_text_already_opened">Già attivato</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Orari in cui il dispositivo sarà attivo e disattivo</string>
@@ -689,10 +689,10 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="notification_battery_consume_abnormal_title">La batteria sta scendendo molto velocemente</string>
     <string name="notification_battery_consume_abnormal_summary">%2$s di consumo della batteria negli ultimi %1$d minuti</string>
     <string name="app_check_sub_title_text">Ottimizza le app per risolvere i problemi batteria</string>
-    <string name="app_check_no_issue">Non ci sono problemi sulla batteria.Bene!</string>
+    <string name="app_check_no_issue">Non ci sono problemi sulla batteria. Bene!</string>
     <string name="app_check_reason_wakelock">Tempi di spegnimento non impostati</string>
     <string name="app_check_reason_wifi_scan">Scansioni frequenti Wi-Fi</string>
-    <string name="app_check_reason_background_gps">Gps in esecuzione in background</string>
+    <string name="app_check_reason_background_gps">GPS in esecuzione in background</string>
     <string name="app_check_reason_background_cpu">Attività di CPU in background</string>
     <string name="app_check_reason_wakeup_alarm">Schermata di blocco attivata frequentemente</string>
     <string name="app_check_optimize_title">Ottimizza le attività di background</string>
@@ -711,8 +711,8 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="power_optimize_battery_save_more">Altro</string>
     <string name="settings_battery_consume_abnormal_title">Notifiche scaricamento batteria</string>
     <string name="settings_battery_consume_abnormal_summary">Ricevi le notifiche quando la batteria scende velocemente.</string>
-    <string name="settings_battery_over_heat_title">Notifiche salute batteria</string>
-    <string name="settings_battery_over_heat_summary">Ricevi le notifiche quando il dispositivo è più caldo del normale</string>
+    <string name="settings_battery_over_heat_title">Notifiche surriscaldamento</string>
+    <string name="settings_battery_over_heat_summary">Ricevi le notifiche quando il dispositivo si surriscalda</string>
     <string name="settings_category_overheat">Riscaldamento</string>
     <string name="settings_category_other">Altre impostazioni</string>
     <string name="settings_choice_no_notification">Disattivo</string>
@@ -961,7 +961,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="pm_root_success_notification_title">Permessi root consentiti</string>
     <string name="pm_root_success_notification_infomation">Conferma di aver capito i rischi legati ai permessi di root</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
-    <string name="hints_auto_start_warning_info">"Non si riceverà nessun avviso per le app a cui è stato negato l'avvio automatico"</string>
+    <string name="hints_auto_start_warning_info">"Non riceverai le notifiche per le app a cui è stato negato l'avvio automatico"</string>
     <string name="activity_title_apps_manager">App</string>
     <string name="activity_title_permissions_manager">Permessi</string>
     <string name="dialog_title_auto_start_declare">"Info sull'avvio automatico"</string>
@@ -1008,7 +1008,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="permission_close_permission_control_dialog_title">Disattivare Gestione Permessi?</string>
     <string name="permission_close_permission_control_dialog_msg">Quando la Gestione dei Permessi è disattivata, le applicazioni non chiederanno il permesso per leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gestione Permessi disattivato</string>
-    <string name="permission_permission_control_closed_desc_dialog_msg">Le applicazioni non chiederanno il permesso di leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse.Puoi disattivare questa funzione nelle impostazioni dei Permessi.</string>
+    <string name="permission_permission_control_closed_desc_dialog_msg">Le applicazioni non chiederanno il permesso di leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse. Puoi disattivare questa funzione nelle impostazioni dei Permessi.</string>
     <string name="scanning_bar_system_title">Scansione sistema…</string>
     <string name="scanning_bar_memory_title">Scansione cache…</string>
     <string name="scanning_bar_cache_title">Scansione cestino…</string>
@@ -1069,7 +1069,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="title_garbage_lib">Aggiornamenti automatici</string>
     <string name="summary_garbage_lib">Utilizza le ultime definizioni per spyware, adware ed altri elementi indesiderati</string>
     <string name="title_permission_root">Avviso accesso root</string>
-    <string name="summary_permission_root">Il tuo dispositivo ed i dati personali contenuti in esso sono più vulnerabili ad attacchi provenienti da applicazioni con permessi root</string>
+    <string name="summary_permission_root">Il tuo dispositivo ed i dati personali in esso contenuti sono più vulnerabili ad attacchi provenienti da applicazioni con permessi root</string>
     <string name="title_app_update">Aggiornamento disponibile</string>
     <string name="title_find_device">Attiva Trova dispositivo</string>
     <string name="summary_find_device">Localizza e rintraccia il tuo dispositivo ovunque ti trovi</string>
@@ -1116,9 +1116,9 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="cmcc_app_check_dialog_negative">Più tardi</string>
     <string name="app_not_installed_toast">"L'applicazione non è installata sul tuo dispositivo."</string>
     <string name="month_report_month_report_switch">Mostra rapporto mensile</string>
-    <string name="antivirus_choose_engine_settings">Impostazioni definizione virus</string>
+    <string name="antivirus_choose_engine_settings">Impostazioni definizioni virus</string>
     <string name="antivirus_choose_engine_title">Definizioni</string>
-    <string name="antivirus_choose_engine_disable_toast">Impossibile cambiare le definizioni quando la scansione è in corso</string>
+    <string name="antivirus_choose_engine_disable_toast">Impossibile modificare le definizioni durante la scansione</string>
     <string name="antivirus_choose_engine_dialog_title">Scegli le definizioni</string>
     <string name="antivirus_choose_engine">Utilizza le definizioni da %s</string>
     <string name="antivirus_update_db">%s</string>
@@ -1128,7 +1128,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="antivirus_privacy_dialog_summary">"Questa caratteristica cifra e carica l'ID del dispositivo sul server (%s) di AVL e Tencent."</string>
     <string name="antivirus_privacy_dialog_summary_link">"visualizza l'informativa sulla Privacy"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Carica i nomi e i dettagli delle applicazioni</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">Carica e scansiona i nomi e dettagli delle app utilizzando le definizioni dei virus online.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">Carica e scansiona nomi e dettagli delle app utilizzando le definizioni dei virus online.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_more_engine_dialog_title">Attenzione</string>
     <string name="antivirus_more_engine_dialog_summary">"L'utilizzo di più definizioni virus può richiedere maggior tempo per la scansione."</string>
@@ -1143,7 +1143,7 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="preferred_app_entries_email">Email</string>
 	<string name="security_scan_card_clean_now">Scansiona</string>
     <string name="card_main_paysafe_title">Sicurezza pagamenti</string>
-    <string name="card_main_paysafe_summary">Scansiona i pagamenti per progettersi da eventuali rischi</string>
+    <string name="card_main_paysafe_summary">Scansiona i pagamenti per proteggersi da eventuali rischi</string>
     <string name="card_main_paysafe_action">Attiva</string>
     <string name="card_main_applock_title">Blocco applicazioni</string>
     <string name="card_main_applock_summary">Proteggi i tuoi elementi privati con Blocco Applicazioni</string>
@@ -1159,10 +1159,10 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_monthreport_summary">Visualizza il report mensile</string>
     <string name="card_main_monthreport_action">Visualizza</string>
     <string name="card_main_speeddetail_title">Velocità di connessione</string>
-    <string name="card_main_speeddetailt_summary">Visualizza la velocitù di connessione per singola app.</string>
-    <string name="card_main_netcheck_title">Testa la rete</string>
-    <string name="card_main_netcheck_summary">Testa la connessione per risolvere i problemi di rete</string>
-    <string name="card_main_netcheck_action">Testa</string>
+    <string name="card_main_speeddetailt_summary">Visualizza la velocità di connessione per singola app.</string>
+    <string name="card_main_netcheck_title">Test di rete</string>
+    <string name="card_main_netcheck_summary">Verifica la connessione per risolvere i problemi di rete</string>
+    <string name="card_main_netcheck_action">Verifica</string>
     <string name="action_button_text_100">Ottimizza</string>
     <string name="action_button_text_80_100">Ottimizza</string>
     <string name="action_button_text_60_80">Ottimizzato</string>
@@ -1195,9 +1195,9 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="convenient_summary">"Non richiedere la password dopo che un'app è stata sbloccata"</string>
     <string name="suggest_app_tolock">Suggerimenti</string>
     <string name="forget_password_button_text"><u>Password dimenticata</u></string>
-    <string name="lockpattern_need_to_unlock">Conferma la sequenza sequenza</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi sbagliati!</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Attendi %d secondi e prova di nuovi.</string>
+    <string name="lockpattern_need_to_unlock">Conferma la sequenza</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi errati!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Attendi %d secondi e riprova.</string>
     <string name="lockpassword_confirm_your_pattern_header">Conferma sequenza</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_submit_button">Accedi</string>
@@ -1214,14 +1214,14 @@ o inserisci la password"</string>
     <string name="access_control_reset_by_account">Accedi al tuo Mi Account per ripristinare il Blocco applicazioni</string>
     <string name="lockpattern_settings_help_how_to_record">Come disegnare una sequenza</string>
     <string name="lockpattern_recording_incorrect_too_short">Collega almeno %d punti</string>
-    <string name="lockpattern_recording_intro_header">Collega almeno 4 per creare una sequenza</string>
+    <string name="lockpattern_recording_intro_header">Collega almeno 4 punti per creare una sequenza</string>
     <string name="lockpattern_pattern_entered_header">Sequenza aggiunta</string>
     <string name="lockpattern_need_to_confirm">Disegna di nuovo la sequenza per confermare</string>
-    <string name="lockpattern_need_to_unlock_wrong">Prova di nuovo</string>
+    <string name="lockpattern_need_to_unlock_wrong">Riprova</string>
     <string name="lockpattern_recording_inprogress">Togli il dito quando hai completato al sequenza</string>
     <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco</string>
     <string name="lockpassword_confirm_your_password_header">Conferma password</string>
-    <string name="lock_settings_title">Lockscreen e password</string>
+    <string name="lock_settings_title">Blocco schermo e password</string>
     <string name="access_control_recording_intro_header">Disegna sequenza per aggiungere Blocco App</string>
     <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
     <string name="recommend_app">App consigliate</string>
@@ -1231,11 +1231,11 @@ o inserisci la password"</string>
     <string name="third_application">App di terze parti</string>
     <string name="security_app_lock">Blocco applicazioni</string>
     <string name="fingerprint_verification_message">"Verifica l'impronta attuale per iniziare ad utilizzare questa funzione."</string>
-    <string name="finger_remind_message">Supporta lo sblocco con impronta digitale. Aggiungi impronta?</string>
+    <string name="finger_remind_message">Supporta lo sblocco con impronta digitale. Aggiungere impronta?</string>
     <string name="fingerprint_not_remind">Non chiedere più</string>
     <string name="fingerprint_verify_succeed">Verificata con successo</string>
     <string name="fingerprint_verify_failed">Impossibile verificare</string>
-    <string name="fingerprint_verify_try_agin">Impossibile scansionare,prova di nuovo</string>
+    <string name="fingerprint_verify_try_agin">Impossibile scansionare, riprova</string>
     <string name="cancal_to_setting_fingerprint">Annulla</string>
     <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
     <string name="fingerprint_remind_dialog_title">Sblocco con impronta</string>
@@ -1258,7 +1258,7 @@ o inserisci la password"</string>
     <string name="apps_item_title_system">Aggiornamento di sistema</string>
     <string name="apps_item_summary_system_update">Alcuni bug sono stati risolti nella nuova versione per rendere i pagamenti più sicuri.</string>
     <string name="apps_item_summary_system_rooted">Sono stati concessi i permessi di root, ripristina le impostazioni predefinite per evitare rischi.</string>
-    <string name="apps_item_summary_sms">%s ha accesso ai tuoi messaggi, questo potrebbe essere fonte di problemi di sicurezza</string>
+    <string name="apps_item_summary_sms">%s ha accesso ai tuoi messaggi, questo potrebbe creare problemi di sicurezza</string>
     <string name="button_text_update_now">Aggiorna</string>
     <string name="button_text_fix_now">Fissa</string>
     <string name="button_text_open_now">Apri</string>
@@ -1272,9 +1272,9 @@ o inserisci la password"</string>
     <string name="apps_item_virus_summary_uninstalled">Apk</string>
     <string name="apps_item_sign_install_button_text">Sostituisci</string>
     <string name="apps_item_sign_dialog_title">"Installa versione ufficiale dell'app"</string>
-    <string name="apps_item_sign_dialog_content">La firma di \"%s\ è diversa da quella nell\'App Store. Eliminare questa app ed installare la versione ufficiale? Nota: installando un\'app con una firmadiversa si potrebbe incorrere in perdite di dati.</string>
+    <string name="apps_item_sign_dialog_content">"La firma di \"%s\ è diversa da quella nell\'App Store. Eliminare questa app ed installare la versione ufficiale? Nota: installando un'app con una firma diversa si potrebbe incorrere in perdite di dati."</string>
     <string name="wifi_item_title_connection">Connessione Wi-Fi</string>
-    <string name="wifi_item_title_encryption">CRittografia Wi-Fi</string>
+    <string name="wifi_item_title_encryption">Crittografia Wi-Fi</string>
     <string name="wifi_item_title_fake">Riconosci Wi-Fi fasulle</string>
     <string name="wifi_item_title_dns">Sicurezza server DNS</string>
     <string name="wifi_item_title_arp_attack">Attacchi ARP</string>
@@ -1304,7 +1304,7 @@ o inserisci la password"</string>
     <string name="scan_status_risk">Pericolosa</string>
     <string name="header_info_scan_progress">%d%%</string>
     <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700>Minaccia rilevata! Interrompere il pagamento in corso!&lt;/font></string>
-    <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00>Impossibile verificare la sicurezza del pagamento. Collegarsi ad Internet e provare di nuovo.&lt;/font>"</string>
+    <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00>Impossibile verificare la sicurezza del pagamento. Collegati ad Internet e riprova.&lt;/font>"</string>
     <string name="safepay_alert_dialog_button_risk">Ottimizza</string>
     <string name="safepay_alert_dialog_button_unknown">Controlla di nuovo</string>
     <string name="safepay_alert_dialog_button_continue">Procedi</string>
@@ -1380,7 +1380,7 @@ o inserisci la password"</string>
     <string name="optimize_result_button_correct_now">Calibrare</string>
     <string name="optimize_result_button_cooldown_now">Raffredda ora</string>
     <string name="optimize_result_button_consume_power_analysis">Scansione batteria</string>
-    <string name="optimize_result_button_purchase_flow">Acquista altri dati mobili</string>
+    <string name="optimize_result_button_purchase_flow">Acquista altri dati cellulare</string>
     <string name="optimize_result_button_purchase">Acquista</string>
     <string name="optimize_result_button_cloudspace">Amplia spazio cloud</string>
     <string name="optimize_result_title_system_default_settings">Le impostazioni predefinite sono state modificate</string>

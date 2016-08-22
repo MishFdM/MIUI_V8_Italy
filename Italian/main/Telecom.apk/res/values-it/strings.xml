@@ -26,7 +26,7 @@
     <string name="outgoing_call_not_allowed_no_permission">Sono consentite solo chiamate di emergenza dal proprietario.</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Chiamata non effettuata, numero inserito non valido.</string>
     <string name="duplicate_video_call_not_allowed">La chiamata non può essee aggiunta adesso.</string>
-    <string name="video_call_not_allowed_if_tty_enabled">Si prega di disattivare la modalità TTY per effettuare le video chiamate</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Si prega di disattivare la modalità TTY per effettuare le videochiamate</string>
     <string name="no_vm_number">Numero segreteria telefonica mancante</string>
     <string name="no_vm_number_msg">Nessun numero segreteria telefonica è salvato sulla SIM.</string>
     <string name="add_vm_number_str">Aggiungi numero</string>
@@ -48,6 +48,6 @@
     <string name="notification_missedCall_call_back_miui">Chiama</string>
     <string name="dial_vt_fail_prompt">La rete non supporta VoLTE. Effettuare una chiamata normale?</string>
     <string name="dial_conference_fail_prompt">"Impossibile avviare l'audioconferenza, la rete non supporta la tecnologia VoLTE."</string>
-    <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una video chiamata</string>
+    <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
     <string name="voice_dial_out">Chiamata vocale</string>
 </resources>
