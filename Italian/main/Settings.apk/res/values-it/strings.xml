@@ -879,7 +879,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_p2p_disconnect_message">Se ti disconnetti verrà terminata la connessione con %1$s.</string>
     <string name="wifi_p2p_disconnect_multiple_message">Se ti disconnetti verrà terminata la connessione con %1$s e altri %2$s dispositivi.</string>
     <string name="wifi_p2p_cancel_connect_title">"Annullare l'invito?"</string>
-    <string name="wifi_p2p_cancel_connect_message">"Vuoi annullare l'invito a connettersi con %1$s?"</string>
+    <string name="wifi_p2p_cancel_connect_message">"Annullare l'invito a connettersi con %1$s?"</string>
     <string name="wifi_p2p_delete_group_message">Eliminare questo gruppo?</string>
     <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi</string>
     <string name="wifi_hotspot_checkbox_text">Hotspot Wi-Fi</string>
@@ -2327,7 +2327,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="transition_animation_scale_title">Scala animazione transizione</string>
     <string name="animator_duration_scale_title">Scala durata animatore</string>
     <string name="overlay_display_devices_title">Simula display secondari</string>
-    <string name="enable_multi_window">Multi-window mode</string>
+    <string name="enable_multi_window">Mod. multi-finestra</string>
     <string name="enable_multi_window_summary">Attività multiple su schermo nello stesso momento.</string>
     <string name="confirm_enable_multi_window_title">Attivare la modalità multi-finestra?</string>
     <string name="confirm_enable_multi_window_text">ATTENZIONE: questa è una funzione sperimentale che consente varie attività a schermo contemporaneamente attraverso la UI delle app recenti. Alcune app potrebbero chiudersi o non funzionare correttamente utilizzando questa funzione.</string>
@@ -3294,7 +3294,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="search_accessibility_screen_magnification_title">Magnification gestures</string>
     <string name="search_accessibility_global_gesture_preference_title">Accessibility shortcut</string>
     <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
-    <string name="search_accessibility_long_press_timeout_preference_title">Touch &amp;amp; hold delay</string>
+    <string name="search_accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
     <string name="search_accessibility_display_daltonizer_preference_title">Color correction</string>
     <string name="search_touch_assistant">Touch assistant</string>
     <string name="search_key">Buttons;Keys</string>
@@ -3304,7 +3304,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="search_screen_key_long_press_timeout">Set long press time</string>
     <string name="search_button_light_timeout">Keep button lights on</string>
     <string name="search_led">LED</string>
-    <string name="search_music_headset_settings">Headphones &amp;amp; audio effects</string>
+    <string name="search_music_headset_settings">Headphones &amp; audio effects</string>
     <string name="search_accessibility">Accessibility</string>
     <string name="search_lab_functions_title">Beta features;Lab function</string>
     <string name="search_power_optimize">Battery saver;Save battery</string>
@@ -3449,11 +3449,11 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="path_edge_handgrip">Settings/Edge controls</string>
     <string name="path_other_advanced_settings">Settings/Additional settings</string>
     <string name="path_security_settings">Impostazioni/Impostazioni aggiuntive/Privacy</string>
-    <string name="path_language_settings">Settings/Additional settings/Language &amp;amp; input</string>
+    <string name="path_language_settings">Settings/Additional settings/Language &amp; input</string>
     <string name="path_language_picker_title">Impostazioni/Impostazioni aggiuntive/Lingua e tastiera/Lingua</string>
     <string name="path_user_dict_settings_title">Impostazioni/Impostazioni aggiuntive/Lingua e tastiera/Dizionario personale</string>
-    <string name="path_tts_settings_title">Settings/Additional settings/Language &amp;amp; input/Text-to-speech output</string>
-    <string name="path_pointer_speed">Settings/Additional settings/Language &amp;amp; input/Pointer speed</string>
+    <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
+    <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
     <string name="path_safe_result_header_title_system">Settings/Additional settings/System Security</string>
     <string name="path_manage_device_admin">Settings/Additional settings/System Security/Device administrators</string>
     <string name="path_location_settings_title">Settings/Additional settings/System Security/Location</string>
@@ -3467,7 +3467,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="path_accessibility_screen_magnification_title">Settings/Additional settings/Accessibility/Magnification gestures</string>
     <string name="path_accessibility_global_gesture_preference_title">Settings/Additional settings/Accessibility/Accessibility shortcut</string>
     <string name="path_ntts_settings_title">Settings/Additional settings/Accessibility/tts_settings_title</string>
-    <string name="path_accessibility_long_press_timeout_preference_title">Settings/Additional settings/Accessibility/Touch &amp;amp; hold delay</string>
+    <string name="path_accessibility_long_press_timeout_preference_title">Settings/Additional settings/Accessibility/Touch &amp; hold delay</string>
     <string name="path_accessibility_display_daltonizer_preference_title">Settings/Additional settings/Accessibility/Color correction</string>
     <string name="path_touch_assistant_settings">Settings/Additional settings/Touch assistant</string>
     <string name="path_device_info_memory">Settings/Storage</string>
@@ -3499,7 +3499,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="path_onekey_migrate">Settings/Additional settings/Transfer</string>
     <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
     <string name="path_access_control_settings">Settings/Additional settings/Privacy/Privacy settings</string>
-    <string name="path_power_mode_settings">Settings/Additional settings/Battery &amp;amp; performance/Power settings</string>
+    <string name="path_power_mode_settings">Settings/Additional settings/Battery &amp; performance/Power settings</string>
     <string name="path_power_hide_mode_title">Settings/Battery/Manage apps battery usage</string>
     <string name="path_xiaomi_account">Settings/Mi Account</string>
     <string name="path_account_list">Settings/Other Account</string>
@@ -4023,7 +4023,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
  per lo spazio Secondario"</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per lo spazio Secondario"</string>
-    <string name="cancel_alert">Vuoi annullare i cambiamenti?</string>
+    <string name="cancel_alert">Annullare le modifiche?</string>
     <string name="android_beam_witch_label">Attiva Android Beam</string>
     <string name="sim_management_title">SIM e dati mobili</string>
     <string name="sim_radio_off">Non attivato</string>
@@ -4189,7 +4189,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="check_update">Verifica aggiornamenti</string>
     <string name="dialog_no">No</string>
     <string name="dialog_yes">Sì</string>
-    <string name="confirm_download_cancelation_dialog_message">Vuoi annullare il download?</string>
+    <string name="confirm_download_cancelation_dialog_message">Annullare il download?</string>
     <string name="found_new_version">Trovata nuova versione</string>
     <string name="no_update_found">"Hai già l'ultima versione: "</string>
     <string name="no_updates_found">"Stai già usando l'ultima versione di MIUI."</string>
@@ -4203,7 +4203,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="button_text_login">Accesso</string>
     <string name="dialog_content_login">"L'aggiornamento richiede un Mi Account, vuoi proseguire?"</string>
     <string name="dialog_title_login">Accedi al tuo Mi Account</string>
-    <string name="make_sure_cancel_update">"Vuoi annullare l'aggiornamento?"</string>
+    <string name="make_sure_cancel_update">"Annullare l'aggiornamento?"</string>
     <string name="download_current_rom">"Scarica l'ultima versione di MIUI"</string>
     <string name="install_whole_rom">Scarica ROM (standard)</string>
     <string name="apply_update_fail">Aggiornamento di sistema fallito.</string>
