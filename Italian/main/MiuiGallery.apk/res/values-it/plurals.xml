@@ -70,7 +70,7 @@
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Aggiunte %d foto su cloud, disattiva \"Mostra solo gli album locali\" per vederle.</item>
-        <item quantity="one">Aggiunta %d foto su cloud, disattiva \"Oostra solo gli album locali\" pe vederla.</item>
+        <item quantity="one">Aggiunta %d foto su cloud, disattiva \"Mostra solo gli album locali\" pe vederla.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Eliminare %1$d foto %2$s?</item>

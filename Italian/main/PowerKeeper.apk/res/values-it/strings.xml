@@ -52,7 +52,7 @@
     <string name="power_dialog_power_keeper_disable">Disattivare il Risparmio batteria?</string>
     <string name="power_dialog_new_event_fail">Impossibile aggiungere nuovi eventi</string>
     <string name="power_optimize_activity_profile_file_error">Errore nel Risparmio di batteria</string>
-    <string name="foreground_change">App inesecuzione in primo piano</string>
+    <string name="foreground_change">App in esecuzione in primo piano</string>
     <string name="screen_on">Schermo attivato</string>
     <string name="screen_off">Schermo disattivato</string>
     <string name="screen_off_10_min">Disattiva schermo oltre i 10 minuti</string>
@@ -137,7 +137,7 @@
     <string name="location_disable_title">Nega</string>
     <string name="location_enable_description">Le applicazioni in background possono utilizzare i servizi di localizzazione</string>
     <string name="location_disable_description">"Le applicazioni in background possono utilizzare i servizi di localizzazione solo per un breve periodo di tempo, mentre l'uso continuo è limitato"</string>
-    <string name="config_description">MIUI è in grado di indetificare app con specifici processi in background (es., app messaggi e navigazione, media players), ed utilizzare il Risparmio Batteria in modo che non interferisca con importanti processi in background.</string>
+    <string name="config_description">MIUI è in grado di identificare app con specifici processi in background (es. app messaggi e navigazione, media players) ed utilizzare il Risparmio Batteria in modo che non interferisca con importanti processi in background.</string>
     <string name="config_suggest_description">"Identifica applicazioni e attività per mantenere attivi i processi importanti.
 Il sistema di risparmio batteria gestirà le app importanti in modo selettivo."</string>
     <string name="config_no_restrict_description">"Il Risparmio Batteria non limiterà l'attività dell'app"</string>
