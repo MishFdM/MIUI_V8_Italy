@@ -51,7 +51,7 @@
     <string name="dlg_clear_blacklist_ok">Cancella</string>
     <string name="dlg_bl_add_manual">Aggiungi il numero alla lista blocco</string>
     <string name="dlg_add_manual_ok">Aggiungi</string>
-    <string name="dlg_add_manual_hint">Inserisci iil numero di telefono</string>
+    <string name="dlg_add_manual_hint">Inserisci il numero di telefono</string>
     <string name="dlg_import_blacklist">Importazione nella blacklist</string>
     <string name="dlg_remove_blacklist_ing">Rimozione dalla blacklist…</string>
     <string name="dlg_import_whitelist">Inserimento nelle eccezioni…</string>
@@ -294,7 +294,7 @@
     <string name="mark_agent_block_large">Venditore</string>
     <string name="mark_sell_block_large">Televendita</string>
     <string name="mark_harass_block_large">Disturbi</string>
-    <string name="mark_courier_block_large">Correiere</string>
+    <string name="mark_courier_block_large">Corriere</string>
     <string name="mark_number_info">Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai realmente cercando qualcosa da acquistare). Blocca soltanto i numeri da cui non vuoi mai ricevere chiamate.</string>
     <string name="dlg_title_not_open_stranger_identify">Attiva identificazione numeri sconosciuti</string>
     <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'identificazione dei numeri sconosciuti in \"Telefono > Impostazioni\" prima di segnalare un numero."</string>
@@ -330,7 +330,7 @@
     <string name="antispam_notificaiton_type_show_all">Tutte le chiamate</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Solo chiamate non in blacklist</string>
     <string name="antispam_notificaiton_type_show_none">Mai</string>
-    <string name="quiet_off_mode">Conenti sempre</string>
+    <string name="quiet_off_mode">Consenti sempre</string>
     <string name="quiet_important_interruptions_mode">Solo eccezioni</string>
     <string name="quiet_mode">Silenzia tutti i contatti indesiderati</string>
     <string name="quiet">Non disturbare</string>
