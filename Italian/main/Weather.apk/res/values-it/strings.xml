@@ -91,7 +91,7 @@
     <string name="information_manager_information">Informazioni Meteo</string>
     <string name="activity_main_clickable">></string>
     <string name="aqi_short_desc">IQA %1$s</string>
-    <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit">%1$s km/h</string>
     <string name="wind_miles_unit">%1$ smph</string>
     <string name="aqi_top_pollution">Inquinamento massimo</string>
     <string name="aqi_detail_title">Indice Qualità Aria (IQA)</string>
@@ -172,7 +172,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="index_item_install_now">Installa adesso</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
-    <string name="set_land_mile">" mph"</string>
+    <string name="set_land_mile">" mp/h"</string>
     <string name="set_kilometre">" km/h"</string>
     <string name="alert_warning">Avviso</string>
     <string name="unit">Unità</string>
