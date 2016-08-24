@@ -74,11 +74,11 @@
     <string name="cant_remove_retained_app">Impossibile rimuovere questa applicazione</string>
     <string name="uninstall_dialog_message">La disinstallazione rimuoverà tutti i dati</string>
     <string name="uninstall_dialog_title_format">Vuoi disinstallare \"%s\"?</string>
-    <string name="uninstall_xspace_dialog_title_format">Uninstall cloned \"%s\"</string>
-    <string name="uninstall_xspace_dialog_message">Uninstalling cloned app will remove all app data.</string>
-    <string name="uninstall_with_xspace_dialog_message">Corresponding cloned apps will be removed together with app data.</string>
-    <string name="confirm_uninstall_dialog_title">Corresponding cloned apps will be removed.</string>
-    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Cloned app will be uninstalled together with this one.</string>
+    <string name="uninstall_xspace_dialog_title_format">Disinstalla clone di \"%s\"</string>
+    <string name="uninstall_xspace_dialog_message">"Disinstallando il clone dell'app verranno rimossi anche i dati associati."</string>
+    <string name="uninstall_with_xspace_dialog_message">Le app clonate verranno rimosse disinstallate e verranno rimossi anche i dati associati.</string>
+    <string name="confirm_uninstall_dialog_title">Il clone corrispondente verrà eliminato.</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">"Il clone dell'app verrà disinstallato insieme a questo."</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Le app clonate saranno disinstallate insieme a questi.</string>
     <string name="uninstall_dialog_title_multi_format" formatted="false">Vuoi disinstallare %s ed altre %d applicazioni?</string>
     <string name="uninstall">Disinstalla</string>
@@ -92,7 +92,7 @@
     <string name="cant_remove_folder">Non puoi rimuovere questa cartella</string>
     <string name="widget_favorite_contacts_label">Contatti preferiti</string>
     <string name="widget_favorite_contacts_edit">Modifica</string>
-    <string name="widget_favorite_contacts_style">Cambia grandezza</string>
+    <string name="widget_favorite_contacts_style">Modifica dimensioni</string>
     <string name="edit_folder_title">Modifica nome cartella</string>
     <string name="sort_by_not_defined">Ordina automaticamente</string>
     <string name="sort_by_frequency">Ordina per utilizzo</string>
@@ -114,7 +114,7 @@
     <string name="choose_wallpaper">Scegli sfondo</string>
     <string name="current_preview">Anteprima</string>
     <string name="normal_wallpaper">Wallpaper</string>
-    <string name="lock_screen_wallpaper">Lock screen wallpaper</string>
+    <string name="lock_screen_wallpaper">Sfondo Schermata di blocco</string>
     <string name="wallpaper">Sfondo</string>
     <string name="mi_wallpaper">Sfondo MIUI</string>
     <string name="show_all">Mostra tutto</string>
@@ -217,14 +217,14 @@
     <string name="toggle_title">Comando</string>
     <string name="settings_shortcut">Impostazioni collegamenti</string>
     <string name="free_style_edit_tab_shortcut">Collegamenti</string>
-    <string name="free_style_edit_tab_free_component">Componenti Free</string>
+    <string name="free_style_edit_tab_free_component">Componenti Gratuiti</string>
     <string name="free_style_edit_tab_widget">Widget</string>
     <string name="free_style_edit_move_tip">Premi a lungo per spostare</string>
     <string name="free_style_edit_app">Applicazione</string>
     <string name="free_style_edit_drawer">Drawer</string>
     <string name="free_style_drawer_title">Tutte le applicazioni</string>
     <string name="guide_install_app_title">"Installa l'applicazione"</string>
-    <string name="guide_install_app_msg">"Applicazione non installata. Vuoi cercare l'applicazione sul Play Store?"</string>
+    <string name="guide_install_app_msg">"Applicazione non installata. Vuoi cercare l'app sul Play Store?"</string>
     <string name="menu_customize">Personalizza impostazioni</string>
     <string name="menu_picktheme">Seleziona tema</string>
     <string name="scroll_tip_format_when_announce_accessibility">Pagina %1$d, %2$d app</string>
@@ -260,7 +260,7 @@
     <string name="children_folder_title">Ragazzi</string>
     <string name="children_mode_exit">Uscita</string>
     <string name="children_mode_tips">"Ritorna alle Impostazioni e gestisci l'accesso alle app."</string>
-    <string name="children_mode_tips_message">"Nessuna applicazione in modalità Genitore. Seleziona un'applicazione."</string>
+    <string name="children_mode_tips_message">"Nessuna applicazione in modalità Genitore. Seleziona un'app."</string>
     <string name="wallpaper_auto_change_title">Schermata di blocco</string>
     <string name="wallpaper_scaling_message">Ridimensionamento alla dimensione applicata</string>
     <string name="cant_edit_lock_screen">Impossibile modificare lo stile della schermata di blocco.</string>
