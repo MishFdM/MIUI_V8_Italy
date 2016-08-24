@@ -786,6 +786,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="download_filter_image">Foto</string>
     <string name="download_filter_audio">Musica</string>
     <string name="download_filter_others">Altro</string>
+    <string name="download_filter_zip">Zip</string>
+    <string name="download_filter_apk">Apk</string>
+    <string name="save_file">Salva %s file</string>
     <string name="dialog_confirm_delete_checkbox_message">Elimina il file sulla memoria interna</string>
     <string name="dialog_confirm_delete_downloads_message">Eliminare %s operazioni?</string>
     <string name="dialog_confirm_delete_the_download_item_message">Eliminare questa operazione?</string>
@@ -817,4 +820,16 @@ finestra riservata​"</string>
     <string name="force_touch_bookmark_history_title">Segnalibri e cronologia</string>
     <string name="force_touch_infoflow_title">Notizie Quotidiane</string>
     <string name="gold_medals">"Medaglie d'oro"</string>
+    <string name="document_download_open_direct">Apri direttamente</string>
+    <string name="document_download_title">Download in corso</string>
+    <string name="document_download_background_btn">Scarica inbackground</string>
+    <string name="document_download_cancel_btn">Annulla</string>
+    <string name="document_open_title">Apri con</string>
+    <string name="document_open_message">"Per migliorare la tua esperienza di lettura e garantire la sicurezza, si consiglia l'utilizzo di versioni WPS personalizzate ufficialmente"</string>
+    <string name="document_open_file">Apri %s</string>
+    <string name="document_open_other">Altre app</string>
+    <string name="document_download_official">Download ufficiale</string>
+    <string name="document_download_failed">Download fallito</string>
+    <string name="view_document_downloaded_files">Accedi ai file scaricati del Gestore download</string>
+    <string name="no_app_open_document">Nessuna app disponibile per gestire questaazione</string>
 </resources>

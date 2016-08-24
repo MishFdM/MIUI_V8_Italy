@@ -5,9 +5,11 @@
     <string name="fw_blocked_count">"Bloccati "</string>
     <string name="fw_blocked_join">" e "</string>
     <string name="tab_title">Blacklist</string>
+    <string name="tab_block_log">Log dei blocchi</string>
     <string name="tab_blacklist">Blacklist</string>
     <string name="tab_sms">Messaggi</string>
     <string name="tab_call">Chiamate</string>
+    <string name="bl_block_info" formatted="false">Chiamate: %d | SMS: %d</string>
     <string name="bl_no_block_call">Tutte le chiamate bloccate verranno registrate qui</string>
     <string name="bl_no_block_sms">Tutti i messaggi bloccati verranno registrati qui</string>
     <string name="bl_no_blacklist">Blacklist vuota</string>
@@ -38,6 +40,7 @@
     <string name="dlg_clear_current_ok">Rimuovi</string>
     <string name="dlg_no_block">Non bloccare questo numero?</string>
     <string name="dlg_no_block_ok">Non bloccare</string>
+    <string name="dlg_add_blacklist_title">Aggiungi alla lista blocchi</string>
     <string name="dlg_add_blacklist">Aggiungere numero alla blacklist?</string>
     <string name="dlg_add_blacklist_warn_conflict_title">Attenzione</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$s ed altri %2$s contatti sono già tra le tue eccezioni.</string>

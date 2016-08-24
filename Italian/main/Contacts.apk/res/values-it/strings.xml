@@ -658,6 +658,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="button_join_service_number">Aggiungi numero di servizio</string>
     <string name="button_my_center">Profilo</string>
     <string name="gallery">Galleria</string>
+    <string name="search_input_hint">Puoi cercare numeri di telefono o servizi</string>
     <string name="import_from_sim">Importa da SIM</string>
     <string name="export_to_sim_title">Esportazione…</string>
     <string name="import_from_sim1">Importa da SIM 1</string>
@@ -994,6 +995,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="default_ringtone">Suoneria predefinita</string>
     <string name="recent_number">Recente</string>
     <string name="cloud_antispam_mark">Segnala come spam</string>
+    <string name="cloud_antispam_marked">Segnato</string>
     <string name="antispam_mark_my_contribution">Mostra ad altri utenti che ho segnalato questo numero</string>
     <string name="antispam_provider_format">Segnalato come spam da %s</string>
     <string name="type_mx_msg">Mi Message</string>
@@ -1201,8 +1203,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_user_profile">Profilo</string>
     <string name="yellowpage_navigation_more_items">Altro</string>
     <string name="yellowpage_navigation_more_items_title">Altri servizi</string>
-    <string name="imei_invalid">IMEI non valido</string>
-    <string name="meid_invalid">MEID non valido</string>
     <string name="mobile_equipment_identification">Identificazione Equipaggiamento Mobile</string>
     <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
     <string name="firewall_setting">Blacklist</string>

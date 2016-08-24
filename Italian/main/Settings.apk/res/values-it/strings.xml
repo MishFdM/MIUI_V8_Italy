@@ -2576,7 +2576,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="nfc_payment_default">Pagamento predefinito</string>
     <string name="nfc_payment_default_not_set">Non impostato</string>
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
-    <string name="nfc_payment_use_default">Use default</string>
+    <string name="nfc_payment_use_default">Utilizza i predefinito</string>
     <string name="nfc_payment_favor_default">Sempre</string>
     <string name="nfc_payment_favor_open">"Ad esclusione di quando un'altra app per i pagamenti è aperta"</string>
     <string name="nfc_payment_pay_with">Ai terminali Touch &amp; e Pay, utilizza:</string>
@@ -2727,7 +2727,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="keywords_spell_checker">pronuncia</string>
     <string name="keywords_voice_input">riconoscimento inserimento discorso parlare lingua mani libere mano libera riconoscimento parola offensiva word audio cronologia bluetooth cuffie</string>
     <string name="keywords_text_to_speech_output">rate language default speak speaking</string>
-    <string name="keywords_date_and_time">clock</string>
+    <string name="keywords_date_and_time">orologio</string>
     <string name="keywords_network_reset">reset restore factory</string>
     <string name="keywords_factory_data_reset">wipe delete</string>
     <string name="keywords_printing">stampare</string>
@@ -3097,6 +3097,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="write_settings_on">Sì</string>
     <string name="write_settings_off">No</string>
     <string name="msim_sim_radio_off">Disattivo</string>
+    <string name="forbidden_switch_apn_string">"Le impostazioni APN selezionate non coincidono con il tipo di rete in uso"</string>
     <string name="ad_service">Servizi Pubblicitari (AD)</string>
     <string name="use_personalized_ad_service">Personalizza AD</string>
     <string name="reset_aaid">"Azzera l'identificatore per AD"</string>
@@ -3269,7 +3270,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="search_dndm_repeated_call_setting_title">Repeat callers</string>
     <string name="search_children_mode_settings">Child mode;Lock sms</string>
     <string name="search_oldman_mode">Lite mode;Oldman mode</string>
-    <string name="search_edge_handgrip">Edge controls</string>
+    <string name="search_edge_handgrip">Controlli laterali</string>
     <string name="search_other_advanced_settings">Additional settings;Privacy settings;Date&amp;time;Language &amp; input;One_handed mode;Battery &amp; performance;Storage;Notification light;Led;Headphones &amp; audio effects;Buttons;Keys;Accessibility;Beta features;Lab functions;Developer options;Backup &amp; reset;Transfer;One key migrate</string>
     <string name="search_security_settings">Privacy settings</string>
     <string name="search_access_control">Accesso</string>
@@ -3297,8 +3298,9 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="search_accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
     <string name="search_accessibility_display_daltonizer_preference_title">Color correction</string>
     <string name="search_touch_assistant">Touch assistant</string>
+    <string name="search_force_touch">Touch 3D</string>
     <string name="search_key">Buttons;Keys</string>
-    <string name="search_app_switch_key">Recents</string>
+    <string name="search_app_switch_key">Recenti</string>
     <string name="search_home_key">Home</string>
     <string name="search_back_key">Indietro</string>
     <string name="search_screen_key_long_press_timeout">Set long press time</string>
@@ -3470,6 +3472,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="path_accessibility_long_press_timeout_preference_title">Settings/Additional settings/Accessibility/Touch &amp; hold delay</string>
     <string name="path_accessibility_display_daltonizer_preference_title">Settings/Additional settings/Accessibility/Color correction</string>
     <string name="path_touch_assistant_settings">Settings/Additional settings/Touch assistant</string>
+    <string name="path_force_touch">Settings/Additional settings/3D Touch</string>
     <string name="path_device_info_memory">Settings/Storage</string>
     <string name="path_storage_settings">Settings/Storage/Cleaner</string>
     <string name="path_led_settings">Settings/Additional settings/Notification light</string>
@@ -4547,6 +4550,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="usb_insert_summary">Inserire una memoria USB da caricare</string>
     <string name="fp_nav_center_back_to_home_title">Premi il tasto Home per tornare alla schermata Home</string>
     <string name="convenience_key_category_title">Scorciatoie</string>
+    <string name="single_key_use">Utilizzo tasto singolo</string>
+    <string name="single_key_use_summary">Il tasto Home, a differenza degli altri due tasti per le normali operazioni</string>
     <string name="settings_forbidden_message">Questa impostazione è disattivata</string>
     <string name="auto_disable_screenbuttons_title">Disattiva automaticamente i tasti di navigazione</string>
     <string name="auto_disable_screenbuttons_summary">Disattiva automaticamente i tasti di navigazione quando utilizzi certe app. Tocca due volte qualsiasi tasto di navigazione per riattivarlo.</string>
@@ -4609,6 +4614,10 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="uninstall_dlg_title">Disinstallare ora?</string>
     <string name="uninstall_dlg_msg">Disinstallando verranno rimossi anche i dati.</string>
     <string name="uninstall_with_xspace_app_dlg_msg">"L'app clonata e i suoi dati verranno rimossi."</string>
+    <string name="mqsas_settings_category">MQSAS</string>
+    <string name="record_anr_in_background">Registra casi ANR in background</string>
+    <string name="anr_record_interval_title">Registra intervalli ANR</string>
+    <string name="open_anr_debug">Attiva debugg ANR</string>
     <string name="path_pn_settings">Impostazioni/Reti mobili/Nomi punti di accesso</string>
     <string name="keyguard_shortcut_title">Collegamenti</string>
     <string name="keyguard_shortcut_summary">Imposta i collegamenti per 2 app sulla schermata di blocco</string>
