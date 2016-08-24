@@ -389,13 +389,17 @@
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (sicuro)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (sicuro)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (sicuro)</item>
-        <item>1280x720 tvdpi e 1920x1080 xhdpi</item>
+        <item>720x480/142</item>
+        <item>720x480/142,sicuro</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,sicuro</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,sicuro</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,sicuro</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,sicuro</item>
+        <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nessuna</item>
@@ -756,6 +760,14 @@
     <string-array name="screen_resolution_values">
         <item>1440</item>
         <item>720</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
     </string-array>
     <string-array name="organized_locales">
         <item>dz</item>

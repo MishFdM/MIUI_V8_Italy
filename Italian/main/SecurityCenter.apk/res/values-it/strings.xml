@@ -1059,6 +1059,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="title_flow_verify">Confronto</string>
     <string name="summary_flow_verify">"Non sincronizzi le statistiche dell'operatore da %d giorni"</string>
     <string name="summary_never_flow_verify">Questa figura non è stata verificata con il tuo operatore</string>
+    <string name="title_flow_verify_failed">Impossibile regolare per 5 giorni consecutivi</string>
+    <string name="summary_flow_verify_failed">Regola automaticamente la data per evitare costi aggiuntivi</string>
     <string name="title_flow_notification">Rapporto utilizzo dati</string>
     <string name="summary_flow_notification">Mostra le statistiche mensili nel pannello di notifica</string>
     <string name="title_flow_purchase">"È il momento di ricaricare"</string>
@@ -1089,6 +1091,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="summary_xiaomi_roaming">0.01 yuan per MB per il traffico su rete internazionale.</string>
     <string name="toast_network_switch">Questa applicazione può collegarsi ad internet</string>
     <string name="toast_flow_notification">Notifiche utilizzo dati attivate</string>
+    <string name="toast_auto_traffic_correct">Il traffico dati viene regolato automaticamente</string>
     <string name="toast_show_notification">Mostra nel pannello di notifica</string>
     <string name="toast_virus_cloudscan">La scansione virus utilizzerà il database online</string>
     <string name="toast_cleaner_cloudscan">Lo Strumento di pulizia utilizzerà il database online</string>
@@ -1100,6 +1103,12 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="permission_with_SMS_and_MMS">Permessi SMS ed MMS</string>
     <string name="call_and_contact">Chiamate e contatti</string>
     <string name="permission_with_call_and_contact">Permessi per chiamate, informazioni di contatto e registro chiamate.</string>
+    <string name="title_flow_rank">Utilizzo dati rete mobile</string>
+    <string name="title_consume_power_rank">Utilizzo batteria</string>
+    <string name="title_payment_risk">Rilevato un rischio per il pagamento</string>
+    <string name="summary_payment_risk">"Sembra che l'ambiente di pagamento non sia sicuro"</string>
+    <string name="title_consume_power">Rilevato un problema con la batteria</string>
+    <string name="summary_consume_power">"Rilevato un problema di surriscaldamento, questo può influire sull'autonomia"</string>
     <string name="pref_category_title_lock_screen_memory_clean">Ottimizzazione in standby</string>
     <string name="pref_title_lock_screen_memory_clean">Ottimizza in standby</string>
     <string name="pref_summary_lock_screen_memory_clean">Ottimizza automaticamente durante lo standby</string>
@@ -1141,7 +1150,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="preferred_app_entries_gallery">Galleria</string>
     <string name="preferred_app_entries_music">Musica</string>
     <string name="preferred_app_entries_email">Email</string>
-	<string name="security_scan_card_clean_now">Scansiona</string>
+    <string name="security_scan_card_clean_now">Scansiona</string>
     <string name="card_main_paysafe_title">Sicurezza pagamenti</string>
     <string name="card_main_paysafe_summary">Scansiona i pagamenti per proteggersi da eventuali rischi</string>
     <string name="card_main_paysafe_action">Attiva</string>
@@ -1160,6 +1169,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_monthreport_action">Visualizza</string>
     <string name="card_main_speeddetail_title">Velocità di connessione</string>
     <string name="card_main_speeddetailt_summary">Visualizza la velocità di connessione per singola app.</string>
+
     <string name="card_main_netcheck_title">Test di rete</string>
     <string name="card_main_netcheck_summary">Verifica la connessione per risolvere i problemi di rete</string>
     <string name="card_main_netcheck_action">Verifica</string>
@@ -1167,6 +1177,12 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="action_button_text_80_100">Ottimizza</string>
     <string name="action_button_text_60_80">Ottimizzato</string>
     <string name="action_button_text_60">Ottimizzato</string>
+    <string name="card_main_private_space_title">Spazio Secondario</string>
+    <string name="card_main_private_space_summary">Utilizzando lo spazio Secondario sarà come avere 2 dispositivi</string>
+    <string name="card_main_private_space_action">Crea</string>
+    <string name="card_main_xspace_title">Dual app</string>
+    <string name="card_main_xspace_summary">Crea un doppio acocunt per le applicazioni</string>
+    <string name="card_main_xspace_action">Crea</string>
     <string name="system_info_remind">"Aggiungi il blocco per prevenire l'accesso non autorizzato alle tue app"</string>
     <string name="Setting_lock">Impostazioni</string>
     <string name="btn_jump">Salta</string>
@@ -1341,7 +1357,7 @@ o inserisci la password"</string>
     <string name="sp_back_title_text_zero">Sicuro</string>
     <string name="sp_monitored_apps_count_zero">"Nessuna applicazione per il pagamento è protetta"</string>
     <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>
-	<string name="unlike">No grazie</string>
+    <string name="unlike">No grazie</string>
     <string name="toast_network_eror">Impossibile connettersi alla rete</string>
     <string name="download">Scaricate</string>
     <string name="installed">Installate</string>

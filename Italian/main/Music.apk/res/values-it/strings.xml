@@ -26,7 +26,7 @@
     <string name="notif_title_file_size">%1$d totale</string>
     <string name="paused_waiting_for_network">In attesa di rete</string>
     <string name="warning_tip_title">Avviso utilizzo dati</string>
-    <string name="warning_tip_content">Non sei più collegato alla rete Wi-Fi. Utilizzando al rete dati mobile per completare questo downlaod potresti andare incontro a costi aggiuntivi se superi la soglia prevista dal tuo piano dati.</string>
+    <string name="warning_tip_content">Non sei più collegato alla rete Wi-Fi. Utilizzando al rete dati mobile per completare questo download potresti andare incontro a costi aggiuntivi se superi la soglia prevista dal tuo piano dati.</string>
     <string name="warning_tip_cancel">Download</string>
     <string name="warning_tip_ok">Pausa</string>
     <string name="dialog_not_show_again">Non mostrare più</string>
@@ -53,7 +53,7 @@
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>
     <string name="download_no_application_title">Impossibile aprire il file</string>
     <string name="download_percent">%d%%</string>
-    <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
+    <string name="notification_need_wifi_for_size">La dimensione del file richiede Wi-Fi.</string>
     <string name="download_unknown_title">&lt;Nessun titolo></string>
     <string name="root_downloads">Download</string>
     <string name="download_queued">In coda</string>
@@ -152,7 +152,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="all_fileter">Tutti</string>
     <string name="apk_filter">APK</string>
     <string name="media_filter">Media</string>
-    <string name="doc_filter">Docs</string>
+    <string name="doc_filter">Doc</string>
     <string name="package_filter">Pacchetti</string>
     <string name="other_filter">Altro</string>
     <string name="power_save_mode_dialog_msg">Il dispositivo è in Modalità Risparmio Batteria. Avviare adesso il download?</string>

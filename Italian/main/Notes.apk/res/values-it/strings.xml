@@ -24,6 +24,7 @@
     <string name="menu_restore">Ripristina</string>
     <string name="menu_delete_forever">Elimina per sempre</string>
     <string name="menu_send_as_image">Invia come immagine</string>
+    <string name="menu_new_folder">Nuova cartella</string>
     <string name="sns_desc_image_preview">Anteprima messaggio</string>
     <string name="hidden_notes_fragment_title">Note nascoste</string>
     <string name="toast_notes_hidden">Nascoste correttamente</string>
@@ -45,6 +46,8 @@
     <string name="empty_folder_hint">"Nesusna cartella
 Tocca il + per creare una cartella"</string>
     <string name="error_hide_empty_note">Impossibile nascondere una nota vuota</string>
+    <string name="error_send_empty_note">Impossibile inviare una nota vuota</string>
+    <string name="error_send_empty_note_to_weibo">Impossibile inviare unanota vuota su Weibo</string>
     <string name="recover_notes_hint">Rilevati dati anomali nela nota， prova a recuperarla su i.mi.com</string>
     <string name="force_touch_menu_add">Aggiungi nota</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Elimina rapidamente</string>

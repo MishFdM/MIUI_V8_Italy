@@ -148,6 +148,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="auto_disable_screenbuttons_float_text">Tocca per disattivare i tasti a schermo</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Tasti a schermo attivati</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Tasti a schermo disattivati, tocca due volte un tasto per uscire</string>
+    <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Tocca di nuovo per uscire</string>
     <string name="auto_disable_screenbuttons_prompts_title">Disattiva automaticamente i tasti a schermo</string>
     <string name="auto_disable_screenbuttons_prompts_message">Tocca due volte un tasto per uscire dalla modalità di disattivazione e tornare alla funzione del tasto.</string>
     <string name="auto_disable_screenbuttons_prompts_ok">OK</string>

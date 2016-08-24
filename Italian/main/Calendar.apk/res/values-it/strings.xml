@@ -30,6 +30,7 @@
     <string name="topic_list_header_label">订阅列表</string>
     <string name="setting_sms_import">导入短信事件</string>
     <string name="preferences_import_credit_repayment">信用卡还款</string>
+    <string name="preferences_import_travel">机票火车票</string>
     <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
     <string name="topic_dialog_title">退订订阅</string>
     <string name="online_reminder_header_text">提醒</string>
@@ -85,7 +86,6 @@
     <string name="fortune_birthday">生日</string>
     <string name="fortune_no_name">请填写称呼</string>
     <string name="olympic_rank">排名</string>
-    <string name="olympic_county">国家</string>
     <string name="olympic_total">总数</string>
     <string name="olympic_vs">VS</string>
     <string name="ad_card_install">立即安装</string>
@@ -187,13 +187,10 @@
     <string name="edit_event_show_all">Visualizza tutti</string>
     <string name="presence_label">Mostrami come</string>
     <string name="privacy_label">Privacy</string>
-    <string name="no_syncable_calendars">Nessun calendario</string>
-    <string name="no_calendars_found">Non sono presenti calendari.</string>
     <string name="create_an_account_desc">"Il calendario funziona meglio con un Account Google.
 
 • Accedi da qualunque web browser
 • Salva i tuoi eventi in tutta sicurezza"</string>
-    <string name="add_account">Aggiungi</string>
     <string name="view_event_calendar_label">Calendario:</string>
     <string name="view_event_organizer_label">Organizzatore:</string>
     <string name="view_event_response_label">Partecipare?</string>
@@ -288,6 +285,7 @@
     <string name="action_text_today">Oggi</string>
     <string name="action_text_new_event">Nuovo evento</string>
     <string name="week_view_today_toast">Già presente in questa settimana</string>
+    <string name="template_week_num">Settimana %1$s</string>
     <string name="preferences_title">Calendario</string>
     <string name="menu_reminder_preferences">Promemoria</string>
     <string name="account_and_calendar">Account e calendario</string>
@@ -303,6 +301,9 @@
     <string name="setting_about_miui_version">Versione MIUI:</string>
     <string name="setting_about_calendar_version">Versione calendario:</string>
     <string name="setting_about_imei">IMEI:</string>
+    <string name="no_visiable_calendar_title">Seleziona Account Calendario</string>
+    <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
+    <string name="no_visiable_calendar_select_account">Seleziona account</string>
     <string name="event_info_reminders_label_1">Promemoria</string>
     <string name="event_info_reminders_label_more">Promemoria %d</string>
     <string name="event_account">Account calendario</string>
