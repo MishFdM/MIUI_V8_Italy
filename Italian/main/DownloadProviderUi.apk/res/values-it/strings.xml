@@ -74,7 +74,7 @@
     <string name="preferences_title">Impostazioni</string>
     <string name="pref_download_settings_title">Autorizzazione utilizzo dati</string>
     <string name="pref_title_enable_max_bytes_popup">Autorizzazione download dati</string>
-    <string name="pref_summary_enable_max_bytes_popup">Sotto rete dati cellulare, comparirà una richiesta di autorizzazione se le dimensioni del file superano il limite</string>
+    <string name="pref_summary_enable_max_bytes_popup">Sotto rete dati cellulare comparirà una richiesta di autorizzazione se le dimensioni del file superano il limite</string>
     <string name="pref_summary_max_bytes_limit_format">Chiedi autorizzazione se il file supera i %s</string>
     <string name="pref_summary_any_bytes_popup">Metti sempre in coda con rete Wi-Fi</string>
     <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
@@ -108,7 +108,7 @@
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Motore di download Xunlei</string>
     <string name="turn_off_xunlei_title">Disabilita il motore di download Xunlei</string>
-    <string name="turn_off_xunlei_message">Potresti riscontrare una minore velocità in download.</string>
+    <string name="turn_off_xunlei_message">Potresti riscontrare una minore velocità di download.</string>
     <string name="vip_auto_speedup">Gli utenti Xunlei possono scaricare direttamente</string>
     <string name="xunlei_gaosu">Servizio Xunlei Highspeed</string>
     <string name="free_speedup_exp">Servizio gratuito Xunlei Highspeed</string>
@@ -142,8 +142,8 @@
     <string name="add_flow_success_msg">Ricezione di %s di traffico ad alta velocità completata</string>
     <string name="add_flow_fail_vip_msg">Caro Vip Thunder, il canale ad alta velocità è stato aperto</string>
     <string name="add_flow_fail_haveget_msg">Spiacente, hai esaurito il tuo traffico ad alta velocità per questo mese</string>
-    <string name="download_list_open_xl_title">Apri il motore di download Xunlei</string>
-    <string name="download_list_open_xl_message">Apri il motore di download Xunlei，servizio di accelerazione download, immediatamente.</string>
+    <string name="download_list_open_xl_title">Attiva il motore di download Xunlei</string>
+    <string name="download_list_open_xl_message">Attiva il motore di download Xunlei, un servizio di accelerazione download.</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_list_open_xl_cancel">Annulla</string>
     <string name="download_list_intoAuth">Accesso alla pagina di autorizzazione MIUI</string>
@@ -190,10 +190,8 @@
 su tutti i tuoi dispositivi grazie a Xunlei"</string>
     <string name="vip_show_info">"5 milioni di membri.
 Accelerate i download su tutti i tuoi dispositivi."</string>
-    <string name="vip_expire_show_info">"Registrazione Xunlei scaduta.
-Rinnovala adesso con il 5% di sconto."</string>
-    <string name="vip_expire_today_show_info">"Registrazione Xunlei scaduta.
-Rinnovala adesso con il 5% di sconto."</string>
+    <string name="vip_expire_show_info">"Registrazione Xunlei scaduta."</string>
+    <string name="vip_expire_today_show_info">"Registrazione Xunlei scaduta."</string>
     <string name="expire_notification_msg">Il tuo account Xunlei sta per scadere, tocca Mostra Dettagli</string>
     <string name="expire_today_notification_msg">Il tuo account Xunlei scade oggi, tocca Mostra Dettagli</string>
     <string name="start_xunlei_speedup_info">Accedi automaticamente per utilizzare il servizio</string>
@@ -296,7 +294,7 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="sniff_search_install">Installa</string>
     <string name="sniff_shortcut_tip">Puoi aggiungere un collegamento alla Home per la ricerca web</string>
     <string name="sniff_shortcut_tip2">Trova fonti per il download direttamente sulla Home.</string>
-    <string name="sniff_shortcut_cloudconfig_title">Solo un secondo</string>
+    <string name="sniff_shortcut_cloudconfig_title">Solo un attimo…</string>
     <string name="sniff_shortcut_cloudconfig_context">Aggiornamento risorse</string>
     <string name="sniff_shortcut_cloudconfig_btn">Ho capito</string>
     <string name="sniff_shortcut_create">Collegamento creato</string>
@@ -340,7 +338,7 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="net_error">Impossibile collegarsi alla rete, riprova</string>
     <string name="loading">Solo un attimo…</string>
     <string name="load_finish_hint">Puoi continuare a guardare domani</string>
-    <string name="jump_rank_hint">"Dai un'occhiata alla classifica dei download id oggi >"</string>
+    <string name="jump_rank_hint">"Dai un'occhiata alla classifica dei download di oggi >"</string>
     <string name="rank_guide_title">App installate da altri utenti</string>
     <string name="rank_guide_content">Le classifiche vengono aggiornate ogni giorno per mostrare le app più richieste</string>
     <string name="rank_guide_confirm">Controlla</string>
@@ -353,7 +351,7 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="unit_cn_hundredmillions">00M</string>
     <string name="ad_mark">AD</string>
     <string name="download_list_title_browser">Download</string>
-    <string name="menu_title_fileexplore">Explorer</string>
+    <string name="menu_title_fileexplore">Esplora</string>
     <string name="high_speed_tryout">Velocità di download bassa, diventa un utente Xunlei</string>
     <string name="high_speed_tryout_time">Periodo di prova rimanente: %1$s. diventa un utente Xunlei.</string>
     <string name="high_speed_tryout_percent">Velocità aumentata di %1$s, diventa un utente Xunlei</string>
@@ -424,7 +422,7 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="extend">estendi</string>
     <string name="task_fail">fallito</string>
     <string name="notify_disabled_net_by_app">Accesso internet limitato</string>
-    <string name="notify_only_wifi_download">In attesa di Wi-Fi</string>
+    <string name="notify_only_wifi_download">In attesa del Wi-Fi…</string>
     <string name="toast_only_wifi_download">Collegati al Wi-Fi per scaricare questo file</string>
     <string name="dialog_title_disabled_net">Accesso internet</string>
     <string name="dialog_msg_disabled_net">"%1$s download limitati dalla rete attuale. Tocca le impostazioni di rete per andare nell'app sicurezza."</string>
@@ -437,12 +435,26 @@ Rinnovala adesso con il 5% di sconto."</string>
     <string name="search_vif_empty">Nessun elemento consigliato</string>
     <string name="title_homepage_infoflow">Aggiornamenti recenti</string>
     <string name="text_showmore_infoflow">Mostra altre risorse</string>
-    <string name="ad_title_other">Atri utenti hanno scaricato con questa immagine anche</string>
-    <string name="info_flow_only_load_wifi">Carica fonti consigliate quando collegato al Wi-Fi</string>
+    <string name="ad_title_other">Gli utenti che hanno scaricato questa immagine hanno scaricato anche</string>
+    <string name="info_flow_only_load_wifi">Carica risorse solo in Wi-Fi</string>
     <string name="info_flow_show">Risorse consigliate</string>
-    <string name="info_flow_setting">Impostazioni</string>
+    <string name="info_flow_setting">Avanzate</string>
     <string name="no_result_for_keyword">Impossibile trovare \"%1$s\""</string>
     <string name="percent_title">Scaricato da %1$s persone</string>
     <string name="btn_change">Modificato</string>
+    <string name="dialog_title_recommend">Disattiva Risorse consigliate</string>
+    <string name="dialog_msg_recommend">"Continuando, non sarai in grado di vedere le Risorse consigliate. Abilita \"Carica risorse solo in Wi-Fi\" per risparmiare il traffico dati."</string>
+    <string name="dialog_btn_cancel">Annulla</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="home_page_new_download_guide">I nuovi download andranno qui</string>
+    <string name="notify_install_guide_title">%s installato correttamente</string>
+    <string name="notify_install_guide_msg">Installato correttamente</string>
+    <string name="notify_install_guide_forward_text">Apri</string>
+    <string name="force_touch_newdownload">Nuovo download</string>
+    <string name="force_touch_search">Cerca sul web</string>
+    <string name="force_touch_rank">Classifiche</string>
+    <string name="download_status_paused">Pausa</string>
+    <string name="download_status_continue">Riprendi</string>
+    <string name="download_status_fail">Riprova</string>
     <string name="download_title">Download</string>
 </resources>
