@@ -135,7 +135,7 @@
     <string name="resource_send">Invia</string>
     <string name="resource_save_to_note">Salva nelle note</string>
     <string name="resource_present">Regala</string>
-    <string name="resource_exchange">Ritira</string>
+    <string name="resource_exchange">Riscatta codice</string>
     <string name="resource_exchange_confirm">Conferma</string>
     <string name="resource_exchange_hint">Inserisci il codice</string>
     <string name="resource_exchange_window_title">Riscatta codice</string>

@@ -11,7 +11,7 @@
         <item>moltiplicato per</item>
         <item>più</item>
         <item>meno</item>
-        <item> punto </item>
+        <item>punto</item>
         <item>potenza</item>
         <item>tangente</item>
         <item>seno</item>
@@ -21,7 +21,7 @@
     </string-array>
     <string-array name="mortgage_repayment">
         <item>Quote costanti di capitali e interessi (rimborso mensile pari)</item>
-        <item>Pari principali (detratto da rimborso mnsile)</item>
+        <item>Pari principali (detratto da rimborso mensile)</item>
     </string-array>
     <array name="unit_data_order_currency_" />
 </resources>
