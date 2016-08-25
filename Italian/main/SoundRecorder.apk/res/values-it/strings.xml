@@ -2,9 +2,9 @@
 <resources>
     <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>
     <string name="search_app">Registratore</string>
-    <string name="search_led_indicator">Notifiche lockscreen</string>
+    <string name="search_led_indicator">Notifiche Schermata di blocco</string>
     <string name="search_tip_rename">Registrazioni manuale nomi</string>
-    <string name="search_led_indicator_prompt">Durante la registrazione, mostra nella barra di stato e con notifica luminosa su lockscreen</string>
+    <string name="search_led_indicator_prompt">Durante la registrazione, mostra nella barra di stato e con notifica su Schermata di blocco</string>
     <string name="search_scenes">Tipo di registrazione</string>
     <string name="search_silent_mode">Silenzia suoneria durante registrazione</string>
     <string name="search_enable_earpiece_title">Utilizza il ricevitore per riprodurre audio</string>
@@ -43,12 +43,12 @@
     <string name="rename_dialog_title">Rinomina questa registrazione</string>
     <string name="rename_duplicate">Nome già presente, inserire di nuovo:</string>
     <string name="rename_no_more_tip">Interrompi i suggerimenti</string>
-    <string name="dialog_title_storage_full">Mancanza di spazio di archiviazione, eliminare alcuni file ?</string>
-    <string name="dialog_content_storage_full">A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file tramite File Manager, procedere adesso ?</string>
+    <string name="dialog_title_storage_full">Spazio di archiviazione esaurito. Eliminare alcuni file?</string>
+    <string name="dialog_content_storage_full">A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?</string>
     <string name="status_bar_recording">Registrazione…</string>
     <string name="status_bar_back">Premi per tornare al Registratore</string>
     <string name="status_bar_recording_pause">Registrazione in pausa</string>
-    <string name="low_battery_error">La batteria è a meno del 5%, per assicurarsi di non perdere la registrazione per uno spegnimento improvviso la registrazione è stata interrotta e salvata. Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
+    <string name="low_battery_error">La batteria è a meno del 5%, per assicurarsi di non perdere la registrazione per uno spegnimento improvviso, la registrazione è stata interrotta e salvata. Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute"/>
     <string name="sound_recorder_settings">Impostazioni di registrazione</string>
@@ -71,7 +71,7 @@
     <string name="back">Indietro</string>
     <string name="toast_uninstall_fileexplorer">FileExplorer non è installato!</string>
     <string name="record_download">Scarica da Mi Cloud</string>
-    <string name="record_download_msg">Le registrazioni possono essere riprodotte solo dopo che sono state completaemnte scaricate.</string>
+    <string name="record_download_msg">Le registrazioni possono essere riprodotte solo dopo che sono state completamente scaricate.</string>
     <string name="record_download_msg_reload">Questa registrazione non esiste</string>
     <string name="record_download_complete">Completato</string>
     <string name="retry">Riprova</string>
@@ -80,16 +80,16 @@
     <string name="record_downloading_notification_count">%d in download</string>
     <string name="record_downloading_notification_complete">Download completato</string>
     <string name="wifi_recommended_title">Avviso traffico</string>
-    <string name="wifi_recommended_body" formatted="false">"L'utilizzo della rete dati mobile per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
+    <string name="wifi_recommended_body" formatted="false">"L'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
     <string name="button_queue_for_wifi">Coda</string>
     <string name="button_start_now">Download</string>
     <string name="notification_title_all_paused">Download in pausa</string>
-    <string name="notification_message_all_paused">"Potrebbe aumentare l'utilizzo dei dati su rete mobile."</string>
+    <string name="notification_message_all_paused">"Potrebbe aumentare l'utilizzo dei dati su rete cellulare."</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="data_connection_title">Avviso utilizzo dati</string>
-    <string name="data_connection_body">"L'utilizzo della rete dati mobile per il download di questo file aumenterà il consumo dei dati. Se superi il limite previsto dal piano dell tuo operatore potresti andare incontro a costi aggiuntivi."</string>
+    <string name="data_connection_body">"L'utilizzo della rete dati cellulare per il download di questo file aumenterà il consumo dei dati. Se superi il limite previsto dal piano dell tuo operatore potresti andare incontro a costi aggiuntivi."</string>
     <string name="data_connection_button_text">OK</string>
-    <string name="error_sdcard_unmounted">Inserisci scheda SD adesso</string>
+    <string name="error_sdcard_unmounted">Inserisci scheda SD ora</string>
     <string name="record_back_pressed_hint">Premi di nuovo Indietro per interrompere la registrazione</string>
     <string name="record_mark_point">Segna %s</string>
     <string name="record_quliaty_preference_title">Qualità di registrazione</string>
@@ -117,9 +117,9 @@
     <string name="invalid_argument">Argomento illegale</string>
     <string name="playback_delete_records">Elimina la registrazione</string>
     <string name="playback_share_records">Condividi la registrazione</string>
-    <string name="recording_quality_high">Alta qualità</string>
-    <string name="recording_quality_standard">Qualità standard</string>
-    <string name="recording_quality_low">Bassa qualità</string>
+    <string name="recording_quality_high">Alta</string>
+    <string name="recording_quality_standard">Standard</string>
+    <string name="recording_quality_low">Bassa</string>
     <string name="share_dialog_title">Condividi con</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="recognition_error_stopped">Riconoscimento interrotto</string>
