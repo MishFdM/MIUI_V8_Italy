@@ -235,6 +235,7 @@
     <string name="colon">:</string>
     <string name="compose">Scrivi</string>
     <string name="compose_attachment_number_limit">Non puoi inserire più di 10 allegati</string>
+	<string name="compose_paste_address_oob">Il testo è troppo lungo</string>
     <string name="compose_picturesexceedlimits">Non puoi inserire più di 5 immagini</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
