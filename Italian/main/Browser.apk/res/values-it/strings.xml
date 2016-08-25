@@ -85,7 +85,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="miuichromium_error_page_airplane_mode_on">Disattiva la modalità Aereo per connetterti</string>
     <string name="miuichromium_error_page_network_off">Attiva Wi-Fi o dati mobili</string>
     <string name="miuichromium_error_page_server_error">Troppi tentativi di connessione</string>
-    <string name="miuichromium_error_page_unknown_error">Ops, qualcosa è andato storto</string>
+    <string name="miuichromium_error_page_unknown_error">Ops, si è verificato un errore</string>
     <string name="miuichromium_error_page_network_hijack">La rete attuale non è sicura</string>
     <string name="miuichromium_error_page_mobile">Rete mobile</string>
     <string name="miuichromium_error_page_wlan">Impostazioni Wi-Fi</string>
