@@ -184,7 +184,7 @@
     <string name="STRANGER_BLOCK">Blacklist Sconosciuti</string>
     <string name="MALICIOUS_URL">Collegamenti dannosi</string>
     <string name="AD_AntiSpam">Ad blocker</string>
-    <string name="AD_SCANNING">Scansione...</string>
+    <string name="AD_SCANNING">Scansione…</string>
     <string name="AD_BLOCK_ALL">Blocca tutto</string>
     <string name="AD_SCAN_BUTTON">Scansiona</string>
     <string name="AD_NOT_BLOCK">Non bloccare</string>
