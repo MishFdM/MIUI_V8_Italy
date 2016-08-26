@@ -165,7 +165,7 @@
     </string-array>
     <string-array name="response_labels1">
         <item>Senza risposta</item>
-        <item>Si</item>
+        <item>Sì</item>
         <item>Forse</item>
         <item>No</item>
     </string-array>
