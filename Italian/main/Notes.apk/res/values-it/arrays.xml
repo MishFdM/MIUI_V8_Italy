@@ -28,23 +28,23 @@
         <item>Enorme</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Benvenuto nelle Note
+        <item>"Benvenuto in Note
 "</item>
         <item>"Crea una nota
-Tocca il + pre creare una nota."</item>
+Tocca il tasto \"+\" per creare una nota."</item>
         <item>"Scegli il modello
 Usa i modelli per modificare sfondo e stile delle tue note.
-Tocca il pulsante destro in basso per scegliere un modello."</item>
+Tocca il pulsante in basso a destra per scegliere un modello."</item>
         <item>"Crea cartelle
 Organizza le tue note in cartelle.
 Esistono 2 modi per creare una cartella:
-1. Tocca l'icona della cartella in alto a destra, poi tocca il +.
-2. Tieni premuto sulla nota fino a che non appare un pop-up e scegli \"Sposta in\" - \"Nuova cartella\"."</item>
+1. Tocca l'icona della cartella in alto a destra, poi tocca il tasto \"+\".
+2. Tieni premuto sulla nota finché non appare un pop-up e scegli \"Sposta in\" - \"Nuova cartella\"."</item>
         <item>"Nascondi note
 Proteggi le note private con una password.
 Esistono 2 modi per nascondere una nota:
-1. Tocca il tasto \"+\" in alto a destra della notae seleziona \"Nascondi\".
-2. Tieni premuto sulla nota fino a che non appare un pop-up e scegli \"Nascondi\"."</item>
+1. Tocca il tasto \"+\" in alto a destra della nota e seleziona \"Nascondi\".
+2. Tieni premuto sulla nota finché non appare un pop-up e scegli \"Nascondi\"."</item>
         <item>"Ed altri interessanti funzioni!
   - Immagini, elenchi e promemoria.
 
@@ -54,8 +54,8 @@ Puoi scattare una foto o sceglierne una dalla Galleria.
 Quando una nota contiene un'immagine, questa verrà utilizzata come miniatura di anteprima nella visuale a griglia.
 
 Crea elenchi
-Gli elenchi con spunta sono strumenti essenziali per la lista delel cose da fare.
-Tocca l'icona del checkbox in basso per aggiungere un elenco in un paagrafo.
+Gli elenchi con spunta sono strumenti essenziali per la lista delle cose da fare.
+Tocca l'icona del checkbox in basso per aggiungere un elenco in un paragrafo.
 Spunta il quadratino quando l'oggetto è completato.
 
 Imposta promemoria
