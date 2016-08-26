@@ -68,7 +68,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="local_restore_window_title">Ripristino Locale</string>
     <string name="account_login">Login</string>
     <string name="miliao_account_login">Login Mi Talk</string>
-    <string name="miliao_account_guide">Utilizza il tuo Mi Account per accedere a Mi Cloud, Store dei Temi MIUI ed altri servizi.</string>
+    <string name="miliao_account_guide">Utilizza il tuo Mi Account per accedere a Mi Cloud e agli altri servizi.</string>
     <string name="auto_backup">Backup Automatico</string>
     <string name="contact_title">Contatti</string>
     <string name="call_title">Registro chiamate</string>
@@ -95,12 +95,12 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="task_restore_none">Ripristino non necessario</string>
     <string name="task_stopped_exception">Processo fallito</string>
     <string name="sdcard_no_enough_space">Spazio su SD insufficiente</string>
-    <string name="sdcard_no_enough_space_message">Spazio sulla Scheda SD in esaurimento, il backup potrebbe non andare a buon fine. Libera spazio sulla SD.</string>
+    <string name="sdcard_no_enough_space_message">Spazio sulla scheda SD in esaurimento, il backup potrebbe non andare a buon fine. Libera spazio sulla scheda SD.</string>
     <string name="data_no_enough_space_message">Non hai abbastanza spazio nella memoria interna del dispositivo.</string>
     <string name="task_running_hint">Il servizio è attivo in background, riprova il ripristino.</string>
     <string name="task_running_dialog">Backup e ripristino sono in corso in background, premere Ok per visualizzarli</string>
-    <string name="task_running_backup_hint">Servizio in esecuzione in background, provare di nuovo!</string>
-    <string name="task_running_restore_hint">Servizio in esecuzione in background, provare di nuovo!</string>
+    <string name="task_running_backup_hint">Servizio in esecuzione in background, riprova!</string>
+    <string name="task_running_restore_hint">Servizio in esecuzione in background, riprova!</string>
     <string name="task_running_backup_dialog">Backup in esecuzione in background, premi OK aprire.</string>
     <string name="task_running_restore_dialog">Il ripristino in background è in esecuzione, premi OK per aprire.</string>
     <string name="task_service_not_launched">Servizio non avviato, attendere…</string>
@@ -223,7 +223,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="router_backup_hint">Mantieni i dispositivi accesi</string>
     <string name="see_backup_files_on_router">Mostra i backup su Mi Router %s</string>
-    <string name="page_loading">Solo un istante…</string>
+    <string name="page_loading">Solo un attimo…</string>
     <string name="file_uploading">Caricamento…</string>
     <string name="new_backup">Backup</string>
     <string name="restore_backup">Ripristina</string>
@@ -338,7 +338,7 @@ Si prega di liberare almeno %s"</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_giga_byte">GB</string>
     <string name="trans_connect_failed_title">Connessione fallita</string>
-    <string name="trans_connect_failed_message">"Connessione fallita, riprova o riavvia. E sull'altro dispositivo, vai in Impostazioni > Impostazioni aggiuntive > Mi Mover, tocca [I'm a sender] o lancia di nuovo Mi Mover dopo il riavvio"</string>
+    <string name="trans_connect_failed_message">"Connessione fallita, riprova o riavvia. Sull'altro dispositivo, vai in Impostazioni > Impostazioni aggiuntive > Mi Mover, tocca [I'm a sender] o lancia di nuovo Mi Mover dopo il riavvio"</string>
     <string name="trans_retry">Riprova</string>
     <string name="trans_start_failed_title">Avvio fallito</string>
     <string name="trans_start_failed_message">Avvio fallito, riprova ora o dopo un riavvio</string>
