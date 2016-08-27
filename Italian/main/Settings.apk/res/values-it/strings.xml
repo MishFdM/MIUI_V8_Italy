@@ -32,7 +32,7 @@
     <string name="bluetooth_connecting">Connessione…</string>
     <string name="bluetooth_connected">Connesso</string>
     <string name="bluetooth_pairing">Abbinamento…</string>
-    <string name="bluetooth_connected_no_headset">Collegato (telefono escluso)</string>
+    <string name="bluetooth_connected_no_headset">Collegato (dispositivo escluso)</string>
     <string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
     <string name="bluetooth_connected_no_map">Collegato (nessun accesso ai messaggi)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi)</string>
@@ -48,7 +48,7 @@
     <string name="bluetooth_profile_sap">Accesso SIM</string>
     <string name="bluetooth_profile_dun">Accesso Rete di Chiamata</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Collegato ad audio media</string>
-    <string name="bluetooth_headset_profile_summary_connected">Collegato ad audio telefono</string>
+    <string name="bluetooth_headset_profile_summary_connected">Collegato ad audio dispositivo</string>
     <string name="bluetooth_opp_profile_summary_connected">Collegato al server di trasferimento file</string>
     <string name="bluetooth_map_profile_summary_connected">Connesso alla mappa</string>
     <string name="bluetooth_sap_profile_summary_connected">Connessione al Server accesso SIM</string>
@@ -61,7 +61,7 @@
     <string name="bluetooth_map_profile_summary_use_for">Utilizza per la mappa</string>
     <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio media</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Usa per audio telefono</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Usa per audio dispositivo</string>
     <string name="bluetooth_opp_profile_summary_use_for">Usa per trasferimento file</string>
     <string name="bluetooth_hid_profile_summary_use_for">"Utilizza per l'input"</string>
     <string name="bluetooth_dun_profile_summary_use_for">Usa per accesso Dial-up alla rete</string>
@@ -305,7 +305,7 @@
     <string name="bluetooth_ask_lasting_discovery">"Un'app chiede di rendere il tuo dispositivo visibile ad altri dispositivi Bluetooth. Puoi modificare questa impostazione in seguito nelle impostazioni Bluetooth."</string>
     <string name="bluetooth_ask_start_broadcast">%1$s desidera attivare la trasmissione via Bluetooth per comunicare con altri dispositivi nelle vicinanze. Puoi modificare tale impostazione in un secondo momento nelle impostazioni relative al Bluetooth.</string>
     <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s desidera attivare la funzione Bluetooth e la trasmissione via Bluetooth per comunicare con altri dispositivi nelle vicinanze. Puoi modificare tale impostazione in un secondo momento nelle impostazioni relative al Bluetooth.</string>
-    <string name="bluetooth_broadcasting_explaination">"Quando questa opzione è attiva, il telefono può comunicare con altri dispositivi nelle vicinanze.
+    <string name="bluetooth_broadcasting_explaination">"Quando questa opzione è attiva, il dispositivo può comunicare con altri dispositivi nelle vicinanze.
 
 La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="bluetooth_ask_enablement_and_discovery">"Un'app desidera attivare il Bluetooth e rendere il tuo dispositivo visibile da altri dispositivi per %1$d secondi."</string>
@@ -4599,7 +4599,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_skip">Salta</string>
     <string name="permission_settings_title">Permessi app</string>
-    <string name="permission_settings_summary">Gestisci i permessi di posizione, archiviazione, telefono, messaggi e contatti.</string>
+    <string name="permission_settings_summary">Gestisci i permessi di posizione, archiviazione, dispositivo, messaggi e contatti.</string>
     <string name="permission_manage_global_build_title">Permessi aggiuntivi</string>
     <string name="add_fingerprint_failed_retry_text">"Impossibile aggiungere l'impronta. Riprova."</string>
     <string name="fingerprint_for_keyguard_disabled">Il lettore impronte è stato disabilitato nelle impostazioni di sicurezza.</string>
