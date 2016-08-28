@@ -1898,12 +1898,12 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="power_usage_level_and_status">%1$s - %2$s</string>
     <string name="power_discharge_remaining">%1$s rimanente</string>
     <string name="power_charge_remaining">%1$s carica</string>
-    <string name="power_discharging_duration">%1$d%% - appross.meno di %2$s </string>
+    <string name="power_discharging_duration">%1$d%% - appross. meno di %2$s</string>
     <string name="power_charging">%1$d%% - %2$s</string>
     <string name="power_charging_duration">%1$d%% - %2$s fino alla carica completa</string>
     <string name="power_charging_duration_ac">%1$d%% - %2$s fino alla carica completa su AC</string>
     <string name="power_charging_duration_usb">%1$d%% - %2$s fino alla carica completa su USB</string>
-    <string name="power_charging_duration_wireless">%1$d%% - %2$s fino alla carica completa su Wi-Fi</string>
+    <string name="power_charging_duration_wireless">%1$d%% - %2$s fino alla carica completa su Wireless</string>
     <string name="power_usage_list_summary">"Utilizzato dall'ultima ricarica"</string>
     <string name="battery_since_unplugged">Utilizzo batteria dallo scollegamento</string>
     <string name="battery_since_reset">Utilizzo batteria dal ripristino</string>
@@ -1912,8 +1912,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_charging_label">In carica</string>
     <string name="battery_stats_screen_on_label">Schermo acceso</string>
     <string name="battery_stats_gps_on_label">GPS attivato</string>
-    <string name="battery_stats_camera_on_label">Camera on</string>
-    <string name="battery_stats_flashlight_on_label">Torcia on</string>
+    <string name="battery_stats_camera_on_label">Fotocamera attivata</string>
+    <string name="battery_stats_flashlight_on_label">Torcia attivata</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Attivato</string>
     <string name="battery_stats_phone_signal_label">Segnale rete cellulare</string>
@@ -2752,7 +2752,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="status_awaiting_tap">Tocca un tag da scrivere…</string>
     <string name="status_invalid_password">Password non valida. Riprova.</string>
     <string name="status_write_success">Con successo!</string>
-    <string name="status_failed_to_write">Impossibile scrivere i dati su un Tag NFC. Se il problema persiste, prova su un tag diverso</string>
+    <string name="status_failed_to_write">Impossibile scrivere i dati su un tag NFC. Se il problema persiste, prova su un tag diverso</string>
     <string name="status_tag_not_writable">Tag NFC non modificabile. Usa un tag differente.</string>
     <string name="default_sound">Suoni predefiniti</string>
     <string name="notification_settings">Suoni e notifiche</string>
@@ -3102,9 +3102,9 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="use_personalized_ad_service">Personalizza AD</string>
     <string name="reset_aaid">"Azzera l'identificatore per AD"</string>
     <string name="aaid_info">"
-L'identificatore AD è un ID unico permanente legato al tuo dispositivo. I venditori lo utilizzano per selezionare il contenuto di amggiore interesse per te.
+L'identificatore AD è un ID unico permanente legato al tuo dispositivo. I venditori lo utilizzano per selezionare il contenuto di maggiore interesse per te.
 
-Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo ridotto il numero di pubblicità di tuo interesse."</string>
+Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma vedrai pubblicità meno interessanti."</string>
     <string name="confirm_reset_aaid">OK</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
@@ -3177,7 +3177,7 @@ Se decidi di non personalizzare le pubblicità non ne avrai meno , vedrai solo r
     <string name="search_wifi">Wi-fi</string>
     <string name="search_wifi_enable">WLAN;WLAN</string>
     <string name="search_wifi_advanced_settings">Impostazioni avanzate;Wifi</string>
-    <string name="search_wifi_setting_sleep_policy_title">MAntieni Wi-Fi attivo durante la sospensione</string>
+    <string name="search_wifi_setting_sleep_policy_title">Mantieni Wi-Fi attivo durante la sospensione</string>
     <string name="search_wifi_scan_always_available">Scansiona sempre per reti disponibili</string>
     <string name="search_wifi_setting_frequency_band_title">Banda frequenza Wi-Fi</string>
     <string name="search_wifi_install_credentials">Installa certificati</string>
