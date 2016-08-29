@@ -80,13 +80,13 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_wifi_ap_scan_check_summary">"Di seguito trovi le info sui punti d'accesso Wi-Fi circostanti e che sono stati rilevati. Conferma che le informazioni evidenziate in verde siano corrette."</string>
     <string name="cit_blue_tooth_address_check_summary">L'indirizzo Bluetooth di questo dispositivo dovrebbe comparire di seguito.</string>
     <string name="cit_blue_tooth_scan_check_summary">Le informazioni dei dispositivi Bluetooth nelle vicinanze dovrebbero comparire di seguito.</string>
-    <string name="cit_accelermeter_sensor_check_summary">"Move the device quickly in one direction. X，Y，Z coordinate values are displayed below. (when phone is in motion: X is represents left/right, y represents front/back, z represents up and down).
-Before you calibrate the device, place it on a flat surface."</string>
-    <string name="cit_headset_plug_detect_summary">When headphones are connected, the text \"Headphones detected\" should be displayed below.</string>
-    <string name="cit_headset_button_check_summary">When headphones are connected, press the buttons on the headphone remote (often located on the cord). The corresponding text on screen should turn green.</string>
-    <string name="cit_headset_pull_detect_summary">When headphones are disconnected, the text \"Headphones have been disconnected\" should be displayed below</string>
-    <string name="cit_sim_check_summary">Confirm that correct the status and info of the SIM card is displayed below</string>
-    <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
+    <string name="cit_accelermeter_sensor_check_summary">"Muovi il dispositivo velocemente in una direzione. I valori delle coordinate X, Y e Z sono visualizzati di seguito.  (quando il dispositivo è in movimento: X rappresenta sinistra/destra, Y rappresenta avanti/indietro, Z rappresenta su/giù).
+Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string>
+    <string name="cit_headset_plug_detect_summary">Quando le cuffie sono collegate, il testo \"Cuffie collegate\" dovrebbe comparire di seguito.</string>
+    <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti collocati sulle cuffie (presenti solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
+    <string name="cit_headset_pull_detect_summary">Quando le cuffie sono scollegate, il testo \"Cuffie scollegate\" dovrebbe comparire di seguito.</string>
+    <string name="cit_sim_check_summary">Verifica che le informazioni e lo stato della SIM siano visualizzate correttamente.</string>
+    <string name="cit_reset_check_summary">Questo test riavvierà il dispositivo. Tutti i dati dei precedenti test andranno persi.</string>
     <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
 
 Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
@@ -107,36 +107,36 @@ Turn the phone, Speak to back microphone , you should hear voice in speaker"</st
     <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
 
 Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Test feedback da microfono superiore allo speaker.
 
- Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+Gira il dispositivo e parla nel microfono. Dovresti sentire la tua voce nell'altoparlante"</string>
     <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Test del microfono frontale. Avvicina il dispositivo e parla al microfono del ricevitore: dovresti sentire la tua voce nell'altoparlante"</string>
-    <string name="cit_sd_plugin_check_summary">The text \"SD card detected, remove SD card now\" should be displayed below.</string>
-    <string name="cit_sd_plugout_check_summary">When you remove the SD card, the text \"SD card has been removed, insert SD card now\" should be displayed below.</string>
-    <string name="cit_keyboard_test_summary">When you push the buttons, the corresponding text on screen should turn green (note: the Home and the Power buttons are not included in the test).</string>
-    <string name="cit_charger_plugin_check_summary">When USB charger is connected the text \"Charging via USB/AC\" should be displayed below.</string>
-    <string name="cit_charger_plugout_check_summary">When USB charger is disconnected the text \"USB/AC charger disconnected\" should be displayed below.</string>
-    <string name="cit_play_sd_mp3_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's external speakers when you open this test."</string>
-    <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
-    <string name="cit_display_check_summary">Confirm that the required bmp file is on the SD card. Confirm that the colors are consistently displayed across the whole screen. Make sure there are no irregular bright spots and dark spots.</string>
+    <string name="cit_sd_plugin_check_summary">Il testo \"Trovata scheda SD, rimuovila ora\" dovrebbe comparire di seguito.</string>
+    <string name="cit_sd_plugout_check_summary">Quando rimuovi la scheda SD, il testo \"La scheda SD è stata rimossa, inseriscila ora\" dovrebbe comparire di seguito.</string>
+    <string name="cit_keyboard_test_summary">Quando premi i pulsanti, il corrispondente testo sullo schermo dovrebbe diventare verde (nota: i pulsanti Home e Power non sono inclusi nel test).</string>
+    <string name="cit_charger_plugin_check_summary">Quando il caricabatterie è collegato, il testo \"Ricarica tramite USB/AC\" dovrebbe comparire di seguito.</string>
+    <string name="cit_charger_plugout_check_summary">Quando il caricabatterie USB è scollegato, il testo \"Ricarica tramite USB/AC interrotta\" dovrebbe comparire di seguito.</string>
+    <string name="cit_play_sd_mp3_summary">Verifica che esista un file di nome \"music.mp3\" sulla scheda SD. Quando esegui questo test, il file \"music.mp3\" deve essere riprodotto attraverso l'altoparlante inferiore.</string>
+    <string name="cit_play_sd_mp3_hifi_summary">Verifica che esista un file di nome \"music.mp3\" sulla scheda SD. Quando esegui questo test, il file \"music.mp3\" deve essere riprodotto attraverso il percorso HIFI del dispositivo.</string>
+    <string name="cit_display_check_summary">Verifica che il file bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
     <string name="cit_main_camera_check_summary">"Istruzioni per il test:
 
-1. Tocca il pulsante della Fotocamera di seguito per aprire la fotocamera posteriore
+1. Tocca il pulsante della Fotocamera di seguito per avviare la fotocamera posteriore
 2. Assicurati che il flash sia attivato
 3. Tocca il pulsante di scatto
-4. Tocca l'icona a forma di spunta. Il sistema salverà la foto automaticamente.
-5. La foto che hai scattato dovrebbe comparire di seguito. Tocca "Elimina" per completare questo test."</string>
+4. Tocca l'icona a forma di spunta. Il sistema salverà la foto automaticamente
+5. La foto che hai scattato dovrebbe comparire di seguito. Tocca "Elimina" per completare questo test"</string>
     <string name="cit_front_camera_check_summary">"Istruzioni per il test:
 
-1.Tap the Camera button below to enter front Camera interface
-2.Tap the shutter button
-3.Tap the Check icon. The system will save the photo automatically.
-4.The photo you took should be displayed below. Tap Delete to complete the test."</string>
+1. Tocca il pulsante della Fotocamera di seguito per avviare la fotocamera frontale
+2. Tocca il pulsante di scatto
+3. Tocca l'icona a forma di spunta. Il sistema salverà la foto automaticamente
+4. La foto che hai scattato dovrebbe comparire di seguito. Tocca "Elimina" per completare questo test"</string>
     <string name="cit_camera_calibration_summary">"Istruzioni per il test:
 
-1.Tap the calibration button below to enter Camera interface
-2.Press Back button to exit the camera interface
-3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
+1. Tocca il pulsante di calibrazione di seguito per avviare la fotocamera
+2. Premi il tasto Indietro per chiudere la fotocamera
+3. Un messaggio ti indicherà che lo stabilizzatore ottico (OIS) è stato calibrato"</string>
     <string name="cit_camera_sdcard_error">Impossibile scattare foto. Scheda SD piena.</string>
     <string name="cit_gps_check_summary">Le corrispondenti informazioni GPS dovrebbero comparire di seguito.</string>
     <string name="cit_fm_check_summary">Questo testerà la funzione FM del dispositivo.</string>
@@ -154,7 +154,7 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
     <string name="cit_aud_spkcal">Calibra</string>
     <string name="cit_audio_calibrating">Calibrazione in corso…</string>
     <string name="cit_OTG_plugin_check_summary">Quando un dispositivo OTG è collegato, il testo \"Dispositivo USB OTG rilevato\" dovrebbe comparire di seguito.</string>
-    <string name="cit_OTG_plugout_check_summary">Quando un dispositivo OTG è disconnesso, il testo \"Dispositivo USB OTG disconnesso\" dovrebbe comparire di seguito.</string>
+    <string name="cit_OTG_plugout_check_summary">Quando un dispositivo OTG è scollegato, il testo \"Dispositivo USB OTG scollegato\" dovrebbe comparire di seguito.</string>
     <string name="cit_vibrator_short">Vibrazione breve</string>
     <string name="cit_vibrator_long">Vibrazione lunga</string>
     <string name="cit_vibrator_show_advanced">Mostra impostazioni avanzate</string>
@@ -190,7 +190,7 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
     <string name="cit_headset_button_fast_forward">Avanti veloce</string>
     <string name="cit_sim_state_absent">Scheda SIM non rilevata</string>
     <string name="cit_sim_state_unkown">Sconosciuto</string>
-    <string name="cit_sim_state_network_locked">Network PIN locked</string>
+    <string name="cit_sim_state_network_locked">Rete bloccata da PIN</string>
     <string name="cit_sim_state_pin_required">PIN richiesto</string>
     <string name="cit_sim_state_puk_required">PUK richiesto</string>
     <string name="cit_sim_state_ready">Scheda SIM pronta</string>
