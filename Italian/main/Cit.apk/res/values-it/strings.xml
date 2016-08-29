@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cit_label">Rilevamento hardware</string>
-    <string name="cit_name">Rilevamento hardware</string>
+    <string name="cit_name">Diagnostica</string>
     <string name="cit_pass">Riuscito</string>
     <string name="cit_fail">Fallito</string>
     <string name="cit_tool">Strumenti</string>
@@ -55,7 +55,7 @@
     <string name="cit_tool_modem_offline_log">Apri/Chiudi Log offline</string>
     <string name="cit_tool_modem_exit_ftm">Chiudi mod. FTM</string>
     <string name="cit_tool_modem_bugreport">Forza Coredump Modem</string>
-    <string name="cit_tool_modem_mbn">Change Modem Config</string>
+    <string name="cit_tool_modem_mbn">Cambia config. Modem</string>
     <string name="cit_tool_nfc">Test NFC</string>
     <string name="cit_tool_nfc_st">Nfc ST:</string>
     <string name="cit_tool_nfc_st_confreq">freq:</string>
@@ -67,53 +67,53 @@
     <string name="cit_touch_calib_pass">Calibrazione Touchscreen riuscita</string>
     <string name="cit_touch_calib_fail">Calibrazione Touchscreen fallita. Riprova.</string>
     <string name="cit_touch_calib_instruction">Inizia calibrazione</string>
-    <string name="cit_version_check_summary">Di seguito trovi la versione del SO. Conferma che le informazioni evidenziate in verde sono corrette.</string>
+    <string name="cit_version_check_summary">Di seguito trovi la versione del SO. Verifica che le informazioni evidenziate in verde sono corrette.</string>
     <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità (posizionato in cima al dispositivo, vicino al ricevitore) con una mano, quindi sposta la mano. A questo punto, il valore dovrebbe aumentare.
 Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
     <string name="cit_magnetic_sensor_check_summary">I valori delle coordinate X, Y, Z dovrebbero comparire di seguito</string>
     <string name="cit_light_sensor_check_summary">Il valore DAC dovrebbe comparire di seguito</string>
     <string name="cit_gyroscope_sensor_check_summary">I valori delle coordinate X, Y, Z dovrebbero comparire di seguito</string>
     <string name="cit_pressure_sensor_check_summary">Il valore della pressione dovrebbe comparire di seguito</string>
-    <string name="cit_leds_check_summary">Backlight, notification light, and flash light (rear), should respond when corresponding button is pressed.</string>
+    <string name="cit_leds_check_summary">La retroilluminazione, il LED di notifica e il Flash dovrebbero illuminarsi quando attivati.</string>
     <string name="cit_vibrator_check_summary">Verifica che la vibrazione (lunga e breve) funzioni regolarmente.</string>
-    <string name="cit_wifi_address_check_summary">"Di seguito trovi l'indirizzo della rete Wi-Fi a cui il dispositivo è attualmente connesso. Conferma che le informazioni evidenziate in verde siano corrette."</string>
-    <string name="cit_wifi_ap_scan_check_summary">"Di seguito trovi le info sui punti d'accesso Wi-Fi circostanti e che sono stati rilevati. Conferma che le informazioni evidenziate in verde siano corrette."</string>
+    <string name="cit_wifi_address_check_summary">"Di seguito trovi l'indirizzo della rete Wi-Fi a cui il dispositivo è attualmente connesso. Verifica che le informazioni evidenziate in verde siano corrette."</string>
+    <string name="cit_wifi_ap_scan_check_summary">"Di seguito trovi le info sui punti d'accesso Wi-Fi circostanti e che sono stati rilevati. Verifica che le informazioni evidenziate in verde siano corrette."</string>
     <string name="cit_blue_tooth_address_check_summary">L'indirizzo Bluetooth di questo dispositivo dovrebbe comparire di seguito.</string>
     <string name="cit_blue_tooth_scan_check_summary">Le informazioni dei dispositivi Bluetooth nelle vicinanze dovrebbero comparire di seguito.</string>
-    <string name="cit_accelermeter_sensor_check_summary">"Muovi il dispositivo velocemente in una direzione. I valori delle coordinate X, Y e Z sono visualizzati di seguito.  (quando il dispositivo è in movimento: X rappresenta sinistra/destra, Y rappresenta avanti/indietro, Z rappresenta su/giù).
+    <string name="cit_accelermeter_sensor_check_summary">"Muovi il dispositivo velocemente in una direzione. I valori delle coordinate X, Y e Z sono visualizzati di seguito. (quando il dispositivo è in movimento: X rappresenta sinistra/destra, Y rappresenta avanti/indietro, Z rappresenta su/giù).
 Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string>
     <string name="cit_headset_plug_detect_summary">Quando le cuffie sono collegate, il testo \"Cuffie collegate\" dovrebbe comparire di seguito.</string>
-    <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti collocati sulle cuffie (presenti solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
+    <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti sulle cuffie (posizionati solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
     <string name="cit_headset_pull_detect_summary">Quando le cuffie sono scollegate, il testo \"Cuffie scollegate\" dovrebbe comparire di seguito.</string>
     <string name="cit_sim_check_summary">Verifica che le informazioni e lo stato della SIM siano visualizzate correttamente.</string>
     <string name="cit_reset_check_summary">Questo test riavvierà il dispositivo. Tutti i dati dei precedenti test andranno persi.</string>
-    <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
+    <string name="cit_audio_loopback_check_summary_first">"Test feedback da microfono principale al ricevitore.
 
-Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
-    <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
+Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore."</string>
+    <string name="cit_audio_loopback_check_summary_second">"Test feedback da microfono secondario all'altoparlante.
 
-Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
-    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
+Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
+    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test di riduzione rumore ambientale.
 
-Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
+Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce senza rumori di fondo nel ricevitore."</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test feedback da microfono principale al ricevitore.
 
-Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
-    <string name="cit_headset_loopback_check_summary">"While wearing the headphones, connect them to the device. Speak into the headphone microphone (often located on the cord). You should hear your voice in the headphone's speakers."</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
+Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore."</string>
+    <string name="cit_headset_loopback_check_summary">"Collega le cuffie al dispositivo e indossale. Parla al microfono (solitamente posizionato lungo il cavo): dovresti sentire la tua voce nelle cuffie."</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Test feedback da microfono posteriore all'altoparlante.
 
-Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
-    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Test del microfono superiore. Avvicina il dispositivo e parla al microfono superiore: dovresti sentire la tua voce nell'altoparlante"</string>
-    <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
+Gira il dispositivo e parla al microfono posteriore: dovresti sentire la tua voce nell'altoparlante."</string>
+    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Test del microfono superiore. Avvicina il dispositivo e parla al microfono superiore: dovresti sentire la tua voce nell'altoparlante."</string>
+    <string name="cit_audio_lb_summary_phonecall">"Test di simulazione telefonata.
 
-Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Test feedback da microfono superiore allo speaker.
+Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore. Esegui il test in un ambiente silenzioso."</string>
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Test feedback da microfono superiore all'altoparlante.
 
-Gira il dispositivo e parla nel microfono. Dovresti sentire la tua voce nell'altoparlante"</string>
+Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'altoparlante."</string>
     <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Test del microfono frontale. Avvicina il dispositivo e parla al microfono del ricevitore: dovresti sentire la tua voce nell'altoparlante"</string>
     <string name="cit_sd_plugin_check_summary">Il testo \"Trovata scheda SD, rimuovila ora\" dovrebbe comparire di seguito.</string>
     <string name="cit_sd_plugout_check_summary">Quando rimuovi la scheda SD, il testo \"La scheda SD è stata rimossa, inseriscila ora\" dovrebbe comparire di seguito.</string>
-    <string name="cit_keyboard_test_summary">Quando premi i pulsanti, il corrispondente testo sullo schermo dovrebbe diventare verde (nota: i pulsanti Home e Power non sono inclusi nel test).</string>
+    <string name="cit_keyboard_test_summary">Quando premi i pulsanti, il corrispondente testo sullo schermo dovrebbe diventare verde (nota: i pulsanti Home e Accensione non sono inclusi nel test).</string>
     <string name="cit_charger_plugin_check_summary">Quando il caricabatterie è collegato, il testo \"Ricarica tramite USB/AC\" dovrebbe comparire di seguito.</string>
     <string name="cit_charger_plugout_check_summary">Quando il caricabatterie USB è scollegato, il testo \"Ricarica tramite USB/AC interrotta\" dovrebbe comparire di seguito.</string>
     <string name="cit_play_sd_mp3_summary">Verifica che esista un file di nome \"music.mp3\" sulla scheda SD. Quando esegui questo test, il file \"music.mp3\" deve essere riprodotto attraverso l'altoparlante inferiore.</string>
@@ -160,8 +160,8 @@ Gira il dispositivo e parla nel microfono. Dovresti sentire la tua voce nell'alt
     <string name="cit_vibrator_show_advanced">Mostra impostazioni avanzate</string>
     <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
     <string name="cit_vibrator_haptic">Aptico</string>
-    <string name="cit_vibrator_load_down_pattern">Down Pattern</string>
-    <string name="cit_vibrator_load_up_pattern">Up Pattern</string>
+    <string name="cit_vibrator_load_down_pattern">Motivo successivo</string>
+    <string name="cit_vibrator_load_up_pattern">Motivo precedente</string>
     <string name="cit_vibrator_play_touch_pattern">Vibrazione</string>
     <string name="cit_wifi_state_refresh">Aggiorna</string>
     <string name="cit_wifi_address_error">Impossibile ottenere indirizzo IP. Assicurati di essere collegato ad una rete Wi-Fi.</string>
@@ -175,12 +175,12 @@ Gira il dispositivo e parla nel microfono. Dovresti sentire la tua voce nell'alt
     <string name="cit_bluetooth_scanning_bluetooth_error">Si è verificato un errore durante la scansione Bluetooth.</string>
     <string name="cit_bluetooth_address_open_error">"Impossibile ottenere l'indirizzo Bluetooth. Si è verificato un errore durante la scansione."</string>
     <string name="cit_bluetooth_scanning_bluetooth_done">"Fatto. Nessun dispositivo Bluetooth rilevato."</string>
-    <string name="cit_headset_plug_hint">Collega gli auricolari ora</string>
-    <string name="cit_headset_pull_hint">Scollega gli auricolari ora</string>
-    <string name="cit_headset_plug_finish">Auricolari rilevati</string>
-    <string name="cit_headset_pull_finish">Gli auricolari sono stati scollegati</string>
+    <string name="cit_headset_plug_hint">Collega le cuffie ora</string>
+    <string name="cit_headset_pull_hint">Scollega le cuffie ora</string>
+    <string name="cit_headset_plug_finish">Cuffie rilevate</string>
+    <string name="cit_headset_pull_finish">Le cuffie sono state scollegate</string>
     <string name="cit_headset_button_unknown">Sconosciuto</string>
-    <string name="cit_headset_button_click">Premi i pulsanti sugli auricolari</string>
+    <string name="cit_headset_button_click">Premi i pulsanti sulle cuffie</string>
     <string name="cit_headset_button_pass">Riuscito</string>
     <string name="cit_headset_button_play_pause">Play/Pausa</string>
     <string name="cit_headset_button_stop">Stop</string>
@@ -198,8 +198,8 @@ Gira il dispositivo e parla nel microfono. Dovresti sentire la tua voce nell'alt
     <string name="cit_sim_sim_operator">Numero operatore scheda SIM:</string>
     <string name="cit_sim_sim_operator_name">Nome operatore:</string>
     <string name="cit_sim_sim_country">Paese:</string>
-    <string name="cit_sim_network_operator">Network service provider:</string>
-    <string name="cit_sim_network_operator_name">Network service provider name:</string>
+    <string name="cit_sim_network_operator">Fornitore del servizio di rete:</string>
+    <string name="cit_sim_network_operator_name">Nome fornitore del servizio di rete:</string>
     <string name="cit_sim_network_type">Tipologia Rete:</string>
     <string name="cit_sim_error_unknown">Sconosciuto</string>
     <string name="cit_reset_test">Test</string>
@@ -207,8 +207,8 @@ Gira il dispositivo e parla nel microfono. Dovresti sentire la tua voce nell'alt
     <string name="cit_audio_loopback_previous">Precedente</string>
     <string name="cit_sd_plugged_in">Scheda SD rilevata, rimuovi la scheda SD adesso</string>
     <string name="cit_sd_plugged_out">Scheda SD rimossa, inserisci una scheda SD adesso</string>
-    <string name="cit_sd_mount">Monta Scheda SD</string>
-    <string name="cit_sd_unmount">Smonta Scheda SD</string>
+    <string name="cit_sd_mount">Monta scheda SD</string>
+    <string name="cit_sd_unmount">Smonta scheda SD</string>
     <string name="cit_sd_mount_sucess">Scheda SD montata</string>
     <string name="cit_sd_unmount_sucess">Scheda SD smontata</string>
     <string name="cit_sd_fail">Si è verificato un errore.</string>
@@ -268,14 +268,14 @@ Tocca lo schermo per attivare il GPS"</string>
     <string name="cit_fm_close">Chiudi FM</string>
     <string name="cit_fm_start_service">Avvia audio</string>
     <string name="cit_fm_audio_path">Configure audio path</string>
-    <string name="cit_fm_audio_path_headset">Auricolari</string>
+    <string name="cit_fm_audio_path_headset">Cuffie</string>
     <string name="cit_fm_audio_path_speaker">Altoparlante</string>
     <string name="cit_start_calibration">Calibra</string>
     <string name="cit_stop_calibration">Ferma calibrazione</string>
     <string name="cit_exit_test_title">Chiudi test</string>
-    <string name="cit_exit_test_summary">When you exit, all related text data will be erased.</string>
-    <string name="cit_battery_temp_pass">Battery temperature is normal</string>
-    <string name="cit_battery_temp_fail">Battery temperature is not normal (value=%d)</string>
+    <string name="cit_exit_test_summary">Uscendo dalla diagnostica, tutti i relativi dati saranno rimossi.</string>
+    <string name="cit_battery_temp_pass">La temperatura della batteria è normale</string>
+    <string name="cit_battery_temp_fail">La temperatura della batteria non è normale (valore: %d)</string>
     <string name="cit_calibration_pass">Calibrazione riuscita</string>
     <string name="cit_calibration_fail">Calibrazione fallita</string>
     <string name="cit_tool_log">Ottieni log</string>
