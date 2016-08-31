@@ -62,10 +62,10 @@
     <string name="date_picker_dialog_clear">Cancella</string>
     <string name="autofill_popup_content_description">MOstra popup riempimento automatico</string>
     <string name="password_generation_popup_content_description">Mostra popup generazione password</string>
-    <string name="private_browsing_warning">Questa funzione non è supportata su questa versione di  Android.</string>
+    <string name="private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="license_activity_title">System WebView licenses</string>
     <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
-    <string name="webviewchromium_private_browsing_warning">Questa funzione non è supportata su questa versione di  Android.</string>
+    <string name="webviewchromium_private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="last_month">Mese scorso</string>
     <string name="older">Più vecchi</string>
     <string name="js_dialog_title">La pagina \" %s \" dice:</string>
@@ -85,7 +85,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="miuichromium_error_page_airplane_mode_on">Disattiva la modalità Aereo per connetterti</string>
     <string name="miuichromium_error_page_network_off">Attiva Wi-Fi o dati mobili</string>
     <string name="miuichromium_error_page_server_error">Troppi tentativi di connessione</string>
-    <string name="miuichromium_error_page_unknown_error">Ops, qualcosa è andato storto</string>
+    <string name="miuichromium_error_page_unknown_error">Ops, si è verificato un errore</string>
     <string name="miuichromium_error_page_network_hijack">La rete attuale non è sicura</string>
     <string name="miuichromium_error_page_mobile">Rete mobile</string>
     <string name="miuichromium_error_page_wlan">Impostazioni Wi-Fi</string>
@@ -137,8 +137,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="miuishare_account_login_cancel">Annulla</string>
     <string name="miuishare_account_login_confirmation">Registrazione necessaria</string>
     <string name="miuishare_account_activate_confirmation">Attivazione necessaria</string>
-    <string name="miuishare_account_need_login">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo account Xiaomi attualmente attivo. Accedere e condividere adesso?</string>
-    <string name="miuishare_account_need_activate">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo account Xiaomi attualmente non è attivo. Vuoi attivare il tuo account adesso?</string>
+    <string name="miuishare_account_need_login">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account attualmente attivo. Accedere e condividere adesso?</string>
+    <string name="miuishare_account_need_activate">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account attualmente non è attivo. Vuoi attivare il tuo account adesso?</string>
     <string name="miuishare_wechat_timeline_title">Cronologia Wechat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuishare_publish">Invia</string>
@@ -283,7 +283,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Connetti a questa rete</string>
     <string name="use_cellular_network_alert_title">Utilizzo dati</string>
-    <string name="use_cellular_network_alert_message">Wi-Fi non disponibile. Desideri usare la connessione dati mobile?</string>
+    <string name="use_cellular_network_alert_message">Wi-Fi non disponibile. Desideri usare la connessione dati cellulare?</string>
     <string name="in_secureaccess">Browser passato in modalità provvisoria</string>
     <string name="switch_proxy_dialog_msg">"Rilevato tentativo di deviazione di rete. Utilizza l'app Sicurezza di MIUI o segnala al tuo operatore."</string>
     <string name="switch_proxy_dialog_title">Deviazione di rete</string>
@@ -710,14 +710,14 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="homepage_delete_card_menu">Elimina</string>
     <string name="homepage_get_location">Trova posizione</string>
     <string name="homepage_get_location_failed">Impossibile recuperare le informazioni, seleziona una città</string>
-    <string name="aqi_quality_index_pure">AQI %1$s</string>
-    <string name="aqi_quality_index_good">AQI %1$s</string>
-    <string name="aqi_quality_index_moderate">AQI %1$s</string>
-    <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
-    <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-    <string name="aqi_quality_index_dangerous">AQI %1$s</string>
-    <string name="aqi_quality_index_hazardous">AQI %1$s</string>
-    <string name="aqi_quality_index_break">AQI %1$s</string>
+    <string name="aqi_quality_index_pure">IQA %1$s</string>
+    <string name="aqi_quality_index_good">IQA %1$s</string>
+    <string name="aqi_quality_index_moderate">IQA %1$s</string>
+    <string name="aqi_quality_index_light_pollution">IQA %1$s</string>
+    <string name="aqi_quality_index_unhealthy">IQA %1$s</string>
+    <string name="aqi_quality_index_dangerous">IQA %1$s</string>
+    <string name="aqi_quality_index_hazardous">IQA %1$s</string>
+    <string name="aqi_quality_index_break">IQA %1$s</string>
     <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
     <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
     <string name="nav_bottom_bar_back">Indietro</string>
@@ -753,9 +753,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pause_download">Pausa</string>
     <string name="resume_download">Avvia</string>
     <string name="download_success">Completato</string>
-    <string name="paused_queued_for_wifi">In attesa di connessione...</string>
-    <string name="paused_waiting_for_network">In attesa di connessione...</string>
-    <string name="paused_waiting_to_retry">in attesa di nuovo tentativo...</string>
+    <string name="paused_queued_for_wifi">In attesa di connessione…</string>
+    <string name="paused_waiting_for_network">In attesa di connessione…</string>
+    <string name="paused_waiting_to_retry">in attesa di nuovo tentativo…</string>
     <string name="unknown_title">Sconosciuto</string>
     <string name="paused_unknown">In pausa</string>
     <string name="dialog_file_missing_title">Impossibile aprire il file</string>
@@ -831,5 +831,5 @@ finestra riservata​"</string>
     <string name="document_download_official">Download ufficiale</string>
     <string name="document_download_failed">Download fallito</string>
     <string name="view_document_downloaded_files">Accedi ai file scaricati del Gestore download</string>
-    <string name="no_app_open_document">Nessuna app disponibile per gestire questaazione</string>
+    <string name="no_app_open_document">Nessuna app disponibile per gestire questa azione</string>
 </resources>

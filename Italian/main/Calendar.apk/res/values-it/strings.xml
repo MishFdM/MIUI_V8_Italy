@@ -56,11 +56,11 @@
     <string name="book_card_free">免费</string>
     <string name="joke_card_icon_text">%1$s 人笑过</string>
     <string name="download">Download</string>
-    <string name="downloading">下载中</string>
-    <string name="download_finished">下载完成</string>
-    <string name="downloaded">已下载</string>
+    <string name="downloading">Download…</string>
+    <string name="download_finished">Download completato</string>
+    <string name="downloaded">Scaricati</string>
     <string name="downloading_wallpaper">原图下载中</string>
-    <string name="set_as_wallpaper">Set as wallpaper</string>
+    <string name="set_as_wallpaper">Imposta come sfondo</string>
     <string name="credit_event_card_title">信用卡还款</string>
     <string name="credit_detail_sms_content">短信原文</string>
     <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
@@ -112,22 +112,22 @@
     <string name="subscribe_description_card_more_cut">收起</string>
     <string name="str_hour_of_everyday">每天%s</string>
     <string name="str_hour_of_next">下一次%s</string>
-    <string name="str_everyday">每天</string>
+    <string name="str_everyday">Ogni giorno</string>
     <string name="str_everymonth">每月%s</string>
     <string name="str_dayofmonth">%s号</string>
     <string name="every_year_month_of_day">%1$s%2$s日</string>
     <string name="str_everyyear">每年%s</string>
     <string name="date_pattern_mm_dd_kk_mm">M月d日 HH:mm</string>
     <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
-    <string name="str_from_mon_to_fri">周一至周五</string>
-    <string name="str_everyweek">每周%s</string>
-    <string name="common_mon">周一</string>
-    <string name="common_tus">周二</string>
-    <string name="common_wed">周三</string>
-    <string name="common_thu">周四</string>
-    <string name="common_fri">周五</string>
-    <string name="common_sat">周六</string>
-    <string name="common_sun">周日</string>
+    <string name="str_from_mon_to_fri">Dal Lun al Ven</string>
+    <string name="str_everyweek">Ogni settimana %s</string>
+    <string name="common_mon">Lunedì</string>
+    <string name="common_tus">Martedì</string>
+    <string name="common_wed">Mercoledì</string>
+    <string name="common_thu">Giovedì</string>
+    <string name="common_fri">Venerdì</string>
+    <string name="common_sat">Sabato</string>
+    <string name="common_sun">Domenica</string>
     <string name="click_watch">点击观看</string>
     <string name="subscribe_detail_title">订阅详情</string>
     <string name="match_ing">进行中</string>
@@ -137,7 +137,7 @@
     <string name="check_reminded_text">查看提醒</string>
     <string name="event_created_text">已创建赛事提醒</string>
     <string name="event_created_fail_text">创建赛事提醒失败</string>
-    <string name="more_match">更多赛事</string>
+    <string name="more_match">Altri eventi</string>
     <string name="match_not_started">未开始</string>
     <string name="swipe_up_guide_hint_text">上滑发现更多</string>
     <string name="settings_calendar">Calendario</string>
@@ -189,7 +189,7 @@
     <string name="privacy_label">Privacy</string>
     <string name="create_an_account_desc">"Il calendario funziona meglio con un Account Google.
 
-• Accedi da qualunque web browser
+• Accedi da qualunque browser web
 • Salva i tuoi eventi in tutta sicurezza"</string>
     <string name="view_event_calendar_label">Calendario:</string>
     <string name="view_event_organizer_label">Organizzatore:</string>
@@ -431,7 +431,7 @@
     <string name="alert_reminder_expired">Scaduto</string>
     <string name="travel_local">Destinazione</string>
     <string name="travel_loading">Solo un attimo…</string>
-    <string name="travel_loaded">Powered by Veryzhun</string>
+    <string name="travel_loaded">Fornito da Veryzhun</string>
     <string name="travel_load_failed">Impossibile caricare</string>
     <string name="travel_item_trafic">Traffico</string>
     <string name="travel_item_weather_forecast">Località previsioni</string>
@@ -463,7 +463,7 @@
     <string name="repeat_lunar_yearly"/>
     <string name="huangli_label"/>
     <string name="network_not_available">Impossibile collegarsi alla rete</string>
-    <string name="no_network_btn">Prova di nuovo</string>
+    <string name="no_network_btn">Riprova</string>
     <string name="image_content">Immagine</string>
     <string name="event_info_from">da</string>
     <string name="event_title">Titolo</string>

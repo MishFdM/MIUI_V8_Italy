@@ -20,19 +20,19 @@
         <item quantity="one">ieri</item>
     </plurals>
     <plurals name="in_num_seconds">
-        <item quantity="other">da %d secondi</item>
-        <item quantity="one">da 1 secondo</item>
+        <item quantity="other">tra %d secondi</item>
+        <item quantity="one">tra 1 secondo</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">da %d minuti</item>
-        <item quantity="one">da 1 minuto</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">da %d ore</item>
-        <item quantity="one">da 1 ora</item>
+        <item quantity="other">tra %d ore</item>
+        <item quantity="one">tra 1 ora</item>
     </plurals>
     <plurals name="in_num_days">
-        <item quantity="other">da %d giorni</item>
+        <item quantity="other">tra %d giorni</item>
         <item quantity="one">domani</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">

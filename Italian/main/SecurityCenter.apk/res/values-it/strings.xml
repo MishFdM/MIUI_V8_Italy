@@ -70,7 +70,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="usage_sorted_empty_text">Vuoto</string>
     <string name="person_hotpot">Hotspot mobili</string>
     <string name="system_app">App di sistema</string>
-    <string name="deleted_apps">Elimina app</string>
+    <string name="deleted_apps">App eliminate</string>
     <string name="root">Accesso Root</string>
     <string name="sorted_button">Ordina per</string>
     <string name="app_detail">Dettagli</string>

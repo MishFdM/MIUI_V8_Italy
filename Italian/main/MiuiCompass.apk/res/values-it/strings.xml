@@ -19,7 +19,7 @@
     <string name="pressure_unit">hPa</string>
     <string name="altitude_unit">M</string>
     <string name="dialog_title_no_network">Non è stato possibile connettersi alla rete</string>
-    <string name="dialog_body_no_network">Impossibile collegarsi alla rete</string>
+    <string name="dialog_body_no_network">Impossibile connettersi alla rete</string>
     <string name="dialog_calibrat_altitude">Calibrazione…</string>
     <string name="latitude">LAT</string>
     <string name="longitude">LON</string>
@@ -48,8 +48,8 @@
     <string name="shake_enter_tip">Scuoti per calibrare</string>
     <string name="calibrate_title">Calibrazione bussola</string>
     <string name="calibrate_tip">Inclina il dispositivo per ruotare la sfera intorno al cerchio</string>
-    <string name="calibrate_rotate_again">Prova di nuovo</string>
-    <string name="error_camera_unavailable_title">Camera non disponibile</string>
+    <string name="calibrate_rotate_again">Riprova</string>
+    <string name="error_camera_unavailable_title">Fotocamera non disponibile</string>
     <string name="error_camera_unavailable">"Controlla se un'altra applicazione sta utilizzando la fotocamera."</string>
     <string name="altitude_uncalibrate_tip">"Impossibile calibrare l'altitudine"</string>
     <string name="altitude_uncalibrate_msg">"Impossibile calibrare l'altitudine senza una connessione dati o GPS."</string>

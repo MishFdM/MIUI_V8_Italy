@@ -93,7 +93,7 @@
     <string name="menu_item_managespace">Gestisci spazio</string>
     <string name="managespace_total_space">Spazio totale: %s</string>
     <string name="managespace_delete_backup">Elimina backup</string>
-    <string name="error_unknown">Qualcosa è andato storto</string>
+    <string name="error_unknown">Si è verificato un errore</string>
     <string name="backup_size">Dimensione: %s</string>
     <string name="device_delete_prompt">Eliminare il backup di %s?</string>
     <string name="v5_data">Dati V5</string>

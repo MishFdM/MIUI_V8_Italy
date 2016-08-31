@@ -177,7 +177,7 @@
     <string name="gadget_calculator_label">Calcolatrice</string>
     <string name="gadget_load_error">Errore caricamento widget…</string>
     <string name="invalid_contact_shortcut">Collegamento non valido</string>
-    <string name="guide_tips_editing_mode">Tocca e tieni premuto per prendere un widget</string>
+    <string name="guide_tips_editing_mode">Tocca e tieni premuto per modificare un widget</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -273,7 +273,7 @@
     <string name="settings">Impostazioni</string>
     <string name="apply">Applica</string>
     <string name="change_wallpaper">Cambia</string>
-    <string name="lock_screen">Lockscreen</string>
+    <string name="lock_screen">Blocco schermo</string>
     <string name="home_screen">Home</string>
     <string name="wallpaper_scroll_type_tips">Sfondo scorrevole</string>
     <string name="no_detail_page">Nessuna pagina per i dettagli</string>

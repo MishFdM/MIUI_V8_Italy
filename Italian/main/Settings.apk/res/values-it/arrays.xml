@@ -180,8 +180,8 @@
         <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Memorizzazione su dispositivo interno</item>
-        <item>Scheda SD rimovibile</item>
+        <item>Memoria interna</item>
+        <item>Scheda SD</item>
         <item>Impostazione di sistema</item>
     </string-array>
     <string-array name="app_ops_categories">
@@ -309,7 +309,7 @@
         <item>Serif monospace</item>
         <item>Casual</item>
         <item>Corsivo</item>
-        <item>Maiuscolo piccolo</item>
+        <item>Maiuscoletto</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Molto piccolo</item>
@@ -570,14 +570,6 @@
         <item>Tasto Menu a sinistra, tasto Indietro a destra</item>
         <item>Tasto Indietro a sinistra, tasto Menu a destra</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Nessuna</item>
-        <item>Lancia task manager</item>
-        <item>Lancia assistente</item>
-        <item>Lancia Google now</item>
-        <item>Chiudi applicazione corrente</item>
-        <item>Mostra il menu</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondi</item>
         <item>1 secondo</item>
@@ -691,8 +683,8 @@
         <item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>La rete è lenta per via del traffico intenso</item>
-        <item>La rete è lenta per via del segnale debole</item>
+        <item>La rete è lenta a causa del traffico intenso</item>
+        <item>La rete è lenta a causa del segnale debole</item>
         <item>In movimento…</item>
     </string-array>
     <string-array name="priority_storage_entries">

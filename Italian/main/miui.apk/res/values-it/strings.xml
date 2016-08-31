@@ -16,7 +16,7 @@
     <string name="sim_not_ready">SIM in uso. Riprova più tardi.</string>
     <string name="sim_unavailable">SIM non disponibile.</string>
     <string name="activating">Attivazione…</string>
-    <string name="sync_one_time_sync">Tocca per sincronizzare ( %1$s )</string>
+    <string name="sync_one_time_sync">Tocca per sincronizzare (%1$s)</string>
     <string name="select_item">Seleziona elementi</string>
     <string name="action_mode_title_empty">Seleziona elementi</string>
     <string name="action_mode_select_all">Seleziona tutto</string>

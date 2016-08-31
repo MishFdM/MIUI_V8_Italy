@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Print Spooler</string>
+    <string name="app_label">Spooler di stampa</string>
     <string name="more_options_button">Altre opzioni</string>
     <string name="label_destination">Destinazione</string>
     <string name="label_copies">Copie</string>
-    <string name="label_copies_summary">Copie:</string>
+    <string name="label_copies_summary">"Copie: "</string>
     <string name="label_paper_size">Dimensioni pagina</string>
-    <string name="label_paper_size_summary">Dimensioni pagina:</string>
+    <string name="label_paper_size_summary">"Dimensioni pagina: "</string>
     <string name="label_color">Colore</string>
     <string name="label_duplex">Fronte-retro</string>
     <string name="label_orientation">Orientamento</string>
     <string name="label_pages">Pagine (%1$s)</string>
     <string name="template_all_pages">Tutte %1$s</string>
     <string name="template_page_range">Intervallo %1$s</string>
-    <string name="pages_range_example">e.g. 1—5,8,11—13</string>
+    <string name="pages_range_example">es. 1—5, 8, 11—13</string>
     <string name="print_preview">Anteprima stampa</string>
     <string name="install_for_print_preview">"Installa PDF Viewer per l'anteprima"</string>
     <string name="printing_app_crashed">"L'applicazione di stampa si è chiusa"</string>
     <string name="generating_print_job">Creazione lavoro di stampa</string>
     <string name="save_as_pdf">Salva come PDF</string>
-    <string name="all_printers">Tutte le stampanti...</string>
+    <string name="all_printers">Tutte le stampanti…</string>
     <string name="print_dialog">Stampa dialogo</string>
     <string name="current_page_template">%1$d /%2$d</string>
     <string name="page_description_template">Pagina %1$d di %2$d</string>
@@ -53,10 +53,10 @@
     <string name="permlab_accessAllPrintJobs">accedi a tutti i processi di stampa</string>
     <string name="permdesc_accessAllPrintJobs">"Consenti all'utente di accedere ai processi di stampa creati da un'altra app. Non dovrebbe mai essere necessario per le normali app.</string>
     <string name="permlab_startPrintServiceConfigActivity">avvia attività di configurazione dei servizi di stampa</string>
-    <string name="permdesc_startPrintServiceConfigActivity">Consenti all\'utente di avviare le attività di configurazione del servizio di stampa. Non dovrebbe mai essere necessario per le normali app.</string>
+    <string name="permdesc_startPrintServiceConfigActivity">"Consenti all'utente di avviare le attività di configurazione del servizio di stampa. Non dovrebbe mai essere necessario per le normali app."</string>
     <string name="print_write_error_message">Impossibile scrivere sul file</string>
     <string name="print_error_default_message">Impossibile generare processo di stampa</string>
     <string name="print_error_retry">Riprova</string>
     <string name="print_error_printer_unavailable">Questa stampante non è disponibile in questo momento</string>
-    <string name="print_preparing_preview">Preparazione anteprima...</string>
+    <string name="print_preparing_preview">Preparazione anteprima…</string>
 </resources>

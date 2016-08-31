@@ -40,7 +40,7 @@
     <string name="dlg_clear_current_ok">Rimuovi</string>
     <string name="dlg_no_block">Non bloccare questo numero?</string>
     <string name="dlg_no_block_ok">Non bloccare</string>
-    <string name="dlg_add_blacklist_title">Aggiungi alla lista blocchi</string>
+    <string name="dlg_add_blacklist_title">Aggiungi alla blacklist</string>
     <string name="dlg_add_blacklist">Aggiungere numero alla blacklist?</string>
     <string name="dlg_add_blacklist_warn_conflict_title">Attenzione</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$s ed altri %2$s contatti sono già tra le tue eccezioni.</string>
@@ -50,9 +50,9 @@
     <string name="dlg_remove_address_blacklist">Rimuovere questo elemento dalla blacklist e ripristinare i relativi messaggi?</string>
     <string name="dlg_remove_address_whitelist">Rimuovere questo elemento dalle eccezioni?</string>
     <string name="dlg_remove_blacklist_ok">Rimuovi</string>
-    <string name="dlg_clear_blacklist">Cancellare la lista blocchi?</string>
+    <string name="dlg_clear_blacklist">Cancellare la blacklist?</string>
     <string name="dlg_clear_blacklist_ok">Cancella</string>
-    <string name="dlg_bl_add_manual">Aggiungi il numero alla lista blocco</string>
+    <string name="dlg_bl_add_manual">Aggiungi il numero alla blacklist</string>
     <string name="dlg_add_manual_ok">Aggiungi</string>
     <string name="dlg_add_manual_hint">Inserisci il numero di telefono</string>
     <string name="dlg_import_blacklist">Importazione nella blacklist</string>
@@ -72,10 +72,10 @@
     <string name="dlg_antispam_mode_delete_message">Non puoi ripristinare le regole personalizzate per la blacklist dopo la loro eliminazione.</string>
     <string name="dlg_antispam_using_mode_delete_message">Eliminare il profilo della blacklist in uso e passare al profilo predefinito? Questa azione è irreversibile.</string>
     <string name="dlg_antispam_using_mode_international_delete_message">Eliminare il profilo della blacklist in uso e passare al profilo predefinito? Questa azione è irreversibile.</string>
-    <string name="menu_clear_all_sms">Rimuovere tutti i messaggi bloccati</string>
-    <string name="menu_clear_all_call">Rimuovere tutte le chiamate bloccate</string>
-    <string name="menu_clear_current_sms">Rimuovere tutti i messaggi bloccati da questo numero</string>
-    <string name="menu_clear_current_call">Rimuovere tutte le chiamate bloccate da questo numero</string>
+    <string name="menu_clear_all_sms">Rimuovi tutti i messaggi bloccati</string>
+    <string name="menu_clear_all_call">Rimuovi tutte le chiamate bloccate</string>
+    <string name="menu_clear_current_sms">Rimuovi tutti i messaggi bloccati da questo numero</string>
+    <string name="menu_clear_current_call">Rimuovi tutte le chiamate bloccate da questo numero</string>
     <string name="menu_no_block">Sblocca</string>
     <string name="menu_mark">Seleziona</string>
     <string name="menu_call">Chiama</string>
@@ -183,8 +183,8 @@
     <string name="PAST_BLOCK">Bloccato in precedenza</string>
     <string name="STRANGER_BLOCK">Blacklist Sconosciuti</string>
     <string name="MALICIOUS_URL">Collegamenti dannosi</string>
-    <string name="AD_AntiSpam">Ad blocker</string>
-    <string name="AD_SCANNING">Scansione...</string>
+    <string name="AD_AntiSpam">Anti Spam</string>
+    <string name="AD_SCANNING">Scansione…</string>
     <string name="AD_BLOCK_ALL">Blocca tutto</string>
     <string name="AD_SCAN_BUTTON">Scansiona</string>
     <string name="AD_NOT_BLOCK">Non bloccare</string>
@@ -192,7 +192,7 @@
     <string name="AD_COUNT">%d bloccati</string>
     <string name="AD_TITLE_COUNT">%d app contenenti adware</string>
     <string name="AD_TITLE_NON_COUNT">Nessun adware rilevato</string>
-    <string name="AD_BLOCK">Ad blocker</string>
+    <string name="AD_BLOCK">AdBlocker</string>
     <string name="AD_ALLOW">Consenti pubblicità</string>
     <string name="AD_Unistall">Disinstalla</string>
     <string name="AD_APPInfo">Info app</string>
@@ -207,7 +207,7 @@
     <string name="ad_update_time_unKnown">Ultimo aggiornamento: sconosciuto</string>
     <string name="ad_block_hint">%d bloccate</string>
     <string name="ad_single_block_hint">Bloccata</string>
-    <string name="ad_permission_hint">"L'utilizzo di Ad blocker potrebbe influenzare le prestazioni di alcune app."</string>
+    <string name="ad_permission_hint">"L'utilizzo di AdBlocker potrebbe influenzare le prestazioni di alcune app."</string>
     <string name="sms_delete_title">Rimuovi Messaggio</string>
     <string name="call_delete_title">Rimuovi chiamata</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
@@ -219,7 +219,7 @@
     <string name="report_success">Messaggio segnalato</string>
     <string name="report_error">Impossibile segnalare il messaggio</string>
     <string name="report_error_not_net">Impossibile collegarsi alla rete</string>
-    <string name="report_warning">"Segnalare %1$s SMS a Xiaomi? Questi messaggi ed i numeri telefonici associati verranno inviati ai server Mi per l'analisi. Ogni informazione personale resterà comunque anonima."</string>
+    <string name="report_warning">"Segnalare %1$s SMS a Xiaomi? I messaggi ed i numeri telefonici associati verranno inviati ai server Xiaomi per l'analisi. Ogni informazione personale resterà comunque anonima."</string>
     <string name="report_warning_title">Segnala SMS</string>
     <string name="menu_report_block">Spam</string>
     <string name="st_sub_title_customize_mode_name">Nome modalità</string>
@@ -237,8 +237,8 @@
     <string name="st_title_settings_other_group">Impostazioni addizionali</string>
     <string name="st_title_show_antispamnotification">Notifiche blacklist</string>
     <string name="st_title_mode_choose_group">Seleziona modalità</string>
-    <string name="st_title_adblock_group">Ad blocker</string>
-    <string name="st_title_adblock_setting">Impostazioni Ad blocker</string>
+    <string name="st_title_adblock_group">AdBlocker</string>
+    <string name="st_title_adblock_setting">Impostazioni AdBlocker</string>
     <string name="st_antispam_mode_smart">Blocco intelligente</string>
     <string name="st_antispam_mode_blacklist">Numeri bloccati</string>
     <string name="st_antispam_mode_only_contacts">Consenti solo contatti</string>
@@ -273,7 +273,7 @@
     <string name="info_unantispam_phone">Consenti chiamate</string>
     <string name="info_unantispam_phone_sms">Consenti messaggi e chiamate</string>
     <string name="st_antispam_delete">Elimina</string>
-    <string name="baidu_thanks">Powered by Baidu</string>
+    <string name="baidu_thanks">Fornito da Baidu</string>
     <string name="info_antispam_current_mode">%s</string>
     <string name="note_list_none">Nessuna lista da modificare</string>
     <string name="note_sms_none">Nessun messaggio da modificare</string>
@@ -323,7 +323,7 @@
     <string name="mark_number_setting_guide_content1">Bloccare le chiamate dai numeri segnalati?</string>
     <string name="mark_number_setting_guide_content2">Blocca automaticamente le chiamate dai numeri segnalati da altri utenti</string>
     <string name="mark_number_setting_guide_content3">Hai segnalato un numero come %1$s. Vuoi bloccare le chiamate dai numeri segnalati come %2$s?</string>
-    <string name="mark_number_setting_guide_forward">Impostazione blacklist</string>
+    <string name="mark_number_setting_guide_forward">Impostazioni blacklist</string>
     <string name="mark_number_fraud">Truffa</string>
     <string name="mark_number_agent">Venditore</string>
     <string name="mark_number_sell">Promozioni</string>

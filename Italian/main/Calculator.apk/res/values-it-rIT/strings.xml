@@ -97,7 +97,7 @@
     <string name="mortgage_interest_rate">Tasso di interesse</string>
     <string name="mortgage_calculate">Calcola</string>
     <string name="mortgage_hint_loan">"Inserisci l'importo del mutuo"</string>
-    <string name="mortgage_hint_accumulation_fund">Inserisci l\'importo</string>
+    <string name="mortgage_hint_accumulation_fund">"Inserisci l'importo"</string>
     <string name="mortgage_hint_commercial">Inserisci il numero totale del finanziamento commerciale</string>
     <string name="mortgage_descript_commercial">Tasso di interesse attuale: commerciale %s</string>
     <string name="mortgage_descript_accumulation">Tasso di interesse attuale: cumulativo %s</string>
@@ -115,7 +115,7 @@
     <string name="mortgage_years_amount">Anni finanziamento</string>
     <string name="mortgage_show_details">Mostra dettagli</string>
     <string name="mortgage_details">Dettagli finanziamento</string>
-    <string name="mortgage_detail_yearly_repayment">RIpagato in questo anno</string>
+    <string name="mortgage_detail_yearly_repayment">Ripagato in questo anno</string>
     <string name="mortgage_detail_yearly_interest">Interessi in questo anno</string>
     <string name="mortgage_detail_month">Mese</string>
     <string name="mortgage_detail_monthly_repayment">Pagamento</string>
@@ -269,7 +269,7 @@
     <string name="unit_data_display_volume_ml">Millilitro</string>
     <string name="unit_data_display_volume_cu.ft">Piede cubo</string>
     <string name="unit_data_display_volume_cu.in">Pollice cubo</string>
-    <string name="unit_data_display_volume_cu.yd">yard cuba</string>
+    <string name="unit_data_display_volume_cu.yd">Yard cuba</string>
     <string name="unit_data_display_volume_cu.af">Acre cubo</string>
     <string name="unit_data_short_volume_cu.m">m³</string>
     <string name="unit_data_short_volume_cu.cm">cm³</string>
@@ -285,8 +285,8 @@
     <string name="unit_data_default_velocity_1">kmps</string>
     <string name="unit_data_display_velocity_mps">Metro al secondo</string>
     <string name="unit_data_display_velocity_kmps">Chilometro al secondo</string>
-    <string name="unit_data_display_velocity_kmph">Chilometro a ora</string>
-    <string name="unit_data_display_velocity_c">Velocità luce</string>
+    <string name="unit_data_display_velocity_kmph">"Chilometro all'ora"</string>
+    <string name="unit_data_display_velocity_c">Velocità della luce</string>
     <string name="unit_data_display_velocity_mach">Mach</string>
     <string name="unit_data_display_velocity_nmiph">Knot</string>
     <string name="unit_data_display_velocity_mileph">Miglia orarie</string>
@@ -297,10 +297,10 @@
     <string name="unit_data_short_velocity_kmph">km/h</string>
     <string name="unit_data_short_velocity_c">c</string>
     <string name="unit_data_short_velocity_mach">Ma</string>
-    <string name="unit_data_short_velocity_nmiph">kn</string>
-    <string name="unit_data_short_velocity_mileph">mph</string>
-    <string name="unit_data_short_velocity_ftps">fps</string>
-    <string name="unit_data_short_velocity_inps">ips</string>
+    <string name="unit_data_short_velocity_nmiph">nm/h</string>
+    <string name="unit_data_short_velocity_mileph">mi/h</string>
+    <string name="unit_data_short_velocity_ftps">ft/s</string>
+    <string name="unit_data_short_velocity_inps">in/s</string>
     <string name="unit_data_default_weight_0">kg</string>
     <string name="unit_data_default_weight_1">g</string>
     <string name="unit_data_display_weight_kg">Chilogrammo</string>
@@ -358,7 +358,7 @@
     <string name="unit_data_short_time_week">wk</string>
     <string name="unit_data_short_time_us">μs</string>
     <string name="network_confirm_title">Connessione di rete richiesta</string>
-    <string name="network_confirm_content">Convertitore di valuta, calcolatore tasse e finanziamenti devono avere accesso alla connessione internet per funzionare correttamente</string>
+    <string name="network_confirm_content">Convertitore di valuta e Calcolatore mutuo devono accedere alla connessione internet per funzionare correttamente</string>
     <string name="word_figure_zheng">整</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_number_0">零</string>

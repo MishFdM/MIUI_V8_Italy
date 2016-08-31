@@ -4,16 +4,16 @@
     <string name="find_device">Trova Dispositivo</string>
     <string name="enable_find_device_success">Trova Dispositivo attivo.</string>
     <string name="disable_find_device_success">Trova Dispositivo disattivo.</string>
-    <string name="enable_find_device_error">Impossibile attivare Trova Dispositivo. %1$s"</string>
-    <string name="disable_find_device_error">Impossibile disattivare Trova Dispositivo. %1$s"</string>
+    <string name="enable_find_device_error">"Impossibile attivare Trova Dispositivo. %1$s"</string>
+    <string name="disable_find_device_error">"Impossibile disattivare Trova Dispositivo. %1$s"</string>
     <string name="find_device_error_unknown">Errore sconosciuto.</string>
-    <string name="find_device_error_password_changed">La password account è stata cambiata recentemente.</string>
+    <string name="find_device_error_password_changed">La password account è stata cambiata di recente.</string>
     <string name="find_device_error_network">Cerca la tua connessione e riprova.</string>
     <string name="find_device_error_server">Errore del server</string>
     <string name="find_device_error_account_sys_timeout">Impossibile collegarsi al Mi Account</string>
     <string name="find_device_error_account_unknown_error">Errore Mi Account (%s)</string>
     <string name="find_device_crash">Trova Dispositivo si è chiuso in modo inaspettato</string>
-    <string name="find_device_storage_corrupted">Memoria Trova telefono corrotta. IL tuo dispositivo adesso non è sicuro.</string>
+    <string name="find_device_storage_corrupted">Memoria Trova Dispositivo corrotta. Il tuo dispositivo adesso non è sicuro.</string>
     <string name="time_correction_success">Orario corretto</string>
     <string name="time_correction_failure">"Impossibile corregere l'orario (%s)"</string>
     <string name="find_device_stop_noise">Tocca OK per silenziare</string>
@@ -26,7 +26,7 @@ Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzio
     <string name="i_know">OK</string>
     <string name="unlock_error_network">Impossibile collegarsi alla rete</string>
     <string name="unlock_error_device_id">"Impossibile recuperare l'ID del dispositivo"</string>
-    <string name="unlock_error_ssl_hand_shake">Impossibile collegarsi al server, prova ad impostare data e orario manualmente."</string>
+    <string name="unlock_error_ssl_hand_shake">Impossibile collegarsi al server, prova ad impostare data e ora manualmente."</string>
     <string name="unlock_bad_authentication">Nome utente o password non validi</string>
     <string name="unlock_error_server">Errore del server</string>
     <string name="unlock_access_denied">Accesso negato</string>
@@ -39,7 +39,7 @@ Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzio
     <string name="unlock_error_passport_sdk_timeout">"L'SDK del Mi Account non risponde"</string>
     <string name="activate_xiaomi_account">Attiva questo dispositivo</string>
     <string name="login_extra_steps">Verifica di accesso</string>
-    <string name="phone_locked">"Questo dispositivo potrebbe essere associato ad un Mi Account (%s). Esegui l'accesso per attivare il dispositivo."</string>
+    <string name="phone_locked">"Questo dispositivo è associato ad un Mi Account (%s). Esegui l'accesso per attivare il dispositivo."</string>
     <string name="password">Password</string>
     <string name="captcha">Captcha</string>
     <string name="stop_on_empty_password">La password non può essere vuota</string>
@@ -64,7 +64,7 @@ Vai su id.mi.com e prova a sbloccare il dispositivo da qui"</string>
     <string name="passport_vcode_prompt_long">Inserisci il codice di verifica</string>
     <string name="passport_trust_device">Dispositivo attendibile</string>
     <string name="passport_verify">Verifica</string>
-    <string name="passport_error_empty_vcode">Inserisci il coidce di verifica</string>
+    <string name="passport_error_empty_vcode">Inserisci il codice di verifica</string>
     <string name="passport_checking_vcode">Verifica password…</string>
     <string name="unlock_error_wrong_vcode">Il codice inserito non è corretto</string>
     <string name="passport_notification_processing">Elaborazione…</string>

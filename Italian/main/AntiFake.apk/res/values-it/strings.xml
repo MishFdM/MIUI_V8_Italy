@@ -36,7 +36,7 @@
     <string name="error_authfailure">Errore di autenticazione</string>
     <string name="error_network">Errore di rete</string>
     <string name="unknown_error">Errore sconosciuto</string>
-    <string name="useless_network">Spiacente, la rete è momentaneamente non disponibile.</string>
+    <string name="useless_network">Spiacente, la rete non è al momento disponibile.</string>
     <string name="please_set_network">Imposta una rete</string>
     <string name="set_network">Imposta rete</string>
     <string name="sure">OK</string>
@@ -82,7 +82,7 @@
     <string name="alread_check_num">Identificazione completata</string>
     <string name="copycat_num">Xiaomi falso</string>
     <string name="tip_update">Nuova versione disponibile. Vuoi aggiornare?</string>
-    <string name="tip_error_username">Si prega di inserire il nome correttamente</string>
+    <string name="tip_error_username">Si prega di inserire il nome corretto</string>
     <string name="tip_error_phone">Si prega di inserire il numero di telefono corretto</string>
     <string name="tip_error_seller_name">"Si prega di inserire il nome dell'azienda corretto"</string>
     <string name="tip_error_seller_phone">"Si prega di inserire il numero dell'azienda corretto"</string>
@@ -93,13 +93,13 @@
     <string name="tip_feedback_success">Feedback inviato</string>
     <string name="msg_feedback_success">"Abbiamo ricevuto la tua richiesta di assistenza, verificheremo le informazioni che ci hai fornito, in seguito effettueremo delle verifiche con l'ufficio affari di zona e l'ufficio vendite ed effettueremo le investigazioni del caso. Grazie per il tuo supporto!"</string>
     <string name="tip_charge_up_battery">Suggerimento sulla batteria</string>
-    <string name="charge_up_battery">"Per assicurare l'accuratezza dell'identificazione, assicurati che la batteria del telefono sia carica almeno al 50%, si prega di collegare il caricabatteria"</string>
+    <string name="charge_up_battery">"Per assicurare l'accuratezza dell'identificazione, assicurati che la batteria del dispositivo sia carica almeno al 50%, si prega di collegare il caricabatteria"</string>
     <string name="msg_unsupport_device">A partire dal 1 gennaio 2013, i dispositivi prodotti da Xiaomi sono dotati di fabbrica di un sistema che supporta questo software, se hai comprato questo dispositivo di recente, potrebbe essere un falso. Si prega di prendere maggiori precauzioni!</string>
     <string name="tip_skip_set_cpu_model">Desideri davvero saltare il passaggio?</string>
     <string name="msg_skip_set_cpu_model">"Il dispositivo non è attualmente in modalità Alte prestazioni, se salti il passaggio potresti compromettere l'accuratezza dei risultati del test."</string>
     <string name="skip_right_now">Salta ora</string>
     <string name="tip_update_right_now">Si prega di aggiornare immediatamente</string>
-    <string name="msg_update_right_now">La versione attuale non è più supportata. Aggiornare immediatamente</string>
+    <string name="msg_update_right_now">La versione attuale non è più supportata. Aggiorna immediatamente.</string>
     <string name="update_right_now">Aggiorna ora</string>
     <string name="download_right_now">Scarica ora</string>
     <string name="tip_update_failed">Aggiornamento automatico fallito</string>
@@ -110,6 +110,6 @@
     <string name="tip_unsupport_device_mode">Il dispositivo non la supporta</string>
     <string name="msg_unsupport_device_mode">Sono ancora necessarie delle ottimizzazioni per le TV Xiaomi, per il momento il tuo dispositivo non è supportato.</string>
     <string name="tip_uninstall">Suggerimenti per la disinstallazione</string>
-    <string name="tip_uninstall_msg">"È stata rilevata una vecchia versione di AntiFake, devi disinstallarla prima di avviare la nuova verisone"</string>
+    <string name="tip_uninstall_msg">"È stata rilevata una vecchia versione di AntiFake, devi disinstallarla prima di avviare la nuova versione"</string>
     <string name="uninstall">Disinstalla subito</string>
 </resources>

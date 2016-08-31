@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Programma di installazione certificati</string>
+    <string name="app_name">Gestore installazione certificati</string>
     <string name="pick_file_title">Scegli un certificato</string>
     <string name="pkcs12_password_dialog_title">Estrai certificato</string>
     <string name="extracting_pkcs12">Estrazione…</string>
@@ -58,10 +58,10 @@ Chiave: %2$s
 "</string>
     <string name="install_done_title">Credenziali installate</string>
     <string name="install_done">%1$s credenziali sono state aggiunte alle reti Wi-Fi salvate.</string>
-    <string name="done_label">DONE</string>
-    <string name="wifi_installer_detail">Installa credenziali WI-Fi per connetterti alle reti disponibili tramite %1$s.</string>
+    <string name="done_label">OK</string>
+    <string name="wifi_installer_detail">Installa credenziali Wi-Fi per connetterti alle reti disponibili tramite %1$s.</string>
     <string name="wifi_installer_download_error">Il file scaricato ha riscontrato alcuni problemi e non può essere installato. Assicurati di aver scaricato il file dalla fonte corretta.</string>
-    <string name="wifi_installer_fail">Impossibile installare credenziali Wi-Fi. Prova a scaricare di nuovo il file.</string>
+    <string name="wifi_installer_fail">Impossibile installare credenziali Wi-Fi. Riprova a scaricare il file.</string>
     <string name="wifi_installer_fail_no_wifi_title">Installazione annullata</string>
-    <string name="wifi_installer_fail_no_wifi">Attiva il Wi-Fi e prova di nuovo.</string>
+    <string name="wifi_installer_fail_no_wifi">Attiva il Wi-Fi e riprova.</string>
 </resources>
