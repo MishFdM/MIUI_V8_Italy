@@ -827,9 +827,9 @@ Le schede contatti sono disattivate"</string>
     <string name="callrecordview_menu_conference">Audioconferenza</string>
     <string name="openDialKeyboard">Tastierino</string>
     <string name="t9_search_guide_pinyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
-    <string name="t9_search_guide_pinyin_title2">Inserisci 2 e 3 per cercare <font fgcolor="">A</font>lan <font fgcolor="">F</font>rank</string>
+    <string name="t9_search_guide_pinyin_title2">Inserisci 9 e 9 per cercare Xiaomi Hugo</string>
     <string name="t9_search_guide_zhuyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
-    <string name="t9_search_guide_zhuyin_title2">Inserisci 5 e 6 per cercare <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
+    <string name="t9_search_guide_zhuyin_title2">Inserisci 5 e 6 per cercare Jeff Max</string>
     <string name="date_time_set">Imposta</string>
     <string name="service_provider">Cartella</string>
     <string name="service_provider_detail">Dettagli cartella</string>

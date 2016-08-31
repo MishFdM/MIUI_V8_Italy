@@ -109,8 +109,8 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="handy_mode_enter_dlg_title">Attiva uso con una mano</string>
     <string name="handy_mode_enter_dlg_msg">Attivare uso con una mano?</string>
     <string name="screenshot_gesture_detect_alert_title">Screenshot con tre dita</string>
-    <string name="screenshot_gesture_detect_alert_msg">"Fai uno screenshot scorrendo dall'alto verso il basso"</string>
-    <string name="screenshot_gesture_detect_alert_button">Vai in Impostazioni > Screenshot per abilitarlo</string>
+    <string name="screenshot_gesture_detect_alert_msg">"Fai uno screenshot scorrendo dall'alto verso il basso con tre dita"</string>
+    <string name="screenshot_gesture_detect_alert_button">Impostazioni > Screenshot</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Non mostrare più</string>
     <string name="permlab_manageLocationPolicy">Gestisci autorizzazioni sulla posizione</string>
     <string name="permdesc_manageLocationPolicy">"Consenti all'applicazione di gestire le autorizzazioni sulla posizione e definisci regole specifiche per ogni app."</string>

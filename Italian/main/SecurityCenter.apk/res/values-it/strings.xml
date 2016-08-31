@@ -1194,7 +1194,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="ac_enable_title">Attiva</string>
     <string name="lock_mode_title">Impostazioni di blocco</string>
     <string name="after_the_lock_screen">"L'app è bloccata con lo schermo, puoi modificare l'impostazione nelle impostazioni"</string>
-    <string name="ac_firstUseApplock_title">È necessaria una password per accedere alle app.</string>
+    <string name="ac_firstUseApplock_title">Richiedi una password per accedere alle app.</string>
     <string name="ac_firstUseApplock_subTitle">Utilizza per proteggere la tua privacy</string>
     <string name="notification_subtitle">Tocca per attivare</string>
     <string name="ac_enter_applock">Apri blocco applicazioni</string>
