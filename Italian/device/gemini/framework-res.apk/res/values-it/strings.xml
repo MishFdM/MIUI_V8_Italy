@@ -1433,6 +1433,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
 
 La funzione di risparmio energetico viene disattivata automaticamente quando il dispositivo è in carica."</string>
     <string name="zen_mode_until">Fino alle ore %1$s</string>
+    <string name="zen_mode_alarm">Fino alle ore %1$s (prossima sveglia)</string>
     <string name="zen_mode_forever">Fino alla disattivazione</string>
     <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>

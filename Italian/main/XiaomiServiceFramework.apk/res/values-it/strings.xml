@@ -65,7 +65,7 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="activate_popup_desc_new_2_sim_cards">"Le tue SIM sono cambiate. Verranno inviati due SMS per attivare le 2 nuove SIM in modo da abilitare funzioni come %s"</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">"Le tue SIM sono cambiate. Verranno inviati due SMS internazionali per attivare le 2 SIM in modo da abilitare funzioni come %s"</string>
     <string name="activate_popup_desc_new_sim_card_downlink">La tua SIM è cambiata. Inserisci il numero della SIM in modo da abilitare funzioni come %s</string>
-    <string name="activate_popup_desc_voip_privacy_prefix">". VoIP è supportao da Weihui. Leggi la documentazione relativa a Weihui: "</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">". VoIP è supportato da Weihui. Leggi la documentazione relativa a Weihui: "</string>
     <string name="activate_popup_desc_voip_privacy">Informativa sulla Privacy</string>
     <string name="activate_popup_title_register_account">Crea Mi Account</string>
     <string name="activate_popup_desc_register_account">Verrà inviato un SMS per registrare il tuo Mi Account</string>

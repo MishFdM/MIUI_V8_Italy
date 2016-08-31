@@ -3,7 +3,7 @@
     <string name="welcome">Benvenuto</string>
     <string name="app_name">Provision</string>
     <string name="input_method_setting">Seleziona tastiera</string>
-    <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di email, note, e tutto il resto. Successivamente potrai installare tastiere di terze parti."</string>
+    <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di messaggi, email, note, ecc. Successivamente potrai installare tastiere di terze parti."</string>
     <string name="provision_inputmethod_policy_description">"
 Leggi questo documento per la tastiera: "</string>
     <string name="provision_inputmethod_policy_description1">Privacy</string>
@@ -31,7 +31,7 @@ Leggi questo documento per la tastiera: "</string>
     <string name="pref_title_data_slot">SIM Dati</string>
     <string name="summary_not_set">Non impostato</string>
     <string name="ime_privacy_policy">Termini della Privacy per la tastiera selezionata</string>
-    <string name="ime_privacy_policy_no_network">Impossibile collegarsi a internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
+    <string name="ime_privacy_policy_no_network">Impossibile connettersi ad internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
     <string name="terms_of_use">Condizioni del Servizio</string>
     <string name="terms_of_use_label">"La tua privacy ci sta molto a cuore. Leggi i nostri Termini di Servizio e l'Informativa sulla Privacy per capire quali informazioni raccogliamo, come le utilizziamo e quali scelte hai in merito.
 
@@ -51,9 +51,9 @@ Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di uti
     <string name="desc_extra_fingerprint"/>
     <string name="next_fingerprint">Avanti</string>
     <string name="desc_extra_international_fingerprint"/>
-    <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicaizoni e servizi.</string>
+    <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicazioni e servizi.</string>
     <string name="content_description_start">Avvia</string>
-    <string name="content_description_miui_version">MIUI8</string>
+    <string name="content_description_miui_version">MIUI 8</string>
     <string name="content_description_complete">Completato</string>
     <string name="content_description_language_picker">Seleziona la lingua</string>
 </resources>

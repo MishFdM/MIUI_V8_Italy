@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Screensavers Fotografico</string>
+    <string name="app_name">Screensaver Fotografico</string>
     <string name="table_screensaver_name">Tavolo di foto</string>
     <string name="flipper_screensaver_name">Cornice con foto</string>
     <string name="posts_album_name">Foto dai post</string>

@@ -41,12 +41,12 @@
     <string name="receiver_file_current">Ricezione di %2$d file da %1$s</string>
     <string name="receiver_pic_file_num">%2$d immagini da %1$s</string>
     <string name="receiver_pic_file_current">Ricezione di %2$d immagini da %1$s</string>
-    <string name="receiver_audio_file_num">%2$d​ brani da %1$s</string>
-    <string name="receiver_audio_file_current">Ricezione di %2$d​ brani da %1$s​​</string>
-    <string name="receiver_video_file_num">%2$d​ video da %1$s</string>
-    <string name="receiver_video_file_current">Ricezione %2$d​ video da %1$s</string>
-    <string name="receiver_apk_file_num">%2$d​ app da %1$s</string>
-    <string name="receiver_apk_file_current">Ricezione di %2$d​ app da %1$s</string>
+    <string name="receiver_audio_file_num">%2$d​brani da %1$s</string>
+    <string name="receiver_audio_file_current">Ricezione di %2$d​brani da %1$s​​</string>
+    <string name="receiver_video_file_num">%2$d​video da %1$s</string>
+    <string name="receiver_video_file_current">Ricezione %2$d​video da %1$s</string>
+    <string name="receiver_apk_file_num">%2$d​app da %1$s</string>
+    <string name="receiver_apk_file_current">Ricezione di %2$d​app da %1$s</string>
     <string name="receiver_file_cancel">Trasferimento del file %1$s interrotto</string>
     <string name="receiver_cancel">Annulla</string>
     <string name="i_know">Ho capito</string>
@@ -58,7 +58,7 @@
     <string name="notif_send_cancel_multi">Trasferimento a %1$s+%2$ interrotto</string>
     <string name="notif_send_success">Inviato a %1$s</string>
     <string name="notif_send_success_multi">Inviato a %1$d persone</string>
-    <string name="notif_receive_progress">RIcezione di %1$s file…</string>
+    <string name="notif_receive_progress">Ricezione di %1$s file…</string>
     <string name="notif_receive_cancel">%1$s file non trasferiti</string>
     <string name="notif_receive_success">%1$s ricevuti</string>
     <string name="notif_receive_lockscreen">Tocca per vedere i dettagli</string>
@@ -78,9 +78,9 @@
     <string name="cancel_stop">Continua ad inviare</string>
     <string name="cancel_receive_confirm">Annulla</string>
     <string name="cancel_receive_stop">Continua a ricevere</string>
-    <string name="cancel_confirm_title">Trasferimento non completato, annullare adesso?"</string>
+    <string name="cancel_confirm_title">Trasferimento non completato. Annullare adesso?"</string>
     <string name="file_not_support">Questo tipo di file non è supportato</string>
-    <string name="help">help</string>
+    <string name="help">Aiuto</string>
     <string name="send_file_time_format_m">m:s</string>
     <string name="send_file_time_format_s">s</string>
     <string name="intro_midrop">Mi Drop</string>
@@ -90,5 +90,5 @@
     <string name="intro_page2_choose_files">Scegli i file e tocca \"Condividi\"</string>
     <string name="intro_page3_choose_midrop">Seleziona \"Mi Drop\"</string>
     <string name="intro_page3_choose_midrop2">File inviati immediatamente!</string>
-    <string name="runtime_permission_ungranted">Impossibile utilizzare Mi Drop per mancanza di permessi</string>
+    <string name="runtime_permission_ungranted">Non disponi dei permessi per utilizzare Mi Drop</string>
 </resources>

@@ -897,7 +897,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="upload_external_notification_failed">Impossibile pubblicare</string>
     <string name="upload_external_action_hint">Incolla URL</string>
     <string name="video_parse_hint">Applicazioni supportate: WeChat, Weibo, Youku.</string>
-    <string name="video_parse_timeout">Qualcosa è andato storto, riprova</string>
+    <string name="video_parse_timeout">Si è verificato un errore, riprova</string>
     <string name="video_parse_error_repeated">"Non caricare video simili</string>
     <string name="video_parse_success">Analizzato correttamente</string>
     <string name="video_parse_error_unknown">Questo servizio video non è supportato, provane uno diverso</string>

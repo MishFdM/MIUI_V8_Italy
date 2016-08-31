@@ -21,12 +21,12 @@
         <item>"Questo mese: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Ieri (dati)</item>
-        <item>Oggi (dati)</item>
-        <item>Questo mese (dati)</item>
-        <item>Ieri Wi-Fi</item>
-        <item>Oggi Wi-Fi</item>
-        <item>Questo mese Wi-Fi</item>
+        <item>Dati (ieri)</item>
+        <item>Dati (oggi)</item>
+        <item>Dati (questo mese)</item>
+        <item>Wi-Fi (ieri)</item>
+        <item>Wi-Fi (oggi)</item>
+        <item>Wi-Fi (questo mese)</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Ieri (dati)</item>

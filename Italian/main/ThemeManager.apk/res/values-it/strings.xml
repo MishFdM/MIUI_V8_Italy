@@ -135,7 +135,7 @@
     <string name="resource_send">Invia</string>
     <string name="resource_save_to_note">Salva nelle note</string>
     <string name="resource_present">Regala</string>
-    <string name="resource_exchange">Ritira</string>
+    <string name="resource_exchange">Riscatta codice</string>
     <string name="resource_exchange_confirm">Conferma</string>
     <string name="resource_exchange_hint">Inserisci il codice</string>
     <string name="resource_exchange_window_title">Riscatta codice</string>
@@ -219,7 +219,7 @@
     <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere…</string>
     <string name="theme_changed_message">Applicato con successo</string>
     <string name="theme_changed_failed_message">Cambio tema non riuscito</string>
-    <string name="component_backup_preference_title">Back up theme</string>
+    <string name="component_backup_preference_title">Backup tema</string>
     <string name="backup_theme_dialog_ok">Backup</string>
     <string name="backup_theme_dialog_message">Eseguire il backup del tema corrente?</string>
     <string name="backup_theme_progress_message">Backup in corso, attendere…</string>
@@ -347,7 +347,7 @@
     <string name="gift_present_dlg_share">Crea un codice e condividi il regalo</string>
     <string name="gift_present_dlg_present_max_limit">Un tema non può essere regalato più di %1$s volte.</string>
     <string name="gift_use_confirmation_dlg_title">Inviare questo regalo?</string>
-    <string name="gift_use_fail_dlg_title">Qualcosa è andato storto</string>
+    <string name="gift_use_fail_dlg_title">Si è verificato un errore</string>
     <string name="gift_unbind_fail_dlg_title">Impossibile creare il codice</string>
     <string name="gift_operation_fail_dlg_retry">Riprova</string>
     <string name="gift_operation_fail_dlg_abandon">Annulla</string>
@@ -366,7 +366,7 @@
     <string name="theme_apply_success">Schermata di blocco applicata</string>
     <string name="theme_apply_failured">Impossibile applicare lo sfondo per la Schermata di blocco</string>
     <string name="theme_applying">Applicazione…</string>
-    <string name="provision_loading_tips">Solo un secondo…</string>
+    <string name="provision_loading_tips">Solo un attimo…</string>
     <string name="provision_title">Scegli un tema</string>
     <string name="provision_second_title">Seleziona uno dei 5 temi predefiniti</string>
     <string name="provision_default_theme_title">Predefiniti</string>
@@ -391,7 +391,7 @@
     <string name="dev_options_summary">Risorse web</string>
     <string name="change_host_hint">cambia host</string>
     <string name="no_data">Impossibile collegare alla rete</string>
-    <string name="reload">Prova di nuovo</string>
+    <string name="reload">Riprova</string>
     <string name="browser_local_resource">Risorse locali</string>
     <string name="incompatible_dialog_title">Problemi di compatibilità</string>
     <string name="incompatible_dialog_message">Questo tema non è pienamente compatibile con MIUI 8. Alcuni elementi potrebbero non essere visualizzati correttamente.</string>
