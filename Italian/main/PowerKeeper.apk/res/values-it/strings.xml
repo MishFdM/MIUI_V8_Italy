@@ -153,4 +153,5 @@ Il sistema di risparmio batteria gestirà le app importanti in modo selettivo."<
     <string name="ragment_sys_listempty">Nessuna app di sistema</string>
     <string name="fragment_nonesys_listempty">Nessuna app installata</string>
     <string name="app_invisible_title">AppInvisible</string>
+    <string name="google_base_app_install_choice">\"%s\" necessita delle app Google Service Framework per funzionare correttamente, vuoi scaricare ed installarle?</string>
 </resources>

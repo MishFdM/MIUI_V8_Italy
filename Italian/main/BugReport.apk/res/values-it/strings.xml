@@ -191,6 +191,7 @@
     <string name="feedback_package_log_failed">Impossibile comprimere log</string>
     <string name="submit_feedback_info_failed">Impossibile inviare report</string>
     <string name="post_miui_bbs_failed">Impossibile postare sul Forum</string>
+    <string name="upload_log_failed">Impossibile inviare logs</string>
     <string name="feedback_detail_tile">Avanzamento</string>
     <string name="feedback_tracking">Segui le segnalazioni</string>
     <string name="feedback_status_more">Dettagli</string>

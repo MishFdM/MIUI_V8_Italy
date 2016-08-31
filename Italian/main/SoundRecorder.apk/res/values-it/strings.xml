@@ -30,8 +30,6 @@
     <string name="record_list_cloud_fm">Registrazioni FM Cloud</string>
     <string name="record_list_cloud_call">Registrazioni Chiamate Cloud</string>
     <string name="call_record">Chiamate registrate(%d)</string>
-    <string name="fm_record">Registrazioni radio (%d)</string>
-    <string name="cloud_record">%d sincronizzate</string>
     <string name="no_file">Vuoto</string>
     <string name="alert_message_delete_record_title">Elimina registrazione</string>
     <string name="alert_message_delete_record">Vuoi eliminare la registrazione selezionata?</string>
@@ -122,6 +120,7 @@
     <string name="recording_quality_low">Bassa</string>
     <string name="share_dialog_title">Condividi con</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="recognition_error_stopped">Riconoscimento interrotto</string>
     <string name="recognition_error_cancel">Annullato</string>
     <string name="recognition_error_format">Formato audio non valido</string>

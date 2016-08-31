@@ -3377,7 +3377,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="path_tether_restriction_nfc_enable_title">Settings/More/NFC</string>
     <string name="path_vpn_settings">Settings/More/VPN</string>
     <string name="path_vpn_settings_password">Settings/More/VPN/VPN password</string>
-    <string name="path_vpn_enable">Settings/More/VPN/VPN enable</string>
+    <string name="path_vpn_enable">Settings/More/VPN/VPN</string>
     <string name="path_wifi_tether_settings">Settings/Personal hotspot</string>
     <string name="path_wifi_tether_checkbox">Settings/Personal hotspot/Portable hotspot</string>
     <string name="path_wifi_tether_configure_ap_text">Settings/Personal hotspot/Set up portable hotspot</string>
@@ -3522,9 +3522,11 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="path_slot_status_title">Impostazioni/Informazioni dispositivo/IMEI</string>
     <string name="path_xiaomi_cloud_service">App</string>
     <string name="path_xiaomi_money_service">App</string>
-    <string name="debug_log">Programma esperienza utente</string>
-    <string name="upload_debug_log_title">Programma esperienza utente</string>
-    <string name="upload_debug_log_summary">"Aiuta Xiaomi a migliorare i suoi prodotti ed i suoi servizi inviando dati anonimi di diagnostica e utilizzo"</string>
+    <string name="user_experience_program">User Experience Program</string>
+    <string name="user_experience_program_title">User Experience Program</string>
+    <string name="user_experience_program_summary">Help improve MIUI by sending anonymous usage data</string>
+    <string name="auto_upload_debug_log_title">Send Diagnostic Data automatically</string>
+    <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
     <string name="sound_vibrate_settings">Suoni e vibrazione</string>
     <string name="device_miui_version">Versione MIUI</string>
     <string name="device_cpu">CPU</string>
@@ -3617,8 +3619,10 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="force_touch_enable_tips">"Premendo con forza l'icona dell'App sul launcher verrà mostrato il menù del collegamento, quando il Touch 3D è attivato."</string>
     <string name="force_touch_demo">Demo</string>
     <string name="screenshot">Screenshot</string>
-    <string name="screenshot_three_gesture">"Scorri tre dita dall'alto verso il basso per acquisire uno screenshot"</string>
     <string name="avoid_ui">Evita UI</string>
+    <string name="screenshot_three_gesture">"Scorri tre dita dall'alto verso il basso per acquisire uno screenshot"</string>
+    <string name="screenshot_three_gesture_summary">Altre gesture con tre dita verranno disattivate</string>
+    <string name="has_screenshot_sound">Suono screenshot</string>
     <string name="key_settings_title">Tasti</string>
     <string name="key_settings">Tasti</string>
     <string name="key_position_cat">Posizione tasti</string>
@@ -3668,6 +3672,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
     <string name="wifi_tether_settings_title">Hotspot personale</string>
+    <string name="tether_and_hotspot_title">Tethering e hotspot</string>
     <string name="lock_settings">Schermata di blocco</string>
     <string name="second_space">Secondo spazio</string>
     <string name="xspace">Clona applicazioni</string>
@@ -4179,6 +4184,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="toast_need_login">Accedi al tuo Mi Account</string>
     <string name="preferred_app_settings">App predefinite</string>
     <string name="preferred_app_settings_default">Predefinita</string>
+    <string name="preferred_app_settings_not_selected">Non selezionato</string>
     <string name="preferred_app_settings_reset">Ripristino predefinite</string>
     <string name="preferred_app_settings_reset_message">Vuoi ripristinare le app predefinite?</string>
     <string name="preferred_app_settings_reset_button">Ripristina</string>

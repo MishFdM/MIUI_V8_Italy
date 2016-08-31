@@ -22,12 +22,17 @@
     <string name="default_hint">Cerca App, Musica, Video, Libri…</string>
     <string name="network_unavailable">Non collegato ad internet</string>
     <string name="connect_and_retry">Collegati ad internet e riprova</string>
+    <string name="applications_search_label">App</string>
+    <string name="settings_description">Nomi di applicazioniinstallate</string>
+    <string name="application_desc">Applicazione</string>
     <string name="web_search_results">Google</string>
     <string name="search_group_fold">Nascondi</string>
     <string name="search_group_unfold">Altro</string>
     <string name="common_setting">Impostazioni generali</string>
     <string name="recent_apps">App consigliate</string>
     <string name="suggest_open_app_failed">Impossibile aprire questa app</string>
+    <string name="search_keyword_quicksearchbox">Cerca</string>
+    <string name="search_path_quicksearchbox">Impostazioni/App installate/Cerca</string>
     <string name="apps_search_activity" />
     <string name="xiaomi_suggest_base" />
     <string name="xiaomi_homepage_suggest" />

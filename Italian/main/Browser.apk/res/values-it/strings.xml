@@ -189,12 +189,17 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="video_download_error">Errore</string>
     <string name="video_download_empty">Cache video vuota</string>
     <string name="video_download_wait_for_wifi">In attesa di Wi-Fi</string>
+    <string name="video_download_finding_address">Trova per indirizzo</string>
     <string name="video_download_error_http_gone">File non trovato</string>
     <string name="video_download_unknown_name">Nome sconosciuto</string>
     <string name="video_edit">Modifica</string>
     <string name="video_title_prefix_message">Offline:</string>
-    <string name="video_subtitle_prefix_message">Visti:</string>
+    <string name="video_subtitle_prefix1">Visto</string>
+    <string name="video_subtitle_prefix2">"Visto "</string>
+    <string name="video_subtitle_last_message1">Resta meno di un minuto</string>
     <string name="video_history_empty">La cronologia è vuota</string>
+    <string name="video_manager_action_bar_end_view">Video</string>
+    <string name="video_unknown_duration">Durata sconosciuta</string>
     <string name="error_title">Impossibile sincronizzare</string>
     <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
     <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo Mi Account.</string>
@@ -292,6 +297,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="cancel">Annulla</string>
     <string name="ok">OK</string>
     <string name="edit">Modifica</string>
+    <string name="replace">Soatituisci</string>
+    <string name="isreplace">File già esistente, sostituire?</string>
     <string name="rlz_access_point">Y1</string>
     <string name="uploads_disabled">Il caricamento dei file è disabilitato.</string>
     <string name="dont_remind_again">Ricorda la mia scelta</string>
@@ -832,4 +839,5 @@ finestra riservata​"</string>
     <string name="document_download_failed">Download fallito</string>
     <string name="view_document_downloaded_files">Accedi ai file scaricati del Gestore download</string>
     <string name="no_app_open_document">Nessuna app disponibile per gestire questa azione</string>
+    <string name="not_allowed_open">"Impossibile utilizzare il Browser all'avvio"</string>
 </resources>
