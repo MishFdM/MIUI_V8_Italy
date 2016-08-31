@@ -63,7 +63,7 @@
     <string name="cit_tool_nfc_st_stop">Ferma</string>
     <string name="cit_tool_cal_camera">Calibrazione Fotocamera</string>
     <string name="cit_touch_calib_title">Calibrazione Touchscreen</string>
-    <string name="cit_touch_calib_summary">Il prossimo passo calibrerà il touchscreen, premi il pulsante di conferma e non toccare più lo schermo. Attendi l'avviso di calibrazione eseguita.</string>
+    <string name="cit_touch_calib_summary">Il prossimo passo calibrerà il touchscreen, premi il pulsante di conferma e non toccare più lo schermo. Attendi l\'avviso di calibrazione eseguita.</string>
     <string name="cit_touch_calib_pass">Calibrazione Touchscreen riuscita</string>
     <string name="cit_touch_calib_fail">Calibrazione Touchscreen fallita. Riprova.</string>
     <string name="cit_touch_calib_instruction">Inizia calibrazione</string>
@@ -78,7 +78,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_vibrator_check_summary">Verifica che la vibrazione (lunga e breve) funzioni regolarmente.</string>
     <string name="cit_wifi_address_check_summary">"Di seguito trovi l'indirizzo della rete Wi-Fi a cui il dispositivo è attualmente connesso. Verifica che le informazioni evidenziate in verde siano corrette."</string>
     <string name="cit_wifi_ap_scan_check_summary">"Di seguito trovi le info sui punti d'accesso Wi-Fi circostanti e che sono stati rilevati. Verifica che le informazioni evidenziate in verde siano corrette."</string>
-    <string name="cit_blue_tooth_address_check_summary">L'indirizzo Bluetooth di questo dispositivo dovrebbe comparire di seguito.</string>
+    <string name="cit_blue_tooth_address_check_summary">L\'indirizzo Bluetooth di questo dispositivo dovrebbe comparire di seguito.</string>
     <string name="cit_blue_tooth_scan_check_summary">Le informazioni dei dispositivi Bluetooth nelle vicinanze dovrebbero comparire di seguito.</string>
     <string name="cit_accelermeter_sensor_check_summary">"Muovi il dispositivo velocemente in una direzione. I valori delle coordinate X, Y e Z sono visualizzati di seguito. (quando il dispositivo è in movimento: X rappresenta sinistra/destra, Y rappresenta avanti/indietro, Z rappresenta su/giù).
 Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string>
