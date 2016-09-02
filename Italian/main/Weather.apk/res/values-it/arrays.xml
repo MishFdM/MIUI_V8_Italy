@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weather_type">
-        <item>sereno</item>
-        <item>parzialmente nuvoloso</item>
-        <item>nuvoloso</item>
-        <item>nebbia</item>
-        <item>violento temporale</item>
-        <item>acquazzone</item>
-        <item>temporale</item>
-        <item>forte temporale</item>
-        <item>rovescio</item>
-        <item>pioggia intensa</item>
-        <item>pioggia moderata</item>
-        <item>pioggia leggera</item>
-        <item>alternanza di pioggia e sole</item>
-        <item>bufera di neve</item>
-        <item>neve</item>
-        <item>nevicata pesante</item>
-        <item>nevicata moderata</item>
-        <item>nevicata leggera</item>
-        <item>tempesta di sabbia violenta</item>
-        <item>tempesta di sabbia</item>
-        <item>sabbia</item>
-        <item>ventilato</item>
-        <item>grandine</item>
-        <item>polvere</item>
-        <item>foschia</item>
-        <item>pioggia gelata</item>
-        <item>nessun dato</item>
+        <item>Sereno</item>
+        <item>Parzialmente nuvoloso</item>
+        <item>Nuvoloso</item>
+        <item>Nebbia</item>
+        <item>Violento temporale</item>
+        <item>Acquazzone</item>
+        <item>Temporale</item>
+        <item>Forte temporale</item>
+        <item>Rovescio</item>
+        <item>Pioggia intensa</item>
+        <item>Pioggia moderata</item>
+        <item>Pioggia leggera</item>
+        <item>Alternanza di pioggia e sole</item>
+        <item>Bufera di neve</item>
+        <item>Neve</item>
+        <item>Nevicata pesante</item>
+        <item>Nevicata moderata</item>
+        <item>Nevicata leggera</item>
+        <item>Tempesta di sabbia violenta</item>
+        <item>Tempesta di sabbia</item>
+        <item>Sabbia</item>
+        <item>Ventilato</item>
+        <item>Grandine</item>
+        <item>Polvere</item>
+        <item>Foschia</item>
+        <item>Pioggia gelata</item>
+        <item>Nessun dato</item>
     </string-array>
     <string-array name="indices_uv_level">
         <item>Debole</item>
