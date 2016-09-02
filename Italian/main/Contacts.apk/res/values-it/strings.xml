@@ -950,7 +950,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="preference_auto_ip_title">Prefisso internaz. automatico</string>
     <string name="preference_auto_ip_summary_disable">Disabilitato</string>
     <string name="preference_auto_ip_summary_on">"Pref. intern. della tua nazione: %s"</string>
-    <string name="preference_phone_more_title">Impostazioni chiamate</string>
+    <string name="preference_phone_more_title">Chiamate</string>
     <string name="preference_dial_pad_touch_tone_switch">Toni al tocco del tastierino</string>
     <string name="preference_tone_title">Toni</string>
     <string name="preference_dial_pad_touch_tone_default">Predefinito</string>
