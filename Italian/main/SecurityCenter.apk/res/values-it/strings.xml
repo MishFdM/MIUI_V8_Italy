@@ -697,7 +697,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="app_check_reason_wakeup_alarm">Schermata di blocco attivata frequentemente</string>
     <string name="app_check_optimize_title">Ottimizza le attività di background</string>
     <string name="power_save_mode_enable">Risparmio batteria</string>
-    <string name="power_save_mode_summary" formatted="false">Monitora i processi in background, disattiva le sincronizzazioni e nascondi le animazioni di sistema. Il Risparmio dati può essere disattivato automaticamente quando la batteria è tra il 60% o 100% di carica.</string>
+    <string name="power_save_mode_summary" formatted="false">Monitora i processi in background, disattiva le sincronizzazioni e nascondi le animazioni di sistema. Il Risparmio dati sarà disattivato automaticamente quando la batteria è tra il 60% o 100% di carica.</string>
     <string name="power_optimize_save_mode_not_opened">Risparmio batteria disattivo</string>
     <string name="notification_exit_power_save_mode">Disattiva il Risparmio batteria</string>
     <string name="notification_exit_power_save_mode_subtitle">Batteria ha %s di carica.</string>
