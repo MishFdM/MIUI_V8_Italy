@@ -589,6 +589,11 @@
         <item>1.5 secondi</item>
         <item>2 secondi</item>
     </string-array>
+	<string-array name="long_press_volume_down_action">
+        <item>Nessuno</item>
+        <item>Street-snap(necessario selezionare la modalità fotocamera)</item>
+        <item>Collegamenti ai trasporti pubblici</item>
+    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 secondo</item>
         <item>2 secondi</item>
