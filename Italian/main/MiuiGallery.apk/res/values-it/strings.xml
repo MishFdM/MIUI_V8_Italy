@@ -453,8 +453,8 @@
     <string name="album_page_label">Album</string>
     <string name="other_album">Altri album</string>
     <string name="crop_label">Ritaglia</string>
-    <string name="name_split">,</string>
-    <string name="more_album_hint">,etc</string>
+    <string name="name_split">", "</string>
+    <string name="more_album_hint">", ecc"</string>
     <string name="runtime_permission_ungranted">Galleria chiusa per mancanza permessi</string>
     <string name="not_remind_again">Non mostrare più</string>
     <string name="yes">Sì</string>
@@ -524,7 +524,7 @@
     <string name="begin_share">Creazione album bambino \"%s\" completata, condividi adesso</string>
     <string name="begin_share_toast">Il sistema creerà un album bambino basato su questo per la condivisione. Continuare?</string>
     <string name="set_face_group_toast_title_old_user">I volti possono essere organizzati in gruppi</string>
-    <string name="set_face_group_toast_msg_old_user">Tieni premuto sul volto di copertina, i volti possono essere suddivisi in famiglia, amici, compagni di classe, etc.</string>
+    <string name="set_face_group_toast_msg_old_user">Tieni premuto sul volto di copertina, i volti possono essere suddivisi in famiglia, amici, compagni di classe, ecc.</string>
     <string name="set_face_group_toast_title_new_user">Suggerimenti</string>
     <string name="set_face_group_toast_msg_new_user">"Tieni premuto sul volto di copertina, i volti possono essere ."</string>
     <string name="have_known">Conosciuto</string>

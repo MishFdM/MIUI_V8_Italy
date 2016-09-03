@@ -575,8 +575,8 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Modalità di rete preferita: CDMA+LTE/EVDO</string>
     <string name="preferred_network_mode_global_summary">Modalità di rete preferita: Globale(CDMA/EVDO/LTE/GSM/WCDMA)</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Modalità di rete preferita: LTE / WCDMA</string>
-    <string name="preferred_network_mode_lte_gsm_umts_summary">Preferred network mode: LTE/GSM/UMTS</string>
-    <string name="preferred_network_mode_lte_cdma_summary">Preferred network mode: LTE/CDMA</string>
+    <string name="preferred_network_mode_lte_gsm_umts_summary">Modalità di rete preferita: LTE/GSM/UMTS</string>
+    <string name="preferred_network_mode_lte_cdma_summary">Modalità di rete preferita: LTE/CDMA</string>
     <string name="callFailed_incoming_cb_enabled">Una parte ha bloccato le chiamate.</string>
     <string name="callUnanswered_forwarded">Chiamata senza risposta e inoltrata</string>
     <string name="preferred_network_mode_td_scdma_only_summary">Modalità di rete preferita: solo TD-SCDMA</string>
@@ -587,7 +587,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Modalità di rete preferita: TD-SCDMA/GSM/WCDMA</string>
     <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Modalità di rete preferita: TD-SCDMA/WCDMA/LTE</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Modalità di rete preferita: TD-SCDMA/GSM/WCDMA/LTE</string>
-    <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_summary">MOdalità rete preferita: TD-SCDMA/GSM/WCDMA/CDMA/EvDo</string>
+    <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_summary">Modalità rete preferita: TD-SCDMA/GSM/WCDMA/CDMA/EvDo</string>
     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
     <string name="enhanced_4g_lte_mode_title">Modalità 4G LTE avanzata</string>
     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (raccomandato)</string>
@@ -598,7 +598,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="roaming_disable">Non connettere ai servizi dati quando sei in roaming</string>
     <string name="roaming_reenable_message">Hai perso la connessione perchè non sei più connesso alla rete del tuo operatore e la connessione dati in roaming è disattivata.</string>
     <string name="roaming_warning">Consentire il roaming dati? Il tuo piano potrebbe non includere il traffico in roaming.</string>
-    <string name="roaming_alert_title">Allow data roaming?</string>
+    <string name="roaming_alert_title">Consentire il roaming dati?</string>
     <string name="ussd_dialog_sep">----------</string>
     <string name="gsm_umts_options">Opzioni GSM/UMTS</string>
     <string name="cdma_options">Opzioni CDMA</string>
@@ -620,12 +620,12 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="throttle_time_frame">Periodo uso dati</string>
     <string name="throttle_rate">Politica volume dati</string>
     <string name="throttle_help">Maggiori informazioni</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d٪) of %3$s periodo massimo
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) su %3$s periodo massimo
 Il prossimo periodo inizia tra %4$d giorni (%5$s)"</string>
-    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s periodo massimo</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) su %3$s periodo massimo</string>
     <string name="throttle_data_rate_reduced_subtext">"%1$s massimo superato
 Velocità ridotta a %2$d Kb/s"</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ of ciclo trascorso
+    <string name="throttle_time_frame_subtext">"%1$d٪ su ciclo trascorso
 Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="throttle_rate_subtext">Velocità ridotta a %1$d Kb/s se superi il limite massimo</string>
     <string name="throttle_help_subtext">Per ulteriori informazioni sui dati della rete mobile verifica le policy del tuo operatore</string>
@@ -795,7 +795,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="pin2_attempts">"
 Sono rimasti %d tentativo(i)."</string>
     <string name="pin2_unblocked">PIN2 Sbloccato.</string>
-    <string name="pin2_error_exception">Network or SIM card error</string>
+    <string name="pin2_error_exception">Errore SIM o Rete</string>
     <string name="doneButton">Fatto</string>
     <string name="fake_phone_activity_phoneNumber_text">+39 333 1234567</string>
     <string name="fake_phone_activity_infoText_text">Numero chiamante</string>
@@ -1375,7 +1375,7 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="enhanced_4g_lte_mode_on_failed">Impossibile attivare VoLTE."</string>
     <string name="enhanced_4g_lte_mode_off_failed">Impossibile disattivare VoLTE."</string>
     <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete che utilizza VoLTE. Attiva ora la tua connessione dati.</string>
-    <string name="volte_switch_title">VoLTE attivato</string>
+    <string name="volte_switch_title">VoLTE</string>
     <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
     <string name="roaming_notification_title">Sembra che il roaming è attivo</string>
     <string name="roaming_notification_content">È possibile aggiungere automaticamente i codici di paese per rendere la composizione più conveniente.</string>
