@@ -6,7 +6,6 @@
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_none">Nessuna</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
@@ -817,7 +816,10 @@ Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare i
     <string name="wifi_wps_available_first_item">WPS disponibile</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibile)"</string>
     <string name="wifi_wps_nfc_enter_password">Inserisci la tua password di rete</string>
-    <string name="wifi_scan_always_turnon_message">"Per migliorare la precisione della posizione e per altri scopi, %1$s chiede di attivare la ricerca della rete, anche quando il Wi-Fi è disattivato.
+	<string name="wifi_secured_first_item">Sicurezza con %1$s</string>
+	<string name="wifi_security_none">Nessuno</string>
+	<string name="wifi_secured_second_item">, sicurezza con %1$s</string>
+	<string name="wifi_scan_always_turnon_message">"Per migliorare la precisione della posizione e per altri scopi, %1$s chiede di attivare la ricerca della rete, anche quando il Wi-Fi è disattivato.
 
 Consentirlo a tutte le app che vogliono eseguire la ricerca?"</string>
     <string name="wifi_scan_always_turnoff_message">Per disattivare, vai su Avanzate nel menu in alto.</string>

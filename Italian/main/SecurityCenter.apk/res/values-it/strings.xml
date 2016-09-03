@@ -697,7 +697,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="app_check_reason_wakeup_alarm">Schermata di blocco attivata frequentemente</string>
     <string name="app_check_optimize_title">Ottimizza le attività di background</string>
     <string name="power_save_mode_enable">Risparmio batteria</string>
-    <string name="power_save_mode_summary" formatted="false">Monitora i processi in background, disattiva le sincronizzazioni e nascondi le animazioni di sistema. Il Risparmio dati può essere disattivato automaticamente quando la batteria è tra il 60% o 100% di carica.</string>
+    <string name="power_save_mode_summary" formatted="false">Monitora i processi in background, disattiva le sincronizzazioni e nascondi le animazioni di sistema. Il Risparmio dati sarà disattivato automaticamente quando la batteria è tra il 60% o 100% di carica.</string>
     <string name="power_optimize_save_mode_not_opened">Risparmio batteria disattivo</string>
     <string name="notification_exit_power_save_mode">Disattiva il Risparmio batteria</string>
     <string name="notification_exit_power_save_mode_subtitle">Batteria ha %s di carica.</string>
@@ -1180,7 +1180,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_private_space_title">Spazio Secondario</string>
     <string name="card_main_private_space_summary">Utilizzando lo spazio Secondario sarà come avere 2 dispositivi</string>
     <string name="card_main_private_space_action">Crea</string>
-    <string name="card_main_xspace_title">Dual app</string>
+    <string name="card_main_xspace_title">Clona applicazioni</string>
     <string name="card_main_xspace_summary">Crea un doppio acocunt per le applicazioni</string>
     <string name="card_main_xspace_action">Crea</string>
     <string name="system_info_remind">"Aggiungi il blocco per prevenire l'accesso non autorizzato alle tue app"</string>

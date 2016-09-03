@@ -15,8 +15,8 @@
     <string name="incorrect_pukcode">Codice PUK errato</string>
     <string name="incorrect_pincode">Codice PIN errato</string>
     <string name="open_wifi_settings">Apri connessione di rete</string>
-    <string name="lock_screen_date">EEE, dd MMMM</string>
-    <string name="lock_screen_date_12">EEE, dd MMMM</string>
+    <string name="lock_screen_date">EEEE, dd MMMM</string>
+    <string name="lock_screen_date_12">EEEE, dd MMMM</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_checking_password">Verifica in corso…</string>
     <string name="login_website_in_case_forget_password">Per resettare la tua password, va su i.xiaomi.com.</string>
