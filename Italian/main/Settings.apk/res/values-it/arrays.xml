@@ -566,9 +566,22 @@
         <item>WAPI ASCII</item>
         <item>WAPI esadecimale</item>
     </string-array>
-    <string-array name="screen_key_press_action">
+	<string-array name="screen_key_position_action">
         <item>Tasto Menu a sinistra, tasto Indietro a destra</item>
         <item>Tasto Indietro a sinistra, tasto Menu a destra</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Mostra applicazioni recenti</item>
+        <item>Mostra menu</item>
+    </string-array>
+	    <string-array name="screen_key_long_press_action">
+        <item>Nessuno</item>
+        <item>Mostra applicazioni recenti</item>
+        <item>Apri Assistente touch</item>
+        <item>Apri Google now</item>
+        <item>Chiudi applicazioni recenti</item>
+        <item>Apri la ricerca veloce</item>
+        <item>Mostra menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondi</item>
