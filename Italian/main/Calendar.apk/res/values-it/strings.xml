@@ -289,7 +289,7 @@
     <string name="preferences_title">Calendario</string>
     <string name="menu_reminder_preferences">Promemoria</string>
     <string name="account_and_calendar">Account e calendario</string>
-    <string name="account_and_calendar_to_display">Account e calendario da visualizzare</string>
+    <string name="account_and_calendar_to_display">Account e Visibilità calendari</string>
     <string name="default_reminder_mode">Modalità avviso predefinita</string>
     <string name="time_zone">Fuso orario</string>
     <string name="event_all_day_label">Tutto il giorno</string>
@@ -378,7 +378,7 @@
     <string name="preferences_category_general_title">Generale</string>
     <string name="preferences_category_account_title">Account</string>
     <string name="setting_holiday_display_title">Mostra vacanze</string>
-    <string name="setting_holiday_display_desc">Schede vacanze posizionate nella homapge del calendario</string>
+    <string name="setting_holiday_display_desc">Schede vacanze posizionate nella homepage del calendario</string>
     <string name="setting_holiday_reminder">Promemoria vacanze</string>
     <string name="setting_others">Aggiuntive</string>
     <string name="setting_homepage">Visualizzazione homepage</string>
