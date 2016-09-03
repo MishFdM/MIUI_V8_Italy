@@ -673,8 +673,8 @@
     <string name="operation_disable_auto_upload">Disattiva sincronizzazione con with Mi Cloud</string>
     <string name="operation_remove_from_other_albums">Rimuovi da Altri album</string>
     <string name="operation_move_to_other_albums">Sposta in Altri album</string>
-    <string name="operation_show_in_photos_tab">Mostra in home</string>
-    <string name="operation_not_show_in_photos_tab">Non visualizzato nella scheda foto</string>
+    <string name="operation_show_in_photos_tab">Mostra in Foto</string>
+    <string name="operation_not_show_in_photos_tab">Non visualizzare in Foto</string>
     <string name="operation_enter_delete_local">Elimina i backup di foto e video dal dispositivo</string>
     <string name="auto_upload_enable_toast_long_press_menu">"Backup automatico attivato, vai alla pagina dell'album per vedere"</string>
     <string name="auto_upload_disable_toast_long_press_menu">Backup automatico disattivato，aggiunto ad un altro album</string>
