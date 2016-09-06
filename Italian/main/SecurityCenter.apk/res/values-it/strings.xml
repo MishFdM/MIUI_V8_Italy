@@ -1181,7 +1181,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_private_space_summary">Utilizzando lo spazio Secondario sarà come avere 2 dispositivi</string>
     <string name="card_main_private_space_action">Crea</string>
     <string name="card_main_xspace_title">Clona applicazioni</string>
-    <string name="card_main_xspace_summary">Crea un doppio acocunt per le applicazioni</string>
+    <string name="card_main_xspace_summary">Crea un doppio account per le applicazioni</string>
     <string name="card_main_xspace_action">Crea</string>
     <string name="system_info_remind">"Aggiungi il blocco per prevenire l'accesso non autorizzato alle tue app"</string>
     <string name="Setting_lock">Impostazioni</string>

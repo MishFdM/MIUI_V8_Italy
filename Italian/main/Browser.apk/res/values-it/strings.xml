@@ -450,7 +450,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="download_no_sdcard_dlg_title">Archivio USB non dispon.</string>
     <string name="download_no_sdcard_dlg_msg">Per scaricare %s è necessario un archivio USB.</string>
     <string name="download_default_path_txt">Ricorda la mia scelta</string>
-    <string name="download_dialog_file_length_hint_txt">Dimensione:</string>
+    <string name="download_dialog_file_length_hint_txt">Dimens.:</string>
     <string name="download_dialog_file_length_nolength_txt">In download…</string>
     <string name="download_dialog_file_length_nolength_error_txt">Impossibile scaricare</string>
     <string name="download_dialog_file_length_lessthan1kb">Meno di 1K</string>
