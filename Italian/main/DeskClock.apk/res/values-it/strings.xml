@@ -65,7 +65,7 @@
     <string name="system_time_setting">Impostazioni</string>
     <string name="lap_num">Giro</string>
     <string name="hour_unit">H</string>
-    <string name="alarm_label_hint">Inserisci etichetta sveglia</string>
+    <string name="alarm_label_hint">Etichetta sveglia</string>
     <string name="legal_workday">Giorni feriali (Lun/Ven)</string>
     <string name="legal_workday_invalidate">Data scaduta (Attualmente la sveglia suona dal Lun. al Ven.)</string>
     <string name="legal_workday_invalidate_message">(Data scaduta, aggiorna in Impostazioni)</string>

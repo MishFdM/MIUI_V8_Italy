@@ -44,7 +44,7 @@ Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di uti
     <string name="agree_terms">Ho letto e accetto i Termini e le Condizioni</string>
     <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i termini del servizio su %s</string>
     <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'informativa sulla privacy su %s"</string>
-    <string name="locale_picker_title">Scegli la lingua</string>
+    <string name="locale_picker_title">Scegli il paese</string>
     <string name="install_preinstall_app">Caricamento applicazioni…</string>
     <string name="title_fingerprint">Aggiungi la tua impronta digitale</string>
     <string name="desc_fingerprint">Utilizza le tue impronte digitali per sbloccare il dispositivo, verificare le transazioni Mi Pay o per accedere ad app e servizi.</string>
