@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Drop</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Impostazioni</string>
     <string name="Start">Avvia</string>
     <string name="Stop">Interrompi</string>
