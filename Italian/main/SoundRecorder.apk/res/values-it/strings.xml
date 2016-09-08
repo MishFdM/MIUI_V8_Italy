@@ -135,4 +135,8 @@
     <string name="recognition_error_downloading">Download in corso</string>
     <string name="recognition_status_downloading">Download in corso</string>
     <string name="runtime_permission_ungranted">Impossibile utilizzare il Registratore per mancanza di autorizzazioni</string>
+    <string name="btn_clear_records">Elimina registrazioni(%d elemento/i)</string>
+    <string name="alert_message_clear_records">Eliminare le registrazioni selezionate?</string>
+    <string name="clear_records">Elimina le registrazioni sincronizzate</string>
+    <string name="choose_call_records_count">%d elemento/i</string>
 </resources>

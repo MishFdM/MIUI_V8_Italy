@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MiPlay</string>
+    <string name="noti_projection_status_title">Display Wireless Mi Play</string>
+    <string name="noti_projection_status_desc_on">Schermo remoto attivato</string>
     <string name="prjection_title">Display wireless</string>
     <string name="search_for_devices">Aggiorna</string>
-    <string name="media_feature_projection">Schermo specchio</string>
+    <string name="media_feature_projection">Schermo remoto</string>
     <string name="media_status_error">Errore</string>
     <string name="media_status_starting">Connessione…</string>
     <string name="media_status_started">Connesso</string>

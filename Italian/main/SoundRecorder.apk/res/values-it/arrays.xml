@@ -8,10 +8,16 @@
         <item>Musica</item>
         <item>Voce</item>
     </string-array>
-    <string-array name="x5_record_scenes_entries">
+    <string-array name="interview_record_scenes_entries">
         <item>Musica</item>
         <item>Voce</item>
         <item>Intervista</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Registra su 2 canali, ascolta in stereo con le cuffie</item>
+        <item>Sposta il microfono più vicino alla fonte del suono per una migliore qualità</item>
+        <item>Posiziona il telefono tra due persone per registrare bene</item>
+        <item>La distanza massima del microfono è di 10 metri</item>
     </string-array>
     <string-array name="record_quality_entries">
         <item>"Alta "</item>

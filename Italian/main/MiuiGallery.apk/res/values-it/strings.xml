@@ -632,6 +632,7 @@
     <string name="release_space_finish_format">Liberati %s di spazio</string>
     <string name="return_from_clear_local_file_fragment_toast">Le foto ottimizzate sono archiviate sul dispositivo. Tocca una foto per scaricare il file originale da Mi Cloud.</string>
     <string name="app_name_view_picture">Mostra immagine</string>
+    <string name="app_name_view_video">Mostra video</string>
     <string name="video_err">Impossibile riprodurre il video.</string>
     <string name="exit_video_play">Esci</string>
     <string name="picker_title_selection_format">%d selezionati</string>
@@ -740,6 +741,7 @@
     <string name="download_canceled">Download annullato</string>
     <string name="set_as_wallpaper_title">Imposta comesfondo</string>
     <string name="set_as_wallpaper_description">"Questa immagine è un'anteprima, vuoi scaricare l'originale?"</string>
+    <string name="loading_dual_tip">Caricamento dual foto...</string>
     <string name="must_pick_file">"Seleziona un'immagine"</string>
     <string name="send_multiple_files_hint_format">Invia file (%s)</string>
     <string name="send_too_many_files_error">Impossibile inviare tutti gli elementi (massimo %d elementi).</string>

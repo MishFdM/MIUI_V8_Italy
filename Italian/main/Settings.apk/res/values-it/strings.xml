@@ -3532,6 +3532,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="sound_vibrate_settings">Suoni e vibrazione</string>
     <string name="device_miui_version">Versione MIUI</string>
     <string name="device_cpu">CPU</string>
+    <string name="hardware_version">Hardware</string>
     <string name="device_memory">RAM</string>
     <string name="device_internal_memory">Memoria interna</string>
     <string name="device_sd_memory">Scheda SD</string>
@@ -3639,7 +3640,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="back_key">Indietro</string>
     <string name="screen_key_long_press_timeout">Definisci la durata della pressione lunga</string>
     <string name="under_keyguard">Schermata di blocco</string>
-	<string name="long_press_volume_down">Tieni premuto il tasto volume basso</string>
+    <string name="long_press_volume_down">Tieni premuto il tasto volume basso</string>
     <string name="enable_snapshot_screenlock">Tieni premuto Indietro per scattare una foto</string>
     <string name="disable_power_key_long_press_under_keyguard">Disattiva menu pulsante accensione</string>
     <string name="trackball_wake_title">Attivazione con trackball</string>
@@ -4156,6 +4157,11 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="se_route_uicc">Elemento di sicurezza sulla scheda SIM</string>
     <string name="current_use_uicc_se">Usando elemento di sicurezza sulla scheda SIM</string>
     <string name="current_use_ese">Usando elemento di sicurezza incorporato</string>
+    <string name="nfc_se_wallet_title">Wallet Predefinito</string>
+    <string name="se_wallet_ese">Mi Wallet consente di utilizzare il tuo telefono come una carta di credito grazie a Mi Pay.</string>
+    <string name="se_wallet_hce">Utilizza HCE Wallet</string>
+    <string name="current_use_hce_wallet">Stai utilizzando HCE Wallet"</string>
+    <string name="current_use_ese_wallet">Stai utilizzando Mi Wallet. Ti consente di utilizzare il tuo telefono come una carta di credito.</string>
     <string name="open_wifi_connect_title">Connettiti alla rete aperta %1$s</string>
     <string name="open_wifi_connect_summary">Tocca per gestire</string>
     <string name="free_wifi_summary">Wi-Fi libero, offerto in parte da %1$s</string>

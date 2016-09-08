@@ -19,6 +19,10 @@ Leggi questo documento per la tastiera: "</string>
     <string name="other_settings_user_experience">Programma Esperienza Utente</string>
     <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
     <string name="other_settings_user_experience_summary1">(Vedi privacy)</string>
+    <string name="other_settings_upload_debug_log_title">Invia automaticamente i dati per la diagnosi</string>
+    <string name="other_settings_upload_debug_log_summary">"I dati per la diagnosi possono includere informazioni sull'utilizzo dell'hardware, sistema e app. I dati verranno utilizzati per individuare e analizzare i problemi nel sistema, non verranno mai utilizzati per rilevare la tua identità."</string>
+    <string name="other_settings_auto_update">Aggiorna automaticamente</string>
+    <string name="other_settings_auto_update_summary">"MIUI sceglierà il tempo di attesa per scaricare ed installare gli aggiornamenti."</string>
     <string name="back">Indietro</string>
     <string name="next">Avanti</string>
     <string name="skip_underline"><u>Salta questo passaggio</u></string>

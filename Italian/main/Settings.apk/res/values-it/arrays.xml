@@ -141,6 +141,12 @@
         <item>Conteggio avvii</item>
         <item>Nome applicazione</item>
     </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Nessuno</item>
         <item>MSCHAPV2</item>
@@ -168,10 +174,28 @@
         <item>CHAP</item>
         <item>PAP o CHAP</item>
     </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
     <string-array name="bearer_entries">
-        <item>LTE</item>
-        <item>eHRPD</item>
         <item>Non specificato</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Nessuno</item>
@@ -342,6 +366,11 @@
         <item>1 M</item>
         <item>4 M</item>
         <item>16 M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64 K</item>
+        <item>256 K</item>
+        <item>1 M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>64 K per buffer log</item>
@@ -566,7 +595,7 @@
         <item>WAPI ASCII</item>
         <item>WAPI esadecimale</item>
     </string-array>
-	<string-array name="screen_key_position_action">
+    <string-array name="screen_key_position_action">
         <item>Tasto Menu a sinistra, tasto Indietro a destra</item>
         <item>Tasto Indietro a sinistra, tasto Menu a destra</item>
     </string-array>
@@ -574,7 +603,7 @@
         <item>Mostra applicazioni recenti</item>
         <item>Mostra menu</item>
     </string-array>
-	    <string-array name="screen_key_long_press_action">
+    <string-array name="screen_key_long_press_action">
         <item>Nessuno</item>
         <item>Mostra applicazioni recenti</item>
         <item>Apri Assistente touch</item>

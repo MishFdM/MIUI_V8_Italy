@@ -231,6 +231,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="state_waiting">Solo un attimo…</string>
     <string name="state_mounting">Accesso alla memoria del router…</string>
     <string name="abort_backup_confirm">Backup non completato. Interrompere comunque?</string>
+    <string name="abort_restore_confirm">Il ripristino non è ancora completo. Interrompere lo stesso?</string>
     <string name="feature_title_call_log">Registro chiamate</string>
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_account">Account</string>
