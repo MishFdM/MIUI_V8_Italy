@@ -3167,6 +3167,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="dndm_alarm_content_not_all">Blocca tutto</string>
     <string name="quiet_off_mode">Consenti sempre tutti gli avvisi</string>
     <string name="quiet_no_mode">Silenzia tutti i disturbi</string>
+	<string name="quiet_mode">Silenzia tutti i disturbi</string>
     <string name="quiet_important_interruptions_mode">Consenti solo le eccezioni</string>
     <string name="quiet">Non disturbare</string>
     <string name="quiet_group">Non disturbare</string>

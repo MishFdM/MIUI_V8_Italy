@@ -511,6 +511,6 @@
     <string name="live">Live</string>
     <string name="replay">Riprova</string>
     <string name="error_empty_epg">Nessuna informazione EPG</string>
-	<string name="hot_spot_offline">offline</string>
-    <string name="hot_spot_history">history</string>
+	<string name="hot_spot_offline">Offline</string>
+    <string name="hot_spot_history">Cronologia</string>
 </resources>
