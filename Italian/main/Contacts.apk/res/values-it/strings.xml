@@ -1240,7 +1240,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="voip_video_description">Tocca per effettuate una video chiamata VoIP</string>
     <string name="menu_newContactButton">Aggiungi</string>
     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
-    <string name="dialer_digits_copy_number_label">NUmero copiato</string>
+    <string name="dialer_digits_copy_number_label">Numero copiato</string>
     <string name="dialer_copy_view_delete_description">Cancella numero copiato</string>
     <string name="contact_detail_action_item_calllog">Registro chiamate</string>
     <string name="contact_detail_action_item_nocalllog">Nessuna chiamata</string>

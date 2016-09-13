@@ -326,7 +326,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="express_company_pricing_details">Dettaglio prezzi</string>
     <string name="express_company_list_empty">Nessuna società</string>
     <string name="express_send_notice">Informazioni file proibiti</string>
-    <string name="express_banner_header">%1$s / NUmero di tracciamento</string>
+    <string name="express_banner_header">%1$s / Numero di tracciamento</string>
     <string name="express_tracking_number">Numero spedizione</string>
     <string name="express_order_state">%1$s / %2$s</string>
     <string name="express_track_order">Traccia</string>
@@ -335,7 +335,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="express_copy_number">Copia</string>
     <string name="express_send_mms">Invia</string>
     <string name="express_send_mms_format">Ti è stato inviato un pacco da %1$s, il numero di tracciamento è %2$s.</string>
-    <string name="express_copied">NUmero di tracciamento copiato</string>
+    <string name="express_copied">Numero di tracciamento copiato</string>
     <string name="more_express_numbers">Altri corrieri</string>
     <string name="add_to_desktop">Aggiungi alla home</string>
     <string name="express_shortcut_name">Ricerca o spedizione espressa</string>
