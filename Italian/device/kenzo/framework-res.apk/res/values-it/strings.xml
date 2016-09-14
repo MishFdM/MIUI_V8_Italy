@@ -1280,7 +1280,7 @@ per l'account %s."</string>
     <string name="car_mode_disable_notification_message">Tocca per uscire dalla modalità automobile.</string>
     <string name="tethered_notification_title">Tethering o hotspot attivo</string>
     <string name="tethered_notification_message">Tocca per configurare.</string>
-    <string name="tethered_notification_no_device_message">Nessun dispoisitivo connesso</string>
+    <string name="tethered_notification_no_device_message">Nessun dispositivo connesso</string>
     <string name="tethered_notification_one_device_message">%1$s dispositivo connesso</string>
     <string name="tethered_notification_multi_device_message">%1$s dispositivi connessi</string>
     <string name="back_button_label">Indietro</string>
