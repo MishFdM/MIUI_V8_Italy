@@ -115,4 +115,16 @@
     <string name="delete_frequent_phrases">Elimina frasi comuni</string>
     <string name="delete_frequent_phrases_confirm">Eliminare le frasi comuni selezionate?</string>
     <string name="frequent_phrases_size_exceeded">Puoi aggiungere massimo 10 frasi. Elimina quelle meno utilizzate per aggiungerne di nuove</string>
+    <string name="lollipop">Lollipop</string>
+    <string name="glockenspiel">Glockenspiel</string>
+    <string name="carousel">Carousel</string>
+    <string name="toyrobot">ToyRobot</string>
+    <string name="daydream">Daydream</string>
+    <string name="cta_permission_delimiter">, </string>
+    <string name="cta_permission_and"> e </string>
+    <string name="cta_title">Termini di Utilizzo</string>
+    <string name="cta_message_license">"Utilizzando questo prodotto, accetti i Termini del Servizio e l'Informativa sulla Privacy."</string>
+    <string name="cta_message_permission">QUesta app necessita di %2$s per funzionare correettamente.</string>
+    <string name="cta_check_reminder">Non mostrare più</string>
+    <string name="cta_button_quit">Esci</string>
 </resources>

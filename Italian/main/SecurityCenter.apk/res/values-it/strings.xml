@@ -776,6 +776,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="menu_text_antispam">Blacklist</string>
     <string name="menu_text_license_manager">Permessi</string>
     <string name="menu_text_garbage_cleanup">Pulizia</string>
+    <string name="menu_text_garbage_cleanup_danger">%s oltre</string>
     <string name="menu_text_power_manager">Gestione alimentazione</string>
     <string name="menu_text_power_percent">%s batteria</string>
     <string name="menu_text_power_percent_title">Batteria %s</string>
@@ -1107,6 +1108,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="title_consume_power_rank">Utilizzo batteria</string>
     <string name="title_payment_risk">Rilevato un rischio per il pagamento</string>
     <string name="summary_payment_risk">"Sembra che l'ambiente di pagamento non sia sicuro"</string>
+    <string name="title_garbage_clean">La dimensione della cache delle app è di %s</string>
+    <string name="summary_garbage_clean">Pulisci la cache per liberare spazio</string>
     <string name="title_consume_power">Rilevato un problema con la batteria</string>
     <string name="summary_consume_power">"Rilevato un problema di surriscaldamento, questo può influire sull'autonomia"</string>
     <string name="pref_category_title_lock_screen_memory_clean">Ottimizzazione in standby</string>

@@ -184,4 +184,13 @@
     <string name="document_color_picture_tip">Conversione a colori…</string>
     <string name="document_save_succeed_tip">Documento salvato in %1$s</string>
     <string name="document_recognize_fail_tip">Impossibile riconoscere il documento</string>
+    <string name="recognition_error_download_title">"E' necessario il motore di riconoscimento"</string>
+    <string name="recognition_error_download_msg">Scarica il motoredi riconoscimento perscansionare le schede. La sua dimensione è di circa 15MB.</string>
+    <string name="recognition_error_download_ok">Scarica</string>
+    <string name="recognition_error_download_cancel">Più tardi</string>
+    <string name="recognition_error_download_no_network">Impossibile scaricare. Accertati di essere collegato alla rete.</string>
+    <string name="recognition_error_downloading">Download del motore di riconoscimento…</string>
+    <string name="recognition_error_download_data_msg">Scarica il motore di riconoscimento per scansionare le schede. La sua dimensione è di circa 15MB. Vuoi utilizzare la rete dati mobile per scaricarlo?</string>
+    <string name="recognition_error_download_success">Scaricato correttamente</string>
+    <string name="recognition_error_download_fail">Impossibile scaricare il motore di riconoscimento</string>
 </resources>

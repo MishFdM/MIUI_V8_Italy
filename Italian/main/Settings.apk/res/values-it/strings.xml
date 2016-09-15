@@ -128,6 +128,7 @@
     <string name="music_dirac_mode_piston_color">Color Edition</string>
     <string name="music_dirac_mode_headset">Cuffie Mi</string>
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
@@ -189,6 +190,12 @@
     <string name="status_bar_style_list">Singola pagina</string>
     <string name="status_bar_style_page">Doppia pagina</string>
     <string name="status_bar_settings_style">Stile barra di stato</string>
+    <string name="close_gesture">Chiudi gesture</string>
+    <string name="got_it">OK</string>
+    <string name="hide_screen_button">Nascondi i tasti virtuali</string>
+    <string name="hide">Nascondi</string>
+    <string name="screen_button_tips">Non nascondere i tasti</string>
+    <string name="screen_button">Tasti virtuali</string>
     <string name="additional_system_update"/>
     <string name="additional_system_update_menu"/>
     <string name="input_method_selector_show_automatically_value">0</string>
@@ -3167,7 +3174,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="dndm_alarm_content_not_all">Blocca tutto</string>
     <string name="quiet_off_mode">Consenti sempre tutti gli avvisi</string>
     <string name="quiet_no_mode">Silenzia tutti i disturbi</string>
-	<string name="quiet_mode">Silenzia tutti i disturbi</string>
+    <string name="quiet_mode">Silenzia tutti i disturbi</string>
     <string name="quiet_important_interruptions_mode">Consenti solo le eccezioni</string>
     <string name="quiet">Non disturbare</string>
     <string name="quiet_group">Non disturbare</string>
@@ -3547,6 +3554,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="max_cpu8_info">"Octa-core a "</string>
     <string name="device_cpu10_info">Deca-core</string>
     <string name="max_cpu10_info">"Deca-core Max "</string>
+    <string name="instruction_title">Instructions</string>
     <string name="available_size">%s disponibile</string>
     <string name="total_size">%s totale</string>
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
@@ -3647,6 +3655,8 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="trackball_wake_title">Attivazione con trackball</string>
     <string name="pref_volume_wake_title">Risveglia con i tasti del volume</string>
     <string name="pref_volume_wake_summary">Premendo i tasti del volume il dispositivo viene risvegliato</string>
+    <string name="pref_volume_launch_camera_title">Fotocamera rapida</string>
+    <string name="pref_volume_launch_camera_summary">Premi due volte il volume verso il basso per lanciare la fotocamera</string>
     <string name="media_button">Tasto media</string>
     <string name="preferred_media_app_summary">Scegli lettore musicale</string>
     <string name="no_media_button_receiver">No</string>
@@ -3690,6 +3700,8 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="timezone_settings">Fuso orario</string>
     <string name="security_privacy_settings_title">Privacy</string>
     <string name="nearby_wifi">Reti disponibili</string>
+    <string name="delete_saved_network">Elimina la rete salvata</string>
+    <string name="batch_delete_saved_network">Eliminare la rete salvata: %s?</string>
     <string name="unlock_set_enter_system">Salta Schermata di blocco</string>
     <string name="unlock_set_enter_system_summary">Vai direttamente alla Schermata Home dopo lo sblocco</string>
     <string name="forget_wifi_message">Il tuo dispositivo non si connetterà più a questa rete automaticamente.</string>
@@ -3975,6 +3987,9 @@ ed esegui il software."</string>
     <string name="screen_color_and_optimize_disabled">Impossibile regolare la temperatura del colore in Modalità Lettura</string>
     <string name="screen_paper_mode_title">Modalità Lettura</string>
     <string name="screen_paper_mode_summary">Riduce la luminosità di fondo</string>
+    <string name="screen_paper_mode_time_title">Programmato</string>
+    <string name="paper_mode_start_time_title">Inizio</string>
+    <string name="paper_mode_end_time_title">Fine</string>
     <string name="screen_paper_mode_turn_on">Attivata</string>
     <string name="screen_paper_mode_turn_off">Disattivata</string>
     <string name="screen_paper_mode_apps_title">Utilizza la modalità Lettura per queste applicazioni</string>
@@ -4070,6 +4085,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wifi_signal_found_msg">"Punto d'accesso Wi-Fi disponibile, vuoi connetterti ora?"</string>
     <string name="miui_data_usage_menu_metered">Hotspot Dati cellulare</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
+    <string name="saved_wifi">Rete salvata</string>
+    <string name="saved_wifi_delete">Elimina</string>
     <string name="wifi_enable_data_and_wifi_roam">Roaming Dati e Wi-Fi</string>
     <string name="wifi_enable_data_and_wifi_roam_summary">Passa alla connessione dati quando la connessione dati e il Wi-Fi provano a collegarsi e il Wi-Fi non può accedere a internet.</string>
     <string name="nfc_category_title">NFC</string>
@@ -4230,6 +4247,12 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="need_reboot_now">"Devi riavviare per completare l'aggiornamento, aggiorna adesso"</string>
     <string name="welcome">Benvenuto</string>
     <string name="resolver_settings_label">Ordina</string>
+    <string name="status_bar_screen_button_key_can_hide">I tasti virtuali possono essere nascosti</string>
+    <string name="status_bar_screen_button_desc">Scorri per nascondere i tasti virtuali</string>
+    <string name="switch_screen_button_order">"Modifica l'ordine dei tasti virtuali"</string>
+    <string name="switch_screen_button_order_desc">"Dopo l'apertura , scorri verso il basso per nascondere il tasto virtuale"</string>
+    <string name="suspension_ball_enable">"Cambia l'assistente touch"</string>
+    <string name="suspension_ball_enable_desc">"Dopo l'attivazione, puoi aprire rapidamente l'assitente touch"</string>
     <string name="launching_pho">Caricamento informazioni dispositivo, attendere\u2026</string>
     <string name="launching_cit">Avvio Rilevamento Hardware, attendere\u2026</string>
     <string name="launching_rep">Segnalazione bug in corso, attendere\u2026</string>
@@ -4317,7 +4340,6 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="alpha_build">" | Alpha"</string>
     <string name="developer_build">" | Sviluppatore"</string>
     <string name="stable_build">" | Stabile"</string>
-    <string name="smartcover_sensitive_title">Modalità Smartcover</string>
     <string name="location_agps_params_settings_title">Impostazioni A-GPS</string>
     <string name="location_agps_supl_settings">Impostazioni SUPL</string>
     <string name="location_agps_supl_server_addr">Indirizzo server</string>
@@ -4406,6 +4428,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="page_layout_page2_large_summary">Grande</string>
     <string name="page_layout_page2_huge_summary">Molto grande</string>
     <string name="page_layout_page2_godzilla_summary">XXL</string>
+    <string name="smartcover_sensitive_title">Smart cover</string>
     <string name="oldman_mode_summary_cta">La Modalità Semplificata deve collegarsi ad internet ed accedere ai tuoi contatti, messaggi e posizione per funzionare correttamente.</string>
     <string name="page_layout_32">Play Store</string>
     <string name="page_layout_33">Google</string>
@@ -4452,10 +4475,6 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="lock_screen_secure_after_timeout_summary">Richiedi password dopo %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Richiedi password subito</string>
     <string name="theme_settings_title">Temi</string>
-    <string name="choose_smartcover_type">Scegli il tipo di cover</string>
-    <string name="normal_smartcover_title">Cover frontale oscurata</string>
-    <string name="smallwindow_smartcover_title">Cover frontale trasparente</string>
-    <string name="lattice_smartcover_title">Cover frontale in lattice</string>
     <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
     <string name="children_mode_title">Modalità Genitore</string>
     <string name="children_mode_tips_on">Dopo aver disattivato la Modalità Genitore, tocca il tasto Home per tornare alla Home</string>
@@ -4492,6 +4511,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="crypt_keeper_content">Puoi criptare account, impostazioni, app scaricate e relativi dati, file multimediali e altri file.</string>
     <string name="crypt_keeper_decrypt_methods_title">Decriptazione del tuo dispositivo</string>
     <string name="crypt_keeper_decrypt_methods">"Dopo aver criptato il tuo dispositivo e impostato il Blocco schermo (cioè una sequenza, un PIN o una password), dovrai sbloccare lo schermo per decriptare il dispositivo ogni volta che lo accendi. L'unico altro modo per decriptarlo è eseguire un ripristino di fabbrica, eliminando così tutti i tuoi dati"</string>
+    <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se hai crittografato il telefono, devi inserire la password, PIN o sequenza di sblocco ad ogni ravvio per decrittografare."</string>
     <string name="crypt_keeper_conditions_title">Info sulla criptazione del tuo dispositivo</string>
     <string name="crypt_keeper_conditions">"La criptazione richiede un'ora o anche più. Inizia quando la batteria è carica e mantieni il dispositivo collegato alla corrente per tutta la durata dell'operazione. Se lo interrompi, perderai alcuni o anche tutti i tuoi dati."</string>
     <string name="application_lock_name">Blocco applicazioni</string>
@@ -4611,6 +4631,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="security_encryption_close_dialog_title">Ritorna alla protezione predefinita mediante password</string>
     <string name="security_encryption_close_dialog_info">Scegliendo di non criptare il dispositivo usando la password della schermata di blocco potrebbe rendere non utilizzabili alcuni dei servizi di Google.</string>
     <string name="security_encryption_diaglog_continue">Avanti</string>
+    <string name="security_encryption_progress_dialog_open">Crittografa…</string>
+    <string name="security_encryption_progress_dialog_close">Decrittografa…</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Tocca per modificare</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_skip">Salta</string>

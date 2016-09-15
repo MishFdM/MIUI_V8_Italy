@@ -540,7 +540,7 @@
         <item>Wi-Fi preferita</item>
         <item>Rete mobile preferita</item>
     </string-array>
-	<string-array name="haptic_feedback_level_texts">
+    <string-array name="haptic_feedback_level_texts">
         <item>Disattivata</item>
         <item>Leggera</item>
         <item>Media</item>
@@ -618,7 +618,7 @@
         <item>1.5 secondi</item>
         <item>2 secondi</item>
     </string-array>
-	<string-array name="long_press_volume_down_action">
+    <string-array name="long_press_volume_down_action">
         <item>Nessuno</item>
         <item>Street-snap(necessario selezionare la modalità fotocamera)</item>
         <item>Collegamenti ai trasporti pubblici</item>

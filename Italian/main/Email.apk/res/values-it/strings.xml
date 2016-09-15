@@ -122,6 +122,7 @@
     <string name="account_setup_options_mail_check_frequency_push">Automatic (Push)</string>
     <string name="account_setup_options_mail_window_1day">Ultimo giorno</string>
     <string name="account_setup_options_mail_window_1month">Ultimo mese</string>
+    <string name="account_setup_options_mail_window_1quarter">Ultimo trimestre</string>
     <string name="account_setup_options_mail_window_1week">Ultima settimana</string>
     <string name="account_setup_options_mail_window_2weeks">Ultime due settimane</string>
     <string name="account_setup_options_mail_window_3days">Ultimi tre giorni</string>
@@ -351,6 +352,7 @@
     <string name="download_whole_email">Scarica il resto dei contenuti</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Chiudi pannello di navigazione</string>
+    <string name="drawer_contacts">Contatti</string>
     <string name="drawer_open">Apri pannello di navigazione</string>
     <string name="eas_hotmail_email">hotmail.com</string>
     <string name="eas_outlook_email">outlook.com</string>
@@ -895,6 +897,14 @@
     <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite di %1$s.</string>
     <string name="too_large_to_attach_single">Impossibile allegare un file superiore a %1$s.</string>
     <string name="topic_merge">Unisci temi</string>
+    <string name="translation_loading">Caricamento…</string>
+    <string name="translation_no_result">Nessun risultato</string>
+    <string name="translation_pronunciation_am">ArE</string>
+    <string name="translation_pronunciation_cn">Pinyin</string>
+    <string name="translation_pronunciation_en">BrE</string>
+    <string name="translation_pronunciation_other">Macchina</string>
+    <string name="translation_query_failure">Ricerca fallita</string>
+    <string name="translation_technology_support">Supporto tecnico fornito da PowerWord</string>
     <string name="trash_folder_selection_title">Selez. cartella Cestino server per %s</string>
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>

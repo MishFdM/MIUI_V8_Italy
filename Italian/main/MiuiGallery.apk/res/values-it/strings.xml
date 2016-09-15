@@ -58,6 +58,8 @@
     <string name="video_editor_res_download_mobil_network_confirm_title">Utilizza rete dati cellulare</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Scaricare tramite rete dati cellulare?</string>
     <string name="video_editor_res_download_failed_tips">Impossibile scaricare, controlla le impostazioni di rete e riprova</string>
+    <string name="video_editor_loading_warning_title">Errore dicodifica</string>
+    <string name="video_editor_loading_warning_msg">A causa di un errore nella codifica, alcune funzioni ed anteprime potrebbero non essere disponibili durante il processo. In ogni caso questo non influenzerà il video finale.</string>
     <string name="limit_height">"L'altezza dovrebbe essere > 0"</string>
     <string name="limit_width">La larghezza dovrebbe essere > 0</string>
     <string name="__leak_canary_analysis_failed">Analisi perdita fallita</string>
@@ -1039,6 +1041,9 @@
     <string name="doodle_big_size">Grande</string>
     <string name="doodle_super_big_size">Enorme</string>
     <string name="doodle_mosaic">Mosaico</string>
+    <string name="image_not_found">"Impossibile trovare l'immagine"</string>
+    <string name="image_decode_failed">"Impossibile decodificare l'immagine"</string>
+    <string name="image_invalid_path">Percorso nonvalido</string>
     <string name="main_save_error_msg">Impossibile salvare le modifiche a causa di un errore</string>
     <string name="main_discard_confirm_message">Non hai salvato le modifiche</string>
     <string name="main_discard_positive_btn">Salva ed esci</string>

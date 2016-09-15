@@ -222,9 +222,8 @@
     <string name="button_text_select_pic">Seleziona</string>
     <string name="button_text_unselect_pic">Deseleziona</string>
     <string name="button_text_delete_pic">Rimuovi</string>
-    <string name="hint_clean_select_similar_image">Rimozione duplicati…</string>
+    <string name="hint_clean_select_items">Elimina duplicati…</string>
     <string name="dialog_title_delete_image">Rimuovi immagini selezionate</string>
-    <string name="dialog_content_delete_image_confirm">Rimuovere %d foto?</string>
     <string name="button_text_restore_ignore">Annulla</string>
     <string name="toast_selecte_group_restore_succeed">Immagini ripristinate</string>
     <string name="toast_must_select_before_restore">Scegli le immagini da ripristinare</string>
@@ -421,6 +420,8 @@
     <string name="function_app_lock_title">%d app contengono rischi per la privacy</string>
     <string name="app_install_tips_go_to">Avvia desso</string>
     <string name="app_install_tips_install_success">%1$s installato con successo</string>
+    <string name="deep_clean_uninstall_completed_tips">Disinstallato correttamente</string>
+    <string name="deep_clean_completed_tips">Pulito correttamente</string>
     <string name="deepclean_normal_item_summary_empty">Sembra tutto ok, niente da pulire</string>
     <string name="low_memory_clean_dialog_title">Spazio insufficiente in memoria</string>
     <string name="low_memory_clean_dialog_msg">Devi prima eliminare almeno %1$s file</string>
@@ -431,4 +432,13 @@
     <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
     <string name="deep_clean_normal_clean_progress_desc">%1$s file eliminati</string>
     <string name="deep_clean_data_path_clean_title">Memoria interna liberata</string>
+    <string name="btn_text_quick_cleanup_appdata">ELimina i dati selezionati %1$s</string>
+    <string name="btn_text_quick_cleanup_large_file">Elimina i file selezionati %1$s</string>
+    <string name="btn_text_quick_cleanup_video">ELimina i video selezionati %1$s</string>
+    <string name="btn_text_quick_cleanup_apk">Elimina gli APK %1$s</string>
+    <string name="deepclean_install_info_desc2">Elimina le applicazioni per liberare spazio</string>
+    <string name="ad_install_success_dialog_title">%1$s installazioni completate. Aprire adesso?</string>
+    <string name="ad_install_success_dialog_lunch">Apri</string>
+    <string name="deepclean_empty">Sembra tutto OK</string>
+    <string name="scanning">Scansione…</string>
 </resources>
