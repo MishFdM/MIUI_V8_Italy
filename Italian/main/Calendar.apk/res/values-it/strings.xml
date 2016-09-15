@@ -18,7 +18,7 @@
     <string name="delete_calendar">Elimina</string>
     <string name="adding_calendar">Iscrizioni</string>
     <string name="deleting_calendar">Annulla iscrizione</string>
-    <string name="delete_topic_dialog_title">Confermare la cancellazione di \"%s\"？</string>
+    <string name="delete_topic_dialog_title">Confermare la cancellazione di \"%s\"?</string>
     <string name="add_topic_success">订阅\"%s\"成功</string>
     <string name="delete_topic_success">退订\"%s\"成功</string>
     <string name="calendar_server_error">服务器错误</string>
@@ -113,10 +113,10 @@
     <string name="str_hour_of_everyday">每天%s</string>
     <string name="str_hour_of_next">下一次%s</string>
     <string name="str_everyday">Ogni giorno</string>
-    <string name="str_everymonth">每月%s</string>
+    <string name="str_everymonth">Ogni mese %s</string>
     <string name="str_dayofmonth">%s号</string>
     <string name="every_year_month_of_day">%1$s%2$s日</string>
-    <string name="str_everyyear">每年%s</string>
+    <string name="str_everyyear">Ogni anno %s</string>
     <string name="date_pattern_mm_dd_kk_mm">M月d日 HH:mm</string>
     <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
     <string name="str_from_mon_to_fri">Dal Lun al Ven</string>
@@ -187,10 +187,13 @@
     <string name="edit_event_show_all">Visualizza tutti</string>
     <string name="presence_label">Mostrami come</string>
     <string name="privacy_label">Privacy</string>
+    <string name="no_syncable_calendars">Nessun calendario</string>
+    <string name="no_calendars_found">"Prima di aggiungere un evento, devi prima configurare un Account Calendario e renderlo visibile. Tocca \"Aggiungi account\" per aggiungerne uno (o attendi la fine della sincronizzazione se l'hai appena fatto). Altrimenti tocca \"Annulla\" e assicurati che almeno un calendario sia visibile."</string>
     <string name="create_an_account_desc">"Il calendario funziona meglio con un Account Google.
 
 • Accedi da qualunque browser web
 • Salva i tuoi eventi in tutta sicurezza"</string>
+    <string name="add_account">Aggiungi account</string>
     <string name="view_event_calendar_label">Calendario:</string>
     <string name="view_event_organizer_label">Organizzatore:</string>
     <string name="view_event_response_label">Partecipare?</string>
@@ -289,7 +292,7 @@
     <string name="preferences_title">Calendario</string>
     <string name="menu_reminder_preferences">Promemoria</string>
     <string name="account_and_calendar">Account e calendario</string>
-    <string name="account_and_calendar_to_display">Account e calendario da visualizzare</string>
+    <string name="account_and_calendar_to_display">Account e Visibilità calendari</string>
     <string name="default_reminder_mode">Modalità avviso predefinita</string>
     <string name="time_zone">Fuso orario</string>
     <string name="event_all_day_label">Tutto il giorno</string>
@@ -377,12 +380,13 @@
     <string name="miui_menu_create_event">Nuovo evento</string>
     <string name="preferences_category_general_title">Generale</string>
     <string name="preferences_category_account_title">Account</string>
-    <string name="setting_holiday_display_title">Mostra vacanze</string>
-    <string name="setting_holiday_display_desc">Schede vacanze posizionate nella homapge del calendario</string>
-    <string name="setting_holiday_reminder">Promemoria vacanze</string>
+    <string name="setting_holiday">Festività</string>
+    <string name="setting_holiday_display_title">Mostra festività</string>
+    <string name="setting_holiday_display_desc">Schede festività posizionate nella homepage del calendario</string>
+    <string name="setting_holiday_reminder">Promemoria festività</string>
     <string name="setting_others">Aggiuntive</string>
     <string name="setting_homepage">Visualizzazione homepage</string>
-    <string name="preferences_holidays">Mostra vacanze</string>
+    <string name="preferences_holidays">Mostra festività</string>
     <string name="preferences_solar_terms">Mostra giorni calendario solare</string>
     <string name="preferences_history_events">Mostra registro eventi</string>
     <string name="work_day_indication">:(</string>
@@ -459,7 +463,7 @@
     <string name="today_train_event">Treno</string>
     <string name="departure">partenza</string>
     <string name="guide_card_hint_text">Tocca per aprire Mi Cloud</string>
-    <string name="holiday_card_title">Vacanze</string>
+    <string name="holiday_card_title">Festività</string>
     <string name="repeat_lunar_yearly"/>
     <string name="huangli_label"/>
     <string name="network_not_available">Impossibile collegarsi alla rete</string>

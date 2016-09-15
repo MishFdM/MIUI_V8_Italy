@@ -69,8 +69,8 @@
         <item quantity="one">Annullare il download della foto rimanente</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
-        <item quantity="other">Aggiunte %d foto su cloud, disattiva \"Mostra solo gli album locali\" per vederle.</item>
-        <item quantity="one">Aggiunta %d foto su cloud, disattiva \"Mostra solo gli album locali\" pe vederla.</item>
+        <item quantity="other">Aggiunte %d foto su Mi Cloud, disattiva \"Mostra solo gli album locali\" per vederle.</item>
+        <item quantity="one">Aggiunta %d foto su Mi Cloud, disattiva \"Mostra solo gli album locali\" per vederla.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Eliminare %1$d foto %2$s?</item>
@@ -97,8 +97,8 @@
         <item quantity="one">%1$d elemento | %2$s</item>
     </plurals>
     <plurals name="backuped">
-        <item quantity="other">Backup eseguito per %1$d elementi</item>
-        <item quantity="one">Backup eseguito per %1$d elemento</item>
+        <item quantity="other">Eseguito backup di %1$d elementi</item>
+        <item quantity="one">Eseguito backup di %1$d elemento</item>
     </plurals>
     <plurals name="backup_waiting">
         <item quantity="other">%1$d elementi in attesa di backup</item>
