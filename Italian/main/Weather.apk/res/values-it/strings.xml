@@ -162,8 +162,8 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="international_details_title">Dettagli</string>
     <string name="international_details_wind_title">VENTO</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
-    <string name="international_details_uv_index_title">Indice UV</string>
-    <string name="international_details_pressure_title">Pressione</string>
+    <string name="international_details_uv_index_title">INDICE UV</string>
+    <string name="international_details_pressure_title">PRESSIONE</string>
     <string name="pressure_connect">%1$s MB</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">Avvisi meteo</string>
