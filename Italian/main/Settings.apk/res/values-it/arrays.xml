@@ -131,6 +131,10 @@
         <item>Solo quando collegato</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Ultimi 30 giorni</item>
+        <item>Imposta ciclo di utilizzo...</item>
+    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatica</item>
         <item>Solo 5 GHz</item>
@@ -956,5 +960,13 @@
         <item>Tutti i giorni</item>
         <item>Lun-Ven</item>
         <item>Personalizza</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>Messaggi</item>
+        <item>Foto</item>
+        <item>File</item>
+        <item>Note</item>
+        <item>App lock</item>
+        <item>Mod. Genitore</item>
     </string-array>
 </resources>

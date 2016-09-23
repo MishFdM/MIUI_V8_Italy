@@ -277,6 +277,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="show_traffic_dialog_title">Mostra utilizzo nel pannello delle notifiche</string>
     <string name="show_traffic_dialog_message">Le informazioni di utilizzo dato verranno mostrate nel pannello delle notifiche. Puoi attivare o disattivare questa funzione in Utilizzo dati > Impostazioni</string>
     <string name="tc_sms_report_title">Segnala bug utilizzo dati</string>
+    <string name="tc_sms_report_title_bill">"Segnala bug sull'utilizzo dei dati"</string>
+    <string name="tc_sms_report_title_calltime">"Segnala bug sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_summary">Aiutaci a migliorare questa funzione inviandoci un rapporto quando le informazioni sul tuo traffico dati non sono corrette o non si aggiornano</string>
     <string name="tc_sms_report_direction">Codice richiesta SMS</string>
     <string name="tc_sms_report_send_num">Numero operatore #</string>
@@ -284,6 +286,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_sms_report_receive_content">Contenuti rapporto utilizzo dati SMS (Conferma statistiche utilizzo dati)</string>
     <string name="tc_sms_report_receive_content_null">"​Aiutaci a migliorare questa funzione!<br/>Ecco come:<br/>1. Vai in \"Controlla il comando SMS\" e \"Numero destinatario\"<br/>2. Tocca \"Usa modello SMS\"<br/>3. Attendi per ricevere SMS dal tuo operatore <br/>4. Tocca \"Invia a MIUI\"​"</string>
     <string name="tc_sms_report_get_sms">Ottieni SMS</string>
+    <string name="tc_sms_report_get_sms_bill">Ricevi SMS</string>
+    <string name="tc_sms_report_get_sms_calltime">Ricevi SMS</string>
     <string name="tc_sms_report_get_sms2">Ottieni SMS</string>
     <string name="tc_sms_report_geting_sms">Recupero info SMS…</string>
     <string name="tc_sms_report_get_sms_again">Aggiorna SMS</string>
@@ -821,7 +825,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="activity_title_memory">Memoria</string>
     <string name="activity_title_trash">Cache</string>
     <string name="activity_title_network_speed_detail">Connessione</string>
-    <string name="system_check_content">%1$d contenuti sospetti</string>
+    <string name="memory_check_content">%s liberati</string>
     <string name="memory_check_content_none">Vuoto</string>
     <string name="system_check_content_none">Sicuro</string>
     <string name="system_header_title">Pulizia di %1$d processi per liberare %2$s di memoria</string>
@@ -1197,6 +1201,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="ac_enable_title">Attiva</string>
     <string name="lock_mode_title">Impostazioni di blocco</string>
     <string name="after_the_lock_screen">"L'app è bloccata con lo schermo, puoi modificare l'impostazione nelle impostazioni"</string>
+  <string name="set_applock_password">Imposta password</string>
     <string name="ac_firstUseApplock_title">Richiedi una password per accedere alle app.</string>
     <string name="ac_firstUseApplock_subTitle">Utilizza per proteggere la tua privacy</string>
     <string name="notification_subtitle">Tocca per attivare</string>
@@ -1411,4 +1416,17 @@ o inserisci la password"</string>
     <string name="information_setting">Notizie impostazioni di sicurezza</string>
     <string name="load_only_under_wlan">Carica nuove notizie quando sei connesso al Wi-Fi</string>
     <string name="recommend_news">Fonti raccomandate</string>
+    <string name="setting_privacy_password">Imposta password di protezione privacy</string>
+    <string name="bind_xiaomi_account_title">Aggiuntgi Mi Account</string>
+    <string name="bind_xiaomi_account_summary">Usa il tuo Mi Account per ripristinare la password</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Aggiungendo Mi Account</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Stai aggiungendo il Mi Account %s. Se dimentichi la password, potrai usare questo account per ripristinarla. L'account verrà rimosso automaticamente se uscirai."</string>
+    <string name="bind_xiaomi_account_cancel">Annulla</string>
+    <string name="bind_xiaomi_account_confirm">Aggiungi</string>
+    <string name="password_promotion_title">Password di protezione privacy</string>
+    <string name="password_promotion_message">App lock verrà aggiornato con la password di protezione privacy. Puoi usare il tuo Mi Account per ripristinarla.</string>
+    <string name="password_promotion_button_text">Ho capito</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">App lock verrà aggiornato con la password di protezione privacy. Puoi usare il tuo Mi Account per ripristinarla. Aggiungi il tuo Mi Account per poterlo fare.</string>
+    <string name="password_promotion_postbutton_text">Vai nelle Impostazioni</string>
+    <string name="bind_xiaomi_account_success">Mi Account aggiunto correttamente</string>
 </resources>

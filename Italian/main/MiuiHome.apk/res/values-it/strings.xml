@@ -10,10 +10,7 @@
     <string name="cancel_action">Annulla</string>
     <string name="bad_wallpaper_source_prompt">"Impossibile caricare lo sfondo"</string>
     <string name="apply_action">Applica</string>
-    <string name="apply_as_lockwallpaper_action">Schermata di blocco</string>
-    <string name="apply_negative_action">Non applicare</string>
     <string name="download_action">Download</string>
-    <string name="apply_as_lock_wallpaper_message">Applicare questo sfondo anche alla schermata di blocco?</string>
     <string name="lock_screen_failed_message">Impossibile applicare</string>
     <string name="lock_screen_success_message">Applicato</string>
     <string name="wallpaper_failed_message">Impossibile applicare lo sfondo</string>
@@ -277,4 +274,6 @@
     <string name="home_screen">Home</string>
     <string name="wallpaper_scroll_type_tips">Sfondo scorrevole</string>
     <string name="no_detail_page">Nessuna pagina per i dettagli</string>
+    <string name="notification_installed">Installato correttamente</string>
+    <string name="notification_open_button">Apri</string>
 </resources>

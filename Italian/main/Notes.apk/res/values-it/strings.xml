@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">Account Weibo scaduto: si prega di riassociare</string>
     <string name="sina_token_invalid_warning">Account Weibo non valido: si prega di riassociare</string>
     <string name="sina_share_fail_content_repeat">Impossibile condividere, contenuto già esistente\u2026</string>
+
     <string name="search_keyword_notes">Note;Memo</string>
     <string name="search_path_notes">App di sistema/Note</string>
     <string name="dlg_move_message">Spostamento…</string>
@@ -15,6 +16,13 @@
     <string name="dlg_restore_message">Ripristino…</string>
     <string name="dlg_quick_delete_title">Eliminazione rapida</string>
     <string name="dlg_check_reminder">Non mostrare più</string>
+    <string name="dlg_title_set_password">Imposta password</string>
+    <string name="dlg_message_set_password">La password di protezione privacy funziona con le app, foto, e cartelle nascoste</string>
+    <string name="dlg_title_use_privacy_password">Usa la passwod di protezione privacy</string>
+    <string name="dlg_message_use_privacy_password">Usa la passwod di protezione privacy. La password di protezione privacy funziona con le app, foto, e cartelle nascoste</string>
+    <string name="dlg_title_password_reset">Aggiorna la password</string>
+    <string name="dlg_message_password_reset">"La password per le note nascoste verrà sostituita dalla passowrd di protezione privacy, la quale funziona con le app, foto, e cartelle nascoste"</string>
+    <string name="dlg_btn_set_password">Imposta password</string>
     <string name="rename_folder_dialog_tile">Rinomina cartella</string>
     <string name="delete_folder_dialog_tile">Elimina cartella</string>
     <string name="menu_hide">Nascondi</string>
@@ -52,6 +60,8 @@ Tocca il tasto \"+\" per creare una cartella"</string>
     <string name="force_touch_menu_add">Aggiungi nota</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Elimina rapidamente</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Non chiedere conferme quando si eliminano note con una gesture</string>
+    <string name="alert_title_hidden_note">Ricevuto propmemoria per nota nascosta</string>
+    <string name="hint_cannot_view_hidden_note_content">Impossibile vedere il contenuto delle note nascoste</string>
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>

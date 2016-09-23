@@ -49,5 +49,6 @@
     <string name="dial_vt_fail_prompt">La rete non supporta VoLTE. Effettuare una chiamata normale?</string>
     <string name="dial_conference_fail_prompt">"Impossibile avviare l'audioconferenza, la rete non supporta la tecnologia VoLTE."</string>
     <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
+    <string name="can_not_dial_vt_while_voice_prompt">Impossibile effettuare video chiamate quando è in corso una chiamata</string>
     <string name="voice_dial_out">Chiamata vocale</string>
 </resources>

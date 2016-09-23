@@ -18,4 +18,5 @@ visita %s"</string>
     <string name="settings_safetylegal_activity_title">Informazioni di sicurezza</string>
     <string name="settings_safetylegal_activity_unreachable">Non hai una connessione di rete. Per vedere adesso le informazioni, vai su %s da un qualsiasi computer collegato ad internet.</string>
     <string name="settings_safetylegal_activity_loading">Caricamento…</string>
+    <string name="ime_privacy_policy">Scegli Tastiera</string>
 </resources>

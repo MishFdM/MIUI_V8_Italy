@@ -20,6 +20,7 @@
     <string name="status_bar_toggle_paper_mode">Lettura</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_cast">Trasmetti</string>
+    <string name="status_bar_toggle_edit">Modifica</string>
     <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
     <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
     <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
@@ -95,6 +96,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="screen_on_proximity_sensor_title">Previeni chiamate dalla tasca</string>
     <string name="screen_on_proximity_sensor_summary">Non coprire la parte superiore dello schermo</string>
     <string name="screen_on_proximity_sensor_hint">Per disattivare questa funzione premi contemporaneamente i tasti Indietro e Volume Su.</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Per disattivare questa funzione premi il tasto Volume Su.</string>
     <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
     <string name="screen_button_notification_text">Per attivarli premi contemporaneamente i tasti Home e Power.</string>
     <string name="screen_paper_mode_enter_toast">Modalità lettura attivata. Puoi attivare/disattivare questa funzione in qualsiasi momento in Impostazioni aggiuntive > Modalità lettura.</string>

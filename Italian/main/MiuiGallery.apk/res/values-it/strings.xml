@@ -581,16 +581,10 @@
     <string name="relation_text_maternal_grandmother">Nonna materna</string>
     <string name="relation_text_family">Familiare</string>
     <string name="family_member_invitation_text">Altro familiare</string>
-    <string name="invited_tip">Invitato</string>
     <string name="invite_sharer_title">"Invita %2$s di %1$s"</string>
     <string name="invite_sharer_relation_tip">Relazione di %1$s</string>
-    <string name="invite_sharer_phone_number_tip">Inserisci il numero di telefono</string>
     <string name="invite_sharer_confirm_button_text">Invita</string>
-    <string name="invite_sharer_again_confirm_button_text">Invita di nuovo</string>
     <string name="relation_text_empty_alert">Aggiungi informazioni di relazione</string>
-    <string name="phone_number_empty_alert">Aggiungi numero di telefono</string>
-    <string name="send_invitation_fail">"Non è stato possibile inviare l'invito"</string>
-    <string name="invite_send_sms_tip">"Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato per inviare questo invito."</string>
     <string name="baby_album_sharers_page_title">Condividi con i familiari</string>
     <string name="choose_people">Scegli Album volto</string>
     <string name="choose_some_people">Scegli Album volto che sia %s</string>
@@ -625,6 +619,7 @@
     <string name="album_others_share_baby_info_format">Album bambino da %s</string>
     <string name="album_already_forced_top">Già top</string>
     <string name="album_show_local_only">Mostra solo album locali</string>
+    <string name="album_show_local_only_summary">Attiva per vedere ed eliminare solo sul tuo dispositivo</string>
     <string name="menu_item_sort_size">Dim.</string>
     <string name="menu_item_sort_date">Data</string>
     <string name="menu_item_sort_name">Nome</string>
@@ -784,6 +779,7 @@
     <string name="delete_other_shared_images">Attenzione, non puoi eliminare le foto condivise dagli altri</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d eliminate，%2$d mantenute</string>
     <string name="delete_from_all_devices">da tutti i dispositivi</string>
+    <string name="delete_from_all_devices_and_cloud">da tutti i dispositivi e Mi Cloud</string>
     <string name="delete_from_album">"dall'album \"%s\" da tutti i dispositivi"</string>
     <string name="delete_from_album_no_account">"dall'album \"%s\" "</string>
     <string name="delete_album_msg_format">Eliminare album \"%2$s\" %1$s%3$s?</string>

@@ -14,6 +14,7 @@
     <string name="find_device_error_account_unknown_error">Errore Mi Account (%s)</string>
     <string name="find_device_crash">Trova Dispositivo si è chiuso in modo inaspettato</string>
     <string name="find_device_storage_corrupted">Memoria Trova Dispositivo corrotta. Il tuo dispositivo adesso non è sicuro.</string>
+    <string name="find_device_telephony_fault">Trova Telefono: errore telefono (%s).</string>
     <string name="time_correction_success">Orario corretto</string>
     <string name="time_correction_failure">"Impossibile corregere l'orario (%s)"</string>
     <string name="find_device_stop_noise">Tocca OK per silenziare</string>

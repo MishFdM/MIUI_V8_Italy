@@ -181,14 +181,9 @@
     <string name="pref_video_speed_entry_normal">Normale</string>
     <string name="pref_video_speed_entry_fast">Veloce</string>
     <string name="pref_video_speed_entry_slow">Lento</string>
-    <string name="pano_too_fast_prompt">Troppo Veloce</string>
-    <string name="pano_how_to_use_prompt_to_move">"Non inclinare il dispositivo durante l'acquisizione"</string>
-    <string name="pano_how_to_use_prompt_go_on_moving">Non inclinare durante il movimento</string>
-    <string name="pano_dialog_waiting_previous">Attendi la fine della panoramica in corso</string>
-    <string name="pano_dialog_panorama_failed">Impossibile salvare panorama</string>
-    <string name="pano_dialog_title">Panorama</string>
+    <string name="pano_how_to_use_prompt_to_move">Inizia a ruotare lentamente</string>
+    <string name="pano_how_to_use_prompt_go_on_moving">Continua a ruotare…</string>
     <string name="pref_camera_panoramamode_title">Panorama</string>
-    <string name="pano_review_saving_indication_str">Salvataggio…</string>
     <string name="tap_to_focus">Tocca per mettere a fuoco</string>
     <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale."</string>
     <string name="accessibility_shutter_button">Pulsante scatto</string>

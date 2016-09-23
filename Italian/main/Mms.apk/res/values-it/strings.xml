@@ -40,6 +40,7 @@
     <string name="discard_slideshow">Ignora presentazione</string>
     <string name="slide_show_part">Parte %1$s/%2$s</string>
     <string name="select_copy_text">Seleziona e copia il testo del messaggio</string>
+    <string name="show_delivery_status">Mostra stato di consegna</string>
     <string name="remove_text">Rimuovi testo</string>
     <string name="add_picture">Aggiungi immagine</string>
     <string name="remove_picture">Rimuovi immagine</string>
@@ -86,8 +87,8 @@
     <string name="too_many_attachments">"C'è un limite di %1$s allegati. Verranno aggiunti solo i primi %2$s."</string>
     <string name="adding_attachments_title">Aggiunta di allegati</string>
     <string name="adding_attachments">"Attendi il termine dell'aggiunta degli elementi alla presentazione."</string>
-    <string name="over_max_mms_size">MMS troppo grande.</string>
     <string name="recipients_over_size">Troppi destinatari.</string>
+    <string name="over_max_mms_size">MMS troppo grande.</string>
     <string name="preview">Anteprima</string>
     <string name="preview_slideshow">Anteprima</string>
     <string name="replace_image">Sostituisci immagine</string>
@@ -260,6 +261,7 @@
     <string name="edit_nickname_for_nocontact">Nessun destinatario aggiunto. Aggiungere almeno un destinatario e premere per altre opzioni.</string>
     <string name="edit_nickname_for_nocontact_by_robot">Inserisci almeno un destinatario per poter modificare il nickname.</string>
     <string name="nickname_placeholder">Nickname</string>
+    <string name="no_delivery_report">Nessun rapporto di consegna</string>
     <string name="me">Io</string>
     <string name="to_count">%d contatti</string>
     <string name="recipient_editor_count_format">%d</string>
@@ -433,8 +435,6 @@
     <string name="private_message">Messaggio Privato</string>
     <string name="private_protect">Protezione Privata</string>
     <string name="private_new_notification">Notifica nuovo messaggio privato</string>
-    <string name="enable_password_protect">Abilita protezione password</string>
-    <string name="enable_visible_pattern_title">Rendi visibile la sequenza</string>
     <string name="importing_progress_private_message">"Importazione messaggi nell'Archivio Messaggi Privati"</string>
     <string name="exporting_progress_private_message">"Esportazione messaggi dall'Archivio Messaggi Privati"</string>
     <string name="confirm_export_dialog_title">Rimuovi contatto privato</string>
@@ -480,6 +480,7 @@
     <string name="title_collapse_sp_messages">Raccogli i messaggi del provider</string>
     <string name="pref_collapse_sp_messages_summary">"Raccogli i messaggi del provider in un'unica lista"</string>
     <string name="sp_conversation_title">Messaggi di notifica</string>
+    <string name="pref_smart_messages_settings">Messaggi smart</string>
     <string name="title_show_sms_template">Controlla i codici di verifica tra gli SMS</string>
     <string name="pref_show_sms_template_summary">Copia ed inserisci automaticamente i codici di verifica</string>
     <string name="title_show_sms_template_in">Controlla OTP negli SMS</string>
@@ -657,4 +658,12 @@
     <string name="force_touch_new_message_title">Nuovo messaggio</string>
     <string name="pref_delivery_ringtone">Notifica sonora</string>
     <string name="pref_summary_delivery_ringtone">Ricevi una notifica sonora per i messaggi inviati.</string>
+    <string name="privacy_password_set_password">Set</string>
+    <string name="privacy_password_title1">Imposta password</string>
+    <string name="privacy_password_message1">La password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
+    <string name="privacy_password_title2">Usala password di protezione privacy</string>
+    <string name="privacy_password_message2">Utilizza la password di protezione privacy. Funziona per le app, foto, note e cartelle nascoste.</string>
+    <string name="privacy_password_title3">Aggiorna la tua password</string>
+    <string name="privacy_password_message3">"La password dei messaggi privati verrà sostituita dalla password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
+    <string name="privacy_password_title4">Password aggiornata</string>
 </resources>
