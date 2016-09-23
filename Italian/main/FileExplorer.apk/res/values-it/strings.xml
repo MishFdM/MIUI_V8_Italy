@@ -376,7 +376,6 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="image_loading_error">"Impossibile caricare l'immagine"</string>
     <string name="ui_main_toast_favorite_added">Aggiunto correttamente</string>
     <string name="already_liked">Hai già aggiunto questo elemento</string>
-    <string name="user_guide_continue_use">OK</string>
     <string name="downloading">Download in corso</string>
     <string name="send_sticker">Invia adesivo</string>
     <string name="save_to_local">Scarica</string>
