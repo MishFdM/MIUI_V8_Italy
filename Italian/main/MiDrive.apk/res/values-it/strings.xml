@@ -109,11 +109,11 @@
     <string name="folder_exist">Questa cartella esiste già.</string>
     <string name="folder_name_illegal">Nome cartella non valida</string>
     <string name="folder_name_empty">Il nome della cartella non può essere vuoto</string>
-    <string name="folder_name_invalid">"Il nome della cartella non può contenere i seguenti caratteri: /\\:*?<>"</string>
+    <string name="folder_name_invalid">"Il nome della cartella non può contenere i seguenti caratteri: /\\:*?&lt;>"</string>
     <string name="open_changed_file_title">Modifiche applicate.</string>
     <string name="open_changed_file_message">"Il file che stai cercando di aprire è stato modificato.
 1. Scarica di nuovo il file per aggiornare.
-2. Caricolo sul tuo account."</string>
+2. Caricalo sul tuo account."</string>
     <string name="file_change_btn_download">Scarica file</string>
     <string name="file_change_btn_upload">Carica file</string>
     <string name="just_now">Poco fa</string>
