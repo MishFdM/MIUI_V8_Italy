@@ -144,7 +144,7 @@
     <string name="actionbar_large_unread_count">%1$d+ non letto</string>
     <string name="activity_folder_selection">Seleziona una cartella</string>
     <string name="activity_mailbox_selection">Seleziona un account</string>
-    <string name="ad_merge">AD e Notice Organize</string>
+    <string name="ad_merge">Raggruppa notizie e pubblicità</string>
     <string name="add_account">Aggiungi account</string>
     <string name="add_account_keywords">Aggiungi account;aggiungi account mail</string>
     <string name="add_attachment">Allega</string>
