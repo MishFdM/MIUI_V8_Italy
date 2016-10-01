@@ -197,7 +197,7 @@
     <string name="wfcRegErrorTitle">WLAN Calling</string>
     <string name="wfcSpnFormat">%s</string>
     <string name="wfcDataSpnFormat">%s</string>
-    <string name="wifi_calling_off_summary">Off</string>
+    <string name="wifi_calling_off_summary">Disattivato</string>
     <string name="wfc_mode_wifi_preferred_summary">WLAN preferred</string>
     <string name="wfc_mode_cellular_preferred_summary">Cellular preferred</string>
     <string name="wfc_mode_wifi_only_summary">WLAN only</string>

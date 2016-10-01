@@ -66,7 +66,6 @@
     <string name="resource_detail_recommend_other_themes">Ad altri utenti piace anche</string>
     <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">Stesso autore</string>
-    <string name="resource_detail_recommend_desiner_themes">%1$s temi</string>
     <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_description_pic_text">%1$d icone totali</string>
     <string name="local_resouce_creator_name">Developer: %1$s</string>
@@ -97,6 +96,9 @@
     <string name="resource_purchase_getting_order">Recupero informazioni ordine…</string>
     <string name="resource_purchase_waiting_payment">In attesa delle informazioni di pagamento…</string>
     <string name="resource_purchase_verifying_payment">Verifica informazioni di pagamento…</string>
+    <string name="resource_purchase_continue_to_pay">Continu pagando %s</string>
+    <string name="resource_purchase_vip_pay_failed">Impossibile pagare come vip.</string>
+    <string name="resource_purchase_common_error">Operazione fallita. Prova di nuovo.</string>
     <string name="resource_download_trial">Prova gratis</string>
     <string name="resource_apply_trial">Prova adesso</string>
     <string name="resource_on_trial">Prova: %1$s</string>
@@ -282,6 +284,7 @@
     <string name="favorite_list">Preferiti</string>
     <string name="favorite_list_format">Preferiti %1$s</string>
     <string name="purchased_list">Temi acquistati</string>
+    <string name="purchased_list_current">MIUI 8</string>
     <string name="purchased_list_format">%1$s acquistati</string>
     <string name="my_gifts">Regali</string>
     <string name="my_gifts_purchased">Acquistati</string>

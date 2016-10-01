@@ -353,10 +353,7 @@ Assicurati di ricordare le risposte."</string>
     <string name="notify_network_restricted_content_hidden_state">"L'attività in background di Mi Account è limitata. Tocca per consentire."</string>
     <string name="notify_network_restricted_content_bg_network">"L'accesso ad internet di Mi Account è limitato. Tocca per consentire."</string>
     <string name="notify_network_restricted_content_mobile_network">"L'accesso ad internet di Mi Account è limitato. Tocca per consentire."</string>
-    <string name="find_device_activate_account">Attiva account</string>
-    <string name="login_check_find_device">Recupero informazioni sicurezza dispositivo…</string>
-    <string name="find_device_display_id">Sblocca numero: %s</string>
-    <string name="login_guard_prompt">"Richiedi la verifica del numero telefonico quando accedi al tuo Mi Account da un terminale sconosciuto o in un'app per lla prima volta."</string>
+    <string name="login_guard_prompt">"Richiedi la verifica del numero telefonico quando accedi al tuo Mi Account da un terminale sconosciuto o in un'app per la prima volta."</string>
     <string name="verified_devices">Dispositivi verificati</string>
     <string name="verified_apps">App verificate</string>
     <string name="trusted_browsers">Browser sicuri</string>
@@ -374,9 +371,13 @@ Assicurati di ricordare le risposte."</string>
     <string name="verify_phone_prompt">Seleziona il numero di telefono da verificare</string>
     <string name="sms_send_success">Inviato</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo più tardi</string>
-    <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
+    <string name="find_device_activate_account">Attiva account</string>
+    <string name="login_check_find_device">Recupero informazioni di sicurezza…</string>
+    <string name="unlock_help_notice">"Aiuto:
+· Se hai dimenticato la password, vai su id.mi.com per ripristinarla.
+· Se non puoi sbloccare il dispositivo, vai su i.mi.com per disattivare Trova Telefono
+· Comunica questo numero di sblocco al servizio clienti: %s"</string>
+    <string name="photoPickerNotFoundText">Nessa foto disponibile.</string>
     <string name="login_check_find_device_failed_title">Impossibile verificare lo stato di Trova Dispositivo</string>
     <string name="login_find_device_bind">Questo dispositivo è associato con un ID Mi Account esistente (%s).</string>
-    <string name="miui_provision_find_status_text">"Questo dispositivo è associato con un Mi Account esistente (%1$s), inserisci la password per verificare il dispositivo.
-(Sblocca il numero: %2$s)"</string>
 </resources>

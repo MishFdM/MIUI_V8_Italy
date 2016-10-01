@@ -1036,6 +1036,15 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="continue_install">Installa</string>
     <string name="reject_countdown">Nega (%d)</string>
     <string name="reject_usb_install">"Negata l'installazione tramite USB della seguente app"</string>
+    <string name="adb_install_reject_notiy">"Non è stato permessa l'installazione di %s tramite USB"</string>
+    <string name="adb_install_reject_notiy_desc">"Puoi consentire l'installazione tramite USB nelle Opzioni Sviluppatore"</string>
+    <string name="adb_login_xiaomi_account">Accedi prima al tuo Mi Account</string>
+    <string name="adb_install_open">Accesso in corso…</string>
+    <string name="adb_install_open_error">"Impossibile consentire, controlla la tua connessione di rete"</string>
+    <string name="usb_adb_input_apply_step_1">Il tuo computer sarà in grado di modificare le impostazioni e concedere per messi a tua insaputa quando il tuo dispositivo è collegato tramite USB</string>
+    <string name="usb_adb_input_apply_step_2">Questo potrebbe causare perdita di dati sensibili, come account e messaggi</string>
+    <string name="usb_adb_input_apply_step_3">Accertati di aver compreso i rischi prima di dare il consenso. Consentire adesso?</string>
+    <string name="adb_install_no_network">Collegati alla rete e prova di nuovo</string>
     <string name="pc_install_manager">"Installa tramite USB"</string>
     <string name="monitor_requests_from_pc">"Gestisci l'installazione dell'app tramite USB"</string>
     <string name="app_install_intercept">"Blocca l'installazione"</string>
@@ -1429,4 +1438,15 @@ o inserisci la password"</string>
     <string name="password_promotion_not_login_xiaomi_account_message">App lock verrà aggiornato con la password di protezione privacy. Puoi usare il tuo Mi Account per ripristinarla. Aggiungi il tuo Mi Account per poterlo fare.</string>
     <string name="password_promotion_postbutton_text">Vai nelle Impostazioni</string>
     <string name="bind_xiaomi_account_success">Mi Account aggiunto correttamente</string>
+    <string name="notification_sysapp_cracked_title">Rilevato un rischio per la sicurezza</string>
+    <string name="notification_sysapp_cracked_text">"Questa versione di MIUI è stata modificata"</string>
+    <string name="sys_app_prot_cracked_title">Rischio per la sicurezza</string>
+    <string name="sys_app_prot_cracked_text_login">"Questa versione di MIUI è stata modificata, e questo mette a rischio la sicurezza del dispositivo.
+
+Accertati della provenienza di questo dispositivo e contatta un centro assistenza autorizzato Xiaomi nella tua zona per ricevere supporto."</string>
+    <string name="sys_app_prot_cracked_text_unlogin">"Questa versione di MIUI è stata modificata, e questo mette a rischio la sicurezza del dispositivo. Accedi al tuo Mi Account per disattivare questo avviso.
+
+Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo dispositivo e contatta un centro assistenza autorizzato Xiaomi nella tua zona per ricevere supporto."</string>
+    <string name="sys_app_prot_cracked_confirm">Ho capito</string>
+    <string name="sys_app_prot_cracked_login">Accedi al tuo Mi Account</string>
 </resources>
