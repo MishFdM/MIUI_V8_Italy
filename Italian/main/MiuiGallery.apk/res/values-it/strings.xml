@@ -603,9 +603,8 @@
     <string name="hybrid_pull_to_refresh_pull_label">Trascina per aggiornare…</string>
     <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Caricamento…</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="album_videos_name">Video</string>
-    <string name="album_pano_name">Panoramas</string>
+    <string name="album_pano_name">Panorama</string>
     <string name="album_faces_name">Volto</string>
     <string name="album_camera_name">Fotocamera</string>
     <string name="album_screenshot_name">Screenshot</string>
