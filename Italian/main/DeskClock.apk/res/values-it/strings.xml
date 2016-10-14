@@ -23,6 +23,8 @@
     <string name="worldclock_title">Orologio</string>
     <string name="stopwatch_title">Cronometro</string>
     <string name="timer_title">Timer</string>
+    <string name="timer_alarm_dot_matrix_label">TIMER</string>
+    <string name="symbol_colon">:</string>
     <string name="menu_add_worldclock">Fuso orario</string>
     <string name="menu_edit_timer_item">Modifica</string>
     <string name="delete_timer_item_title">Elimina operazione</string>
@@ -34,6 +36,8 @@
     <string name="alarm_ascending_mode_summary">"Il volume della sveglia aumenta progressivamente."</string>
     <string name="close_alarm">Disattiva sveglia</string>
     <string name="timer_notify_text">Sospendi o disattiva.</string>
+    <string name="upcoming_alarm"> Sveglia in arrivo</string>
+    <string name="upcoming_alarm_hint">Puoi disattivare la sveglia in anticipo</string>
     <string name="start">Avvia</string>
     <string name="pause">Pausa</string>
     <string name="reset">Reset</string>
@@ -74,8 +78,6 @@
     <string name="legal_off_day_message">" (Sveglie disattivate nei giorni feriali)"</string>
     <string name="default_alarm_alert">Imposta suoneria predefinita</string>
     <string name="default_alarm_title">Suoneria predefinita</string>
-    <string name="alarm_alert">Imposta suoneria</string>
-    <string name="alarm_screen">Imposta stile sveglia</string>
     <string name="menu_item_sort_by_gmt_offset">Ordina per data</string>
     <string name="menu_item_sort_by_name">Ordina per nome</string>
     <string name="birthday_alarm">Suoneria compleanno</string>

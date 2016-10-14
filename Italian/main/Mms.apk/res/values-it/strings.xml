@@ -573,6 +573,9 @@
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[picture]</string>
     <string name="audio_download_failed">Download audio fallito</string>
+    <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
+    <string name="audio_message_mx_offline">"Impossibile scaricare l'audio. Mi Message è offline o non disponibile."</string>
+    <string name="audio_sim_card_mismatching">Nessuna connessione di rete o nessuna SIM installata. Installa la SIM dalla quale è stato inviato il messaggio e collegati alla rete.</string>
     <string name="hms_uri_param_err">"L'URL non può essere vuoto"</string>
     <string name="pref_title_sms_validity_period">Periodo di validità SMS</string>
     <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>

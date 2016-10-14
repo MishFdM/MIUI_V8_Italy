@@ -83,7 +83,6 @@
     <string name="card_title_in_call_short">In chiamata</string>
     <string name="onscreenEndCallText">Chiudi</string>
     <string name="calling_via_template">Chiama tramite %s</string>
-    <string name="contactPhoto">Foto contatto</string>
     <string name="respond_via_sms_custom_message">Messaggio personalizzato…</string>
     <string name="manageConferenceLabel">Gestione chiamate in conferenza</string>
     <string name="emergency_call_dialog_number_for_display">Numero di emergenza</string>
@@ -114,6 +113,7 @@
     <string name="description_image_button_zero">zero</string>
     <string name="description_image_button_pound">pound</string>
     <string name="description_image_button_answer">Scorri in alto per rispondere</string>
+    <string name="description_image_button_video_answer">Video chiamata</string>
     <string name="description_image_button_reject">Scorri in alto per rifiutare</string>
     <string name="description_image_button_message_enter">Scorri in alto per rispondere con SMS</string>
     <string name="description_image_button_message_exit">Nascondi messaggi</string>

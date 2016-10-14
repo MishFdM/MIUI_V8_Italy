@@ -253,6 +253,10 @@
     <string name="st_antispam_title_anoy_incoming">Chiamate da sconosciuti</string>
     <string name="st_antispam_title_null_incoming">Chiamate private</string>
     <string name="st_antispam_title_service_sms">Notifiche di servizio</string>
+    <string name="st_summary_keywords_blacklist">Aggiungi parole chiave per bloccare i messaggi</string>
+    <string name="st_summary_blacklist_numbers">Blocca le chiamate utilizzando prefissi e codici internazionali</string>
+    <string name="st_summary_whitelist_numbers">Consenti chiamate da numeri ed aree geografiche specifiche</string>
+    <string name="st_summary_special_numbers">Blocca i numeri segnalati</string>
     <string name="st_antispam_mode_smart_sum">Applica il blocco per alcuni numeri sconosciuti</string>
     <string name="st_antispam_mode_blacklist_sum">Blocca messaggi e chiamate da numeri presenti nella blacklist</string>
     <string name="st_antispam_mode_only_contacts_sum">Consenti solo chiamate e messaggi da numeri dai contatti</string>

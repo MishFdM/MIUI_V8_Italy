@@ -251,7 +251,7 @@
     <string name="cityname_174">Lingao</string>
     <string name="cityname_175">Linxia Hui Autonomous Prefecture</string>
     <string name="cityname_176">Linyi</string>
-    <string name="cityname_177">Linzhi Area</string>
+    <string name="cityname_177">Linzhi</string>
     <string name="cityname_178">Lingshui Li Autonomous County</string>
     <string name="cityname_179">Liuzhou</string>
     <string name="cityname_180">"Lu'an"</string>
@@ -278,7 +278,7 @@
     <string name="cityname_201">Nanyang</string>
     <string name="cityname_202">Nanzhang</string>
     <string name="cityname_203">Neijiang</string>
-    <string name="cityname_204">Nagqu Area</string>
+    <string name="cityname_204">Nagqu</string>
     <string name="cityname_205">Ningbo</string>
     <string name="cityname_206">Ningde</string>
     <string name="cityname_207">Nujiang Lisu Autonomous Prefecture</string>
@@ -603,6 +603,7 @@
     <string name="hybrid_pull_to_refresh_pull_label">Trascina per aggiornare…</string>
     <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Caricamento…</string>
+    <string name="camera_path">/DCIM/Camera</string>
     <string name="album_videos_name">Video</string>
     <string name="album_pano_name">Panorama</string>
     <string name="album_faces_name">Volto</string>
@@ -1001,6 +1002,17 @@
     <string name="debugging_tip">Creazione rapporto debug</string>
     <string name="fast_share_auto_render">Filtro bellezza</string>
     <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
+    <string name="secret_album_password_update_dialog_title">Aggiorna password</string>
+    <string name="secret_album_password_update_dialog_msg">La password di protezione privacy funziona per foto, note, cartelle nascoste, etc.</string>
+    <string name="secret_album_password_update_first_user_dialog_title">Aggiorna password</string>
+    <string name="secret_album_password_update_first_user_dialog_msg">La password di protezione privacy funziona per foto, note, cartelle nascoste, etc.</string>
+    <string name="secret_album_set_pc_password_dialog_title">Imposta password</string>
+    <string name="secret_album_set_pc_password_dialog_msg">Verrà utilizzata la password di protezione privacy. Funziona per foto, note, cartelle nascoste, etc.</string>
+    <string name="secret_album_password_first_use_title">Password di protezione privacy</string>
+    <string name="secret_album_password_first_use_msg">Verrà utilizzata la password di protezione privacy. Funziona per foto, note, cartelle nascoste, etc.</string>
+    <string name="secret_album_set_pc_password_dialog_ok">Imposta una nuova password</string>
+    <string name="secret_album_password_update_dialog_cancel">Annulla</string>
+    <string name="secret_album_password_update_dialog_ok">OK</string>
     <string name="storage_no_space">Spazio insufficiente</string>
     <string name="share_album">Condividi album</string>
     <string name="all_video_album_display_name">Tutti i video</string>

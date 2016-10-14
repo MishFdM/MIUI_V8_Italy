@@ -211,12 +211,12 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="network_assistant_upgraded_body">Tocca per vedere i dettagli.</string>
     <string name="lock_screen_traffic_warn_title">Notifiche Schermata di blocco</string>
     <string name="lock_screen_traffic_notify_body">Bloccate per %2$s alle %1$s, dati utilizzati %3$s</string>
-    <string name="timeshow_h_m">%1$d o %2$d m</string>
+    <string name="timeshow_h_m">%1$d h %2$d m</string>
     <string name="timeshow_m_s">%1$d m %2$d s</string>
     <string name="timeshow_s">%d s</string>
     <string name="timeshow_m">%d m</string>
-    <string name="timeshow_h">%.1f o</string>
-    <string name="timeshow_h_int">%d o</string>
+    <string name="timeshow_h">%.1f h</string>
+    <string name="timeshow_h_int">%d h</string>
     <string name="lock_screen_traffic_guide_notification_title">"Tocca per gestire l'utilizzo dati."</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s utilizzati nella Schermata di blocco</string>
     <string name="lock_screen_traffic_purchase_textview">Compra dati mobili</string>
@@ -502,7 +502,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_status_no_network">"<font color="#ED9523">Nessuna connessione di rete</font>"</string>
     <string name="tc_diagnostic_status_timeout">"<font color="#CC0000">Timeout</font>"</string>
     <string name="tc_diagnostic_status_error_brand">Rete operatore non trovata</string>
-   <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Rete operatore risponde&lt;/font>"</string>
+    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Rete operatore risponde&lt;/font>"</string>
     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Risultato: Posizione errata&lt;br/>&lt;br/>Imposta posizione: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Posizione attuale: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Risultato: Operatore errato&lt;br/>&lt;br/>Imposta operatore: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Operatore attuale: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Risultato: Nome operatore errato&lt;br/>&lt;br/>Imposta marchio: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Nome attuale: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
@@ -729,6 +729,66 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="charging_text_battery_nearly_full">Quasi carico</string>
     <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
     <string name="charging_text_battery_perfect">Carica completata\u0020</string>
+    <string name="auto_task_main_title">Operazioni automatiche</string>
+    <string name="auto_task_main_summary">Modifica le impostazioni di sistema per certi periodi di tempo o in base al livello di batteria</string>
+    <string name="auto_task_mamange_activity_title">Impostazioni</string>
+    <string name="auto_task_manager_group_title">Le mie operazioni automatiche</string>
+    <string name="auto_task_edit_activity_title">e mie operazioni automatiche</string>
+    <string name="auto_task_edit_my_custom_task">Nome</string>
+    <string name="auto_task_edit_choose_condition_title">Seleziona condizione</string>
+    <string name="auto_task_edit_choose_operation_title">Seleziona azione</string>
+    <string name="auto_task_edit_choose_new_operation">Aggiungi azione</string>
+    <string name="auto_task_edit_operation_summary">Ad esempio, \"Attiva modalità Aereo\"</string>
+    <string name="auto_task_edit_condition_title">Aggiungi condizione</string>
+    <string name="auto_task_edit_condition_summary">Adesempio, \"Alle 23:00\"</string>
+    <string name="auto_task_edit_task_name">Nome</string>
+    <string name="auto_task_operation_open">Attivato</string>
+    <string name="auto_task_operation_close">Disattivato</string>
+    <string name="auto_task_operation_no_op">Non seleziona questa azione</string>
+    <string name="auto_task_operation_airplane_mode">Modalità Aereo</string>
+    <string name="auto_task_operation_memory_clean_lockscreen">Cancella memoria</string>
+    <string name="auto_task_operation_mobile_data">Dati rete mobile</string>
+    <string name="auto_task_operation_wifi">Wi-Fi</string>
+    <string name="auto_task_operation_mute">Modalità silenziosa</string>
+    <string name="auto_task_operation_vibration">Vibrazione</string>
+    <string name="auto_task_operation_bluetooth">Bluetooth</string>
+    <string name="auto_task_operation_auto_brightness">Luminosità automatica</string>
+    <string name="auto_task_operation_brightness">Luminosità schermo</string>
+    <string name="auto_task_operation_gps">GPS</string>
+    <string name="auto_task_operation_sync">Sincronizzazione</string>
+    <string name="auto_task_operation_lockscreen_time">Lockscreen</string>
+    <string name="auto_task_operation_string_etc">, etc.</string>
+    <string name="auto_task_operation_string_comma">,</string>
+    <string name="auto_task_operation_string_split">;</string>
+    <string name="auto_task_operation_string_modify">Modificat</string>
+    <string name="auto_task_operation_open_string">Attiva %s</string>
+    <string name="auto_task_operation_close_string">Disattiva %s</string>
+    <string name="auto_task_operation_modify_string">Modifica %s</string>
+    <string name="auto_task_condition_choose_ontime">Orario</string>
+    <string name="auto_task_condition_choose_battery_level_down">Quando la batteria raggiunge un livello specifico</string>
+    <string name="auto_task_condition_choose_battery_level_up">Quando la batteria è carica fino ad un livello specifico</string>
+    <string name="auto_task_condition_choose_time_duration">Imposta orario</string>
+    <string name="auto_task_condition_choose_start_time">Orario di inizio</string>
+    <string name="auto_task_condition_choose_end_time">Orario finale</string>
+    <string name="auto_task_condition_number_pick_title">Imposta condizioni batteria</string>
+    <string name="auto_task_condition_time_pick_title">Imposta orario</string>
+    <string name="auto_atsk_condition_battery_level_text_down">Quando la batteria raggiunge il %s</string>
+    <string name="auto_atsk_condition_battery_level_text_up">Quando al batteria è carica al %s</string>
+    <string name="auto_task_condition_time_text">Alle %s</string>
+    <string name="auto_task_condition_time_duration_text">Dalle %1$s alle %2$s</string>
+    <string name="auto_task_edit_abandon_change">Rifiutare modifiche?</string>
+    <string name="auto_task_edit_adandon_button_text">Rifiuta</string>
+    <string name="auto_task_dialog_button_close">Fatto</string>
+    <string name="auto_task_manage_delete_prompt">Eliminare le operazioni selezionate?</string>
+    <string name="auto_task_condition_restore_task_when_charged">Passa alla modalità precedente dopo la carica</string>
+    <string name="auto_task_notify_do_task_title">Operazione automatica avviata</string>
+    <string name="auto_task_notify_exit_task_title">Operazione automatica terminata</string>
+    <string name="auto_task_notify_task_canceled_title">Azione annullata</string>
+    <string name="auto_task_notify_task_canceled_summary">Puoi effettuare e ricevere chiamate</string>
+    <string name="auto_task_notify_task_continue_do">Avvia operazione</string>
+    <string name="auto_task_notify_task_count_down">"L'operazione automatica inizierà tra 5 secondi"</string>
+    <string name="auto_task_notify_task_cancel_count_down">"L'operazione automatica veràà annullata tra 5 secondi"</string>
+    <string name="auto_task_notify_task_cancel_do">Annulla operazione</string>
     <string name="resource_securitycenter_settings">Sicurezza</string>
     <string name="keywords_securitycenter_settings">Risparmio batteria;Permessi;Lista blocco;Utilizzo dati;Calibra piano dati;Test di rete;Blocco app;Risparmio batteria;Riscaldamento;Attiva;Disattiva;Batteria;Consumo;Avvio automatico;ROOT;Localizzazione;Accesso ai contatti;Blocco;Blacklist;Lista blocco smart;Truffa;Vendite;Agenti;Dati;Traffico;Calibrazione;Connessione;Internet;Test;Password;Privacy;Accesso;Protezione</string>
     <string name="path_securitycenter_settings">Applicazioni di sistema/Sicurezza</string>
@@ -1089,10 +1149,14 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="title_app_update">Aggiornamento disponibile</string>
     <string name="title_find_device">Attiva Trova dispositivo</string>
     <string name="summary_find_device">Localizza e rintraccia il tuo dispositivo ovunque ti trovi</string>
+    <string name="title_realname_verify">Verifica ID</string>
+    <string name="summary_realname_verify">Verifica la tua identità per rendere i pagamenti più sicuri.</string>
     <string name="title_cloud_space_almost_full">Lo spazio Mi Cloud è quasi pieno, gli elementi potrebbero non sincronizzarsi</string>
     <string name="summary_cloud_space_almost_full">Ottieni altro spazio di archiviazione</string>
     <string name="title_cloud_space_full">Archiviazione Mi Cloud piena, impossibile sincronizzare le foto</string>
     <string name="summary_cloud_space_full">Ottieni altro spazio ed accedi a funzionalità aggiuntive</string>
+    <string name="title_auto_update">Aggiorna automaticamente</string>
+    <string name="summary_auto_update">MIUI sceglierà il momento migliore per scaricare ed installare gli aggiornamenti.</string>
     <string name="title_miui_update">Aggiornamento disponibile</string>
     <string name="summary_miui_update">Aggiornamento disponibile per %s.</string>
     <string name="title_virus_cloudscan">Utilizza definizioni virus online</string>
@@ -1189,6 +1253,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_netcheck_title">Test di rete</string>
     <string name="card_main_netcheck_summary">Verifica la connessione per risolvere i problemi di rete</string>
     <string name="card_main_netcheck_action">Verifica</string>
+    <string name="card_main_gamebooster_title">Aumento velocità di gioco</string>
+    <string name="card_main_gamebooster_summary">"Aumenta la velocità e migliora l'esperienza di gioco"</string>
     <string name="action_button_text_100">Ottimizza</string>
     <string name="action_button_text_80_100">Ottimizza</string>
     <string name="action_button_text_60_80">Ottimizzato</string>
@@ -1210,7 +1276,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="ac_enable_title">Attiva</string>
     <string name="lock_mode_title">Impostazioni di blocco</string>
     <string name="after_the_lock_screen">"L'app è bloccata con lo schermo, puoi modificare l'impostazione nelle impostazioni"</string>
-  <string name="set_applock_password">Imposta password</string>
+    <string name="set_applock_password">Imposta password</string>
     <string name="ac_firstUseApplock_title">Richiedi una password per accedere alle app.</string>
     <string name="ac_firstUseApplock_subTitle">Utilizza per proteggere la tua privacy</string>
     <string name="notification_subtitle">Tocca per attivare</string>
@@ -1371,6 +1437,8 @@ o inserisci la password"</string>
     <string name="sp_scan_item_url_antispam">Protezione URL pericolosi</string>
     <string name="sp_settings_group_title_omit">Oggetti omessi</string>
     <string name="sp_settings_root_title_omit">Verifica ROOT</string>
+    <string name="sp_network_privacy_dialog_title">Impossibile verificare i pagamenti</string>
+    <string name="sp_network_privacy_dialog_message">"L'app Sicurezza non può verificare i pagamenti a causa delle limitazioni alla connessione di rete. Consentire all'app Sicurezza Security di collegarsi ad internet?"</string>
     <string name="sp_back_title_text_zero">Sicuro</string>
     <string name="sp_monitored_apps_count_zero">"Nessuna applicazione per il pagamento è protetta"</string>
     <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>
@@ -1403,6 +1471,7 @@ o inserisci la password"</string>
     <string name="optmizingbar_title_acceleration">Ottimizzazione…</string>
     <string name="optimize_result_button_see_detaills">Dettagli</string>
     <string name="optimize_result_button_open_now">Attiva</string>
+    <string name="optimize_result_button_realname_now">Verifica</string>
     <string name="optimize_result_button_update_now">Aggiorna</string>
     <string name="optimize_result_button_to_open">Attiva</string>
     <string name="optimize_result_button_to_set">Imposta</string>
@@ -1449,4 +1518,5 @@ Accertati della provenienza di questo dispositivo e contatta un centro assistenz
 Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo dispositivo e contatta un centro assistenza autorizzato Xiaomi nella tua zona per ricevere supporto."</string>
     <string name="sys_app_prot_cracked_confirm">Ho capito</string>
     <string name="sys_app_prot_cracked_login">Accedi al tuo Mi Account</string>
+    <string name="confirmSecondSpacePassword">Conferma password spazio Secondario</string>
 </resources>

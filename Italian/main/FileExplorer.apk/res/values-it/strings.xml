@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="category_default_number_text">(0)</string>
     <string name="delete_folder">\u0020Eliminare questa cartella?</string>
     <string name="delete_folders">\u0020Eliminare %1$d cartelle?</string>
     <string name="delete_file">Eliminare questo file?</string>
@@ -110,45 +109,7 @@
     <string name="no_enough_storage_indication">Spazio insufficiente, impossibile incollare. Cancella i file non necessari e riprova, oppure usa lo Strumento di Pulizia per liberare spazio.</string>
     <string name="used">Utilizzato:\u0020</string>
     <string name="loading">Caricamento…</string>
-    <string name="load_err">Caricamento fallito</string>
-    <string name="net_lose_connected">Rete non disponibile, impossibile determinare dimensione</string>
-    <string name="wangpan_root_path">Mi Drive</string>
-    <string name="kuaipan_over_space">Il tuo Mi Drive ha esaurito lo spazio.</string>
-    <string name="kuaipan_tech_support">Supporto tecnico offerto da Kingsoft Kuaipan</string>
-    <string name="no_tasks">Nessuna attività</string>
-    <string name="no_more_space">Spazio esaurito</string>
-    <string name="sd_full">La scheda SD è piena</string>
-    <string name="sd_invalid">La tua scheda SD card non è valida.</string>
-    <string name="file_too_large">Il file è troppo grande e non può essere caricato</string>
-    <string name="empty_file_upload">File vuoti non supportati.</string>
-    <string name="empty_file_download">File vuoti non supportati.</string>
-    <string name="create_new_folder_failed">Impossibile creare la cartella</string>
-    <string name="midrive_space_full">Spazio cloud non sufficiente.</string>
-    <string name="user_guide_save_file">Salvataggio di foto e file in Kuaipan.</string>
-    <string name="user_guide_kuaipan_copy">Accedi ai tuoi file da vari dispositivi utilizzando Mi Drive</string>
-    <string name="user_guide_upload_to_kuaipan">Dal tuo telefono, copia e incolla semplicemente nel Mi Drive</string>
-    <string name="user_guide_download_other_version">"Puoi anche scaricare Mi Drive per il tuo PC o Mac"</string>
-    <string name="user_guide_other_version">Accedi con il tuo Mi Account (%1$s) e scarica su mi.kuaipan.cn.</string>
-    <string name="user_guide_kuaipan_lable">Kuaipan ti ringrazia</string>
-    <string name="user_guide_continue_use">OK</string>
-    <string name="upload_file_toolarge_message">%1$d file più grandi di 300MB non possono essere caricati. Controlla Gestione Trasferimenti per maggiori dettagli.</string>
-    <string name="cution">Suggerimenti</string>
-    <string name="clean_trash_box">Cestino vuoto</string>
-    <string name="trash_box_link">Visita pan.xiaomi.com per cestino vuoto</string>
-    <string name="clean_title">Elimina i file nel cestino più vecchi di 30 giorni</string>
-    <string name="clean_message">Eliminazione %1$s</string>
-    <string name="trash_box_message1">Puoi eliminare file non necessari per liberare spazio</string>
-    <string name="trash_box_message2">Puoi eliminare file o svuotare il cestino per liberare spazio</string>
-    <string name="close">Chiudi</string>
-    <string name="space_info">KuaiPan: %1$s disponibile, %2$s totale</string>
-    <string name="quota_info">Mi Drive: %1$s disponibile, %2$s totale</string>
-    <string name="vip_info">VIP:%1$s</string>
-    <string name="trash_box_capacity">Cestino: %1$s</string>
-    <string name="data_capacity">Dati: %1$s</string>
-    <string name="send_to_kuaipan">KuaiPan</string>
-    <string name="choose_upload_location">Scegli posizione caricamento</string>
-    <string name="send_to_midrive_failed_message">Impossibile inviare a Mi Drive. Contenuto non supportato.</string>
-    <string name="operation_compress">Comprimi</string>
+    <string name="operation_compress">Compressione</string>
     <string name="compress_title">Comprimi</string>
     <string name="compress_message">Comprimi in…</string>
     <string name="compress_fail">Compressione fallita, destinazione già esistente</string>
@@ -166,27 +127,10 @@
     <string name="decompress_input_password">Inserisci password</string>
     <string name="decompress_password_error">La password inserita non è corretta.</string>
     <string name="decompress_encrypted_rar_not_supported">La crittografia dei file \".rar\" non è supportata</string>
-    <string name="kuaipan_prompt">Avviso</string>
-    <string name="kuaipan_prompt_message">"
-Il server non è momentaneamente accessibile, riprova più tardi…
-"</string>
     <string name="move_failed">Impossibile spostare</string>
-    <string name="move_failed_retry">Impossibile spostare, attendi %1$s e riprova</string>
     <string name="copy_failed">Impossibile copiare</string>
-    <string name="copy_failed_retry">Impossibile copiare, attendi %1$s e riprova</string>
-    <string name="delete_failed">Eliminazione fallita</string>
-    <string name="delete_failed_retry">Impossibile eliminare, attendi %1$s e riprova</string>
-    <string name="delete_success">File eliminato</string>
     <string name="toast_file_not_can_read">Il file non è leggibile.</string>
     <string name="extended_storage_file_can_not_open">Impossibile aprire il file. Copia il file nella memoria interna."</string>
-    <string name="ui_main_menu_option_sign_in">Accedi</string>
-    <string name="sign_description">Accesso in corso…</string>
-    <string name="signin_error">Rete momentaneamente non disponibile, riprova</string>
-    <string name="signin_success">"Accesso effettuato!
-Hai ricevuto %1$s di spazio gratuito"</string>
-    <string name="already_signin_description">"Hai già effettuato l'accesso"</string>
-    <string name="pull_to_signin">Sposta in basso per accedere e ricevere spazio gratuito</string>
-    <string name="release_to_signin">Rilascia per accedere</string>
     <string name="server_control_settings">Opzioni</string>
     <string name="server_control_advanced_settings">Opzioni FTP</string>
     <string name="server_control_charset">Codifica trasferimento</string>
@@ -214,7 +158,6 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="name_empty">Devi inserire un nome.</string>
     <string name="folder_name_illegal">Nome cartella non valido</string>
     <string name="folder_name_empty">Il nome della cartella non può essere vuoto</string>
-    <string name="folder_name_invalid">"I nomi delle cartelle non possono contenere i seguenti caratteri: /\\:*?"</string>
     <string name="unmount_inform_text">"L'archivio USB verrà smontato.</string>
     <string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Riprova più tardi.</string>
     <string name="byteShort">B</string>
@@ -376,6 +319,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="image_loading_error">"Impossibile caricare l'immagine"</string>
     <string name="ui_main_toast_favorite_added">Aggiunto correttamente</string>
     <string name="already_liked">Hai già aggiunto questo elemento</string>
+    <string name="user_guide_continue_use">OK</string>
     <string name="downloading">Download in corso</string>
     <string name="send_sticker">Invia adesivo</string>
     <string name="save_to_local">Scarica</string>
@@ -403,7 +347,6 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="move_icon_to_desktop_hint">Crea un collegamento sulla Home per File Explorer per gestire più rapidamente i file.</string>
     <string name="move_icon_to_desktop_success">Adesso puoi vedere il collegamento del File Explorer sulla Home.</string>
     <string name="clean_hint">Tocca per liberare spazio</string>
-    <string name="private_toast_hint1">Tocca per aggiungere file alle cartelle nascoste</string>
     <string name="private_toast_hint2">Per nascondere un file toccalo e tieni premuto, poi aggiungilo alla cartella nascosta.</string>
     <string name="private_toast_hint3">Tira in basso per aprire le cartelle nascoste</string>
     <string name="encrypt_success_first_five">"Crittografato correttamente. Tira in basso nella pagina principale di File Explorer per vedere i file.</string>
@@ -500,6 +443,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="hottest_sticker_str">Popolari</string>
     <string name="no_new_content_tip">"È stato aggiornato, puoi passare al più richiesto!"</string>
     <string name="share_title_1">Ho trovato un adesivo fantastico!</string>
+    <string name="video_description">Descrizione video</string>
     <string name="video_upload_btn_hint">Supporta solo video brevi da 3s a 10min in MP4</string>
     <string name="video_upload_btn">passo successivo</string>
     <string name="video_upload_title">seleziona video</string>
@@ -508,7 +452,6 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="video_comment_topic">\#aggiungi argomento#</string>
     <string name="video_comment_hint">seleziona tag di argomenti richiesti</string>
     <string name="video_comment_publish">pubblica</string>
-    <string name="video_comment_title">commento video</string>
     <string name="video_tag_search_title">Scegli un argomento</string>
     <string name="video_tag_search_hint">personalizza un argomento</string>
     <string name="uploading_video">caricamento video…</string>
@@ -520,7 +463,8 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="upload_notification_failed_content">riprova</string>
     <string name="upload_notification_success">caricamento completato</string>
     <string name="upload_notification_success_content">Il tuo video deve essere controllato prima di essere visto dagli altri utenti</string>
-    <string name="video_publish_hint">Più commenti, più successo!</string>
+    <string name="video_publish_hint">Una buona descrizione aiuterà le persone a trovare il tuo video</string>
+    <string name="video_publish_hint2">Descrizione</string>
     <string name="video_comment_limit">%1$s rimanenti</string>
     <string name="video_tag_search_lead">\#</string>
     <string name="video_data_consumption_dialog_title">Avviso consumo dati</string>
@@ -676,6 +620,14 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="recent_show">Recenti</string>
     <string name="flow_setting">Impostazioni</string>
     <string name="zero">0</string>
+    <string name="youliao_dialog_title">Nessun video di tuo interesse?</string>
+    <string name="update">Aggiorna</string>
+    <string name="youliao_ad_title">I migliori video sono stati aggiornati alla versione integrale!</string>
+    <string name="youliao_dialog_msg">" migliori video sono stati aggiornati su \"Youliao\", 
+adesso aggiornati alla versione APP integrale, vedi altro."</string>
+    <string name="youliao_ad_msg">"Adesso aggiornati alla verrsione APP integrale, buon divertimento!
+Guarda con altri 170 mililoni di Mi fans."</string>
+    <string name="youliao_ad_update">Aggiorna</string>
     <string name="setting_message_notify">Notifiche</string>
     <string name="setting_account_bind">Aggiungi account</string>
     <string name="user_setting_logout">Esci</string>
@@ -718,7 +670,23 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="rlv_pull_to_close">Trascina per chiudere</string>
     <string name="rlv_release_to_close">Rilasci aper chiudere</string>
     <string name="rlv_closing">Chiusura…</string>
-   <string name="set_pattern">Password aggiornata</string>
+    <string name="share_youliao1">Aggiorna per vedere altri episodi.</string>
+    <string name="share_youliao2">Aggiorna per vedere altri episodi.</string>
+    <string name="share_youliao3">Aggiorna per vedere altri episodi.</string>
+    <string name="share_youliao4">Aggiorna per vedere altri episodi.</string>
+    <string name="popup_msg_wx">Condividi questo video con i tuoi amici su WeChat.</string>
+    <string name="popup_msg_qq">Condividi questo video con i tuoi amici su QQ.</string>
+    <string name="video_uploaded">Caricati</string>
+    <string name="video_recommend_upload">Consigliati</string>
+    <string name="video_upload_hint">Carica video sponsorizzati per guadagnare.</string>
+    <string name="video_upload_kuaishou_hint">Carica video KuaiShou per avere più fan.</string>
+    <string name="video_upload_wechat_hint">Carica video WeChat per avere più fan.</string>
+    <string name="upload_video_failed_progress">Impossibile caricare, riprovare più tardi</string>
+    <string name="upload_video_failed_external_progress">Impossibile caricare, provarecon un altro video</string>
+    <string name="upload_video_success_progress">Caricato correttamente</string>
+    <string name="upload_video_failed">Impossibile caricare</string>
+    <string name="upload_video_success">Caricato correttamente</string>
+    <string name="set_pattern">Password aggiornata</string>
     <string name="set_pattern_msg">Imposta di nuovo la tua password. La password per la protezione della privacy funziona anche per foto e messaggi.</string>
     <string name="set_pattern_btn">Imposta</string>
     <string name="unlock_pattern_title">Nuova password</string>

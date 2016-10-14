@@ -18,15 +18,15 @@
     <string name="loading">Solo un attimo…</string>
     <string name="loading_order">Solo un attimo…</string>
     <string name="get_product_list_failed">Impossibile caricare la lista</string>
-    <string name="send_order_failed">"Couldn't send order"</string>
-    <string name="purchase_limit">You reached the top up limit</string>
-    <string name="error_type_network">Network error</string>
+    <string name="send_order_failed">"Impossibile aprire l'ordine"</string>
+    <string name="purchase_limit">Hai raggiunto il limite</string>
+    <string name="error_type_network">Errore di rete</string>
     <string name="order_price">¥ %1$s</string>
-    <string name="unable_dial_livetalk">"Can't complete call"</string>
-    <string name="dialog_call_ordinary_telephone">Use SIM</string>
-    <string name="can_not_call_self">"Can't dial own number"</string>
-    <string name="not_supported_number_content_title">Not supported</string>
-    <string name="not_supported_number_content">"Top-up package doesn't support service numbers. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
+    <string name="unable_dial_livetalk">"Impossibile completare lachiamata"</string>
+    <string name="dialog_call_ordinary_telephone">Usa la SIM</string>
+    <string name="can_not_call_self">Impossibile chiamare il proprio numero</string>
+    <string name="not_supported_number_content_title">Non supportato</string>
+    <string name="not_supported_number_content">La ricarica del pacchetto non supporta i numeri di servizio. Prova utilizzando la SIM. Il tuo operare applicherà la tariffa prevista dal tuo piano."</string>
     <string name="not_sufficient_funds_content_title">Insufficient funds</string>
     <string name="not_sufficient_funds_content">Not enough funds remaining in your account. Try using your SIM to make this call instead. Your carrier will charge you for this call.</string>
     <string name="not_activate_sim_card_content_title">"Phone number hasn't been verified"</string>
@@ -1250,6 +1250,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="msim_disable_sim_card_title">Non utilizzare più la SIM</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Potresti non essere più in grado di effettuare chiamate o utilizzare la connessione dati. Non utilizzare più la SIM %s?</string>
     <string name="msim_disable_sim_card_summary_default_card">"Questa SIM è attualmente impostata com e predefinita. Se decidi di non utilizzarla più, non sarai più in grado di effettuare chiamate o utilizzare la connessione dati. Puoi smettere di utilizzare questa SIM dopo averne impostata un'altra come predefinita."</string>
+    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Non limitare la SIM secondaria in modalità chiamata di emergenza."</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
     <string name="msim_has_been_disabled">(Disattivato)</string>
     <string name="international_roaming_setting">Roaming internazionale</string>
@@ -1400,4 +1401,5 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="sim_roaming_settings_title">Mi Roaming</string>
     <string name="sim_roaming_settings_summary">Collegati alla rete dati mobile durante il roaming</string>
     <string name="lable_network_not_supported">Non supportato dalla rete</string>
+    <string name="change_data_preference_4g_only_prompt">Sembra che tu abbia una SIM che supporta solo il 4G. Vuoi impostarla come predefinita per la rete dati mobile?</string>
 </resources>

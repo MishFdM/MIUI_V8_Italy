@@ -64,23 +64,20 @@
     <string name="pref_title_auto_update_cleanup_db">Aggiornamento automatico</string>
     <string name="pref_summary_auto_update_cleanup_db">Aggiorna alle: %s</string>
     <string name="pref_title_manual_check_cleanup_db_update">Aggiorna ora</string>
-    <string name="pref_category_title_garbage_cleanup_check">Impostazioni pulizia</string>
+    <string name="pref_category_title_garbage_cleanup_check">"Impostazioni di ottimizzazione"</string>
+    <string name="pref_summary_garbage_cleanup_check_time">"Programma l'ottimizzazione"</string>
     <string name="pref_title_garbage_cleanup_check_time">Allarme cestino</string>
     <string name="pref_summary_garbage_cleanup_check_time">Notifica quando è trascorso un certo intervallo di tempo</string>
-    <string name="pref_summary_garbage_cleanup_check_size">Notifica quando i file da rimuovere raggiungono una certa dimensione</string>
     <string name="pref_title_garbage_cleanup_check_size">Dimensione per allarme file</string>
     <string name="pref_title_garbage_cleanup_size">Limite dimensione cestino</string>
     <string name="pref_title_apps_cleanup_size">Quando la cache raggiunge</string>
     <string name="pref_title_expand_cache_group">Espandi i gruppi della cache</string>
     <string name="pref_summary_expand_cache_group">I gruppi nella lista cache saranno espansi in automatico</string>
     <string name="pref_category_title_auto_clean_settings">Ottimizza automaticamente</string>
-    <string name="pref_section_auto_clean_and_alert">Pulisci automaticamente</string>
-    <string name="pref_title_auto_clean_and_alert">Ottimizza automaticamente</string>
+    <string name="pref_title_clean_alert">Ottimizza automaticamente</string
     <string name="pref_summary_auto_clean_and_alert">"Imposta l'ottimizzazione automatica"</string>
     <string name="pref_category_title_other_clean_settings">Impostazioni aggiuntive</string>
-    <string name="pref_title_garbage_process_mode">Notifiche</string>
     <string name="pref_summary_garbage_process_mode">Imposta notifiche per la pulizia</string>
-    <string name="pref_title_garbage_auto_clean_content">Seleziona gli elementi da ottimizzare</string>
     <string name="pref_summary_garbage_auto_clean_content">Seleziona gli elementi da ottimizzare automaticamente</string>
     <string name="pref_content_cleanup_white_list_none">Nessuno</string>
     <string name="pref_title_open_optimizer_cloud_scan">Usa il motore di Pulizia online</string>
@@ -363,7 +360,6 @@
     <string name="cached_garbage">Cache</string>
     <string name="grabage_rank_title">Pulito oggi</string>
     <string name="flow_rank_title">Utilizzo dati</string>
-    <string name="unlike">No grazie</string>
     <string name="hot_today">I più richiesti oggi</string>
     <string name="see_more">Altro</string>
     <string name="sponsored">Sponsorizzati</string>
@@ -441,4 +437,5 @@
     <string name="ad_install_success_dialog_lunch">Apri</string>
     <string name="deepclean_empty">Sembra tutto OK</string>
     <string name="scanning">Scansione…</string>
+    <string name="buy_a_new_phone">Aumenta lo spazio</string>
 </resources>

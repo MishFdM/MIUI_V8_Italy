@@ -30,6 +30,9 @@
     <string name="search_group_unfold">Altro</string>
     <string name="common_setting">Impostazioni generali</string>
     <string name="recent_apps">App consigliate</string>
+    <string name="entrance_setting">RAvvio ricerca</string>
+    <string name="swipe_up_title">Scorri in alto</string>
+    <string name="swipe_up_summary">Scorri in alto per avviare la ricerca globale</string>
     <string name="suggest_open_app_failed">Impossibile aprire questa app</string>
     <string name="search_keyword_quicksearchbox">Cerca</string>
     <string name="search_path_quicksearchbox">Impostazioni/App installate/Cerca</string>
