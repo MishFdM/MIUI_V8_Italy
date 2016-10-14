@@ -411,7 +411,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
     <string name="simple_mode_button_text_mono">Disattiva Mono</string>
     <string name="title_snap_double_confirm">Conferma di nuovo</string>
     <string name="message_snap_double_confirm">La funzione attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
-    <string name="snap_confirmed">Confirma</string>
+    <string name="snap_confirmed">Conferma</string>
     <string name="snap_cancel">Annulla</string>
     <string name="pref_camera_raw_title">RAW</string>
     <string name="simple_mode_button_text_raw">Disattiva RAW</string>
