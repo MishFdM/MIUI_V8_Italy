@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
-    <string name="browser_scan_history_desc">Cronologi browser</string>
+    <string name="browser_scan_history_desc">Cronologia browser</string>
     <string name="browser_search_history_desc">Oggetti ricercati</string>
     <string name="call_log">Registro chiamate</string>
     <string name="clip_board_history_desc">Contenuti copiati/tagliati</string>
@@ -74,7 +74,7 @@
     <string name="pref_title_expand_cache_group">Espandi i gruppi della cache</string>
     <string name="pref_summary_expand_cache_group">I gruppi nella lista cache saranno espansi in automatico</string>
     <string name="pref_category_title_auto_clean_settings">Ottimizza automaticamente</string>
-    <string name="pref_title_clean_alert">Ottimizza automaticamente</string
+    <string name="pref_title_clean_alert">Ottimizza automaticamente</string>
     <string name="pref_summary_auto_clean_and_alert">"Imposta l'ottimizzazione automatica"</string>
     <string name="pref_category_title_other_clean_settings">Impostazioni aggiuntive</string>
     <string name="pref_summary_garbage_process_mode">Imposta notifiche per la pulizia</string>
