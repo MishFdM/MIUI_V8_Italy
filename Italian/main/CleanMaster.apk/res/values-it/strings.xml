@@ -67,7 +67,6 @@
     <string name="pref_category_title_garbage_cleanup_check">"Impostazioni di ottimizzazione"</string>
     <string name="pref_summary_garbage_cleanup_check_time">"Programma l'ottimizzazione"</string>
     <string name="pref_title_garbage_cleanup_check_time">Allarme cestino</string>
-    <string name="pref_summary_garbage_cleanup_check_time">Notifica quando è trascorso un certo intervallo di tempo</string>
     <string name="pref_title_garbage_cleanup_check_size">Dimensione per allarme file</string>
     <string name="pref_title_garbage_cleanup_size">Limite dimensione cestino</string>
     <string name="pref_title_apps_cleanup_size">Quando la cache raggiunge</string>
