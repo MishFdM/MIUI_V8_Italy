@@ -800,10 +800,6 @@
         <item>Altissima (2K)</item>
         <item>Normale (720p)</item>
     </string-array>
-    <string-array name="screen_resolution_values">
-        <item>1440</item>
-        <item>720</item>
-    </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
         <item>M</item>

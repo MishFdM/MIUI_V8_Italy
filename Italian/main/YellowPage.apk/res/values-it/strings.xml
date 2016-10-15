@@ -170,7 +170,6 @@
     <string name="recharge_input_phone_title">Digita numero di telefono (China mobile, China Unicom, o China Telecom)</string>
     <string name="recharge_select_money_title">Selezionare totale ricarica</string>
     <string name="recharge_charge_range">Prezzo:¥%1$s-%2$s</string>
-    <string name="recharge_charge_value">Prezzo:¥%s</string>
     <string name="recharge_pay">Ricarica adesso</string>
     <string name="mishop_web_payment_title">Pagamento Mi Store</string>
     <string name="recharge_pay_hint_license">Notifica ricarica</string>
@@ -347,7 +346,6 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="balance_inquiry_send_sms_hint">Verrà inviato un SMS gratuito per richiedere il tuo saldo</string>
     <string name="balance_inquiry_send_sms_summmary">Controlla il saldo</string>
     <string name="balance_inquiry_send_sms_fail_hint">Impossibile inviare SMS. Verifica lo stato della SIM.</string>
-    <string name="navigation_search_default_hint">Digita la parola che vuoi cercare (e.s. xiaomi)</string>
     <string name="navigation_search_automatically_positioned_city">Città attuale</string>
     <string name="navigation_search_positioning">Ricerca posizione…</string>
     <string name="navigation_search_positioning_failed">Impossibile localizzare città</string>

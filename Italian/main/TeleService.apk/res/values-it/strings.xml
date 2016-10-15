@@ -37,7 +37,6 @@
     <string name="livetalk_white_list_number_title">White list senza utilizzo di pacchetto di ricarica</string>
     <string name="operator_first_title">Prima operatore</string>
     <string name="operator_remain_mins">Minuti pacchetto operatore</string>
-    <string name="operator_remain_mins_value">%1$s minuti</string>
     <string name="operator_first_set_failed">Fallito</string>
     <string name="operator_first_sim_card_changed_title">Modifica SIM</string>
     <string name="operator_first_sim_card_changed_summary">Reset operator package minutes</string>
@@ -342,8 +341,6 @@ Use it for Top-up package?"</string>
     <string name="ringtone_silent">Nessuna</string>
     <string name="ringtone_unknown">Suoneria sconosciuta</string>
     <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-    <string name="ui_default_package">com.android.dialer</string>
-    <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
     <string name="carrier_settings"/>
     <string name="carrier_settings_menu"/>
     <string name="config_disable_cdma_activation_code">false</string>
@@ -931,7 +928,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrazione</string>
     <string name="voicemail_visual_voicemail_switch_title">Visual voicemail</string>
     <string name="voicemail_notification_ringtone_title">Suona</string>
-    <string name="voicemail_notification_vibrate_when_default">mai</string>
     <string name="preference_category_ringtone">Suoneria e vibrazione</string>
     <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="pstn_connection_service_label">Built-in SIM</string>
@@ -1244,7 +1240,6 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="msim_pref_title_voice">Chiamata</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_not_set_summary">Non impostato</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
     <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Internet, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Lo slot SIM 2 supporta solo reti GSM. LA rete preferita per questo slot è stata modificata in solo 2G.</string>
     <string name="msim_disable_sim_card_title">Non utilizzare più la SIM</string>

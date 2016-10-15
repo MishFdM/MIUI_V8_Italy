@@ -160,7 +160,6 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="datausage_ignore_app_list_count">Utilizzo dati ignorato per %d app</string>
     <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
     <string name="free_time_traffic">Limite dati fuori soglia</string>
-    <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_start_time_summary_na">Da</string>
     <string name="power_save_on_time_end_time_summary_na">A</string>
     <string name="manual_input_traffic">Imposta utilizzo dati</string>
@@ -489,9 +488,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_onekey_repair_botton">Correggi</string>
     <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
     <string name="tc_diagnostic_upload_button">Riporta</string>
-    <string name="tc_diagnostic_fragment_default">"Sulla diagnostica
-1. Il dispositivo si connetterà alla rete dell'operatore e invierà un messaggio gratuito aspettando la risposta dell'operatore. Questo può richidere più di 5 minuti.
-2. Puoi chiudere questa pagina durante la diagnostica perché proseguirà anche in background."</string>
     <string name="sim_location_diagnostic">Diagnostica posizione</string>
     <string name="operator_diagnostic">Diagnostica operatore</string>
     <string name="brand_diagnostic">Diagnostica nome operatore</string>

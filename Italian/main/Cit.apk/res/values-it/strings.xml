@@ -146,10 +146,6 @@ Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'alto
     <string name="cit_audio_cali_playing">Premi il pulsante per iniziare la calibrazione</string>
     <string name="cit_audio_cali_file_existed">File musicale inesistente, la calibrazione non può essere effettuata!</string>
     <string name="cit_audio_cali_done">Calibrazione eseguita</string>
-    <string name="cit_audio_cali_valueR">Ref_diff:</string>
-    <string name="cit_audio_cali_valueT">Temp_acc:</string>
-    <string name="cit_audio_cali_valueF0">F0:</string>
-    <string name="cit_audio_cali_valueC">"Contatore: "</string>
     <string name="cit_audio_cali_failed">Calibrazione fallita. Riprova.</string>
     <string name="cit_aud_spkcal">Calibra</string>
     <string name="cit_audio_calibrating">Calibrazione in corso…</string>

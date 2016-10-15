@@ -141,10 +141,6 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
     <string name="cit_audio_cali_playing">Press button to do calibration</string>
     <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
     <string name="cit_audio_cali_done">Calibration Done!</string>
-    <string name="cit_audio_cali_valueR">Ref_diff:</string>
-    <string name="cit_audio_cali_valueT">Temp_acc:</string>
-    <string name="cit_audio_cali_valueF0">F0:</string>
-    <string name="cit_audio_cali_valueC">Counter:</string>
     <string name="cit_audio_cali_failed">Calibration Failed, please Retry!</string>
     <string name="cit_aud_spkcal">Calibrate</string>
     <string name="cit_audio_calibrating">Calibrazione in corso…</string>

@@ -303,9 +303,6 @@
     <string name="date_message_received">%1$s, %2$s</string>
     <string name="date_message_received_today">Oggi, %1$s</string>
     <string name="default_">PREDEFINITO</string>
-    <string name="default_exchange">EXCHANGE</string>
-    <string name="default_imap">IMAP</string>
-    <string name="default_pop3">POP3</string>
     <string name="default_setup">IMPOSTAZIONI PREDEFINITE</string>
     <string name="default_signature">Inviato tramite Xiaomi</string>
     <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
@@ -839,7 +836,6 @@
     <string name="ser_resp_err_map_serclosed">Servizio chiuso</string>
     <string name="ser_resp_err_map_ssl">"Prova a selezionare 'SSL/TLS (Accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
     <string name="set_network">Imposta rete</string>
-    <string name="setting_default_lable"/>
     <string name="settings_activity_title">Impostazioni</string>
     <string name="share_choose">Scegli cosa condivedere</string>
     <string name="sharing">Condividi</string>

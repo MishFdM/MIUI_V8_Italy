@@ -104,10 +104,6 @@
     <string name="status_bar_screen_key_back">Tasto indietro</string>
     <string name="additional_system_update"/>
     <string name="additional_system_update_menu"/>
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_always_show_value">1</string>
-    <string name="input_method_selector_always_hide_value">2</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
     <string name="yes">Sì</string>
     <string name="no">No</string>
     <string name="create">Crea</string>
@@ -1263,8 +1259,6 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="license_title">Licenza</string>
     <string name="terms_title">Termini e condizioni</string>
     <string name="wallpaper_attributions">Sfondi</string>
-    <string name="wallpaper_attributions_values">"Satelliti utilizzati per le immagini:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Licenze open source</string>
     <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
     <string name="settings_license_activity_loading">Caricamento…</string>

@@ -367,9 +367,6 @@
     <string name="pref_camera_snap_entry_take_picture">Foto</string>
     <string name="pref_camera_snap_entry_take_movie">Video</string>
     <string name="pref_camera_snap_entry_off">Disattivato</string>
-    <string name="pref_camera_snap_value_take_picture">Foto</string>
-    <string name="pref_camera_snap_value_take_movie">Video</string>
-    <string name="pref_camera_snap_value_off">Disattivato</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva.</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
     <string name="simple_mode_button_text_tilt_shift">Disattiva Tilt-shift</string>

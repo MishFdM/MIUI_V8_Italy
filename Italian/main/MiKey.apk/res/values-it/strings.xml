@@ -27,8 +27,6 @@
     <string name="setting_key_silent">key_silent</string>
     <string name="setting_key_mode_silent_open">key_silent_default</string>
     <string name="setting_key_mode_dust_cap">key_dust_cap</string>
-    <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
-    <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
     <string name="app_name">Mi Key</string>
     <string name="tab_mikey">Mi Key</string>
     <string name="tab_mikey_sprite">Wizard</string>
@@ -131,7 +129,6 @@
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
     <string name="splash_tip">Collega Mi Key</string>
-    <string name="default_action_title">Azione predefinita</string>
     <string name="action_home">Home</string>
     <string name="action_key_direction">Direzione</string>
     <string name="action_key_enter">Invio</string>
@@ -182,7 +179,6 @@ dal cellulare puoi scorrere lo slide in basso per usarla"</string>
     <string name="setting_instant_photo_text">Prima metti a fuoco</string>
     <string name="setting_vibrate_text">Risposta vibrazione</string>
     <string name="setting_silent_mode">Modalità silenziosa</string>
-    <string name="setting_silent_mode_default">Modalità Cuffie (Scollega Mi Key)</string>
     <string name="setting_silent_mode_dust_cap">Anti-polvere (Mi Key)</string>
     <string name="setting_silent_mode_desc">"Se si desidera collegare l'auricolare, selezionare la modalità cuffia e scollegare il Mi Key. In caso contrario, l'uscita audio non funzionerà correttamente."</string>
     <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini 

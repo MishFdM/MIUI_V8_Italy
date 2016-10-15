@@ -169,7 +169,6 @@
     <string name="defaultname">Kit auto</string>
     <string name="unknownName">Nome sconosciuto</string>
     <string name="localPhoneName">Il mio nome</string>
-    <string name="defaultnumber">000000</string>
     <string name="bluetooth_sap_notif_title">Accesso SIM bluetooth</string>
     <string name="bluetooth_sap_notif_ticker">Accesso SIM bluetooth</string>
     <string name="bluetooth_sap_notif_message">Richiedere la disconnessione?</string>

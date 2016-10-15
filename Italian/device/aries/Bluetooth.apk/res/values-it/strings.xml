@@ -142,7 +142,6 @@
     <string name="defaultname">Kit auto</string>
     <string name="unknownName">Nome sconosciuto</string>
     <string name="localPhoneName">Il mio nome</string>
-    <string name="defaultnumber">000000</string>
     <string name="hello">Hello World, TestActivity</string>
     <string name="app_name">Condivisione Bluetooth</string>
     <string name="insert_record">Inserisci record</string>

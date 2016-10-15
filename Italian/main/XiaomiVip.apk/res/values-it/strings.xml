@@ -11,7 +11,6 @@
     <string name="cube_ptr_hours_ago"> ore fa</string>
     <string name="app_name">Xiaomi Vip</string>
     <string name="level">Livello</string>
-    <string name="level_exp_value" formatted="false">%d/%d</string>
     <string name="level_detail">Limite operazioni giornaliere: %d</string>
     <string name="action">Mostra</string>
     <string name="task">Operazioni</string>

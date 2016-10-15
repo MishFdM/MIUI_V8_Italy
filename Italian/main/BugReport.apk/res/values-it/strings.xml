@@ -61,7 +61,6 @@
     <string name="michat_skillset_product_title">Seleziona il prodotto</string>
     <string name="michat_skillset_business_type_title">Seleziona il dispositivo</string>
     <string name="michat_close_text">Chat terminata</string>
-    <string name="default_text_view">TextView</string>
     <string name="michat_message_robot_welcome">Il mio nome è Mi Bunny. Sono il tuo assistente online.</string>
     <string name="michat_message_join_again">Siamo felici di rivederti!"</string>
     <string name="michat_invalid_url">URL non valido</string>

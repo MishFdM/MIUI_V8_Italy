@@ -110,7 +110,6 @@
     <string name="continue_play">Riproduci</string>
     <string name="section">In evidenza</string>
     <string name="get_channel_failed">Non è stato possibile raccogliere informazioni su questo canale</string>
-    <string name="default_cp_name">Uscita FM</string>
     <string name="impunity_declaration_title">Connessione Internet</string>
     <string name="impunity_declaration">"La radio richiede la connessione ad internet e l'accesso alla tua posizione per funzionare correttamente."</string>
     <string name="impunity_declaration_ignore">Non mostrare più</string>

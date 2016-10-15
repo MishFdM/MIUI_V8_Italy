@@ -184,7 +184,6 @@ Attiva questa funzione da Impostazioni > Sistema > Tasti"</string>
     <string name="softap_notifif_title">Hotspot \"%s\" attivato</string>
     <string name="softap_notifif_summary">%d collegato(i)</string>
     <string name="maml_component_customization_title">Impostazioni</string>
-    <string name="default_name">Predefinito</string>
     <string name="resource_select">Seleziona</string>
     <string name="screen_paper_mode_enter_toast">Modalità lettura attivata. Puoi attivare/disattivare questa funzione in qualsiasi momento da Impostazioni aggiuntive > Modalità Lettura.</string>
 </resources>

@@ -74,7 +74,6 @@
     <string name="change_setting_for_twonewsim">"Nuova SIM rilevata. Le impostazioni SIM predefinite sono:"</string>
     <string name="new_sim_setting_prompt">Le impostazioni SIM predefinite sono:</string>
     <string name="change_settings">Cambia</string>
-    <string name="default_sim_removed">SIM predefinita rimossa</string>
     <string name="change_setting_for_removesim">"Alcune schede SIM sono rimosse. Le impostazioni SIM predefinite sono:"</string>
     <string name="keyguard_voicecall">Chiamata vocale:</string>
     <string name="keyguard_sms">SMS:</string>

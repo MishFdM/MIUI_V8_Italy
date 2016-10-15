@@ -18,7 +18,6 @@
     <string name="learn_more_link">Scopri di più</string>
     <string name="cancel_setup">Annulla</string>
     <string name="ok_setup">OK</string>
-    <string name="default_managed_profile_name">Profilo di lavoro</string>
     <string name="delete_profile_title">Rimuovere il profilo di lavoro?</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Esiste già un profilo di lavoro ed è gestito da:</string>
     <string name="opening_paragraph_delete_profile_known_company">Questo profilo di lavoro è gestito per %s utilizzando:</string>
@@ -40,7 +39,6 @@
     <string name="managed_provisioning_not_supported_by_launcher">Il tuo profilo di lavoro non è supportato da questo launcher. Devi passare ad un launcher compatibile.</string>
     <string name="cancel_provisioning">Annulla</string>
     <string name="pick_launcher">OK</string>
-    <string name="default_owned_device_username">Utenza di lavoro</string>
     <string name="setup_work_device">Imposta il tuo dispositivo</string>
     <string name="progress_data_process">Dati in elaborazione...</string>
     <string name="progress_connect_to_wifi">Connessione alla rete Wi-Fi...</string>

@@ -199,10 +199,6 @@
     <string name="screen_button">Tasti virtuali</string>
     <string name="additional_system_update"/>
     <string name="additional_system_update_menu"/>
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_always_show_value">1</string>
-    <string name="input_method_selector_always_hide_value">2</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
     <string name="category_key_wireless">com.android.settings.category.wireless</string>
     <string name="category_key_device">com.android.settings.category.device</string>
     <string name="category_key_personal">com.android.settings.category.personal</string>
@@ -1422,8 +1418,6 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="terms_title">Termini e condizioni</string>
     <string name="webview_license_title">System WebView License</string>
     <string name="wallpaper_attributions">Sfondi</string>
-    <string name="wallpaper_attributions_values">"Satelliti utilizzati per le immagini:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Licenze open source</string>
     <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
     <string name="settings_license_activity_loading">Caricamento…</string>
@@ -2599,7 +2593,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="restriction_menu_change_pin">Cambia PIN</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
     <string name="help_label">Guida</string>
-    <string name="help_uri_default"/>
     <string name="help_uri_dashboard"/>
     <string name="help_uri_beam"/>
     <string name="help_uri_display"/>

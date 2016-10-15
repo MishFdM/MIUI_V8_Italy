@@ -28,8 +28,6 @@
     <string name="config_tether_apndata" />
     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
     <string name="config_datause_iface">rmnet0</string>
-    <string name="config_default_dns_server">8.8.8.8</string>
-    <string name="gsm_alphabet_default_charset" />
     <string name="config_useragentprofile_url" />
     <string name="config_isoImagePath" />
     <string name="config_ntpServer">2.android.pool.ntp.org</string>
@@ -1172,10 +1170,8 @@ Utilizzare un volume molto alto per lunghi periodi può danneggiare l'udito."</s
     <string name="pinpuk_attempts">"
 Tentativi rimasti:"</string>
     <string name="media_route_chooser_grouping_done">OK</string>
-    <string name="default_text_encoding">Latin-1</string>
     <string name="progress_unmounting_internal">Rimozione archivio interno…</string>
     <string name="progress_erasing_internal">"Cancellazione dell'archivio interno…"</string>
-    <string name="config_defaultDreamComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
     <string name="month_long_standalone_january">Gennaio</string>
     <string name="month_long_standalone_february">Febbraio</string>
     <string name="month_long_standalone_march">Marzo</string>
@@ -1328,7 +1324,6 @@ Tentativi rimasti:"</string>
     <string name="lockscreen_sim_pin_blocked">PIN1 Bloccato! Inserire PUK1 per sbloccare PIN1.</string>
     <string name="lockscreen_ruim_pin_blocked">PIN1 Bloccato! Inserire PUK1 per sbloccare PIN1.</string>
     <string name="wifi_available_sign_in_detailed">%1$s</string>
-    <string name="default_permission_group">Predefinito</string>
     <string name="permissions_format">%1$s, %2$s</string>
     <string name="perms_hide" />
     <string name="perms_show_all" />
@@ -1337,5 +1332,4 @@ Tentativi rimasti:"</string>
     <string name="managed_roaming_dialog_ok_button">Sì</string>
     <string name="managed_roaming_dialog_cancel_button">No</string>
     <string name="status_bar_device_locked">Dispositivo bloccato.</string>
-    <string name="default_audio_route_name_hdmi">Audio HDMI</string>
 </resources>
