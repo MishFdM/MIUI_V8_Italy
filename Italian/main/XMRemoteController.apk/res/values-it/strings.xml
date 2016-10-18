@@ -694,7 +694,7 @@
     <string name="passport_register">Crea un account</string>
     <string name="passport_register_account_goto_email">Vai alla tua email</string>
     <string name="passport_register_account_verified_confirm">Tu hai già verificato il tuo account</string>
-    <string name="passport_register_by_email"><u>Crea un account usando l'indirizzo email</u></string>
+    <string name="passport_register_by_email"><u>"Crea un account usando l'indirizzo email"</u></string>
     <string name="passport_relogin">Accedi di nuovo</string>
     <string name="passport_relogin_notice">Tu hai bisogno di accedere di nuovo</string>
     <string name="passport_remove_account_notice">帐号退出后，您要如何处理手机上的联系人和便签？</string>
