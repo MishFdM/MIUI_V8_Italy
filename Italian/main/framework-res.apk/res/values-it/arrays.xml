@@ -37,6 +37,27 @@
         <item>Altro</item>
         <item>Personalizzato</item>
     </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Prova di nuovo</item>
+        <item></item>
+        <item></item>
+        <item>Copri il sensore completamente e premi</item>
+        <item></item>
+        <item>Copri il sensore completamente e premi</item>
+        <item>Copri il sensore completamente e premi</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Copri il sensore completamente e premi</item>
+        <item>Copri il sensore completamente e premi</item>
+        <item>Troppo veloce! Impronta non riconosciuta</item>
+        <item>Sposta leggermente il dito e riprova</item>
+        <item>Solleva il dito e posizionalo di nuovo sul sensore</item>
+        <item>"Tieni il dito sul sensore un po' più a lungo"</item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Casa</item>
         <item>Lavoro</item>
