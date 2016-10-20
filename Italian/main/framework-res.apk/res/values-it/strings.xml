@@ -62,7 +62,6 @@
     <string name="config_customAdbPublicKeyConfirmationSecondaryUserComponent">com.android.systemui/com.android.systemui.usb.UsbDebuggingSecondaryUserActivity</string>
     <string name="config_customVpnConfirmDialogComponent">com.android.vpndialogs/com.android.vpndialogs.ConfirmDialog</string>
     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
-    <string name="config_defaultNetworkScorerPackageName" />
     <string name="config_persistentDataPackageName">com.google.android.gms</string>
     <string name="config_webViewPackageName">com.google.android.webview</string>
     <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
