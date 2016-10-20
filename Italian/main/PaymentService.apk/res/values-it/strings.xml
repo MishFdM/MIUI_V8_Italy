@@ -19,7 +19,6 @@
     <string name="mibi_format_bill_date">d/M/yyyy</string>
     <string name="mibi_colon">": "</string>
     <string name="mibi_unit">Mi Credit</string>
-    <string name="mibi_unit_value">%1$s Mi Credit</string>
     <string name="mibi_illegal_intent">Illegal intent request</string>
     <string name="mibi_label_pay_remain">Amount due: %1$s Mi Credits</string>
     <string name="mibi_label_balance">Saldo</string>
@@ -89,10 +88,6 @@ Please contact Xiaomi customer service."</string>
     <string name="mibi_recharge_grid_money_picker_hint">Select amount</string>
     <string name="mibi_recharge_grid_mibi_picker_hint">Choose amount</string>
     <string name="mibi_other_denomiantion">Select amount</string>
-    <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Credits</string>
-    <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Credits</string>
-    <string name="mibi_recharge_value_money_with_tip">"Purchase CNY %s worth of Mi Credits &lt;font color=red>(Can't spend Mi Credits at Mi.com)&lt;/font>"</string>
-    <string name="mibi_recharge_value_money_with_tip_special_unit">"Purchase %1$s %2$s worth of Mi Credits &lt;font color=red>(Can't spend Mi Credits at Mi.com)&lt;/font>"</string>
     <string name="mibi_recharge_grid_error_denomination">Amount must be between Mi Credits %1$s and %2$s.</string>
     <string name="mibi_paytool_error_install">Failed to install %1$s mobile security plugin</string>
     <string name="mibi_paytool_error_msp">%1$s failed</string>
@@ -111,7 +106,6 @@ Please contact Xiaomi customer service."</string>
     <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"Selected nominal value must be consistent with that of the prepaid card. Choosing another value will void the card. This action can't be undone."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red>￥%1$s&lt;/font>, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
-    <string name="mibi_prepaid_picker_title_default">Select amount</string>
     <string name="mibi_prepaid_picker_title_selected">amount</string>
     <string name="mibi_prepaid_number_edit_hint">Number</string>
     <string name="mibi_prepaid_password_edit_hint">Password</string>
