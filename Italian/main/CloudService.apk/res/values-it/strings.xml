@@ -499,6 +499,6 @@ Ultimo backup: %2$s"</string>
     <string name="passed_synced_time_sec">Sincronizzato %d sec fa</string>
     <string name="passed_synced_time_min">Sincronizzato %d min fa</string>
     <string name="passed_synced_time_hour">Sincronizzato %1$do %2$dm fa</string>
-    <string name="passed_synced_time_day">Sincronizzato %dd fa</string>
+    <string name="passed_synced_time_day">Sincronizzato %dg fa</string>
     <string name="cloud_storage_is_full">Pieno</string>
 </resources>
