@@ -428,7 +428,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="router_download_exist">Questo file scaricato esiste già</string>
     <string name="select_download_device">Scegli dispositivo</string>
     <string name="file_picker">Seleziona percorso</string>
-    <string name="file_name">Nome</string>
+    <string name="file_name">File:</string>
     <string name="file_dir">Cartella</string>
     <string name="storage_internal">Memoria interna</string>
     <string name="storage_sd_card">Scheda SD</string>
