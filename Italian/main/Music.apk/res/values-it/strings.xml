@@ -812,8 +812,9 @@ attendere o selezionare Musica Online."</string>
     <string name="talkback_share">Condividi</string>
     <string name="talkback_mode">Ripetizione playlist</string>
     <string name="talkback_device">Riproduci su altri dispositivi</string>
-    <string name="talkback_more">Altri menu</string>
+    <string name="talkback_more">Altri menù</string>
     <string name="talkback_favorite">Mi piace</string>
-    <string name="talkback_progress">Barr aprogresso</string>
+    <string name="talkback_progress">Barra progresso</string>
     <string name="talkback_back">Indietro</string>
+	<string name="my_music">Musica</string>
 </resources>
