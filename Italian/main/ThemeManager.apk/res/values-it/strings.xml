@@ -399,4 +399,8 @@
     <string name="incompatible_dialog_title">Problemi di compatibilità</string>
     <string name="incompatible_dialog_message">Questo tema non è pienamente compatibile con MIUI 8. Alcuni elementi potrebbero non essere visualizzati correttamente.</string>
     <string name="incompatible_dialog_ok">OK</string>
+    <string name="multi_sim_ringtone_settings_dialog_title">Problemi di compatibilità</string>
+    <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
+    <string name="multi_sim_ringtone_settings_dialog_remind_never">Non mostrare più</string>
+    <string name="multi_sim_ringtone_settings_dialog_ok">Ho capito</string>
 </resources>

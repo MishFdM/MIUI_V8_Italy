@@ -67,6 +67,7 @@
     <string name="pref_category_title_garbage_cleanup_check">"Impostazioni di ottimizzazione"</string>
     <string name="pref_summary_garbage_cleanup_check_time">"Programma l'ottimizzazione"</string>
     <string name="pref_title_garbage_cleanup_check_time">Allarme cestino</string>
+    <string name="pref_summary_garbage_cleanup_check_size">Pulisci automaticamente quando il cestino raggiunge una certa dimensione</string>
     <string name="pref_title_garbage_cleanup_check_size">Dimensione per allarme file</string>
     <string name="pref_title_garbage_cleanup_size">Limite dimensione cestino</string>
     <string name="pref_title_apps_cleanup_size">Quando la cache raggiunge</string>
@@ -188,6 +189,7 @@
     <string name="dialog_title_uninstall_apps">Disinstalla</string>
     <string name="dialog_title_backup_and_uninstall_apps">Backup e disinstallazione</string>
     <string name="dialog_msg_uninstall_apps">Disinstallare queste app?</string>
+    <string name="dialog_msg_uninstall_apps_xspace">Disinstallare queste app?（including clone apps）?</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Eseguire il backup e quindi disinstallare queste app?</string>
     <string name="toast_backup_is_running">Backup in corso. Riprova più tardi.</string>
     <string name="toast_backup_uninstall_failed">Impossibile eseguire il backup di %d app. Riprova più tardi.</string>

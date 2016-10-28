@@ -34,8 +34,25 @@
     <string name="swipe_up_title">Scorri in alto</string>
     <string name="swipe_up_summary">Scorri in alto per avviare la ricerca globale</string>
     <string name="suggest_open_app_failed">Impossibile aprire questa app</string>
+    <string name="top_clicked">Frequent items</string>
     <string name="search_keyword_quicksearchbox">Cerca</string>
     <string name="search_path_quicksearchbox">Impostazioni/App installate/Cerca</string>
+    <string name="permission_prompt_title">Cerchi altro?</string>
+    <string name="permission_prompt_detail">Cerca film, libri, musica ed altro.</string>
+    <string name="permission_prompt_start">Consenti</string>
+    <string name="permission_prompt_started_info">Hai consentito la ricerca globale</string>
+    <string name="switch_prompt_title">Non riesci a trovare %s?</string>
+    <string name="switch_prompt_ignore">Ignora</string>
+    <string name="switch_prompt_set">Mostraopzioni</string>
+    <string name="switch_prompt_title_default">Non riesci a tovare ciò che cerchi?</string>
+    <string name="switch_online">Online</string>
+    <string name="switch_notes">Note</string>
+    <string name="switch_application">App</string>
+    <string name="switch_file">File</string>
+    <string name="switch_browser">Browser</string>
+    <string name="switch_mms">Messaggi</string>
+    <string name="switch_contacts">Contatti</string>
+    <string name="switch_setting">Impostrazioni</string>
     <string name="apps_search_activity" />
     <string name="xiaomi_suggest_base" />
     <string name="xiaomi_homepage_suggest" />
@@ -47,7 +64,7 @@
     <string name="baidu_search_url_from_default">http://www.google.com/search?q=%s&amp;tn=ins</string>
     <string name="xiaomi_hint" />
     <string name="hot_words" />
-	<string name="xiaomi_hot_query" />
+    <string name="xiaomi_hot_query" />
     <string name="app_name">Cerca</string>
     <string name="search_widget">Cerca</string>
     <string name="remove_from_history">Rimuovi dalla cronologia</string>

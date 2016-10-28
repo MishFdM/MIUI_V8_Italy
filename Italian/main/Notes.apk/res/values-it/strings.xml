@@ -65,6 +65,7 @@ Tocca il tasto \"+\" per creare una cartella"</string>
     <string name="hint_cannot_view_hidden_note_content">Impossibile vedere il contenuto delle note nascoste</string>
     <string name="alert_title_restore">Ripristina nota</string>
     <string name="alert_message_restore">Impossibile aprire questa nota. Ripristina per modificarne il contenuto.</string>
+    <string name="note_sort_way">Scegli come vuoi ordinare le note</string>
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
