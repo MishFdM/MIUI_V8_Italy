@@ -24,7 +24,6 @@
     <string name="color_picker_button_more">Altro</string>
     <string name="color_picker_hue">Colore</string>
     <string name="color_picker_saturation">Saturazione</string>
-    <string name="color_picker_value">Valore</string>
     <string name="color_picker_button_set">Imposta</string>
     <string name="color_picker_button_cancel">Annulla</string>
     <string name="color_picker_dialog_title">Seleziona colore</string>
@@ -69,7 +68,6 @@
     <string name="last_month">Mese scorso</string>
     <string name="older">Più vecchi</string>
     <string name="js_dialog_title">La pagina \" %s \" dice:</string>
-    <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload_title">Conferma navigazione</string>
     <string name="js_dialog_before_unload_positive_button">Abbandona questa pagina</string>
     <string name="js_dialog_before_unload_negative_button">Resta su questa pagina</string>

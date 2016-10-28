@@ -1419,8 +1419,6 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="terms_title">Termini e condizioni</string>
     <string name="webview_license_title">System WebView License</string>
     <string name="wallpaper_attributions">Sfondi</string>
-    <string name="wallpaper_attributions_values">"Immagini satellitari fornite da:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Licenze open source</string>
     <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
     <string name="settings_license_activity_loading">Caricamento…</string>
@@ -2597,7 +2595,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="restriction_menu_change_pin">Cambia PIN</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
     <string name="help_label">Guida</string>
-    <string name="help_uri_default" />
     <string name="help_uri_dashboard"/>
     <string name="help_uri_beam"/>
     <string name="help_uri_display"/>
