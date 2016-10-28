@@ -91,6 +91,7 @@
     <string name="music_audio_effect_optimize">Impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>
+    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HDSound, cuffie ed altre impostazioni audio</string>
     <string name="music_headset_settings">Auricolari</string>
     <string name="music_headset_button_settings">Assegna tasti remoti</string>
     <string name="music_headset_mode_settings">Tasti remoti cuffie</string>
@@ -108,7 +109,7 @@
     <string name="music_headset_no_contected">Auricolari non rilevati</string>
     <string name="music_headset_calibrate_wrong_key">Questo è il pulsante sbagliato</string>
     <string name="music_hifi_title">Audio Hi-Fi</string>
-    <string name="music_hifi_volume">Volume Hi-Fi</string>
+    <string name="music_hd_title">Audio HD Sound</string>
     <string name="music_hifi_summary">Riduce disturbo e distorsione ed aumenta la qualità audio</string>
     <string name="music_mi_effect_title">Miglioramento Mi Sound</string>
     <string name="music_mi_effect_summary">Utilizza il miglioramento Mi Sound quando utilizzi le cuffie</string>
@@ -133,7 +134,7 @@
     <string name="music_audio_effect_settings">Impostazioni audio</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
-    <string name="music_title_dolby_control">DOLBY</string>
+    <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_dolby_mode_off">Disattivato</string>
     <string name="music_dolby_mode_music">Musica</string>
     <string name="music_dolby_mode_movie">Film</string>
@@ -1418,6 +1419,8 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="terms_title">Termini e condizioni</string>
     <string name="webview_license_title">System WebView License</string>
     <string name="wallpaper_attributions">Sfondi</string>
+    <string name="wallpaper_attributions_values">"Immagini satellitari fornite da:
+©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Licenze open source</string>
     <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
     <string name="settings_license_activity_loading">Caricamento…</string>
@@ -1680,7 +1683,8 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="user_dict_settings_edit_dialog_title">Modifica parola</string>
     <string name="user_dict_settings_context_menu_edit_title">Modifica</string>
     <string name="user_dict_settings_context_menu_delete_title">Elimina</string>
-    <string name="user_dict_settings_empty_text">Non sono presenti parole nel dizionario utente. Puoi aggiungere una parola toccando il pulsante Aggiungi (+).</string>
+    <string name="user_dict_settings_empty_text">"Non sono presenti parole nel dizionario utente.
+Aggiungi una parola toccando il tasto +."</string>
     <string name="user_dict_settings_all_languages">Per tutte le lingue</string>
     <string name="user_dict_settings_more_languages">Altre lingue…</string>
     <string name="testing">Verifica…</string>
@@ -2593,6 +2597,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="restriction_menu_change_pin">Cambia PIN</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
     <string name="help_label">Guida</string>
+    <string name="help_uri_default" />
     <string name="help_uri_dashboard"/>
     <string name="help_uri_beam"/>
     <string name="help_uri_display"/>
@@ -3694,6 +3699,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="nearby_wifi">Reti disponibili</string>
     <string name="delete_saved_network">Elimina la rete salvata</string>
     <string name="batch_delete_saved_network">Eliminare la rete salvata: %s?</string>
+    <string name="batch_delete_saved_networks">Elimina tutte le reti se</string>
     <string name="unlock_set_enter_system">Salta Schermata di blocco</string>
     <string name="unlock_set_enter_system_summary">Vai direttamente alla Schermata Home dopo lo sblocco</string>
     <string name="forget_wifi_message">Il tuo dispositivo non si connetterà più a questa rete automaticamente.</string>

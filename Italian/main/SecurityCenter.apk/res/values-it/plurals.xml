@@ -60,6 +60,23 @@
         <item quantity="other">%d elementi possono essere ottimizzati</item>
         <item quantity="one">%d elemento può essere ottimizzato</item>
     </plurals>
+    <plurals name="people">
+        <item quantity="other">Scaricato add %1$d persone</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Scaricato da %1$d persone</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Scaricato da %1$d persone</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d visualizzazioni</item>
+        <item quantity="zero">%1$d visualizzazioni</item>
+        <item quantity="one">%1$d visualizzazione</item>
+        <item quantity="two">%1$d visualizzazioni</item>
+        <item quantity="few">%1$d visualizzazioni</item>
+        <item quantity="many">%1$d visualizzazioni</item>
+    </plurals>
    <plurals name="system_check_content">
         <item quantity="other">%1$d elementi sicuri</item>
         <item quantity="one">%1$d elemento sicuro</item>
@@ -95,6 +112,22 @@
     <plurals name="summary_app_update">
         <item quantity="other">Aggiornamento disponibile per %d applicazioni.</item>
         <item quantity="one">Aggiornamento disponibile per %d applicazione.</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d pericoli,</item>
+        <item quantity="one">%d pericolo,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojan,</item>
+        <item quantity="one">%d trojan,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d pericoli</item>
+        <item quantity="one">%d pericolo</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">%d​ pericoli rilevati, correggi adesso</item>
+        <item quantity="one">%d pericolo trovato, correggi adesso</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d app contengono minacce per la privacy</item>
@@ -140,6 +173,10 @@
         <item quantity="other">%d app trovate</item>
         <item quantity="zero">0 app trovate</item>
         <item quantity="one">%d app trovata</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">Un elemento</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s rischi di pagamento</item>

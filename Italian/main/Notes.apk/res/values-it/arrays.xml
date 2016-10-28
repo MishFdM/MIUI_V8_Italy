@@ -8,6 +8,10 @@
         <item>Fotocamera</item>
         <item>Galleria</item>
     </string-array>
+    <string-array name="note_sort_way">
+        <item>Ordina per data di creazione</item>
+        <item>Ordina per data di modifica</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Nome</item>
         <item>Nickname</item>
