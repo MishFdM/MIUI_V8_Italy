@@ -328,7 +328,7 @@ scorri in basso per bloccare"</string>
     <string name="notification_header_title">Notifiche</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="weather_publish_time">Aggiornato %1$s</string>
-    <string name="no_weather_description">Recupera info meteo</string>
+    <string name="no_weather_description">Recupero info meteo</string>
     <string name="screenshot_long_screenshot">Screenshot lungo</string>
     <string name="screenshot_edit">Modifica</string>
     <string name="screenshot_send">Invia</string>
