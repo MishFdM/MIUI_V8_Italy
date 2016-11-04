@@ -378,7 +378,7 @@ Assicurati di ricordare le risposte."</string>
 · Se non puoi sbloccare il dispositivo, vai su i.mi.com per disattivare Trova Telefono
 · Comunica questo numero di sblocco al servizio clienti: %s"</string>
     <string name="io_error_title">Conferma la rete</string>
-    <string name="photoPickerNotFoundText">Nessa foto disponibile.</string>
+    <string name="find_device_display_id">Numero sblocco: %s</string>
     <string name="login_check_find_device_failed_title">Impossibile verificare lo stato di Trova Dispositivo</string>
     <string name="login_find_device_bind">Questo dispositivo è associato con un ID Mi Account esistente (%s).</string>
     <string name="miui_provision_find_status_text">"Questo dispositivo è associato con un Mi Account esistente (%1$s), inserisci la password per verificare il dispositivo.
