@@ -120,6 +120,14 @@
         <item quantity="other">Spazio interno non sufficiente. %1$d elementi in attesa di backup</item>
         <item quantity="one">Spazio interno non sufficiente. %1$d elemento in attesa di backup</item>
     </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d foto</item>
+        <item quantity="one">1 foto</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d video</item>
+        <item quantity="one">1 video</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d foto in attesa di sincronizzazione</item>
         <item quantity="one">1 foto da caricare</item>

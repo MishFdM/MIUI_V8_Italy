@@ -8,6 +8,7 @@
     <string name="close_panel">Chiudi assistente touch</string>
     <string name="customize_entries">Funzione personalizzata</string>
     <string name="enable_touch_assistant">Attiva Assistente Touch</string>
+    <string name="enabled_for_pad_hint">Lavora quando \"Blocca i tasti navigazione in landscape\" è attivato</string>
     <string name="function_settings">Impostazioni funzione</string>
     <string name="hide_touch_assistant">"Nascondi automaticamente l'Assistente Touch"</string>
     <string name="hide_touch_assistant_intro">"Nascondi l'Assistente Touch in alcune app."</string>
@@ -31,6 +32,7 @@
     <string name="name_screenshot">Screenshot</string>
     <string name="name_wechat_payment_code">Pagamento rapido Wechat</string>
     <string name="name_wechat_scan">Scansiona codice Wechat</string>
+    <string name="not_working">%s (non funzionante)</string>
     <string name="open_panel">"Apri l'assistente touch"</string>
     <string name="pay_entry_dialog_title_select">"Seleziona l'app da aprire"</string>
     <string name="pay_entry_dialog_title_setting">"Imposta l'app selezionata da aprire"</string>

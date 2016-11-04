@@ -96,6 +96,8 @@
     <string name="notification_action_answer_voice">Voce</string>
     <string name="notification_action_dismiss">Rifiuta</string>
     <string name="notification_action_end_call">Termina</string>
+    <string name="notification_action_speaker">Speaker</string>
+    <string name="notification_action_earpiece">Cuffie</string>
     <string name="notification_requesting_video_call">Richiesta video ricevuta</string>
     <string name="add_vm_number_str">Aggiungi numero</string>
     <string name="no_vm_number">Numero segreteria mancante</string>

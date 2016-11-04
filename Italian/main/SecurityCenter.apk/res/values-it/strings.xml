@@ -51,6 +51,8 @@ Soglia: %1$s%2$s | %3$s usati"</string>
 Sotto soglia: %1$s | %2$s usati"</string>
     <string name="main_secondary_message_traffic_used_noleisure">%s soglia dati usati | traffico soglia esaurito</string>
     <string name="main_alert_message_month_limit_error">Limite dati non corretto</string>
+    <string name="main_alert_message_open_traffic_ctrl">"Consigliamo di limitare l'utilizzo dei dati su rete mobile"</string>
+    <string name="main_open_traffic_ctrl_button">Limita utilizzo dati</string>
     <string name="firewall_activity_lable">"Limita l'utilizzo dati per app"</string>
     <string name="firewall_applist">App</string>
     <string name="firewall_rule_group_title_mobile">Mobile</string>
@@ -89,6 +91,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="stop_app_button">Interrompi</string>
     <string name="detail_app_button">Info app</string>
     <string name="pref_about_traffic_title">Impostazioni utilizzo dati</string>
+    <string name="pref_traffic_manage_title">Utilizzo dati</string>
     <string name="pref_package_traffic_normal">Soglia: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Aggiuntivo: %2$s</string>
     <string name="pref_package_traffic_leisure">%1$s | Fuori soglia: %2$s</string>
@@ -488,6 +491,9 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_onekey_repair_botton">Correggi</string>
     <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
     <string name="tc_diagnostic_upload_button">Riporta</string>
+    <string name="tc_diagnostic_fragment_default">"Per quanto riguarda la diagnostica
+1. Il dispositivo si connetterà alla rete dell'operatore, invierà un messaggio gratuito ed aspetterà la risposta dall'operatore. Questo processo può durare 5 minuti.
+2. Puoi lasciare questa pagina durante la diagnostica, il processo verrà completato in background."</string>
     <string name="sim_location_diagnostic">Diagnostica posizione</string>
     <string name="operator_diagnostic">Diagnostica operatore</string>
     <string name="brand_diagnostic">Diagnostica nome operatore</string>
@@ -788,6 +794,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="uninstall_app_dialog_title">Disinstallare adesso?</string>
     <string name="uninstall_app_dialog_msg">"Disinstallando verranno rimossi tutti i dati dell'applicazione."</string>
     <string name="uninstall_app_done">Disinstallazione ultimata</string>
+    <string name="auto_task_edit_step1">1.</string>
+    <string name="auto_task_edit_step2">2.</string>
     <string name="resource_securitycenter_settings">Sicurezza</string>
     <string name="keywords_securitycenter_settings">Risparmio batteria;Permessi;Lista blocco;Utilizzo dati;Calibra piano dati;Test di rete;Blocco app;Risparmio batteria;Riscaldamento;Attiva;Disattiva;Batteria;Consumo;Avvio automatico;ROOT;Localizzazione;Accesso ai contatti;Blocco;Blacklist;Lista blocco smart;Truffa;Vendite;Agenti;Dati;Traffico;Calibrazione;Connessione;Internet;Test;Password;Privacy;Accesso;Protezione</string>
     <string name="path_securitycenter_settings">Applicazioni di sistema/Sicurezza</string>
@@ -1208,6 +1216,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="antivirus_choose_engine_dialog_title">Scegli le definizioni</string>
     <string name="antivirus_choose_engine">Utilizza le definizioni da %s</string>
     <string name="antivirus_update_db">%s</string>
+    <string name="antivirus_monitor_clean_tips">%s elementi eliminati</string>
     <string name="antivirus_none_engine_dialog_title">Scegli le definizioni</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Informativa sulla Privacy</string>
@@ -1283,6 +1292,10 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="garbage_clean_detail">Dettagli</string>
     <string name="clear_garbage">Svuota il cestino per liberare spazio</string>
     <string name="booster_immediately">Velocizza</string>
+    <string name="antivirus_monitor_btn_text_clean_virus">Elimina virus</string>
+    <string name="antivirus_monitor_btn_text_clean_risk">Elimina le app pericolose</string>
+    <string name="antivirus_monitor_risk_advice">Questa app non è sicura, eliminala</string>
+    <string name="antivirus_monitor_virus_advice">Questa app potrebbe contenere un virus, eliminala</string>
     <string name="security_scan_optimizing">Ottimizzazione…</string>
     <string name="preferred_app_entries_launcher">Launcher</string>
     <string name="preferred_app_entries_dial">Telefono</string>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="livetalk_setting">Top-up package</string>
+    <string name="livetalk_shortcut_title">Ricarica pacchetto</string>
     <string name="purchase_list">Cronologia acquisti</string>
     <string name="sim_card_activate">Verifica SIM</string>
     <string name="sim_card_summary_no_sim_card">Inserisci la SIM</string>
     <string name="feedback">Feedback</string>
+    <string name="home_screen_shortcut">Collegamento home</string>
     <string name="default_areacode">Prefisso internazionale predefinito</string>
     <string name="area_code_preference_summary">Composizione automatica prefisso internazionale</string>
     <string name="area_code_preference_be_set_summary">Paese attuale: %s</string>
@@ -37,6 +39,7 @@
     <string name="livetalk_white_list_number_title">White list senza utilizzo di pacchetto di ricarica</string>
     <string name="operator_first_title">Prima operatore</string>
     <string name="operator_remain_mins">Minuti pacchetto operatore</string>
+    <string name="operator_remain_mins_value">%1$s minuti</string>
     <string name="operator_first_set_failed">Fallito</string>
     <string name="operator_first_sim_card_changed_title">Modifica SIM</string>
     <string name="operator_first_sim_card_changed_summary">Reset operator package minutes</string>

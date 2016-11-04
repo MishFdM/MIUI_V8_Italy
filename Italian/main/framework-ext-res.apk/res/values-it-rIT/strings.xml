@@ -134,6 +134,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="apply_password_confirm_dlg_title">Questa password verrà utilizzata per %s</string>
     <string name="apply_password_confirm_dlg_msg">Richiedere password per %s?</string>
     <string name="apply_password_action">Imposta password</string>
+    <string name="subinfo_default_name">SIM %d</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Posiziona il dito sul tasto Home</string>
     <string name="maml_component_customization_title">Impostazioni</string>
     <string name="default_name">Predefinito</string>
@@ -162,4 +163,13 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi e Rete dati attivati</string>
     <string name="xspace_resolver_activity_title">Seleziona app</string>
     <string name="user_switching_dialog_text">Cambio…</string>
+    <string name="activity_package_delete_confirm_title">Avviso importante</string>
+    <string name="button_text_cancel">Annulla</string>
+    <string name="button_text_delete">Elimina</string>
+    <string name="button_text_next_step_timer">Avanti (%d)</string>
+    <string name="button_text_next_step">Avanti</string>
+    <string name="button_text_delete_timer">Elimina (%d)</string>
+    <string name="package_delete_confirm_step_1">Eliminare %s?</string>
+    <string name="package_delete_confirm_step_2">Eliminando questa app potresti causare instabilità del sistema.</string>
+    <string name="package_delete_confirm_step_3">Non potrai utilizzare questa app una volta eliminata.</string>
 </resources>

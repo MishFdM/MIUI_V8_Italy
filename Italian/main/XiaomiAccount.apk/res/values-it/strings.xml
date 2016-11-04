@@ -381,4 +381,7 @@ Assicurati di ricordare le risposte."</string>
     <string name="photoPickerNotFoundText">Nessa foto disponibile.</string>
     <string name="login_check_find_device_failed_title">Impossibile verificare lo stato di Trova Dispositivo</string>
     <string name="login_find_device_bind">Questo dispositivo è associato con un ID Mi Account esistente (%s).</string>
+    <string name="miui_provision_find_status_text">"Questo dispositivo è associato con un Mi Account esistente (%1$s), inserisci la password per verificare il dispositivo.
+(Numero sblocco: %2$s)"</string>
+    <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
 </resources>
