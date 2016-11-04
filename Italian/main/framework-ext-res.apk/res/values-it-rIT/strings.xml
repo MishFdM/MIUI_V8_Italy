@@ -134,7 +134,6 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="apply_password_confirm_dlg_title">Questa password verrà utilizzata per %s</string>
     <string name="apply_password_confirm_dlg_msg">Richiedere password per %s?</string>
     <string name="apply_password_action">Imposta password</string>
-    <string name="subinfo_default_name">SIM %d</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Posiziona il dito sul tasto Home</string>
     <string name="maml_component_customization_title">Impostazioni</string>
     <string name="default_name">Predefinito</string>
