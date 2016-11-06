@@ -37,13 +37,13 @@
     <string name="title_share_link">Condividi URL</string>
     <string name="pm_lable_name">Informazioni sui permessi di root</string>
     <string name="pc_activity_title">Ottimizza batteria</string>
-    <string name="game_booster">Gaming speed boost</string>
+    <string name="game_booster">Accelerazione Velocità di Gioco</string>
     <string name="top_game">Giochi top</string>
     <string name="game_setting">Impostazioni di gioco</string>
     <string name="gs_app_back_self_start">Risparmio batteria</string>
     <string name="gs_only_self_start_for_list">Limita i processi in background e risparmia batteria per il gioco</string>
     <string name="gs_game_net_priority">Priorità connessione</string>
-    <string name="gs_game_net_priority_detail">Limita la velocità di downlaod per aumentare la banda disponibile per il gioco</string>
+    <string name="gs_game_net_priority_detail">Limita la velocità di download per aumentare la banda disponibile per il gioco</string>
     <string name="gs_performance_mode">Modalità prestazioni</string>
     <string name="gs_performance_mode_detail">"Aumenta l'utilizzo della CPU per garantire massime prestazioni"</string>
     <string name="gs_open_game_booster">Aumenta velocità</string>
@@ -75,7 +75,7 @@
     <string name="auto_import_games">Raccogli tutti i tuoi giochi in un solo posto</string>
     <string name="game_more_improve">Limita le attività in background e la velocità di download per risparmiare batteria per il gioco</string>
     <string name="dont_bore">Non consentire ai tasti e alle notifiche di distrarti</string>
-    <string name="release_memory">ulisci cache</string>
+    <string name="release_memory">Pulisci cache</string>
     <string name="start">Avvia</string>
     <string name="close">Chiudi</string>
 </resources>
