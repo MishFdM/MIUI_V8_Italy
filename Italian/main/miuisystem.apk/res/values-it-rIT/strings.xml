@@ -124,7 +124,7 @@
     <string name="cta_permission_and"> e </string>
     <string name="cta_title">Termini di Utilizzo</string>
     <string name="cta_message_license">"Utilizzando questo prodotto, accetti i Termini del Servizio e l'Informativa sulla Privacy."</string>
-    <string name="cta_message_permission">Questa app necessita di %2$s per funzionare correttamente.</string>
+    <string name="cta_message_permission">\u0020Questa app necessita di %2$s per funzionare correttamente.</string>
     <string name="cta_check_reminder">Non mostrare più</string>
     <string name="cta_button_quit">Esci</string>
 	<string name="cta_button_continue">Accetto</string>
