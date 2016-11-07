@@ -264,7 +264,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="action_item_share">Condividi</string>
     <string name="action_item_multiple">Modifica</string>
     <string name="action_item_play_all">Riproduci tutto</string>
-    <string name="action_item_hifi">Effetti audio e cuffie</string>
+    <string name="action_item_hifi">Effetti</string>
     <string name="action_item_add_to_current_playlist">Playlist attuale</string>
     <string name="action_item_add_to_favorite_playlist">Playlist preferita</string>
     <string name="action_item_add_to_new_playlist">Nuovo</string>
@@ -429,7 +429,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="empty_page_no_artist">Nessun artista.</string>
     <string name="empty_page_no_album">Nessun album.</string>
     <string name="empty_page_no_document">Nessun documento.</string>
-    <string name="set_as_ring">Imposta come suoneria</string>
+    <string name="set_as_ring">Suoneria</string>
     <string name="ringtone_not_support">Il formato del brano non è supportato.</string>
     <string name="please_download_first">Prima scarica il file.</string>
     <string name="set_ringtones_successful">%s impostato come suoneria.</string>
@@ -454,7 +454,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="no_local_source_find">Brano non trovato</string>
     <string name="start_to_play">Avvia</string>
     <string name="can_not_find_resource">Nessuna risorsa trovata</string>
-    <string name="modify_song_info">Modifica informazioni brano</string>
+    <string name="modify_song_info">Modifica</string>
     <string name="song_name">Brano</string>
     <string name="artist_name">Artista</string>
     <string name="album_name">Album</string>
@@ -642,7 +642,9 @@ attendere o selezionare Musica Online."</string>
     <string name="vip_auto_renew_notification_title">Pagamento abbonamento</string>
     <string name="vip_auto_renew_notification_message">Aggiungi Mi Credit per rinnovare il tuo abbonamento Musica.</string>
     <string name="create_order_fail">"Impossibile creare l'ordine, prova di nuovo."</string>
-    <string name="share_chooser_title">Condividi</string>
+    <string name="more_share">Condividi</string>
+    <string name="more_add_song_list">Aggiungi</string>
+	<string name="share_chooser_title">Condividi usando</string>
     <string name="share_description">Da Mi Music</string>
     <string name="share_end_note">Da Mi Music</string>
     <string name="share_text_list">"Ho trovato un'incredibile playlist su Mi Music:"</string>
