@@ -614,7 +614,7 @@
     <string name="permdesc_readDictionary">"Consente all'applicazione di leggere tutte le parole, le frasi e i nomi che l'utente potrebbe aver memorizzato nel dizionario utente."</string>
     <string name="permlab_writeDictionary">"aggiunta di parole al dizionario definito dall'utente"</string>
     <string name="permdesc_writeDictionary">"Consente all'applicazione di scrivere nuove parole nel dizionario utente."</string>
-    <string name="permlab_sdcardRead">Llettura contenuti archivio USB</string>
+    <string name="permlab_sdcardRead">Lettura contenuti archivio USB</string>
     <string name="permdesc_sdcardRead">"L'app può leggere i contenuti dell'archivio USB."</string>
     <string name="permlab_sdcardWrite">Modifica/eliminazione contenuti USB</string>
     <string name="permdesc_sdcardWrite">"Consente all'applicazione di scrivere nell'archivio USB."</string>

@@ -459,7 +459,7 @@
     <string name="permdesc_writeSyncSettings">"Consente a un'applicazione di modificare le impostazioni di sincronizzazione per un account. Ad esempio, può servire per attivare la sincronizzazione dell'applicazione Persone con un account."</string>
     <string name="permlab_readSyncStats">lettura statistiche di sincronizz.</string>
     <string name="permdesc_readSyncStats">"Consente a un'applicazione di leggere le statistiche di sincronizzazione per un account, incluse la cronologia degli eventi di sincronizzazione e la quantità di dati sincronizzati."</string>
-    <string name="permlab_sdcardRead">Llettura contenuti archivio USB</string>
+    <string name="permlab_sdcardRead">Lettura contenuti archivio USB</string>
     <string name="permdesc_sdcardRead">"L'app può leggere i contenuti dell'archivio USB."</string>
     <string name="permlab_sdcardWrite">Modifica/eliminazione contenuti USB</string>
     <string name="permdesc_sdcardWrite">"Consente all'applicazione di scrivere nell'archivio USB."</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="caller_app">Richiesta permessi da %1$s</string>
-    <string name="safe_guard_support">Supporto tecnico fornito by %1$s</string>
+    <string name="safe_guard_support">Supporto tecnico fornito da %1$s</string>
     <string name="safe_relative">Sicurezza</string>
     <string name="privacy_relative">Privacy</string>
     <string name="other_relative">Altro</string>
@@ -21,7 +21,7 @@
     <string name="perm_action_prompt">Chiedi</string>
     <string name="perm_action_reject">Nega</string>
     <string name="unknown_installer">Strumenti PC non identificati</string>
-    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sostituirà l'attuale versione  installata (%3$s). Tutti i dati dell'applicazione saranno salvati."</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sostituirà l'attuale versione installata (%3$s). Tutti i dati dell'applicazione saranno salvati."</string>
     <string name="lift_ban">Consenti</string>
     <string name="uninstall_confirm_question">Disinstallare questa applicazione?</string>
     <string name="uninstall_failed_retained_app_msg">Questa applicazione è stata modificata e non può essere disinstallata nella sua forma attuale.</string>
@@ -53,10 +53,10 @@
     <string name="btn_text_install_security_version_in_appstore">Sostituisci con la versione sicura</string>
     <string name="btn_text_scaning">Scansione…</string>
     <string name="btn_text_full_scan">Scansione completa</string>
-    <string name="message_full_scanning">scansione scompleta…</string>
+    <string name="message_full_scanning">scansione completa…</string>
     <string name="message_quick_scanning">Scansione veloce…</string>
     <string name="message_install_in_market">Noi raccomandiamo di installare le applicazioni da AppStore</string>
-    <string name="message_appstore_verify_has_new_version">Una versione più recente di questa applicazione è disponibile nel nostro AppStore. Vuoi installarlo?</string>
+    <string name="message_appstore_verify_has_new_version">Una versione più recente di questa applicazione è disponibile nel nostro AppStore. Vuoi installarla?</string>
     <string name="message_appstore_verify_inconsistent">La firma di questa applicazione è diversa da quella in AppStore, sarà più sicuro installarla da lì.</string>
     <string name="message_appstore_verify_ok">"La versione di questa applicazione in AppStore ha superato i nostri test di sicurezza, si consiglia di installare l'applicazione da lì."</string>
     <string name="install_from_appstore_hint">Noi raccomandiamo di installare le applicazioni da &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
@@ -125,5 +125,5 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="button_text_delete_timer">Elimina (%d)</string>
     <string name="package_delete_confirm_step_1">Eliminare %s?</string>
     <string name="package_delete_confirm_step_2">Eliminando questa applicazione il sistema può diventare instabile.</string>
-    <string name="package_delete_confirm_step_3">Non sarai in grado di aprire questa applicazione dopo averlo eliminata.</string>
+    <string name="package_delete_confirm_step_3">Non sarai in grado di aprire questa applicazione dopo averla eliminata.</string>
 </resources>
