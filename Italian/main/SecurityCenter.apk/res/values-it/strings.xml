@@ -1332,7 +1332,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="action_button_text_60_80">Ottimizzato</string>
     <string name="action_button_text_60">Ottimizzato</string>
     <string name="card_main_private_space_title">Spazio Secondario</string>
-    <string name="card_main_private_space_summary">Utilizzando lo spazio Secondario sarà come avere 2 dispositivi</string>
+    <string name="card_main_private_space_summary">Utilizzando lo Spazio Secondario sarà come avere 2 dispositivi</string>
     <string name="card_main_private_space_action">Crea</string>
     <string name="card_main_xspace_title">Clona applicazioni</string>
     <string name="card_main_xspace_summary">Crea un doppio account per le applicazioni</string>
@@ -1604,5 +1604,5 @@ Accertati della provenienza di questo dispositivo e contatta un centro assistenz
 Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo dispositivo e contatta un centro assistenza autorizzato Xiaomi nella tua zona per ricevere supporto."</string>
     <string name="sys_app_prot_cracked_confirm">Ho capito</string>
     <string name="sys_app_prot_cracked_login">Accedi al tuo Mi Account</string>
-    <string name="confirmSecondSpacePassword">Conferma password spazio Secondario</string>
+    <string name="confirmSecondSpacePassword">Conferma password Spazio Secondario</string>
 </resources>

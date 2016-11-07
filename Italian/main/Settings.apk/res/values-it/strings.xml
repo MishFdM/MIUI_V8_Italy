@@ -3264,7 +3264,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_wakeup_for_keyguard_notification_title">Attiva lo schermo al ricevimento di notifiche</string>
     <string name="search_pref_volume_wake_title">Attiva schermo premendo tasti volume</string>
     <string name="search_screen_on_proximity_sensor_title">Previeni chiamate accidentali</string>
-    <string name="search_second_space">Secondo spazio</string>
+    <string name="search_second_space">Spazio Secondario</string>
     <string name="search_xspace">XSpace</string>
     <string name="search_do_not_disturb">Non disturbare;Vip;Set time;Eccezioni;Chiamate ripetute</string>
     <string name="search_dndm_auto_time_setting">Set time</string>
@@ -3444,7 +3444,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="path_wakeup_for_keyguard_notification_title">Impostazioni/Schermata di blocco e password/Attiva lo schermo al ricevimento di notifiche</string>
     <string name="path_pref_volume_wake_title">Impostazioni/Schermata di blocco e password/Risveglia con i tasti del volume</string>
     <string name="path_screen_on_proximity_sensor_title">Impostazioni/Schermata di blocco e password/Prevenzione chiamate dalla tasca</string>
-    <string name="path_second_space">Impostazioni/Secondo spazio</string>
+    <string name="path_second_space">Impostazioni/Spazio Secondario</string>
     <string name="path_xspace">Impostazioni/Clona applicazioni</string>
     <string name="path_do_not_disturb_settings">Impostazioni/Non disturbare</string>
     <string name="path_dndm_auto_time_setting">Impostazioni/Non disturbare/Fascia oraria</string>
@@ -3706,7 +3706,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="wifi_tether_settings_title">Hotspot personale</string>
     <string name="tether_and_hotspot_title">Tethering e hotspot</string>
     <string name="lock_settings">Schermata di blocco</string>
-    <string name="second_space">Secondo spazio</string>
+    <string name="second_space">Spazio Secondario</string>
     <string name="xspace">Clona applicazioni</string>
     <string name="call_settings_primary_user_only">Modifica le impostazioni di chiamata nello spazio Primario</string>
     <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
@@ -3728,9 +3728,9 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="manually_add_network">Aggiungi rete</string>
     <string name="network_detail">Dettagli rete %s</string>
     <string name="connected_wifi">Connesso</string>
-    <string name="lockpattern_recording_intro_header_second_space">Disegna una sequenza di sblocco per lo spazio Secondario:</string>
+    <string name="lockpattern_recording_intro_header_second_space">Disegna una sequenza di sblocco per lo Spazio Secondario:</string>
     <string name="lockpattern_pattern_same_with_owner">Dovrebbe essere diversa da quella dello spazio predefinito</string>
-    <string name="lockpattern_pattern_same_with_security_space">Dovrebbe essere diversa da quella dello spazio Secondario</string>
+    <string name="lockpattern_pattern_same_with_security_space">Dovrebbe essere diversa da quella dello Spazio Secondario</string>
     <string name="incoming_call_breathing_light_color_title">Colore LED chiamate</string>
     <string name="notification_breathing_light_color_title">Colore LED notifiche</string>
     <string name="mms_breathing_light_color_title">Colore LED messaggi</string>
@@ -4063,12 +4063,12 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="private_gallery_recording_intro_header">Disegna una sequenza di sblocco:</string>
     <string name="unlock_disable_lock_pin_summary">Rimuovi PIN di sblocco</string>
     <string name="lockpassword_pin_fixed_length">Il PIN deve essere di %d cifre</string>
-    <string name="lockpassword_confirm_for_second_user">Conferma la password per lo spazio Secondario</string>
-    <string name="lockpassword_choose_for_second_user">Imposta password per lo spazio Secondario</string>
+    <string name="lockpassword_confirm_for_second_user">Conferma la password per lo Spazio Secondario</string>
+    <string name="lockpassword_choose_for_second_user">Imposta password per lo Spazio Secondario</string>
     <string name="lockpassword_choose_your_password_second_space">"Imposta password 
- per lo spazio Secondario"</string>
+ per lo Spazio Secondario"</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
- per lo spazio Secondario"</string>
+ per lo Spazio Secondario"</string>
     <string name="cancel_alert">Annullare le modifiche?</string>
     <string name="android_beam_witch_label">Attiva Android Beam</string>
     <string name="sim_management_title">SIM e dati mobili</string>
@@ -4756,6 +4756,6 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="privacy_password_fingerprint_dialog_error_title">"Impossibile scansionare l'impronta,prova di nuovo"</string>
     <string name="privacy_password_fingerprint_confirm_succes">Impronta verificata</string>
     <string name="privacy_password_fingerprint_confirm_failed">"Impossibile verificare l'impronta"</string>
-    <string name="privacy_password_confirm_SecondSpace_Password">Conferma la password dello spazio Secondario</string>
+    <string name="privacy_password_confirm_SecondSpace_Password">Conferma la password dello Spazio Secondario</string>
     <string name="privacy_password_transparent_tiltle" />
 </resources>

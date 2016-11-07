@@ -69,6 +69,6 @@
     <string name="lock_wallpaper_learn_more">Leggi di più ></string>
     <string name="lock_wallpaper_enter">Inserisci</string>
     <string name="custom_lock_wallpaper_enter">Inserisci</string>
-    <string name="fingerprint_enter_second_psw_title">Inserisci password spazio Secondario</string>
-    <string name="fingerprint_enter_second_psw_msg">Inserisci la password dello spazio Secondario dopo aver riavviato il dispositivo per utilizzare il lettore di impronte</string>
+    <string name="fingerprint_enter_second_psw_title">Inserisci password Spazio Secondario</string>
+    <string name="fingerprint_enter_second_psw_msg">Inserisci la password dello Spazio Secondario dopo aver riavviato il dispositivo per utilizzare il lettore di impronte</string>
 </resources>

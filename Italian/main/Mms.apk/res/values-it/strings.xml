@@ -655,7 +655,7 @@
     <string name="add_to_browser_favorite_success">Aggiunto</string>
     <string name="add_to_browser_favorite_failed">non aggiunto</string>
     <string name="i_know">OK</string>
-    <string name="second_mms_introduction">Accedi al secondo spazio</string>
+    <string name="second_mms_introduction">Accedi al Spazio Secondario</string>
     <string name="second_mms_switch">Cambia</string>
     <string name="block_support_text">Supportato da Antiy.</string>
     <string name="force_touch_new_message_title">Nuovo messaggio</string>
