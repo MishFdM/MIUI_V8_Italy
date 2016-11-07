@@ -2850,6 +2850,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="summary_range_verbal_combination">%1$s di %2$s</string>
     <string name="zen_mode_calls">Chiamate</string>
     <string name="zen_mode_messages">Messaggi</string>
+	<string name="zen_mode_from">Chiamate/Messaggi da</string>
     <string name="zen_mode_selected_messages">Messaggi selezionati</string>
     <string name="zen_mode_from_anyone">Da chiunque</string>
     <string name="zen_mode_from_contacts">Solo dai contatti</string>
