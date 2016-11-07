@@ -5,7 +5,7 @@
     <string name="applications">Applicazioni</string>
     <string name="category_others">Altro</string>
     <string name="category_setting">Impostazioni</string>
-    <string name="close_panel">Chiudi assistente touch</string>
+    <string name="close_panel">Chiudi assistente Touch</string>
     <string name="customize_entries">Funzione personalizzata</string>
     <string name="enable_touch_assistant">Attiva Assistente Touch</string>
     <string name="enabled_for_pad_hint">Lavora quando \"Blocca i tasti navigazione in landscape\" è attivato</string>

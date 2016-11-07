@@ -3475,7 +3475,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="path_ntts_settings_title">Impostazioni/Impostazioni aggiuntive/Accessibilità/tts_settings_title</string>
     <string name="path_accessibility_long_press_timeout_preference_title">Impostazioni/Impostazioni aggiuntive/Accessibilità/Ritardo tocco e pressione</string>
     <string name="path_accessibility_display_daltonizer_preference_title">Impostazioni/Impostazioni aggiuntive/Accessibilità/Correzione colore</string>
-    <string name="path_touch_assistant_settings">Impostazioni/Impostazioni aggiuntive/Assistente touch</string>
+    <string name="path_touch_assistant_settings">Impostazioni/Impostazioni aggiuntive/Assistente Touch</string>
     <string name="path_force_touch">Impostazioni/Impostazioni aggiuntive/3D Touch</string>
     <string name="path_device_info_memory">Impostazioni/Memoria</string>
     <string name="path_storage_settings">Impostazioni/Memoria/Pulizia</string>
@@ -3638,7 +3638,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="handy_mode_enter_ask">Chiedi prima di entrare in modalità Uso con una mano</string>
     <string name="handy_mode_tips">Scorri dal tasto Home verso sinistra o verso destra per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
     <string name="handy_mode_size">Dimensione schermo</string>
-    <string name="touch_assistant">Assistente touch</string>
+    <string name="touch_assistant">Assistente Touch</string>
     <string name="force_touch">Touch 3D</string>
     <string name="force_touch_enable">Attiva Touch 3D</string>
     <string name="force_touch_enable_tips">"Premendo con forza l'icona dell'App sul launcher verrà mostrato il menù del collegamento, quando il Touch 3D è attivato."</string>

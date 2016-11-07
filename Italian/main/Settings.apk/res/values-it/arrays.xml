@@ -610,7 +610,7 @@
     <string-array name="screen_key_long_press_action">
         <item>Nessuno</item>
         <item>Mostra applicazioni recenti</item>
-        <item>Apri Assistente touch</item>
+        <item>Apri Assistente Touch</item>
         <item>Apri Google now</item>
         <item>Chiudi applicazioni recenti</item>
         <item>Apri la ricerca veloce</item>
