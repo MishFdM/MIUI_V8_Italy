@@ -541,7 +541,7 @@
     <string name="permdesc_recordAudio">"Consente l'accesso dell'applicazione al percorso di registrazione dell'audio."</string>
     <string name="permlab_sim_communication">sim communication</string>
     <string name="permdesc_sim_communication">Allows the app to send commands to the SIM. This is very dangerous.</string>
-    <string name="permlab_camera">acquisizione di foto e video</string>
+    <string name="permlab_camera">Acquisizione di foto e video</string>
     <string name="permdesc_camera">"Consente di scattare foto e riprendere video nell'applicazione con la fotocamera. L'applicazione può acquisire in qualsiasi momento le immagini rilevate dalla fotocamera."</string>
     <string name="permlab_cameraDisableTransmitLed">disable transmit indicator LED when camera is in use</string>
     <string name="permdesc_cameraDisableTransmitLed">Allows a pre-installed system application to disable the camera use indicator LED.</string>
@@ -591,7 +591,7 @@
     <string name="permdesc_readPhoneState">"Consente l'accesso dell'applicazione alle funzioni telefoniche del dispositivo. Un'applicazione con questa autorizzazione può determinare il numero del telefono in uso e il suo numero di serie, se una chiamata è attiva o meno, il numero a cui è collegata la chiamata e simili."</string>
     <string name="permlab_readPrecisePhoneState">read precise phone states</string>
     <string name="permdesc_readPrecisePhoneState">Allows the app to access the precise phone states. This permission allows the app to determine the real call status, whether a call is active or in the background, call fails, precise data connection status and data connection fails.</string>
-    <string name="permlab_wakeLock">disattivazione stand-by del telefono</string>
+    <string name="permlab_wakeLock">Disattivazione stand-by del telefono</string>
     <string name="permdesc_wakeLock">"Consente a un'applicazione di impedire lo stand-by del telefono."</string>
     <string name="permlab_transmitIr">transmit infrared</string>
     <string name="permdesc_transmitIr">"Allows the app to use the phone's infrared transmitter."</string>
@@ -639,7 +639,7 @@
     <string name="permdesc_changeWifiState">"Consente a un'applicazione di connettersi/disconnettersi da punti di accesso Wi-Fi e di apportare modifiche alle reti Wi-Fi configurate."</string>
     <string name="permlab_changeWifiMulticastState">consenti ricezione multicast Wi-Fi</string>
     <string name="permdesc_changeWifiMulticastState">"Consente a un'applicazione di ricevere pacchetti non direttamente indirizzati al tuo dispositivo. Può essere utile durante la ricerca di servizi offerti nelle vicinanze. Consuma di più rispetto alla modalità non multicast."</string>
-    <string name="permlab_bluetoothAdmin">accesso alle impostazioni Bluetooth</string>
+    <string name="permlab_bluetoothAdmin">Accesso alle impostazioni Bluetooth</string>
     <string name="permdesc_bluetoothAdmin">"Consente all'applicazione di configurare il Bluetooth del tuo telefono, e di scoprire ed accoppiarsi con dispositivi remoti."</string>
     <string name="permlab_bluetoothPriv">allow Bluetooth pairing by Application</string>
     <string name="permdesc_bluetoothPriv">Allows the app to pair with remote devices without user interaction.</string>

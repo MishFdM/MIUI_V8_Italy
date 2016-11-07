@@ -387,7 +387,7 @@
     <string name="permdesc_modifyAudioSettings">"Consente a un'applicazione di modificare le impostazioni audio, come il volume e l'altoparlante da utilizzare."</string>
     <string name="permlab_recordAudio">registrazione audio</string>
     <string name="permdesc_recordAudio">"Consente a un'applicazione di registrare audio con il microfono. Questa autorizzazione consente all'applicazione di registrare audio in qualsiasi momento senza la tua conferma."</string>
-    <string name="permlab_camera">acquisizione di foto e video</string>
+    <string name="permlab_camera">Acquisizione di foto e video</string>
     <string name="permdesc_camera">"Consente a un'applicazione di scattare foto e riprendere video con la fotocamera. Questa autorizzazione consente all'applicazione di utilizzare la fotocamera in qualsiasi momento senza la tua conferma."</string>
     <string name="permlab_brick">disattivazione telefono</string>
     <string name="permdesc_brick">"Consente all'applicazione di disattivare l'intero telefono in modo definitivo. Questa autorizzazione è molto pericolosa."</string>
@@ -433,7 +433,7 @@
     <string name="permdesc_modifyPhoneState">"Consente all'applicazione di controllare le funzioni telefoniche del dispositivo. Un'applicazione con questa autorizzazione può cambiare rete, attivare e disattivare il segnale cellulare e così via, senza alcuna notifica."</string>
     <string name="permlab_readPhoneState">lettura stato e identità del telefono</string>
     <string name="permdesc_readPhoneState">"Consente l'accesso dell'applicazione alle funzioni telefoniche del dispositivo. Un'applicazione con questa autorizzazione può determinare il numero del telefono in uso e il suo numero di serie, se una chiamata è attiva o meno, il numero a cui è collegata la chiamata e simili."</string>
-    <string name="permlab_wakeLock">disattivazione stand-by del telefono</string>
+    <string name="permlab_wakeLock">Disattivazione stand-by del telefono</string>
     <string name="permdesc_wakeLock">"Consente a un'applicazione di impedire lo stand-by del dispositivo."</string>
     <string name="permlab_devicePower">accensione o spegnimento del telefono</string>
     <string name="permdesc_devicePower">"Consente all'applicazione di accendere o spegnere il telefono."</string>
@@ -477,7 +477,7 @@
     <string name="permdesc_changeWifiState">"Consente a un'applicazione di connettersi/disconnettersi da punti di accesso Wi-Fi e di apportare modifiche alle reti Wi-Fi configurate."</string>
     <string name="permlab_changeWifiMulticastState">consenti ricezione multicast Wi-Fi</string>
     <string name="permdesc_changeWifiMulticastState">"Consente a un'applicazione di ricevere pacchetti non direttamente indirizzati al tuo dispositivo. Può essere utile durante la ricerca di servizi offerti nelle vicinanze. Consuma di più rispetto alla modalità non multicast."</string>
-    <string name="permlab_bluetoothAdmin">accesso alle impostazioni Bluetooth</string>
+    <string name="permlab_bluetoothAdmin">Accesso alle impostazioni Bluetooth</string>
     <string name="permdesc_bluetoothAdmin">"Consente all'applicazione di configurare il Bluetooth del tuo dispositivo e di scoprire ed abbinarsi con dispositivi remoti."</string>
     <string name="permlab_accessWimaxState">visualizzazione stato WiMAX</string>
     <string name="permdesc_accessWimaxState">"Consente a un'applicazione di visualizzare le informazioni relative allo stato della rete WiMAX."</string>
@@ -503,7 +503,7 @@
     <string name="permdesc_readDictionary">"Consente a un'applicazione di leggere parole, nomi e frasi private che l'utente potrebbe aver memorizzato nel dizionario utente."</string>
     <string name="permlab_writeDictionary">"scrittura nel dizionario definito dall'utente"</string>
     <string name="permdesc_writeDictionary">"Consente a un'applicazione di scrivere nuove parole nel dizionario utente."</string>
-    <string name="permlab_sdcardRead">lettura contenuti archivio USB</string>
+    <string name="permlab_sdcardRead">Llettura contenuti archivio USB</string>
     <string name="permdesc_sdcardRead">"Consente a un'applicazione di testare i permessi dell'archiviazione USB."</string>
     <string name="permlab_sdcardWrite">Modifica/eliminaz. contenuti archivio USB</string>
     <string name="permdesc_sdcardWrite">"Consente a un'applicazione di scrivere nell'archivio USB."</string>

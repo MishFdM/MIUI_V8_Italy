@@ -377,7 +377,7 @@
     <string name="permdesc_recordAudio">"Consente all'applicazione di registrare audio con il microfono. Questa autorizzazione consente all'applicazione di registrare audio in qualsiasi momento senza la tua conferma."</string>
     <string name="permlab_sim_communication">comunicazione SIM</string>
     <string name="permdesc_sim_communication">"Consente all'app di inviare comandi alla SIM. Questo è molto pericoloso."</string>
-    <string name="permlab_camera">acquisizione di foto e video</string>
+    <string name="permlab_camera">Acquisizione di foto e video</string>
     <string name="permdesc_camera">"Consente all'applicazione di scattare foto e riprendere video con la fotocamera. Questa autorizzazione consente all'applicazione di utilizzare la fotocamera in qualsiasi momento senza la tua conferma."</string>
     <string name="permlab_vibrate">Controllo vibrazione</string>
     <string name="permdesc_vibrate">"Consente all'applicazione di controllare la vibrazione."</string>
@@ -389,7 +389,7 @@
     <string name="permdesc_accessImsCallService">"Consente all'app di utilizzare il servizio IMS per fare chiamate senza il tuo intervento."</string>
     <string name="permlab_readPhoneState">lettura stato e identità telefono</string>
     <string name="permdesc_readPhoneState">"Consente all'applicazione di accedere alle funzioni telefoniche del dispositivo. Questa autorizzazione consente all'applicazione di determinare il numero di telefono e gli ID dei dispositivi, se una chiamata è attiva e il numero remoto connesso da una chiamata."</string>
-    <string name="permlab_wakeLock">disattivazione stand-by del telefono</string>
+    <string name="permlab_wakeLock">Disattivazione stand-by del telefono</string>
     <string name="permdesc_wakeLock">"Consente all'applicazione di impedire lo stand-by del telefono."</string>
     <string name="permlab_transmitIr">trasmissione a infrarossi</string>
     <string name="permdesc_transmitIr">"Consente all'app di utilizzare il trasmettitore a infrarossi del telefono."</string>
@@ -415,13 +415,13 @@
     <string name="permdesc_changeWifiState">"Consente all'applicazione di connettersi/disconnettersi da punti di accesso Wi-Fi e di apportare modifiche alla configurazione del dispositivo per le reti Wi-Fi."</string>
     <string name="permlab_changeWifiMulticastState">ricezione multicast Wi-Fi</string>
     <string name="permdesc_changeWifiMulticastState">"Consente all'applicazione di ricevere pacchetti inviati a tutti i dispositivi su una rete Wi-Fi utilizzando indirizzi multicast, non solo il tuo telefono. Viene consumata più batteria rispetto alla modalità non multicast."</string>
-    <string name="permlab_bluetoothAdmin">accesso alle impostazioni Bluetooth</string>
+    <string name="permlab_bluetoothAdmin">Accesso alle impostazioni Bluetooth</string>
     <string name="permdesc_bluetoothAdmin">"Consente all'applicazione di configurare il telefono Bluetooth locale e di rilevare ed effettuare l'accoppiamento con dispositivi remoti."</string>
     <string name="permlab_accessWimaxState">connessione e disconnessione da WiMAX</string>
     <string name="permdesc_accessWimaxState">"Consente all'applicazione di determinare se WiMAX è abilitato e informazioni su eventuali reti WiMAX che sono connesse."</string>
     <string name="permlab_changeWimaxState">modifica stato WiMAX</string>
     <string name="permdesc_changeWimaxState">"Consente all'applicazione di connettere/disconnettere il telefono dalle reti WiMAX."</string>
-    <string name="permlab_bluetooth">accoppiamento con dispositivi Bluetooth</string>
+    <string name="permlab_bluetooth">Accoppiamento con dispositivi Bluetooth</string>
     <string name="permdesc_bluetooth">"Consente all'applicazione di visualizzare la configurazione del Bluetooth sul telefono e di stabilire e accettare connessioni con dispositivi accoppiati."</string>
     <string name="permlab_nfc">controllo Near Field Communication</string>
     <string name="permdesc_nfc">"Consente all'applicazione di comunicare con tag, schede e lettori NFC (Near Field Communication)."</string>
@@ -449,7 +449,7 @@
     <string name="permdesc_writeSyncSettings">"Consente a un'applicazione di modificare le impostazioni di sincronizzazione per un account. Ad esempio, può servire per attivare la sincronizzazione dell'applicazione Persone con un account."</string>
     <string name="permlab_readSyncStats">lettura statistiche di sincronizz.</string>
     <string name="permdesc_readSyncStats">"Consente a un'applicazione di leggere le statistiche di sincronizzazione per un account, incluse la cronologia degli eventi di sincronizzazione e la quantità di dati sincronizzati."</string>
-    <string name="permlab_sdcardRead">lettura contenuti archivio USB</string>
+    <string name="permlab_sdcardRead">Llettura contenuti archivio USB</string>
     <string name="permdesc_sdcardRead">"L'app può leggere i contenuti dell'archivio USB."</string>
     <string name="permlab_sdcardWrite">Modifica/eliminazione contenuti USB</string>
     <string name="permdesc_sdcardWrite">"Consente all'applicazione di scrivere nell'archivio USB."</string>
