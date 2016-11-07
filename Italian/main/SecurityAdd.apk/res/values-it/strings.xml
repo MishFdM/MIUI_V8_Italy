@@ -38,7 +38,6 @@
     <string name="pm_lable_name">Informazioni sui permessi di root</string>
     <string name="pc_activity_title">Ottimizza batteria</string>
     <string name="game_booster">Accelerazione Velocità di Gioco</string>
-    <string name="top_game">Giochi top</string>
     <string name="game_setting">Impostazioni di gioco</string>
     <string name="gs_app_back_self_start">Risparmio batteria</string>
     <string name="gs_only_self_start_for_list">Limita i processi in background e risparmia batteria per il gioco</string>
