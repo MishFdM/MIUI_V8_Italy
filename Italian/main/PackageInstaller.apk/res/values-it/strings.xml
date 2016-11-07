@@ -58,7 +58,7 @@
     <string name="message_install_in_market">Noi raccomandiamo di installare le applicazioni da AppStore</string>
     <string name="message_appstore_verify_has_new_version">Una versione più recente di questa applicazione è disponibile nel nostro AppStore. Vuoi installarlo?</string>
     <string name="message_appstore_verify_inconsistent">La firma di questa applicazione è diversa da quella in AppStore, sarà più sicuro installarla da lì.</string>
-    <string name="message_appstore_verify_ok">La versione di questa applicazione in AppStore ha superato i nostri test di sicurezza, si consiglia di installare l'applicazione da lì.</string>
+    <string name="message_appstore_verify_ok">"La versione di questa applicazione in AppStore ha superato i nostri test di sicurezza, si consiglia di installare l'applicazione da lì."</string>
     <string name="install_from_appstore_hint">Noi raccomandiamo di installare le applicazioni da &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
     <string name="waiting_tip">Questa operazione potrebbe richiedere un pò, ma ne vale la pena</string>
     <string name="app_name">Installazione pacchetti</string>
