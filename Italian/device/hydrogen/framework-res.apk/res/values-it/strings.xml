@@ -379,7 +379,7 @@
     <string name="permdesc_sim_communication">"Consente all'app di inviare comandi alla SIM. Questo è molto pericoloso."</string>
     <string name="permlab_camera">acquisizione di foto e video</string>
     <string name="permdesc_camera">"Consente all'applicazione di scattare foto e riprendere video con la fotocamera. Questa autorizzazione consente all'applicazione di utilizzare la fotocamera in qualsiasi momento senza la tua conferma."</string>
-    <string name="permlab_vibrate">controllo vibrazione</string>
+    <string name="permlab_vibrate">Controllo vibrazione</string>
     <string name="permdesc_vibrate">"Consente all'applicazione di controllare la vibrazione."</string>
     <string name="permlab_flashlight">controllo flash</string>
     <string name="permdesc_flashlight">"Consente all'applicazione di controllare il flash."</string>
@@ -403,7 +403,7 @@
     <string name="permdesc_getAccounts">"Consente all'applicazione di accedere all'elenco degli account noti al telefono. Ciò può includere eventuali account creati da applicazioni installate."</string>
     <string name="permlab_accessNetworkState">visualizzazione connessioni di rete</string>
     <string name="permdesc_accessNetworkState">"Consente all'applicazione di visualizzare informazioni sulle connessioni di rete, ad esempio le reti esistenti e connesse."</string>
-    <string name="permlab_createNetworkSockets">accesso di rete completo</string>
+    <string name="permlab_createNetworkSockets">Accesso di rete completo</string>
     <string name="permdesc_createNetworkSockets">"Consente all'app di creare socket di rete e di utilizzare protocolli di rete personalizzati. Il browser e altre applicazioni forniscono mezzi per inviare i dati a Internet, quindi non è richiesta questa autorizzazione per inviare dati a Internet."</string>
     <string name="permlab_changeNetworkState">modifica connettività di rete</string>
     <string name="permdesc_changeNetworkState">"Consente all'applicazione di modificare lo stato di connettività della rete."</string>

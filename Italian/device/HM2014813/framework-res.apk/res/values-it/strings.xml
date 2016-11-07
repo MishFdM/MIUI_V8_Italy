@@ -501,7 +501,7 @@
     <string name="permdesc_asec_mount_unmount">"Consente all'applicazione di montare/smontare la memoria interna."</string>
     <string name="permlab_asec_rename">ridenominazione archivio interno</string>
     <string name="permdesc_asec_rename">"Consente all'applicazione di rinominare la memoria interna."</string>
-    <string name="permlab_vibrate">controllo vibrazione</string>
+    <string name="permlab_vibrate">Controllo vibrazione</string>
     <string name="permdesc_vibrate">"Consente all'applicazione di controllare la vibrazione."</string>
     <string name="permlab_flashlight">controllo flash</string>
     <string name="permdesc_flashlight">"Consente all'applicazione di controllare il flash."</string>
@@ -557,7 +557,7 @@
     <string name="permdesc_useCredentials">"Consente all'applicazione di richiedere i token di autenticazione."</string>
     <string name="permlab_accessNetworkState">visualizzazione connessioni di rete</string>
     <string name="permdesc_accessNetworkState">"Consente all'applicazione di visualizzare informazioni sulle connessioni di rete, ad esempio le reti esistenti e connesse."</string>
-    <string name="permlab_createNetworkSockets">accesso di rete completo</string>
+    <string name="permlab_createNetworkSockets">Accesso di rete completo</string>
     <string name="permdesc_createNetworkSockets">"Consente all'applicazione di creare socket di rete e di utilizzare protocolli di rete personalizzati. Il browser e altre applicazioni forniscono mezzi per inviare i dati a Internet, quindi non è richiesta questa autorizzazione per inviare dati a Internet."</string>
     <string name="permlab_writeApnSettings">modifica/intercettazione delle impostazioni di rete e del traffico</string>
     <string name="permdesc_writeApnSettings">"Consente all'applicazione di modificare le impostazioni di rete e di intercettare e analizzare tutto il traffico di rete, ad esempio di cambiare il proxy e la porta di qualsiasi APN. Le applicazioni dannose potrebbero monitorare, reindirizzare o modificare i pacchetti di rete a tua insaputa."</string>

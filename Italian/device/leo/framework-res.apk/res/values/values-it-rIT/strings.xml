@@ -407,7 +407,7 @@
     <string name="permdesc_asec_mount_unmount">"Consente a un'applicazione di montare/smontare l'archivio interno."</string>
     <string name="permlab_asec_rename">ridenominazione archivio interno</string>
     <string name="permdesc_asec_rename">"Consente a un'applicazione di rinominare l'archivio interno."</string>
-    <string name="permlab_vibrate">controllo vibrazione</string>
+    <string name="permlab_vibrate">Controllo vibrazione</string>
     <string name="permdesc_vibrate">"Consente a un'applicazione di controllare la vibrazione."</string>
     <string name="permlab_flashlight">controllo flash</string>
     <string name="permdesc_flashlight">"Consente a un'applicazione di controllare il flash."</string>
