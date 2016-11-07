@@ -237,7 +237,7 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="HIPS_SecurityPrompt_Accept_Once">Consenti una volta (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Nega una volta (%d)</string>
     <string name="HIPS_Perm_Read_SMS">Leggere i messaggi SMS</string>
-    <string name="HIPS_Perm_Read_SMS_Desc">leggere i messaggi SMS</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">Leggere i messaggi SMS</string>
     <string name="HIPS_Perm_Read_SMS_Hint">%1$s app possono leggere i tuoi messaggi SMS</string>
     <string name="HIPS_Perm_Read_MMS">Leggere i messaggi MMS</string>
     <string name="HIPS_Perm_Read_MMS_Desc">Leggere i messaggi MMS</string>
@@ -246,7 +246,7 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="HIPS_Perm_Read_Call_Log_Desc">Leggere il registro chiamate</string>
     <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s app possono leggere il registro chiamate</string>
     <string name="HIPS_Perm_Read_Contact">Leggere i tuoi contatti</string>
-    <string name="HIPS_Perm_Read_Contact_Desc">leggere i tuoi contatti</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Leggere i tuoi contatti</string>
     <string name="HIPS_Perm_Read_Contact_Hint">%1$s app possono leggere i tuoi contatti</string>
     <string name="HIPS_Perm_Xiaomi_Account">Mi Account</string>
     <string name="HIPS_Perm_Xiaomi_Account_Desc">Accedere al tuo Mi Account</string>
