@@ -6,7 +6,7 @@
     <string name="place_label">Posizioni frequenti</string>
     <string name="preferences_label">Preferenze di viaggio</string>
     <string name="home_and_company">Casa e Ufficio</string>
-    <string name="which_transport">Qual'è il tuo mezzo di trasporto preferito?</string>
+    <string name="which_transport">"Qual'è il tuo mezzo di trasporto preferito?"</string>
     <string name="go_to_school">Esci da scuola o ufficio</string>
     <string name="assistant_place">Assistente per i luoghi frequentati</string>
     <string name="accordingto_position">Definisce la meta in base ai servizi di localizzazione</string>
@@ -29,7 +29,7 @@
     <string name="network_error">Errore di rete</string>
     <string name="clear">Cancella</string>
     <string name="setting_home_label">"Imposta l'indirizzo di casa"</string>
-    <string name="setting_school_label">Imposta l'indirizzo di scuola o ufficio"</string>
+    <string name="setting_school_label">"Imposta l'indirizzo di scuola o ufficio"</string>
     <string name="beijing">Pechino</string>
     <string name="setting_address">Imposta la destinazione</string>
     <string name="retry">Riprova</string>
@@ -38,11 +38,11 @@
     <string name="check_network_retry">Controlla la rete e prova di nuovo</string>
     <string name="scan">Scansione</string>
     <string name="check_network">Mostra le impostazioni di rete</string>
-    <string name="data_error_show">交易已经关闭或结束，无法查询详情</string>
-    <string name="no_settings">未设置</string>
-    <string name="choose_city">请选择城市</string>
-    <string name="entrance">便捷入口</string>
-    <string name="immediate_recommendation">即时建议</string>
+    <string name="data_error_show">La transazione è stata chiusa, non è possibile avere dettagli</string>
+    <string name="no_settings">Non impostato</string>
+    <string name="choose_city">Seleziona una città</string>
+    <string name="entrance">Entrata migliore</string>
+    <string name="immediate_recommendation">Suggerimenti in tempo reale</string>
     <string name="focus">关注动态</string>
     <string name="apps">应用建议</string>
     <string name="shortcut">快速启动</string>
