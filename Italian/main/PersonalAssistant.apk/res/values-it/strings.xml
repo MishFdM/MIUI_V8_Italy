@@ -102,7 +102,6 @@
     <string name="no_more_result">已经到底啦</string>
     <string name="account_address">常用地址</string>
     <string name="try_again">重试一下</string>
-    <string name="navigation_search_default_hint">搜索你想找的内容，比如小米网</string>
     <string name="navigation_search_automatically_positioned_city">自动定位城市</string>
     <string name="navigation_search_positioning">正在定位…</string>
     <string name="navigation_search_positioning_failed">定位失败，您可直接选择城市</string>
