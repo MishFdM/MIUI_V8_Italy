@@ -30,11 +30,11 @@
     <string name="search_group_unfold">Altro</string>
     <string name="common_setting">Impostazioni generali</string>
     <string name="recent_apps">App consigliate</string>
-    <string name="entrance_setting">RAvvio ricerca</string>
+    <string name="entrance_setting">Riavvio ricerca</string>
     <string name="swipe_up_title">Scorri in alto</string>
     <string name="swipe_up_summary">Scorri in alto per avviare la ricerca globale</string>
     <string name="suggest_open_app_failed">Impossibile aprire questa app</string>
-    <string name="top_clicked">Frequent items</string>
+    <string name="top_clicked">Elementi frequenti</string>
     <string name="search_keyword_quicksearchbox">Cerca</string>
     <string name="search_path_quicksearchbox">Impostazioni/App installate/Cerca</string>
     <string name="permission_prompt_title">Cerchi altro?</string>
@@ -43,7 +43,7 @@
     <string name="permission_prompt_started_info">Hai consentito la ricerca globale</string>
     <string name="switch_prompt_title">Non riesci a trovare %s?</string>
     <string name="switch_prompt_ignore">Ignora</string>
-    <string name="switch_prompt_set">Mostraopzioni</string>
+    <string name="switch_prompt_set">Opzioni</string>
     <string name="switch_prompt_title_default">Non riesci a tovare ciò che cerchi?</string>
     <string name="switch_online">Online</string>
     <string name="switch_notes">Note</string>
@@ -52,7 +52,7 @@
     <string name="switch_browser">Browser</string>
     <string name="switch_mms">Messaggi</string>
     <string name="switch_contacts">Contatti</string>
-    <string name="switch_setting">Impostrazioni</string>
+    <string name="switch_setting">Impostazioni</string>
     <string name="apps_search_activity" />
     <string name="xiaomi_suggest_base" />
     <string name="xiaomi_homepage_suggest" />
