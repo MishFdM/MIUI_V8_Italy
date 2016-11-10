@@ -1855,7 +1855,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="color_yellow">Giallo</string>
     <string name="color_magenta">Magenta</string>
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
-    <string name="enable_service_title">Utilizzare %1$s?</string>
+    <string name="enable_service_title">Questo servizio eseguirà le seguenti azioni</string>
     <string name="capabilities_list_title">%1$s deve:</string>
     <string name="touch_filtered_warning">"A causa di un'app che interferisce con la richiesta dei permessi, le Impostazioni non possono verificare la tua risposta."</string>
     <string name="enable_service_encryption_warning">Se attivi %1$s, il tuo dispositivo non userà la password della Schermata di blocco per migliorare la crittografia dei dati.</string>
