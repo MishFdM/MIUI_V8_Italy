@@ -491,6 +491,9 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_onekey_repair_botton">Correggi</string>
     <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
     <string name="tc_diagnostic_upload_button">Riporta</string>
+    <string name="tc_diagnostic_fragment_default">"Per quanto riguarda la diagnostica
+ 1. Il dispositivo si connetterà alla rete dell'operatore, invierà un messaggio gratuito ed aspetterà la risposta dall'operatore. Questo processo può durare 5 minuti.
+ 2. Puoi lasciare questa pagina durante la diagnostica, il processo verrà completato in background."</string>
     <string name="sim_location_diagnostic">Diagnostica posizione</string>
     <string name="operator_diagnostic">Diagnostica operatore</string>
     <string name="brand_diagnostic">Diagnostica nome operatore</string>
@@ -826,6 +829,9 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="resource_networkassistant_4">Test network</string>
     <string name="keywords_networkassistant_4">Connessione;Internet;Test</string>
     <string name="path_networkassistant_4">Applicazioni di sistema/Sicurezza/Assistente di rete/Test di rete</string>
+    <string name="resource_powercenter_powerrank">Batteria e prestazioni</string>
+    <string name="keywords_powercenter_powerrank">Utilizzo batteria</string>
+    <string name="path_powercenter_powerrank">Batteria e prestazioni/Utilizzo batteria</string>
     <string name="app_name_securitycenter">Sicurezza</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
@@ -1042,6 +1048,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="permission_action_prompt">Chiedi sempre</string>
     <string name="permission_action_reject">Nega</string>
     <string name="empty_title_permission_apps_list">Vuoto</string>
+    <string name="old_sdk_deny_warning">Questa app non è compatibile con gli ultimi requisiti di autorizzazione Android. I permessi negati possono influire sul corretto funzionaemnto di questa app.</string>
     <string name="empty_title_root_apps">Nessuna app con accesso root</string>
     <string name="hints_remember_choice">Ricorda la mia scelta</string>
     <string name="root_apply_title">Avviso importante</string>
@@ -1229,6 +1236,13 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="pref_category_title_virus_white_list">Eccezioni</string>
     <string name="pref_title_virus_white_list">Eccezioni</string>
     <string name="pref_summary_virus_white_list">Impedisci alle app selezionate di essere pulite</string>
+    <string name="sp_background_risk_dialog_title">Pericoloso</string>
+    <string name="sp_background_risk_dialog_summary">, esegui un controllo approfondito e risolvi i pericoli per i pagamenti</string>
+    <string name="sp_background_risk_type_wifi">La rete Wi-Fi a cui sei collegato è pericolosa</string>
+    <string name="sp_background_risk_type_messaging">"L'applicazione di sistema per i messaggi è stata modificata"</string>
+    <string name="sp_background_risk_type_virus">"Un'app conenente virus è in esecuzione"</string>
+    <string name="sp_background_risk_type_sign">"Un'app non ufficial è in esecuzione"</string>
+    <string name="sp_background_risk_type_root">Al sistema sono stati concessi i permessi di root</string>
     <string name="toast_removed_from_virus_white_list">Rimosso dalle eccezioni. Questo elemento verrà analizzato la prossima volta.</string>
     <string name="long_click_dialog_title">Attenzione</string>
     <string name="long_click_dialog_summary">Tieni premuto sui risultati della lista per aggiungerli alle Eccezioni</string>

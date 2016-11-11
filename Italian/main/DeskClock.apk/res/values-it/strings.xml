@@ -34,6 +34,8 @@
     <string name="alarm_disabled">Disabilitata</string>
     <string name="alarm_ascending_mode_title">Volume crescente</string>
     <string name="alarm_ascending_mode_summary">"Il volume della sveglia aumenta progressivamente."</string>
+    <string name="setting_alarm_arriving_title">Notifica prima di squillare</string>
+    <string name="setting_alarm_arriving_summary">Invia una notifica prima di squillare</string>
     <string name="close_alarm">Disattiva sveglia</string>
     <string name="timer_notify_text">Sospendi o disattiva.</string>
     <string name="upcoming_alarm"> Sveglia in arrivo</string>

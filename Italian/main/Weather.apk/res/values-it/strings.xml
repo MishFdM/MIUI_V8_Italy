@@ -30,6 +30,7 @@
     <string name="view_indexes_item_tommorrow">Domani</string>
     <string name="activity_main_update_time">Aggiornato %1$s</string>
     <string name="activity_main_update_time_right_now">Ora</string>
+    <string name="activity_main_update_time_right_now">adesso</string>
     <string name="refresh_fail">Impossibile collegarsi alla rete</string>
     <string name="activity_find_city_dialog_cancel">Annulla</string>
     <string name="activity_find_city_dialog_set">Impostazioni</string>
@@ -146,8 +147,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="activity_main_one_alert" />
     <string name="activity_main_alert" />
     <string name="activity_alert_detail_title" />
-    <string name="close">Chiudi</string>
-    <string name="hide_topic">Nascondi</string>
     <string name="install">Installa</string>
     <string name="open">Apri</string>
     <string name="daily_forecast_detail_date">d/M</string>
@@ -184,6 +183,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="unit_temperature">Unità temperatura</string>
     <string name="unit_wind">Unità forza vento</string>
     <string name="set">Impostazioni</string>
-    <string name="common_loading_text">Caricamento...</string>
+    <string name="common_loading_text">Solo un attimo...</string>
     <string name="change_alert">Controlla la connessione di rete e prova di nuovo</string>
 </resources>

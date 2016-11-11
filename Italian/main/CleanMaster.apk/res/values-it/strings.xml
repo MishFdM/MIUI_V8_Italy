@@ -27,6 +27,7 @@
     <string name="update_date_format">dd-MM-yyyy</string>
     <string name="activity_title_garbage_cleanup">Pulizia</string>
     <string name="activity_title_scanfinish">Scansione completata</string>
+    <string name="empty_title_photos">Nessuna immagine</string>
     <string name="empty_title_garbage_cache">Cache vuota</string>
     <string name="empty_title_ad">Nessuna pubblicità trovata</string>
     <string name="empty_title_apk">Nessun pacchetto di installazione trovato</string>

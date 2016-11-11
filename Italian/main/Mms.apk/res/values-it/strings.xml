@@ -669,4 +669,5 @@
     <string name="privacy_password_title3">Aggiorna la tua password</string>
     <string name="privacy_password_message3">"La password dei messaggi privati verrà sostituita dalla password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
     <string name="privacy_password_title4">Password aggiornata</string>
+    <string name="from_pkg_name">"Dall'app:"</string>
 </resources>

@@ -63,6 +63,7 @@
     <string name="alwaysUsePrompt">Ricorda questa scelta</string>
     <string name="translation_query_error">Impossibile trovare risultati</string>
     <string name="translation_query_error_network">Impossibile connettersi alla rete. Controlla le impostazioni e riprova.</string>
+    <string name="translation_more">Altro</string>
     <string name="auto_start_warning_title">"Consentire l'avvio automatico di %s in futuro?"</string>
     <string name="auto_start_warning_allow">Consenti</string>
     <string name="auto_start_warning_deny">Nega</string>
@@ -171,4 +172,5 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="package_delete_confirm_step_1">Eliminare %s?</string>
     <string name="package_delete_confirm_step_2">Eliminando questa app potresti causare instabilità del sistema.</string>
     <string name="package_delete_confirm_step_3">Non potrai utilizzare questa app una volta eliminata.</string>
+    <string name="configure_input_methods">Scegli tastiere</string>
 </resources>
