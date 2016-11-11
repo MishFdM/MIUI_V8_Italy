@@ -491,9 +491,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_onekey_repair_botton">Correggi</string>
     <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
     <string name="tc_diagnostic_upload_button">Riporta</string>
-    <string name="tc_diagnostic_fragment_default">"Per quanto riguarda la diagnostica
- 1. Il dispositivo si connetterà alla rete dell'operatore, invierà un messaggio gratuito ed aspetterà la risposta dall'operatore. Questo processo può durare 5 minuti.
- 2. Puoi lasciare questa pagina durante la diagnostica, il processo verrà completato in background."</string>
     <string name="sim_location_diagnostic">Diagnostica posizione</string>
     <string name="operator_diagnostic">Diagnostica operatore</string>
     <string name="brand_diagnostic">Diagnostica nome operatore</string>

@@ -2545,7 +2545,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="restriction_menu_change_pin">Cambia PIN</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
     <string name="help_label">Guida</string>
-    <string name="help_uri_default" />
     <string name="help_uri_dashboard"/>
     <string name="help_uri_beam"/>
     <string name="help_uri_display"/>
