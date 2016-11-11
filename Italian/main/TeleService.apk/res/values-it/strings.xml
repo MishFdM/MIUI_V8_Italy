@@ -61,7 +61,7 @@ Use it for Top-up package?"</string>
     <string name="whole_calls">Tutte le chiamate</string>
     <string name="domestic_calls">Solo nazionali</string>
     <string name="international_calls">Solo internazionali</string>
-    <string name="operator_mins_first">Dai la priorità al piano dell'operatore</string>
+    <string name="operator_mins_first">"Dai la priorità al piano dell'operatore"</string>
     <string name="help_view">Aiuto</string>
     <string name="livetalk_provision_title">Provision</string>
     <string name="not_supported_number_content">La ricarica del pacchetto non supporta i numeri di servizio. Prova utilizzando la SIM. Il tuo operare applicherà la tariffa prevista dal tuo piano."</string>

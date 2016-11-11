@@ -29,7 +29,7 @@
     <string name="view_indexes_item_today">Oggi</string>
     <string name="view_indexes_item_tommorrow">Domani</string>
     <string name="activity_main_update_time">Aggiornato %1$s</string>
-    <string name="activity_main_update_time_right_now">Ora</string>
+    <string name="activity_main_update_time_expire">Dati scaduti</string>
     <string name="activity_main_update_time_right_now">adesso</string>
     <string name="refresh_fail">Impossibile collegarsi alla rete</string>
     <string name="activity_find_city_dialog_cancel">Annulla</string>

@@ -465,7 +465,7 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_find_device_guide_noti_title">Attiva \"Trova Dispositivo\" per proteggere i tuoi dati anche se perdi il dispositivo</string>
     <string name="micloud_find_device_guide_noti_content">Attiva</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Attiva \"Trova Dispositivo\" per mettere al sicuro i tuoi dati Wechat</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Attiva \"Trova Dispositivo\" per mettere al sicuro i tuoi dati Alipay</string>
+    <string name="micloud_find_device_guide_noti_content_by_app_change_wx">I tuoi dati WeChat saranno al sicuro anche se smarrisci il telefono</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay suggerisci di attivare Trova Telefono</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">I tuoi dati Alipay saranno al sicuro anche se smarrisci il tuo dispositivo</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ suggerisce di attivare Trova Telefono</string>
