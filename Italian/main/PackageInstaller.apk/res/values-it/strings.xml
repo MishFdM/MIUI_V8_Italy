@@ -81,8 +81,8 @@
     <string name="install_failed_msg">Impossibile installare %1$s sul dispositivo.</string>
     <string name="launch">Apri</string>
     <string name="unknown_apps_dlg_title">Blocca installazioni</string>
-    <string name="unknown_apps_dlg_text">Per motivi di sicurezza, il dispositivo è impostato per bloccare le applicazioni non provenienti dal Google Play Store. Rimuovendo questa restrizione potrai installare applicazioni provenienti da altre fonti ma il dispositivo ed i tuoi dati potrebbero essere a rischio. Procedendo dichiari di essere a conoscenza dei rischi. Puoi modificare queste impostazioni in Impostazioni > Sicurezza > Origini sconosciute.</string>
-    <string name="unknown_apps_dlg_text1">"Il telefono è impostato per bloccare l'installazione di applicazioni da fonti sconosciute. È possibile disattivare questa funzione in "</string>
+    <string name="unknown_apps_dlg_text">Il tuo dipositivo è bloccato per installare applicazioni sconosciute. Puoi disattivare questa funzione dalle Impostazioni.</string>
+    <string name="unknown_apps_dlg_text1">"Il tuo dipositivo è bloccato per installare applicazioni sconosciute. Puoi disattivare questa funzione dalle "</string>
     <string name="unknown_apps_dlg_text2">\"Impostazioni\"</string>
     <string name="unknown_apps_dlg_text3">.</string>
     <string name="ok">OK</string>
