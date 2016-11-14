@@ -101,7 +101,7 @@
   "more_view_detail":"Dettagli",
   "title_search_hot":"Popolari",
   "title_search_history":"Cronologia ricerche",
-  "message_delete_playlist":"Eliminare dalla playlist ${v}?",
+  "message_delete_playlist":"Eliminare la playlist ${v}?",
   "avail_services":"Disponibile",
   "current_services":"Attuale",
   "upgrade_services":"Aggiornamenti",
