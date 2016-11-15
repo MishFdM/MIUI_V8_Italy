@@ -45,8 +45,8 @@
         <item quantity="one">La foto selezionata non è su questo dispositivo. Verrà scaricata.</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
-        <item quantity="other">%d foto saltate perchè non presenti sul dispositivo.</item>
-        <item quantity="one">Una foto è stata saltata perchè non presente sul dispositivo.</item>
+        <item quantity="other">%d foto saltate perché non presenti sul dispositivo.</item>
+        <item quantity="one">Una foto è stata saltata perché non presente sul dispositivo.</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Impossibile scaricare %1$d foto. Riprovare?</item>

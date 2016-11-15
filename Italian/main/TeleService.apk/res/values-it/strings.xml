@@ -341,7 +341,7 @@ Use it for Top-up package?"</string>
     <string name="labelGsmMore_with_label">Impostazioni chiamate GSM (%s)</string>
     <string name="labelCDMAMore">Impostazioni chiamate CDMA</string>
     <string name="labelCdmaMore_with_label">Impostazioni chiamate CDMA (%s)</string>
-    <string name="apn_settings">Nomi punti di accesso</string>
+    <string name="apn_settings">APN</string>
     <string name="settings_label">Impostazioni rete</string>
     <string name="phone_accounts">Impostazioni account telefono</string>
     <string name="phone_accounts_make_calls_with">Effettua chiamate con</string>
@@ -488,12 +488,12 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
     <string name="enhanced_4g_lte_mode_title">Modalità 4G LTE avanzata</string>
     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (raccomandato)</string>
-    <string name="data_enabled">Dati attivati</string>
+    <string name="data_enabled">Connessione dati</string>
     <string name="data_enable_summary">Abilita accesso dati tramite rete mobile</string>
     <string name="roaming">Roaming dati</string>
-    <string name="roaming_enable">Connetti ai servizi dati quando sei in roaming</string>
-    <string name="roaming_disable">Non connettere ai servizi dati quando sei in roaming</string>
-    <string name="roaming_reenable_message">Hai perso la connessione perchè non sei più connesso alla rete del tuo operatore e la connessione dati in roaming è disattivata.</string>
+    <string name="roaming_enable">Connessione ai servizi dati quando si è in roaming</string>
+    <string name="roaming_disable">Connessione ai servizi dati quando si è in roaming</string>
+    <string name="roaming_reenable_message">Hai perso la connessione perché non sei più connesso alla rete del tuo operatore e la connessione dati in roaming è disattivata.</string>
     <string name="roaming_warning">Consentire il roaming dati? Il tuo piano potrebbe non includere il traffico in roaming.</string>
     <string name="roaming_alert_title">Consentire il roaming dati?</string>
     <string name="ussd_dialog_sep">----------</string>
@@ -648,8 +648,8 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="delete_fdn_contact">Elimina numero a selezione fissa</string>
     <string name="deleting_fdn_contact">Eliminazione numero a selezione fissa…</string>
     <string name="fdn_contact_deleted">Numero a selezione fissa eliminato.</string>
-    <string name="pin2_invalid">NSF non aggiornato perchè hai digitato un PIN errato.</string>
-    <string name="fdn_invalid_number">NSF non aggiornato perchè il numero non può essere più lungo di 20 cifre</string>
+    <string name="pin2_invalid">NSF non aggiornato perché hai digitato un PIN errato.</string>
+    <string name="fdn_invalid_number">NSF non aggiornato perché il numero non può essere più lungo di 20 cifre</string>
     <string name="pin2_or_fdn_invalid">FDN non aggiornato. Il PIN2 non è corretto o il numero di telefono viene rifiutato.</string>
     <string name="fdn_failed">FDN operazione fallita.</string>
     <string name="simContacts_emptyLoading">Lettura dalla carta SIM…</string>
@@ -796,7 +796,7 @@ Potrebbero essere necessari fino a 5 minuti."</string>
     <string name="ota_speaker">Altoparlante</string>
     <string name="ota_progress">Attendi mentre il tuo dispositivo viene configurato.</string>
     <string name="ota_failure">Configurazione fallita</string>
-    <string name="ota_successful">Il tuo dispositivo è attivato. Potrebbero essere necessari fino a 15 minuti perchè il servizio si avvii.</string>
+    <string name="ota_successful">Il tuo dispositivo è attivato. Potrebbero essere necessari fino a 15 minuti perché il servizio si avvii.</string>
     <string name="ota_unsuccessful">"Il tuo dispositivo non è stato attivato. 
 Dovresti trovare una zona dove c'è migliore copertura (vicino una finestra o all'esterno). 
 
@@ -932,7 +932,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="network_settings_information">Informazione</string>
     <string name="network_settings_duringcall">Operazione non consentita durante una chiamata</string>
     <string name="network_settings_data_connected_change">"Impossibile cambiare rete mentre è in uso la connessione dati. Interrompere la connessione dati in uso quindi passare ad un'altra rete?"</string>
-    <string name="network_settings_automatically_option">Seleziona automaticamente operatore preferito  (%s)</string>
+    <string name="network_settings_automatically_option">Seleziona automaticamente operatore preferito (%s)</string>
     <string name="network_settings_turn_off">Disattiva</string>
     <string name="network_settings_select_automatic_hint">Impossibile registrarsi sulla rete che hai selezionato.
 Sarà usata al suo posto la rete preferita.</string>
@@ -1119,7 +1119,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
     <string name="telephony_setting">Impostazioni chiamata</string>
     <string name="msim_setting_screen_title">SIM e dati mobili</string>
-    <string name="msim_setting_categery_title">Informazioni SIM</string>
+    <string name="msim_setting_categery_title">Impostazioni SIM</string>
     <string name="msim_general_setting">Impostazioni comuni</string>
     <string name="msim_default_setting">Impostazioni predefinite</string>
     <string name="msim_setting_no_sim_indicator">Nessuna SIM</string>
@@ -1148,8 +1148,8 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Non limitare la SIM secondaria in modalità chiamata di emergenza."</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
     <string name="msim_has_been_disabled">(Disattivato)</string>
-    <string name="international_roaming_setting">Roaming internazionale</string>
-    <string name="overseas_roaming_setting">Roaming internazionale</string>
+    <string name="international_roaming_setting">Roaming dati</string>
+    <string name="overseas_roaming_setting">Roaming dati</string>
     <string name="add">Aggiungi</string>
     <string name="undefined">Non definita</string>
     <string name="remove">Elimina</string>
@@ -1246,7 +1246,7 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="network_unlock">Sblocca</string>
     <string name="change_default_data_card">SIM dati predefinita</string>
     <string name="change_default_data_card_summary">Sembra che tu abbia cambiato SIM. Imposta questa SIM come predefinita per la connessione dati?</string>
-    <string name="fdn_full">FDN non aggiornati perchè la lista è piena.</string>
+    <string name="fdn_full">FDN non aggiornati perché la lista è piena.</string>
     <string name="enhanced_4g_lte_mode_on_failed">Impossibile attivare VoLTE."</string>
     <string name="enhanced_4g_lte_mode_off_failed">Impossibile disattivare VoLTE."</string>
     <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete che utilizza VoLTE. Attiva ora la tua connessione dati.</string>
@@ -1260,17 +1260,17 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="config_default_data_sim">Impostazioni</string>
     <string name="got_it">OK</string>
     <string name="can_not_use_for_not_data_sim">"(Impossibile utilizzare: deve essere impostata come SIM predefinita)"</string>
-    <string name="network_settings_title">Reti mobili</string>
+    <string name="network_settings_title">Rete mobile</string>
     <string name="call_background_setting">Sfondo chiamata</string>
     <string name="call_background_default">Predefinito</string>
-    <string name="call_background_lock_wallpaper">Sfondo lockscreen</string>
+    <string name="call_background_lock_wallpaper">Sfondo schermata di blocco</string>
     <string name="antispam_setting">Blacklist</string>
     <string name="call_advanced_setting_title">Impostazioni avanzate</string>
     <string name="preference_data_usage_title">Piano dati</string>
-    <string name="preference_data_usage_summary">"Imposta il piano dati per controllare l'uso dei dati mobili"</string>
+    <string name="preference_data_usage_summary">"Imposta un piano dati per controllare l'uso della rete dati mobile"</string>
     <string name="sim_service_setting">Mi SIM e Mi Roaming</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
-    <string name="mi_sim_settings_summary">Utilizza i dati su rete mobile senza una SIM</string>
+    <string name="mi_sim_settings_summary">Utilizza la rete dati mobile senza una SIM</string>
     <string name="sim_roaming_settings_title">Mi Roaming</string>
     <string name="sim_roaming_settings_summary">Collegati alla rete dati mobile durante il roaming</string>
     <string name="lable_network_not_supported">Non supportato dalla rete</string>
