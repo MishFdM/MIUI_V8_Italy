@@ -13,7 +13,7 @@ Ricarica e inizia a chiamare"</string>
     <string name="remain_mins_unit">min</string>
     <string name="remain_mins_unit_plural">minuti</string>
     <string name="remain_minutes">Tempo chiamate</string>
-    <string name="internation_remain_minutes">（o %1$s %2$s itempo chiamate internazionali）</string>
+    <string name="internation_remain_minutes">（%1$s %2$s tempo chiamate internazionali）</string>
     <string name="remain_minutes_summary">Nazioni diverse, diverse tariffe;Soggetto alla registrazione finale del conto.</string>
     <string name="purchase_title">Acquista</string>
     <string name="purchase_summary">Risparmia fino al 70% sulle spese di chiamata</string>
@@ -25,8 +25,8 @@ Ricarica e inizia a chiamare"</string>
     <string name="please_connect_network_message">Collegarsi alla rete</string>
     <string name="account_changed_title">Account modificato</string>
     <string name="use_current_account_creat_livetalk_info">"Puoi utilizzare l'accesso al pacchetto di ricarica tramite il Mi Account: %1$s"</string>
-    <string name="use_current_account_creat_livetalk">"You've sign in with this Mi Account: %1$s.
-Use it for Top-up package?"</string>
+    <string name="use_current_account_creat_livetalk">"Hai effettuato l'accesso ocn il Mi Account: %1$s.
+Vuoi utilizzarlo per i pacchetti di ricarica?"</string>
     <string name="creating_account">Creazione account…</string>
     <string name="creat_account_error">Impossibile creare account. Riprovare?</string>
     <string name="important_attention">Attenzione</string>
@@ -52,10 +52,10 @@ Use it for Top-up package?"</string>
     <string name="operator_first_sim_card_changed_title">Modifica SIM</string>
     <string name="operator_first_sim_card_changed_summary">Azzera minuti pacchetto operatore</string>
     <string name="operator_first_mins_none_title">Operator package minutes all used</string>
-    <string name="operator_first_mins_none_summary">Top-up package first</string>
-    <string name="operator_first_mins_hint">xx minutes</string>
-    <string name="operator_first_no_set">no value</string>
-    <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
+    <string name="operator_first_mins_none_summary">Ricarica prima il pacchetto</string>
+    <string name="operator_first_mins_hint">xx minuti</string>
+    <string name="operator_first_no_set">non impostato</string>
+    <string name="livetalk_add_white_list_info">Aggiungi numero di composizione rapida.</string>
     <string name="common_setting">Impostazioni generali</string>
     <string name="use_range">Intervallo</string>
     <string name="whole_calls">Tutte le chiamate</string>
@@ -75,11 +75,11 @@ Use it for Top-up package?"</string>
     <string name="verifying">Verifica in corso…</string>
     <string name="verified">Verificato</string>
     <string name="verify_failed">Errore di verifica</string>
-    <string name="active_phone_sim_absent">Inserisciadesso la SIM</string>
+    <string name="active_phone_sim_absent">Inserisci adesso la SIM</string>
     <string name="sim1_no_activated">Impossibile verificare SIM 1</string>
     <string name="sim2_no_activated">Impossibile verificare SIM 2</string>
     <string name="sim_no_activated">Impossibile verificare la SIM</string>
-    <string name="no_sim_card">Insert SIM card</string>
+    <string name="no_sim_card">Inserisci SIM card</string>
     <string name="international_dial_complete_intention">Effettua chiamate internazionali a costi minori</string>
     <string name="international_dial_complete_summary">Le chiamate internazionali hanno tariffe più alte. Utilizza il pacchetto di ricarica per chiamare a costi minori.</string>
     <string name="international_dial_complete_no">Non adesso</string>
@@ -180,7 +180,7 @@ Use it for Top-up package?"</string>
     <string name="callFailed_server_unreachable">Server irraggiungibile</string>
     <string name="callFailed_number_unreachable">Numero irraggiungibile</string>
     <string name="callFailed_invalid_credentials">Username o password non corretta</string>
-    <string name="callFailed_out_of_network">Called from out-of-network</string>
+    <string name="callFailed_out_of_network">Chiamata da fuori copertura out-of-network</string>
     <string name="callFailed_server_error">Errore. Riprova più tardi.</string>
     <string name="callFailed_noSignal">Nessun segnale</string>
     <string name="callFailed_limitExceeded">ACM limite superato</string>
@@ -191,7 +191,7 @@ Use it for Top-up package?"</string>
     <string name="callFailed_dialToUssd">Richiesta DIAL modificata in richiesta USSD.</string>
     <string name="callFailed_dialToSs">Richiesta DIAL modificata in richiesta SS.</string>
     <string name="callFailed_dialToDial">Richiesta DIAL modificata in richiesta DIAL con numero diverso.</string>
-    <string name="callFailed_cb_enabled">"Non puoi effettuare chiamate in uscitaquando il blocco è attivo."</string>
+    <string name="callFailed_cb_enabled">"Non puoi effettuare chiamate in uscita quando il blocco è attivo."</string>
     <string name="callFailed_dsac_restricted">Tutte le chiamate sono limitate dal controllo di accesso.</string>
     <string name="callFailed_dsac_restricted_emergency">Le chiamate di emergenza sono limitate dal controllo di accesso.</string>
     <string name="callFailed_dsac_restricted_normal">Le chiamate normali sono limitate dal controllo di accesso.</string>
@@ -472,8 +472,8 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Modalità di rete preferita: CDMA+LTE/EVDO</string>
     <string name="preferred_network_mode_global_summary">Modalità di rete preferita: Globale(CDMA/EVDO/LTE/GSM/WCDMA)</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Modalità di rete preferita: LTE / WCDMA</string>
-    <string name="preferred_network_mode_lte_gsm_umts_summary">Preferred network mode: LTE/GSM/UMTS</string>
-    <string name="preferred_network_mode_lte_cdma_summary">Preferred network mode: LTE/CDMA</string>
+    <string name="preferred_network_mode_lte_gsm_umts_summary">Modalità di rete preferita: LTE/GSM/UMTS</string>
+    <string name="preferred_network_mode_lte_cdma_summary">Modalità di rete preferita: LTE/CDMA</string>
     <string name="callFailed_incoming_cb_enabled">Una parte ha bloccato le chiamate.</string>
     <string name="callUnanswered_forwarded">Chiamata senza risposta e inoltrata</string>
     <string name="preferred_network_mode_td_scdma_only_summary">Modalità di rete preferita: solo TD-SCDMA</string>
@@ -493,7 +493,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="roaming">Roaming dati</string>
     <string name="roaming_enable">Connetti ai servizi dati quando sei in roaming</string>
     <string name="roaming_disable">Non connettere ai servizi dati quando sei in roaming</string>
-    <string name="roaming_reenable_message">Hai perso la connessione perchè non sei più connesso alla rete del tuo operatore e la connessione dati in roaming è disattivata.</string>
+    <string name="roaming_reenable_message">Hai perso la connessione perché non sei più connesso alla rete del tuo operatore e la connessione dati in roaming è disattivata.</string>
     <string name="roaming_warning">Consentire il roaming dati? Il tuo piano potrebbe non includere il traffico in roaming.</string>
     <string name="roaming_alert_title">Consentire il roaming dati?</string>
     <string name="ussd_dialog_sep">----------</string>
@@ -517,12 +517,12 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="throttle_time_frame">Periodo uso dati</string>
     <string name="throttle_rate">Politica volume dati</string>
     <string name="throttle_help">Maggiori informazioni</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d٪) of %3$s periodo massimo
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) di %3$s periodo massimo
 Il prossimo periodo inizia tra %4$d giorni (%5$s)"</string>
-    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s periodo massimo</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) di %3$s periodo massimo</string>
     <string name="throttle_data_rate_reduced_subtext">"%1$s massimo superato
 Velocità ridotta a %2$d Kb/s"</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ of ciclo trascorso
+    <string name="throttle_time_frame_subtext">"%1$d٪ di ciclo trascorso
 Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="throttle_rate_subtext">Velocità ridotta a %1$d Kb/s se superi il limite massimo</string>
     <string name="throttle_help_subtext">Per ulteriori informazioni sui dati della rete mobile verifica le policy del tuo operatore</string>
@@ -565,9 +565,9 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="enable_disable_atr">Rapporti sul traffico</string>
     <string name="atr_enable">Rapporti sul traffico attivati</string>
     <string name="atr_disable">Rapporti sul traffico disattivati</string>
-    <string name="enable_disable_lafs">Orari dei voli aereoporto locale</string>
-    <string name="lafs_enable">Orari dei voli aereoporto locale attivati</string>
-    <string name="lafs_disable">Orari dei voli aereoporto locale disattivati</string>
+    <string name="enable_disable_lafs">Orari dei voli aeroporto locale</string>
+    <string name="lafs_enable">Orari dei voli aeroporto locale attivati</string>
+    <string name="lafs_disable">Orari dei voli aeroporto locale disattivati</string>
     <string name="enable_disable_restaurants">Ristoranti</string>
     <string name="restaurants_enable">Ristoranti attivati</string>
     <string name="restaurants_disable">Ristoranti disattivati</string>
@@ -611,9 +611,9 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="cdma_lte_data_service">Imposta servizio dati</string>
     <string name="carrier_settings_title">Impostazioni del gestore</string>
     <string name="fdn">Numeri a selezione fissa</string>
-    <string name="fdn_with_label">Fixed Dialing Numbers (%s)</string>
+    <string name="fdn_with_label">Numeri  Selezione Fissa (%s)</string>
     <string name="manage_fdn_list">Lista NSF</string>
-    <string name="fdn_list_with_label">FDN list (%s)</string>
+    <string name="fdn_list_with_label">LIsta NSF(%s)</string>
     <string name="fdn_activation">Attivazione NSF</string>
     <string name="fdn_enabled">I numeri a selezione fissa sono stati attivati</string>
     <string name="fdn_disabled">I numeri a selezione fissa sono stati disattivati</string>
@@ -622,7 +622,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="change_pin2">Modifica PIN2</string>
     <string name="enable_fdn_ok">NSF disattivati</string>
     <string name="disable_fdn_ok">NSF attivati</string>
-    <string name="sum_fdn">Manage Fixed Dialing Numbers</string>
+    <string name="sum_fdn">Gestisci i Numeri a Selezione Fissa</string>
     <string name="sum_fdn_change_pin">Cambia il PIN per accedere ai NSF</string>
     <string name="sum_fdn_manage_list">Gestisci la tua lisa di Numeri a selezione fissa</string>
     <string name="voice_privacy">Privacy voce</string>
@@ -631,7 +631,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="tty_mode_option_summary">Imposta modalità TTY</string>
     <string name="auto_retry_mode_title">Ricomposizione automatica</string>
     <string name="auto_retry_mode_summary">Abilita modalità ricomposizione automatica</string>
-    <string name="tty_mode_not_allowed_video_call">TTY Mode change is not allowed during a video call</string>
+    <string name="tty_mode_not_allowed_video_call">La modifica della modalità TTY non è consentita durante una video chiamata</string>
     <string name="menu_add">Aggiungi contatto</string>
     <string name="menu_edit">Modifica contatto</string>
     <string name="menu_delete">Elimina contatto</string>
@@ -648,8 +648,8 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="delete_fdn_contact">Elimina numero a selezione fissa</string>
     <string name="deleting_fdn_contact">Eliminazione numero a selezione fissa…</string>
     <string name="fdn_contact_deleted">Numero a selezione fissa eliminato.</string>
-    <string name="pin2_invalid">NSF non aggiornato perchè hai digitato un PIN errato.</string>
-    <string name="fdn_invalid_number">NSF non aggiornato perchè il numero non può essere più lungo di 20 cifre</string>
+    <string name="pin2_invalid">NSF non aggiornato perché hai digitato un PIN errato.</string>
+    <string name="fdn_invalid_number">NSF non aggiornato perché il numero non può essere più lungo di 20 cifre</string>
     <string name="pin2_or_fdn_invalid">FDN non aggiornato. Il PIN2 non è corretto o il numero di telefono viene rifiutato.</string>
     <string name="fdn_failed">FDN operazione fallita.</string>
     <string name="simContacts_emptyLoading">Lettura dalla carta SIM…</string>
@@ -665,7 +665,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="newPinLabel">Nuovo PIN</string>
     <string name="confirmPinLabel">Conferma il nuovo PIN</string>
     <string name="badPin">Il vecchio PIN che hai digitato non è corretto. Riprova.</string>
-    <string name="mismatchPin">I PIN che hai digitato non corrispondno. Riprova</string>
+    <string name="mismatchPin">I PIN che hai digitato non corrispondono. Riprova</string>
     <string name="invalidPin">Digita un PIN che sia composto da 4 a 8 cifre.</string>
     <string name="disable_sim_pin">Disattiva PIN della SIM</string>
     <string name="enable_sim_pin">Attiva PIN della SIM</string>
@@ -692,7 +692,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="pin2_attempts">"
 Sono rimasti %d tentativo(i)."</string>
     <string name="pin2_unblocked">PIN2 Sbloccato.</string>
-    <string name="pin2_error_exception">Network or SIM card error</string>
+    <string name="pin2_error_exception">Errore di rete o SIM</string>
     <string name="doneButton">Fatto</string>
     <string name="fake_phone_activity_phoneNumber_text">+39 333 1234567</string>
     <string name="fake_phone_activity_infoText_text">Numero chiamante</string>
@@ -732,10 +732,10 @@ Sono rimasti %d tentativo(i)."</string>
     <string name="notification_network_selection_title">Nessun servizio</string>
     <string name="notification_network_selection_text">La rete selezionata (%s) non è disponibile</string>
     <string name="incall_error_power_off">Per effettuare una chiamata, disattiva prima la modalità Aereo.</string>
-    <string name="incall_error_power_off_wfc">Turn off airplane mode or connect to a wireless network to make a call.</string>
+    <string name="incall_error_power_off_wfc">Disattiva la modalità aereo o collegati ad una rete Wi-Fi per effettuare una chiamata.</string>
     <string name="incall_error_emergency_only">Non registrato sulla rete.</string>
     <string name="incall_error_out_of_service">Rete mobile non disponibile.</string>
-    <string name="incall_error_out_of_service_wfc">Mobile network is not available. Connect to a wireless network to make a call.</string>
+    <string name="incall_error_out_of_service_wfc">Rete mobile non disponibile. Collegati ad una rete per poter effettuare una chiamata.</string>
     <string name="incall_error_no_phone_number_supplied">Chiamata non effettuata, non è stato immesso nessun numero valido.</string>
     <string name="incall_error_call_failed">Chiamata non effettuata.</string>
     <string name="incall_status_dialed_mmi">Avvio della sequenza MMI…</string>
@@ -765,7 +765,7 @@ Sono rimasti %d tentativo(i)."</string>
     <string name="onscreenManageCallsText">Gestisci chiamate</string>
     <string name="onscreenManageConferenceText">Gestisci conferenza</string>
     <string name="onscreenAudioText">Audio</string>
-    <string name="onscreenVideoCallText">Videochiamata</string>
+    <string name="onscreenVideoCallText">Video chiamata</string>
     <string name="importSimEntry">Importa</string>
     <string name="importAllSimEntries">Importa tutto</string>
     <string name="importingSimContacts">Importazione contatti dalla SIM</string>
@@ -796,7 +796,7 @@ Potrebbero essere necessari fino a 5 minuti."</string>
     <string name="ota_speaker">Altoparlante</string>
     <string name="ota_progress">Attendi mentre il tuo dispositivo viene configurato.</string>
     <string name="ota_failure">Configurazione fallita</string>
-    <string name="ota_successful">Il tuo dispositivo è attivato. Potrebbero essere necessari fino a 15 minuti perchè il servizio si avvii.</string>
+    <string name="ota_successful">Il tuo dispositivo è attivato. Potrebbero essere necessari fino a 15 minuti perché il servizio si avvii.</string>
     <string name="ota_unsuccessful">"Il tuo dispositivo non è stato attivato. 
 Dovresti trovare una zona dove c'è migliore copertura (vicino una finestra o all'esterno). 
 
@@ -826,30 +826,25 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="description_dial_button">componi</string>
     <string name="voicemail_notification_vibrate_when_title">Vibra</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrazione</string>
-    <string name="voicemail_visual_voicemail_switch_title">Visual voicemail</string>
+    <string name="voicemail_visual_voicemail_switch_title">Segreteria video</string>
     <string name="voicemail_notification_ringtone_title">Suona</string>
     <string name="preference_category_ringtone">Suoneria e vibrazione</string>
     <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="pstn_connection_service_label">Built-in SIM</string>
-    <string name="enable_video_calling_title">Attiva videochiamata</string>
-    <string name="enable_video_calling_dialog_msg">Per attivare la videochiamata, devi aver abilitato il 4G nelle impostazioni di sistema.</string>
+    <string name="enable_video_calling_title">Attiva video chiamata</string>
+    <string name="enable_video_calling_dialog_msg">Per attivare la video chiamata, devi aver abilitato il 4G nelle impostazioni di sistema.</string>
     <string name="enable_video_calling_dialog_settings">Impostazioni di rete</string>
     <string name="enable_video_calling_dialog_close">Chiudi</string>
     <string name="sim_label_emergency_calls">Chiamate emergenza</string>
     <string name="sim_description_emergency_calls">Solo chiamata di emergenza</string>
     <string name="sim_description_default">SIM, slot: %s</string>
-    <string name="accessibility_settings_activity_title">Accessibility</string>
+    <string name="accessibility_settings_activity_title">Accessibilità</string>
     <string name="config_world_mode"/>
-    <string name="status_hint_label_incoming_wifi_call">Incoming WLAN call</string>
-    <string name="status_hint_label_wifi_call">WLAN call</string>
-    <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
-    <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
-    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
-    <string name="tty_mode_key">button_tty_mode_key</string>
-    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
-    <string name="emergency_action_launch_hint">Touch again to open</string>
-    <string name="message_decode_error">There was an error while decoding the message.</string>
-    <string name="callFailed_cdma_activation">"A SIM card has activated your service and updated your phone's roaming capabilities."</string>
+    <string name="status_hint_label_incoming_wifi_call">Chiamata Wi-Fi in arrivo</string>
+    <string name="status_hint_label_wifi_call">Chiamata Wi-Fi</string>
+    <string name="emergency_action_launch_hint">Tocca di nuovo per aprire</string>
+    <string name="message_decode_error">Si è verificato un errore durante la decodificazione del messaggio.</string>
+    <string name="callFailed_cdma_activation">Una SIM ha attivato il tuo servizio ed aggiornato le funzioni roaming del tuo telefono.</string>
     <string name="contactScreen">Aggiungi/Modifica contatti sulla SIM</string>
     <string name="exportContactScreen">Esporta contatti dal telefono alla SIM</string>
     <string name="addSimEntries">Aggiungi contatto SIM</string>
@@ -950,7 +945,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_3g_only_warning">Non sarai in grado di connetterti alla rete se la tua SIM non ha le funzionalità relative al 3G</string>
     <string name="call_description_recording">Registrazione chiamata…</string>
-    <string name="call_record_loading_content">Loading…</string>
+    <string name="call_record_loading_content">Caricamento…</string>
     <string name="call_record_auto_whitelist_no_item">Aggiungi un numero toccando il pulsante +</string>
     <string name="call_record_auto_whitelist">Lista utente</string>
     <string name="call_record_auto_unknown_number">Numeri sconosciuti</string>
@@ -1200,11 +1195,11 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="bad_puk">"Il PUK digitato non è corretto. Riprova."</string>
     <string name="confirm_pin_label">Conferma il nuovo PIN</string>
     <string name="fdn_summary">Limita le chiamate uscenti a una lista di NSF o ai numeri con certi prefissi</string>
-    <string name="simFdnContacts_empty">No fixed dialing contacts.</string>
+    <string name="simFdnContacts_empty">Nessun contatto di chiamata rapida.</string>
     <string name="internet_phone">Chiamate via internet</string>
     <string name="invalid_pin">Digita un PIN che sia composto da 4 a 8 cifre.</string>
     <string name="invalid_puk">Digita un PUK che sia composto da 4 a 8 cifre.</string>
-    <string name="mismatch_pin">I PIN che hai digitato non corrispondno. Riprova</string>
+    <string name="mismatch_pin">I PIN che hai digitato non corrispondono. Riprova</string>
     <string name="network_message">Messaggio di rete</string>
     <string name="new_pin_label">Nuovo PIN</string>
     <string name="old_pin_label">Vecchio PIN</string>
@@ -1213,7 +1208,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="pstn_phone">Chiamate via telefono cellulare</string>
     <string name="puk_label">Digita il codice PUK</string>
     <string name="puk_lock_warning">La tua SIM verrà disabilitata se fallisci un altro tentativo.</string>
-    <string name="set_primary_title">Set as primary account</string>
+    <string name="set_primary_title">Imposta come account primario</string>
     <string name="set_primary_summary">Usato per le chiamate in uscita</string>
     <string name="sim_contact_name">Nome</string>
     <string name="sim_contact_number">Numero</string>
@@ -1246,7 +1241,7 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="network_unlock">Sblocca</string>
     <string name="change_default_data_card">SIM dati predefinita</string>
     <string name="change_default_data_card_summary">Sembra che tu abbia cambiato SIM. Imposta questa SIM come predefinita per la connessione dati?</string>
-    <string name="fdn_full">FDN non aggiornati perchè la lista è piena.</string>
+    <string name="fdn_full">FDN non aggiornati perché la lista è piena.</string>
     <string name="enhanced_4g_lte_mode_on_failed">Impossibile attivare VoLTE."</string>
     <string name="enhanced_4g_lte_mode_off_failed">Impossibile disattivare VoLTE."</string>
     <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete che utilizza VoLTE. Attiva ora la tua connessione dati.</string>

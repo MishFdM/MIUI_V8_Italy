@@ -615,7 +615,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="power_20s_shutdown">Il dispositivo si spegnerà tra 20 secondi</string>
     <string name="boot_reminder">Accendi il dispositivo ad orari programmati</string>
     <string name="shutdown_cancel_reminder">Il dispositivo non si è spento</string>
-    <string name="shutdown_cancel_reminder_detail">Il dispositivo non si è spento perchè era in corso una chiamata</string>
+    <string name="shutdown_cancel_reminder_detail">Il dispositivo non si è spento perché era in corso una chiamata</string>
     <string name="legal_workday_invalidate">Dati scaduti (Attualmente attivo da Lunedì a Venerdì)</string>
     <string name="legal_workday_invalidate_message">(Dati scaduti,premi per aggiornare interconnessioni)</string>
     <string name="legal_workday_message">(Salta le festività)</string>
