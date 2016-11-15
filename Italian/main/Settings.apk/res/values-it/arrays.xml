@@ -612,7 +612,7 @@
         <item>Mostra applicazioni recenti</item>
         <item>Apri Assistente Touch</item>
         <item>Apri Google now</item>
-        <item>Chiudi applicazione recenti</item>
+        <item>Chiudi applicazione corrente</item>
         <item>Apri la ricerca veloce</item>
         <item>Mostra menu</item>
     </string-array>
