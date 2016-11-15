@@ -167,7 +167,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="power_save_on_time_end_time_summary_na">A</string>
     <string name="manual_input_traffic">Imposta utilizzo dati</string>
     <string name="manual_input_free_traffic">Imposta utilizzo dati fuori soglia</string>
-    <string name="declaration_dialog_msg">Questa funzione può aiutarti a tenere sotto controllo l'utilizzo della tua connessione dati mobile, ma non è garantito che vengano evitati costi aggiuntivi. Per avere risultati migliori, impostare un limite prudente.</string>
+    <string name="declaration_dialog_msg">"Questa funzione può aiutarti a tenere sotto controllo l'utilizzo della tua connessione dati mobile, ma non è garantito che vengano evitati costi aggiuntivi. Per avere risultati migliori, impostare un limite prudente."</string>
     <string name="input_used_hint">Inserisci utilizzo dati</string>
     <string name="input_used_max_hint">Inserisci utilizzo dati (meno di %s)</string>
     <string name="text_day"/>
@@ -197,7 +197,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="data_usage_mobile_limit_title">\u0020Limite utilizzo dati raggiunto</string>
     <string name="data_usage_limit_body">Tocca per attivare i dati mobili.</string>
     <string name="data_usage_disabled_dialog">"Hai raggiunto il limite previsto dal tuo piano dati. Superato questo limite l'operatore potrebbe addebitartene i costi."</string>
-    <string name="data_usage_disabled_dialog_enable">Attiva conn. dati</string>
+    <string name="data_usage_disabled_dialog_enable">Attiva i dati</string>
     <string name="data_usage_mobile_limit_snoozed_title">Soglia dati superata</string>
     <string name="data_usage_limit_snoozed_body">Limite dati superato per questo mese.</string>
     <string name="data_usage_restricted_title">Dati in background limitati</string>

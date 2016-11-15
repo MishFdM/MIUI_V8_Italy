@@ -765,7 +765,7 @@ Sono rimasti %d tentativo(i)."</string>
     <string name="onscreenManageCallsText">Gestisci chiamate</string>
     <string name="onscreenManageConferenceText">Gestisci conferenza</string>
     <string name="onscreenAudioText">Audio</string>
-    <string name="onscreenVideoCallText">videochiamata</string>
+    <string name="onscreenVideoCallText">Videochiamata</string>
     <string name="importSimEntry">Importa</string>
     <string name="importAllSimEntries">Importa tutto</string>
     <string name="importingSimContacts">Importazione contatti dalla SIM</string>
@@ -1113,7 +1113,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="preference_dial_pad_touch_tone_off">Off</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
     <string name="telephony_setting">Impostazioni chiamata</string>
-    <string name="msim_setting_screen_title">SIM e dati mobili</string>
+    <string name="msim_setting_screen_title">SIM e rete mobile</string>
     <string name="msim_setting_categery_title">Impostazioni SIM</string>
     <string name="msim_general_setting">Impostazioni comuni</string>
     <string name="msim_default_setting">Impostazioni predefinite</string>
