@@ -586,7 +586,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">Cellulare in standby</string>
     <string name="power_phone">Chiamate vocali</string>
-    <string name="power_idle">Telefono inattivo</string>
+    <string name="power_idle">Attività telefono</string>
     <string name="usage_type_cpu">Totale CPU</string>
     <string name="usage_type_cpu_foreground">CPU in primo piano</string>
     <string name="usage_type_wake_lock">Mantieni attivo</string>

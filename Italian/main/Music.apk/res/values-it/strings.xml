@@ -397,7 +397,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="download">Download</string>
     <string name="account">Account</string>
     <string name="account_and_cloud">Account</string>
-    <string name="my_account">Il mio account</string>
+    <string name="my_account">Mi Account</string>
     <string name="sleep_mode">Timer ascolto</string>
     <string name="close_music_time">"Minuti: "</string>
     <string name="sleep_mode_title">Ferma la riproduzione dopo un certo periodo</string>

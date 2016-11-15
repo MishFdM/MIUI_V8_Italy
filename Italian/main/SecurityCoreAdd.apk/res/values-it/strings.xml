@@ -207,10 +207,10 @@ to be able to view them anytime"</string>
     <string name="private_sms_show_title">Private messages are shown in Second space</string>
     <string name="private_sms_show_sub_title">Messaging data will be shared between the two spaces​</string>
     <string name="restore_normal_show">Non mostrare messaggi privati</string>
-    <string name="restore_show_desc">"Don't show private messages in Second space. They will still be available in First space."</string>
+    <string name="restore_show_desc">Non mostrare i messaggi privati sullo Spazio Secondario. Saranno ancora disponibili nello Spazio Primario.</string>
     <string name="confirm_restore">Non mostrare</string>
-    <string name="restore_show_toast">Not showing private messages</string>
-    <string name="remove_second_space_msg">All Second space app data will be lost after you delete Second space. Delete Second space now?</string>
+    <string name="restore_show_toast">Non mostrare messaggi privati</string>
+    <string name="remove_second_space_msg">Tutti i dati dello Spazio Secondario verranno persi dopo averlo eliminato. Vuoi eliminarlo ora?</string>
     <string name="second_space_finger_printf_title">Second space fingerprint</string>
     <string name="second_space_finger_printf_desc">Add fingerprint specifically used to enter Second space</string>
     <string name="setting_finger_print_title">Add Second space fingerprint</string>
