@@ -41,7 +41,7 @@
     <string name="virus_scan_clear">Rimuovi</string>
     <string name="virus_scan_caller_unknown">Sconosciuto</string>
     <string name="lift_ban_once">Consenti una volta</string>
-    <string name="dlg_appstore_notice">Ottieni questa applicazione dal nostro ufficiale &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
+    <string name="dlg_appstore_notice">Ottieni questa applicazione dal nostro ufficiale App Store</string>
     <string name="app_store_missing_title">"App Store non installato"</string>
     <string name="reboot_time">Tutto pronto per il riavvio… (%1$s)</string>
     <string name="app_store_missing_message">Sembra che tu non abbia installato il nostro store ufficiale. Installarlo ora?</string>
