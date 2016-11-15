@@ -25,7 +25,7 @@ Ricarica e inizia a chiamare"</string>
     <string name="please_connect_network_message">Collegarsi alla rete</string>
     <string name="account_changed_title">Account modificato</string>
     <string name="use_current_account_creat_livetalk_info">"Puoi utilizzare l'accesso al pacchetto di ricarica tramite il Mi Account: %1$s"</string>
-    <string name="use_current_account_creat_livetalk">"Hai effettuato l'accesso ocn il Mi Account: %1$s.
+    <string name="use_current_account_creat_livetalk">"Hai effettuato l'accesso con il Mi Account: %1$s.
 Vuoi utilizzarlo per i pacchetti di ricarica?"</string>
     <string name="creating_account">Creazione account…</string>
     <string name="creat_account_error">Impossibile creare account. Riprovare?</string>
@@ -79,7 +79,7 @@ Vuoi utilizzarlo per i pacchetti di ricarica?"</string>
     <string name="sim1_no_activated">Impossibile verificare SIM 1</string>
     <string name="sim2_no_activated">Impossibile verificare SIM 2</string>
     <string name="sim_no_activated">Impossibile verificare la SIM</string>
-    <string name="no_sim_card">Inserisci SIM card</string>
+    <string name="no_sim_card">Inserire SIM</string>
     <string name="international_dial_complete_intention">Effettua chiamate internazionali a costi minori</string>
     <string name="international_dial_complete_summary">Le chiamate internazionali hanno tariffe più alte. Utilizza il pacchetto di ricarica per chiamare a costi minori.</string>
     <string name="international_dial_complete_no">Non adesso</string>
@@ -180,7 +180,7 @@ Vuoi utilizzarlo per i pacchetti di ricarica?"</string>
     <string name="callFailed_server_unreachable">Server irraggiungibile</string>
     <string name="callFailed_number_unreachable">Numero irraggiungibile</string>
     <string name="callFailed_invalid_credentials">Username o password non corretta</string>
-    <string name="callFailed_out_of_network">Chiamata da fuori copertura out-of-network</string>
+    <string name="callFailed_out_of_network">Chiamata da fuori copertura</string>
     <string name="callFailed_server_error">Errore. Riprova più tardi.</string>
     <string name="callFailed_noSignal">Nessun segnale</string>
     <string name="callFailed_limitExceeded">ACM limite superato</string>
@@ -491,13 +491,8 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="data_enabled">Connessione dati</string>
     <string name="data_enable_summary">Abilita accesso dati tramite rete mobile</string>
     <string name="roaming">Roaming dati</string>
-<<<<<<< HEAD
     <string name="roaming_enable">Connessione ai servizi dati quando si è in roaming</string>
     <string name="roaming_disable">Connessione ai servizi dati quando si è in roaming</string>
-=======
-    <string name="roaming_enable">Connetti ai servizi dati quando sei in roaming</string>
-    <string name="roaming_disable">Non connettere ai servizi dati quando sei in roaming</string>
->>>>>>> refs/remotes/MishFdM/master
     <string name="roaming_reenable_message">Hai perso la connessione perché non sei più connesso alla rete del tuo operatore e la connessione dati in roaming è disattivata.</string>
     <string name="roaming_warning">Consentire il roaming dati? Il tuo piano potrebbe non includere il traffico in roaming.</string>
     <string name="roaming_alert_title">Consentire il roaming dati?</string>
@@ -616,9 +611,9 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="cdma_lte_data_service">Imposta servizio dati</string>
     <string name="carrier_settings_title">Impostazioni del gestore</string>
     <string name="fdn">Numeri a selezione fissa</string>
-    <string name="fdn_with_label">Numeri  Selezione Fissa (%s)</string>
+    <string name="fdn_with_label">Numeri a Selezione Fissa (%s)</string>
     <string name="manage_fdn_list">Lista NSF</string>
-    <string name="fdn_list_with_label">LIsta NSF(%s)</string>
+    <string name="fdn_list_with_label">Lista NSF(%s)</string>
     <string name="fdn_activation">Attivazione NSF</string>
     <string name="fdn_enabled">I numeri a selezione fissa sono stati attivati</string>
     <string name="fdn_disabled">I numeri a selezione fissa sono stati disattivati</string>
@@ -636,7 +631,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
     <string name="tty_mode_option_summary">Imposta modalità TTY</string>
     <string name="auto_retry_mode_title">Ricomposizione automatica</string>
     <string name="auto_retry_mode_summary">Abilita modalità ricomposizione automatica</string>
-    <string name="tty_mode_not_allowed_video_call">La modifica della modalità TTY non è consentita durante una video chiamata</string>
+    <string name="tty_mode_not_allowed_video_call">La modifica della modalità TTY non è consentita durante una videochiamata</string>
     <string name="menu_add">Aggiungi contatto</string>
     <string name="menu_edit">Modifica contatto</string>
     <string name="menu_delete">Elimina contatto</string>
@@ -770,7 +765,7 @@ Sono rimasti %d tentativo(i)."</string>
     <string name="onscreenManageCallsText">Gestisci chiamate</string>
     <string name="onscreenManageConferenceText">Gestisci conferenza</string>
     <string name="onscreenAudioText">Audio</string>
-    <string name="onscreenVideoCallText">Video chiamata</string>
+    <string name="onscreenVideoCallText">videochiamata</string>
     <string name="importSimEntry">Importa</string>
     <string name="importAllSimEntries">Importa tutto</string>
     <string name="importingSimContacts">Importazione contatti dalla SIM</string>
@@ -836,8 +831,8 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="preference_category_ringtone">Suoneria e vibrazione</string>
     <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="pstn_connection_service_label">Built-in SIM</string>
-    <string name="enable_video_calling_title">Attiva video chiamata</string>
-    <string name="enable_video_calling_dialog_msg">Per attivare la video chiamata, devi aver abilitato il 4G nelle impostazioni di sistema.</string>
+    <string name="enable_video_calling_title">Attiva videochiamata</string>
+    <string name="enable_video_calling_dialog_msg">Per attivare la videochiamata, devi aver abilitato il 4G nelle impostazioni di sistema.</string>
     <string name="enable_video_calling_dialog_settings">Impostazioni di rete</string>
     <string name="enable_video_calling_dialog_close">Chiudi</string>
     <string name="sim_label_emergency_calls">Chiamate emergenza</string>
