@@ -26,7 +26,7 @@
     <string name="passport_reg_success_summary">%1$s è stato collegato con il tuo account. Puoi utilizzarlo per accedere o recuperare la password.</string>
     <string name="passport_re_register">Accedi di nuovo</string>
     <string name="passport_register">Crea un account</string>
-    <string name="passport_vcode_sms_send_prompt">Send verification code to %s</string>
+    <string name="passport_vcode_sms_send_prompt">Invia codice di verifica a %s</string>
     <string name="passport_get_verify_code">Ricevi il codice</string>
     <string name="passport_re_get_verify_code">Ricevi di nuovo il codice</string>
     <string name="passport_getting_verify_code">Ricezione</string>
@@ -270,7 +270,7 @@ Per attivare il tuo account, segui il
     <string name="reset_security_question_title">Ripristina domande di sicurezza</string>
     <string name="reset_security_question_message">Devi verificare la tua identità prima di modificare le domande di sicurezza</string>
     <string name="set_security_question_title">Imposta domande di sicurezza</string>
-    <string name="security_question_prompt">Le domande di sicurezza possono esere utilizzate quando cambi o ripristini la password.
+    <string name="security_question_prompt">Le domande di sicurezza possono essere utilizzate quando cambi o ripristini la password.
 Assicurati di ricordare le risposte."</string>
     <string name="security_question">Seleziona domanda</string>
     <string name="security_question_answer">Inserisci risposta</string>
@@ -289,7 +289,7 @@ Assicurati di ricordare le risposte."</string>
     <string name="account_settings">Account</string>
     <string name="account_bind_settings">Collega account</string>
     <string name="account_bind_devices">Dispositivi associati</string>
-    <string name="account_protection">Account protection</string>
+    <string name="account_protection">Protezione account</string>
     <string name="micloud_space_info">%s disponibili</string>
     <string name="loading_micloud_sync_data">Caricamento…</string>
     <string name="activity_not_found_notice">"Impossibile trovare l'applicazione"</string>
@@ -319,7 +319,7 @@ Assicurati di ricordare le risposte."</string>
     <string name="get_device_list_failed">Impossibile recuperare la lista dispositivi</string>
     <string name="delete_device_failed">Impossibile rimuovere il dispositivo</string>
     <string name="empty_device_list_notice">Nessun dispositivo</string>
-    <string name="device_name">Device name</string>
+    <string name="device_name">Nome dispositivo</string>
     <string name="cta_declaration_title">Termini di utilizzo</string>
     <string name="cta_declaration_message">"Per accedere al tuo Mi Account devi collegarti ad internet, localizzare il tuo dispositivo e attivare Mi Cloud. Per effettuare il backup dei tuoi dati questa app deve accedere ai contatti, agli SMS/MMS, al registro chiamate e alle registrazioni. Non utilizzeremo queste informazioni per scopi commerciali e non le condivideremo con terze parti. Dopo aver effettuato l'accesso, Mi Account, Mi VIP e Service number si collegheranno ad internet."</string>
     <string name="cta_declaration_agree_and_continue">OK</string>
@@ -378,6 +378,6 @@ Assicurati di ricordare le risposte."</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="oauth_title">Accedi con il Mi Account</string>
     <string name="oauth_getting_scopes">Verifica account…</string>
-    <string name="oauth_get_scopes_failed"Impossibile recuperare le informazioni account</string>
+    <string name="oauth_get_scopes_failed">Impossibile recuperare le informazioni account</string>
     <string name="oauth_scopes_intro">%2$s riceverà i seguenti permessi: %3$s</string>
 </resources>
