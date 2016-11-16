@@ -1919,7 +1919,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_desc_radio">Batteria utilizzata dal segnale cellulare</string>
     <string name="battery_sugg_radio">Attiva la modalità aereo per ridurre i consumi nelle aree senza copertura cellulare</string>
     <string name="battery_desc_flashlight">Batteria utilizzata dalla torcia</string>
-    <string name="battery_desc_camera">>Batteria utilizzata dalla fotocamera</string>
+    <string name="battery_desc_camera">Batteria utilizzata dalla fotocamera</string>
     <string name="battery_desc_display">Batteria utilizzata da display e retroilluminazione</string>
     <string name="battery_sugg_display">Riduci la luminosità e/o il timeout dello schermo</string>
     <string name="battery_desc_wifi">Batteria utilizzata da Wi-Fi</string>
