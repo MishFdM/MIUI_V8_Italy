@@ -233,7 +233,7 @@ per accedere dalla lockscreen"</string>
     <string name="scanner_second_space_fingerprint">Scansiona impronta per lo spazio Secondario</string>
     <string name="repeat_scanner_fingerprint">Aggiungi ancora</string>
     <string name="sure_to_use">Conferma</string>
-    <string name="scanner_fingerprint_tips_title">Accedi allo spazio Secondario utilizzando l'impronta esistente"</string>
+    <string name="scanner_fingerprint_tips_title">"Accedi allo spazio Secondario utilizzando l'impronta esistente"</string>
     <string name="scanner_fingerprint_tips_desc">"Seleziona l'impronta esistente per entrare nello spazio Secondario. Non sarai in grado di utilizzarla per lo spazio Primario."</string>
     <string name="back">Indietro</string>
     <string name="scanner_fingerprint_error_tips_desc">Impossibile trovare impronte corrispondenti. Aggiungere impronta per lo spazio Secondario?</string>
