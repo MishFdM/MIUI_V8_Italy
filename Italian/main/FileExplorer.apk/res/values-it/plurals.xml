@@ -24,30 +24,6 @@
         <item quantity="few">%d elementi</item>
         <item quantity="many">%d elementi</item>
     </plurals>
-    <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">Restano %1$d file da scaricare</item>
-        <item quantity="zero">Restano %1$d file da scaricare</item>
-        <item quantity="one">Resta %1$d file da scaricare</item>
-        <item quantity="two">Restano %1$d file da scaricare</item>
-        <item quantity="few">Restano %1$d file da scaricare</item>
-        <item quantity="many">Restano %1$d file da scaricare</item>
-    </plurals>
-    <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">Restano %1$d file da caricare</item>
-        <item quantity="zero">Restano %1$d file da caricare</item>
-        <item quantity="one">Resta %1$d file da caricare</item>
-        <item quantity="two">Restano %1$d file da caricare</item>
-        <item quantity="few">Restano %1$d file da caricare</item>
-        <item quantity="many">Restano %1$d file da caricare</item>
-    </plurals>
-    <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d file da trasferire</item>
-        <item quantity="zero">%1$d file da trasferire</item>
-        <item quantity="one">%1$d file da trasferire</item>
-        <item quantity="two">%1$d file da trasferire</item>
-        <item quantity="few">%1$d file da trasferire</item>
-        <item quantity="many">%1$d file da trasferire</item>
-    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d selezionati</item>
         <item quantity="zero">%1$d selezionati</item>
@@ -264,14 +240,6 @@
         <item quantity="few">video</item>
         <item quantity="many">video</item>
     </plurals>
-    <plurals name="number_of_comment">
-        <item quantity="other">%1$s commenti</item>
-        <item quantity="zero">%1$s commenti</item>
-        <item quantity="one">%1$s commento</item>
-        <item quantity="two">%1$s commenti</item>
-        <item quantity="few">%1$s commenti</item>
-        <item quantity="many">%1$s commenti</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">%1$s video</item>
         <item quantity="zero">%1$s video</item>
@@ -279,5 +247,41 @@
         <item quantity="two">%1$s video</item>
         <item quantity="few">%1$s video</item>
         <item quantity="many">%1$s video</item>
+    </plurals>
+   <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s commenti</item>
+        <item quantity="one">%1$s commento</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">Puoi inserire %d caratteri</item>
+        <item quantity="one">Pupoi inserire %d carattere</item>
+    </plurals>
+    <plurals name="video_items">
+        <item quantity="other"> %1$d elementi</item>
+        <item quantity="zero"> %1$d elementi</item>
+        <item quantity="one"> %1$d elemento</item>
+        <item quantity="two"> %1$d elementi</item>
+        <item quantity="few"> %1$d elementi</item>
+        <item quantity="many"> %1$d elementi</item>
+    </plurals>
+    <plurals name="original_user_days">
+        <item quantity="other">• %1$d giorni</item>
+        <item quantity="one">• %1$d giorno</item>
+    </plurals>
+    <plurals name="original_user_play_1">
+        <item quantity="other">• Hai caricato %1$s video,</item>
+        <item quantity="one">• Hai caricato %1$s video,</item>
+    </plurals>
+    <plurals name="original_user_play_2">
+        <item quantity="other">Hai resofelice %1$s persone!</item>
+        <item quantity="one">Hai reso felice %1$s persona!</item>
+    </plurals>
+    <plurals name="original_user_fans">
+        <item quantity="other">• Ti seguono %1$s persone!</item>
+        <item quantity="one">• %1$s persona ti segue!</item>
+    </plurals>
+    <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Ottieni altri %1$d follower per aggiornare il tuo stato</item>
+        <item quantity="one">Ottieni %1$d altre follower per aggiornare il tuo stato</item>
     </plurals>
 </resources>

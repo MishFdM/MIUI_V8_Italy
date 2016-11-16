@@ -19,6 +19,10 @@
     <string name="account_set_up_change_type_note">"Se vuoi modificare la tipologia di tra POP3 e IMAP, devi prima eliminare l'account e configurare di nuovo i dati di accesso."</string>
     <string name="account_setting">Account</string>
     <string name="account_setting_keywords">Accounts;mail accounts</string>
+    <string name="account_setting_message_body_load_complete">Messaggio completo</string>
+    <string name="account_setting_message_body_load_head_abstract">Indice email</string>
+    <string name="account_setting_message_body_load_head_only">Solo intestazione</string>
+    <string name="account_setting_message_body_load_text">Solo corpo</string>
     <string name="account_settings_action">Impostazioni account</string>
     <string name="account_settings_background_attachments_label">Scarica allegati</string>
     <string name="account_settings_background_attachments_summary">Scarica automaticamente gli allegati solo tramite Wi-Fi</string>
@@ -187,6 +191,7 @@
     <string name="attachment_not_exists">Allegato non disponibile</string>
     <string name="attachment_open_SecurityException_hint">Verifica permessi, danni, etc.</string>
     <string name="attachment_open_SecurityException_title">Impossibile aprire il file</string>
+    <string name="attachment_size_exceed_limit">Sembra che le dimensioni superino il limite del server</string>
     <string name="attachment_stop_all">Interrompi</string>
     <string name="attachment_text">Testo</string>
     <string name="attachment_type_blocked">Purtroppo, non puoi salvare o aprire questo tipo di allegato.</string>
@@ -254,14 +259,12 @@
     <string name="confirm_send_message_with_no_body">Nessun testo presente nel corpo del messaggio.</string>
     <string name="confirm_send_message_with_no_subject">"Nessun testo presente nell'oggetto del messaggio."</string>
     <string name="confirm_send_title">Inviare il messaggio?</string>
-    <string name="contact_edit_set_black_list_filtering">Filtro…</string>
     <string name="contact_edit_set_black_list_from">Elimina tutte le email da questo mittente</string>
     <string name="contact_edit_set_black_list_receive">Elimina tutte le email con questo destinatario</string>
     <string name="contact_edit_set_black_list_receive_summary">Elimina tutte le mail che contengono questo destinatario, anche nel campo Cc</string>
     <string name="contact_edit_set_black_list_title">Imposta blacklist</string>
     <string name="contact_edit_set_phone_contact">Modifica contatti telefono</string>
     <string name="contact_edit_title_phone_contact">Lista contatti telefono</string>
-    <string name="contact_in_filter_call_phone_str">chiama: %s</string>
     <string name="contact_in_filter_title">Da lui/lei.</string>
     <string name="contact_info_string">Mostra informazioni di contatto per %1$s</string>
     <string name="contact_info_string_default">Mostra informazioni di contatto</string>
@@ -292,6 +295,9 @@
     <string name="conversation_item_mark_read">Letta</string>
     <string name="conversation_item_mark_unread">Non letta</string>
     <string name="conversation_photo_welcome_text">"Tocca l'immagine di un mittente per selezionare la conversazione."</string>
+    <string name="conversation_quick_button_approve">Approvo</string>
+    <string name="conversation_quick_button_disapprove">Non approvo</string>
+    <string name="conversation_quick_button_received">Ricevuto</string>
     <string name="conversation_view">Mostra conversazione</string>
     <string name="conversation_view_keywords">conversation view;mail conversation</string>
     <string name="copied">Copiato</string>
@@ -346,7 +352,6 @@
     <string name="download_confirm_message">"Per aprire questo file devi scaricare l'allegato da 180K %1$s"</string>
     <string name="download_confirm_title">Conferma download</string>
     <string name="download_message_failed_for_too_large">Messaggio troppo grande per essere scaricato.</string>
-    <string name="download_whole_email">Scarica il resto dei contenuti</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Chiudi pannello di navigazione</string>
     <string name="drawer_contacts">Contatti</string>
@@ -391,6 +396,7 @@
     <string name="file_not_found_redownload">Impossibile trovare il file</string>
     <string name="file_rar_not_support">File \".rar\" protetti non supportati!</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
+    <string name="first_quick_default_reply">Tocca questo collegamento, \"%s\" verrà inviato a tutti i destinatari.</string>
     <string name="folder_drafts_name_cn0">草稿</string>
     <string name="folder_drafts_name_cn1">草稿箱</string>
     <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -436,6 +442,8 @@
     <string name="from_heading">"Da: "</string>
     <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
     <string name="general_preference_confirm_send_label">Conferma prima di inviare</string>
+    <string name="general_preference_str_auto_translation">Traduzioneveloce</string>
+    <string name="general_preference_str_auto_translation_prompt">Copia il testo per vedere la traduzione</string>
     <string name="general_preference_text_zoom_dialog_title">Dimensioni testo messaggio</string>
     <string name="general_preference_text_zoom_huge">Testo molto grande</string>
     <string name="general_preference_text_zoom_label">Dimensioni testo messaggio</string>
@@ -464,17 +472,9 @@
     <string name="imap_name">IMAP</string>
     <string name="imap_password_error">La password per il server di posta in entrata non è corretta</string>
     <string name="info_actionbar_normal_detail">Dettagli articolo</string>
-    <string name="info_actionbar_subscribe">Sottoscrizione</string>
-    <string name="info_item_from">Da </string>
     <string name="info_item_hide">Nascondi</string>
-    <string name="info_loading">Caricamento</string>
-    <string name="info_name_title">NEWS</string>
-    <string name="info_no_message">Nessun articolo!</string>
-    <string name="info_no_more_message">Messaggi terminati</string>
     <string name="info_switch_summary">Apri la cartella delle NEWS</string>
-    <string name="info_switch_title">Cartella NEWS</string>
-    <string name="info_sync_error">Errore di sincronizzazione, riprova più tardi.</string>
-    <string name="information_subscribe_first_intro">Questa è la prima volta che utilizzi 「Subscribe」 , seleziona alcuni tag di tuo interesse, così possiamo darti suggerimenti appropriati~</string>
+    <string name="info_switch_title">Promozione</string>
     <string name="inline_picture_deleted">"Impossibile trovare l'immagine, download in corso…"</string>
     <string name="input_password_prompt">Inserisci la tua password</string>
     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
@@ -547,6 +547,7 @@
     <string name="menu_att_mgr_order_size">Ordina per dimensione</string>
     <string name="menu_change_folders">Cambia cartelle</string>
     <string name="menu_compose">Scrivi</string>
+    <string name="menu_contact_edit">Modifica</string>
     <string name="menu_discovery">Scopri</string>
     <string name="menu_folder_options">Sincronizza opzioni</string>
     <string name="menu_move_to">Sposta in</string>
@@ -558,6 +559,7 @@
     <string name="menu_search">Cerca</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="merged_mailbox_compose_select_account">Seleziona account</string>
+    <string name="message_body_load_set_description">Dimensione di caricamento per le nuove email quando si utilizza la rete dati mobile</string>
     <string name="message_compose_insert_quick_response_list_title">Inserisci risposta veloce</string>
     <string name="message_count_spacer">  </string>
     <string name="message_decode_error">Si è verificato un errore durante la decodifica del messaggio.</string>
@@ -581,7 +583,6 @@
     <string name="move_to_selection_dialog_title">"Sposta in un'altra cartella"</string>
     <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
     <string name="mute">Disattiva</string>
-    <string name="net_check_title">Impossibile collegarsi alla rete. Verifica le impostazioni di rete e prova di nuovo.</string>
     <string name="network_error">Nessuna connessione</string>
     <string name="network_not_available">Connessione di rete non disponibile, riprova più tardi</string>
     <string name="network_try_again">Verificare la rete</string>
@@ -713,7 +714,6 @@
     <string name="protocol_legacy_imap">imap</string>
     <string name="protocol_pop3">pop3</string>
     <string name="pull_to_refresh">Trascina per aggiornare</string>
-    <string name="pull_up_to_load_more">Trascina in alto per caricare altre</string>
     <string name="push_wps_better_confirm_download">Scarica</string>
     <string name="push_wps_better_confirm_exit">Altre app da aprire</string>
     <string name="push_wps_better_confirm_message">WPS Office può supportare meglio questo formato, rendendo il tuo lavoro più efficiente</string>
@@ -817,11 +817,13 @@
     <string name="send_failed">"Il messaggio non è stato inviato."</string>
     <string name="send_feed_back">Send feedback</string>
     <string name="send_feed_back_keywords">send feedback</string>
+    <string name="send_mail">Invia</string>
     <string name="sender_whitelist_cleared">Le immagini non verranno mostrate automaticamente.</string>
     <string name="senders_elided">..</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Invio…</string>
     <string name="sending_message">Invio messaggio…</string>
+    <string name="sending_quick_reply">Invio email \"%s\"</string>
     <string name="sent_folder_selection_title">Selez. cartella Posta inviata server %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Impossibile validare il certificato del server
 \u0009 (Controlla se è impostato 'Orario di sincronizzazione automatica')"</string>
@@ -911,7 +913,6 @@
     <string name="turn_auto_sync_on_dialog_title">Attivare sincron. automatica?</string>
     <string name="undo">Annulla</string>
     <string name="unread_string">Conversazione non letta</string>
-    <string name="unselected_lable">More</string>
     <string name="unsent_messages_in_outbox">%1$s non inviati in %2$s</string>
     <string name="unzip_file_failed">Impossibile decomprimere il file</string>
     <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
@@ -944,5 +945,6 @@ Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modif
     <string name="yes">Sì</string>
     <string name="yidianzixun">Yi Dian Zixun</string>
     <string name="you_are_in_mobile_network">Stai usando la rete dati cellulare</string>
+    <string name="youfuli">Promozione</string>
     <string name="zip_viewer_no_file">Nessun file</string>
 </resources>

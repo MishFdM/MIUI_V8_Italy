@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d disattivati</item>
+        <item quantity="one">%d disattivato</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Elementi in attesadi sincronizzazione: %d</item>
+        <item quantity="one">Elemento in sincronizzazione: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d elementi in attesa di sincronizzazione</item>
+        <item quantity="one">%d elemento in attesa di sincronizzazione</item>
+    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d contatti</item>
         <item quantity="one">%d contatto</item>

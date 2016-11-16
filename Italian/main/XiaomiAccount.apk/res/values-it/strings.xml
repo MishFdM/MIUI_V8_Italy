@@ -153,20 +153,13 @@ Per attivare il tuo account, segui il
     <string name="passport_copy_message_vcode">Copia codice</string>
     <string name="passport_message_dialog_title">SMS con codici di verifica</string>
     <string name="passport_trust_device">Ricorda questo dispositivo</string>
+    <string name="passport_barcode_add_account_prompt">"Per collegarti ad un account, scansiona il codice QR di nuovo dopo aver effettuato l'accesso."</string>
     <string name="app_name">Mi Account</string>
     <string name="account">Account</string>
     <string name="logout_failed">Impossibile uscire</string>
-    <string name="turning_off_find_device">Disattivazione Trova dispositivo…</string>
     <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova dispositivo</string>
     <string name="no_response_retry">Nessuna risposta, riprova.</string>
-    <string name="alert_title_remove_account">"Rimuovere l'account?"</string>
-    <string name="remove_account_notice">Cosa vuoi fare di messaggi, contatti ed altri dati sincronizzati con il tuo Mi Account?</string>
-    <string name="data_keep_in_device">Mantienili sul dispositivo</string>
-    <string name="data_wipe_from_device">Eliminali dal dispositivo</string>
     <string name="removing_account">Rimozione account…</string>
-    <string name="wipe_data_dialog_title">Alcuni elementi non sono stati sincronizzati</string>
-    <string name="wipe_data_dialog_msg">%s verrà eliminato se continui.</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="delete_bank_card_title">Cancella la tua carta di credito</string>
     <string name="delete_bank_card_message">"Per proteggere le tue informazioni cancelleremo la tua carta di credito dopo l'uscita"</string>
     <string name="bind_settings">Account</string>
@@ -300,7 +293,7 @@ Assicurati di ricordare le risposte."</string>
     <string name="micloud_space_info">%s disponibili</string>
     <string name="loading_micloud_sync_data">Caricamento…</string>
     <string name="activity_not_found_notice">"Impossibile trovare l'applicazione"</string>
-    <string name="barcode_add_account_prompt">"Per aggiungere un account, scansiona di nuovo il codice QR dopo aver eseguito l'accesso."</string>
+
     <string name="scan_barcode_title">"Esegui l'accesso sicuro al Mi Account scansionando il codice QR dalla pagina web o dalla TV"</string>
     <string name="authorize_title">Autorizzazione</string>
     <string name="my_device_title">Dispositivo attuale</string>
@@ -329,7 +322,6 @@ Assicurati di ricordare le risposte."</string>
     <string name="device_name">Device name</string>
     <string name="cta_declaration_title">Termini di utilizzo</string>
     <string name="cta_declaration_message">"Per accedere al tuo Mi Account devi collegarti ad internet, localizzare il tuo dispositivo e attivare Mi Cloud. Per effettuare il backup dei tuoi dati questa app deve accedere ai contatti, agli SMS/MMS, al registro chiamate e alle registrazioni. Non utilizzeremo queste informazioni per scopi commerciali e non le condivideremo con terze parti. Dopo aver effettuato l'accesso, Mi Account, Mi VIP e Service number si collegheranno ad internet."</string>
-    <string name="cta_declaration_ignore">Ignora</string>
     <string name="cta_declaration_agree_and_continue">OK</string>
     <string name="cta_declaration_exit">Esci</string>
     <string name="find_device_access_denied">Impossibile recuperare lo stato, accesso negato</string>
@@ -384,4 +376,8 @@ Assicurati di ricordare le risposte."</string>
     <string name="miui_provision_find_status_text">"Questo dispositivo è associato con un Mi Account esistente (%1$s), inserisci la password per verificare il dispositivo.
 (Numero sblocco: %2$s)"</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
+    <string name="oauth_title">Accedi con il Mi Account</string>
+    <string name="oauth_getting_scopes">Verifica account…</string>
+    <string name="oauth_get_scopes_failed"Impossibile recuperare le informazioni account</string>
+    <string name="oauth_scopes_intro">%2$s riceverà i seguenti permessi: %3$s</string>
 </resources>

@@ -456,5 +456,8 @@ Accelerate i download su tutti i tuoi dispositivi."</string>
     <string name="download_status_paused">Pausa</string>
     <string name="download_status_continue">Riprendi</string>
     <string name="download_status_fail">Riprova</string>
+    <string name="choose_open_picture">"Seleziona un'zione"</string>
+    <string name="extra_ad_title">Potrebbeanche piacerti</string>
+    <string name="toast_update_data_limit_fail">Impossibile impostare</string>
     <string name="download_title">Download</string>
 </resources>
