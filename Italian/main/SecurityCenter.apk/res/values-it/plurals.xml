@@ -21,8 +21,8 @@
         <item quantity="one">%d app può utilizzare il roaming dati</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d non possono utilizzare il roaming dati</item>
-        <item quantity="one">%d non può utilizzare il roaming dati</item>
+        <item quantity="other">%d app non possono utilizzare il roaming dati</item>
+        <item quantity="one">%d app non può utilizzare il roaming dati</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d app trovate</item>

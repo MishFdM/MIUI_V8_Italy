@@ -91,12 +91,12 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="stop_app_button">Interrompi</string>
     <string name="detail_app_button">Info app</string>
     <string name="pref_about_traffic_title">Impostazioni utilizzo dati</string>
-    <string name="pref_traffic_manage_title">Utilizzo dati</string>
+    <string name="pref_traffic_manage_title">Utilizzo piano dati</string>
     <string name="pref_package_traffic_normal">Soglia: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Aggiuntivo: %2$s</string>
     <string name="pref_package_traffic_leisure">%1$s | Fuori soglia: %2$s</string>
-    <string name="pref_package_traffic_settings">Limite dati mobile</string>
-    <string name="pref_adjust_traffic_data">Imposta utilizzo dati</string>
+    <string name="pref_package_traffic_settings">Limite dati mobili</string>
+    <string name="pref_adjust_traffic_data">Imposta consumo dati mobili</string>
     <string name="pref_app_traffic_managent">"Limita l'utilizzo dati per app"</string>
     <string name="pref_connect_settings_exceed_limit_hint">Disattiva la connessione dati quando raggiungi la soglia</string>
     <string name="pref_connect_settings_exceed_limit">Limita utilizzo dati</string>
@@ -105,11 +105,11 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="pref_special_traffic_exceed_limit">"Avvisami quando l'utilizzo dei dati raggiunge il limite"</string>
     <string name="pref_special_traffic_limit_warn">Imposta un avviso di utilizzo dati</string>
     <string name="pref_connect_settings_enable_background">Consenti dati in background</string>
-    <string name="pref_connect_settings_enable_background_hint">Consenti alle app di utilizzare la rete dati quando non le usi</string>
+    <string name="pref_connect_settings_enable_background_hint">Consenti alle app in background di utilizzare la rete dati mobile</string>
     <string name="pref_title_network_diagnostics">Test di rete</string>
     <string name="pref_check_network_diagnostics">Esegui un test della connessione internet</string>
     <string name="pref_category_title_other">Impostazioni aggiuntive</string>
-    <string name="pref_title_update_notification">Notifiche di utilizzo dati</string>
+    <string name="pref_title_update_notification">Mostra utilizzo dati tra le notifiche</string>
     <string name="pref_title_diagnostics_show_float_notification">Notifiche flottanti</string>
     <string name="pref_title_traffic_speed_state">Mostra velocità di rete</string>
     <string name="pref_show_mobile_traffic">Mostra le statistiche di utilizzo dei dati dopo lo sblocco, quando il dispositivo è stato bloccato per più di 5 minuti</string>
@@ -167,7 +167,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="power_save_on_time_end_time_summary_na">A</string>
     <string name="manual_input_traffic">Imposta utilizzo dati</string>
     <string name="manual_input_free_traffic">Imposta utilizzo dati fuori soglia</string>
-    <string name="declaration_dialog_msg">Questa funzione può aiutarti a tenere traccia del tuo utilizzo dati, ma non è garantito il risparmio di costi aggiuntivi. Per migliori risultati, si consiglia un limite più prudente.</string>
+    <string name="declaration_dialog_msg">"Questa funzione può aiutarti a tenere sotto controllo l'utilizzo della tua connessione dati mobile, ma non è garantito che vengano evitati costi aggiuntivi. Per avere risultati migliori, impostare un limite prudente."</string>
     <string name="input_used_hint">Inserisci utilizzo dati</string>
     <string name="input_used_max_hint">Inserisci utilizzo dati (meno di %s)</string>
     <string name="text_day"/>
@@ -194,7 +194,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
     <string name="data_usage_warning_title">Avviso utilizzo dati</string>
     <string name="data_usage_warning_body">Tocca per mostrare i dettagli di utilizzo dati.</string>
-    <string name="data_usage_mobile_limit_title">Limite utilizzo dati raggiunto</string>
+    <string name="data_usage_mobile_limit_title">\u0020Limite utilizzo dati raggiunto</string>
     <string name="data_usage_limit_body">Tocca per attivare i dati mobili.</string>
     <string name="data_usage_disabled_dialog">"Hai raggiunto il limite previsto dal tuo piano dati. Superato questo limite l'operatore potrebbe addebitartene i costi."</string>
     <string name="data_usage_disabled_dialog_enable">Attiva i dati</string>
@@ -306,7 +306,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_sms_report_notify_correction_body">"Vai nell'app Utilizzo dati nel centro Sicurezza e riprova manualmente."</string>
     <string name="tc_sms_report_notify_get_failure_body">Impossibile inviare rapporto utilizzo dati. Assicurati di essere connesso ad una rete dati.</string>
     <string name="tc_sms_report_tips_dialog_title">"SMS sull'utilizzo dei dati"</string>
-    <string name="tc_sms_report_tips_dialog_message">Utilizzo dati si serve di un SMS con particolare formattazione per recuperare i dati aggiornati dal tuo operatore. Se questa funzione , try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
+    <string name="tc_sms_report_tips_dialog_message">Utilizzo dati si serve di un SMS con particolare formattazione per recuperare i dati aggiornati dal tuo operatore. Se questa opzione non funziona normalmente, prova ad aggiornare il formato dell'SMS per l'utilizzo dei dati. Il nuovo formato verrà in seguito caricato sui nostri server."</string>
     <string name="tc_sms_report_get_sms_failure">Impossibile recuperare SMS con il formato di utilizzo dei dati</string>
     <string name="tc_sms_report_get_sms_timeout">Richiesta scaduta</string>
     <string name="tc_sms_report_get_sms_successs">Formato SMS utilizzo dati aggiornato</string>
@@ -320,11 +320,11 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="privacy_prompt_traffic_adjust_message">"Questa funzione deve crittografare ed inviare il tuo IMEI, numero di telefono ed informazioni sul tuo operatore ai server Xiaomi per poter recuperare le statistiche del consumo dati dal tuo operatore.</string>
     <string name="privacy_prompt_traffic_purchase_message">"Il tuo numero di telefono e le informazioni sul tuo operatore verranno crittografate e caricate sui server Xiaomi per avere maggiori informazioni sull'acquisto di traffico dati."</string>
     <string name="privacy_prompt_tc_sms_report_message">Il tuo numero di telefono e le informazioni sul tuo operatore verranno crittografate e caricate sui server Xiaomi per aggiornare le informazioni sul tuo utilizzo del traffico dati.</string>
-    <string name="international_roaming_setting">Roaming estero</string>
+    <string name="international_roaming_setting">Roaming dati</string>
     <string name="pref_roaming_setting_gategory">Impostazioni</string>
     <string name="pref_allow_connect_network_title">Roaming dati estero</string>
     <string name="pref_allow_connect_network_whitelist_title">Consenti alle eccezioni di utilizzare dati in roaming</string>
-    <string name="pref_whitelist_setting">Eccezioni dati roaming</string>
+    <string name="pref_whitelist_setting">Eccezioni roaming dati</string>
     <string name="add_white_list">Aggiungi</string>
     <string name="international_roaming_whitelist_count">%d app possono utilizzare i dati quando sei in roaming</string>
     <string name="firewall_rule_group_title_roaming">Roaming estero</string>
@@ -340,7 +340,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="add_miservice_dialog_title">MIUI service framework</string>
     <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di \"MIUI services framework\" alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Limite dati giornaliero</string>
-    <string name="pref_roaming_daily_limit_setting">Imposta limite dati giornaliero quando sei in roaming</string>
+    <string name="pref_roaming_daily_limit_setting">Imposta limite dati giornaliero in roaming</string>
     <string name="dialog_roaming_apps_sorted_title">Ordina per</string>
     <string name="hints_install_apps_new">Mai usato</string>
     <string name="hints_install_apps_today">Utilizzato oggi</string>
@@ -351,7 +351,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="roaming_limit_network_notification_body">Tocca per visualizzare le reti disponibili</string>
     <string name="roaming_limit_dialog_message">Limite di dati giornaliero in roaming raggiunto.</string>
     <string name="search_input_txt_na">"<font color="#ff0000">%s</font>"</string>
-    <string name="roaming_allow_network_dialog_title">Consentire il roaming dati su rete cellulare?</string>
+    <string name="roaming_allow_network_dialog_title">Consentire il roaming?</string>
     <string name="title_limit_traffic_per_day">Limite dati giornaliero</string>
     <string name="daily_limit_and_lock_screen">Limite dati e notifiche</string>
     <string name="pref_title_traffic_limit_number">Dimensione</string>
@@ -365,7 +365,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="ten_percent_total_pkg">%s (10%% di dati mensili)</string>
     <string name="lock_screen_warning_category">Notifiche schermata di blocco</string>
     <string name="lock_screen_warning_switch_title">Mostra avvisi sulla schermata di blocco</string>
-    <string name="lock_screen_warning_switch_summary">Mostra avvisi sulla schermata di blocco quando i dati superano una certa quantità</string>
+    <string name="lock_screen_warning_switch_summary">Mostra avvisi sulla schermata di blocco quando i dati superano una certa soglia</string>
     <string name="lock_screen_warning_value">Avviso utilizzo dati</string>
     <string name="traffic_setting_completed">OK</string>
     <string name="traffic_setting_extra_pkg_title">Impostazioni aggiuntive</string>
@@ -388,7 +388,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="btn_finish_diagnostic">OK</string>
     <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
     <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
-    <string name="main_toolbar_internet_by_mobiledata">Dati mobili</string>
+    <string name="main_toolbar_internet_by_mobiledata">Connessione dati</string>
     <string name="connect_internet_by_usbshare">Connessione condivisa tramite USB</string>
     <string name="connect_internet_by_mobiledata">Connessione dati</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
