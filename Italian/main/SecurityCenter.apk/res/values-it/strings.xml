@@ -306,7 +306,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_sms_report_notify_correction_body">"Vai nell'app Utilizzo dati nel centro Sicurezza e riprova manualmente."</string>
     <string name="tc_sms_report_notify_get_failure_body">Impossibile inviare rapporto utilizzo dati. Assicurati di essere connesso ad una rete dati.</string>
     <string name="tc_sms_report_tips_dialog_title">"SMS sull'utilizzo dei dati"</string>
-    <string name="tc_sms_report_tips_dialog_message">Utilizzo dati si serve di un SMS con particolare formattazione per recuperare i dati aggiornati dal tuo operatore. Se questa opzione non funziona normalmente, prova ad aggiornare il formato dell'SMS per l'utilizzo dei dati. Il nuovo formato verrà in seguito caricato sui nostri server."</string>
+    <string name="tc_sms_report_tips_dialog_message">"Utilizzo dati si serve di un SMS con particolare formattazione per recuperare i dati aggiornati dal tuo operatore. Se questa opzione non funziona normalmente, prova ad aggiornare il formato dell'SMS per l'utilizzo dei dati. Il nuovo formato verrà in seguito caricato sui nostri server."</string>
     <string name="tc_sms_report_get_sms_failure">Impossibile recuperare SMS con il formato di utilizzo dei dati</string>
     <string name="tc_sms_report_get_sms_timeout">Richiesta scaduta</string>
     <string name="tc_sms_report_get_sms_successs">Formato SMS utilizzo dati aggiornato</string>
