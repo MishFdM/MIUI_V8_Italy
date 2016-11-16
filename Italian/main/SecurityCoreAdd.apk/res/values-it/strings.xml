@@ -43,7 +43,7 @@
     <string name="err_delete_files">Impossibile eliminare i file</string>
     <string name="err_volume_not_enough">Spazio insufficiente</string>
     <string name="err_unknown">Errore sconosciuto</string>
-    <string name="dir_switch_out_all_photos">Gallery Spazio Secondario</string>
+    <string name="dir_switch_out_all_photos">Galleria Spazio Secondario</string>
     <string name="creating_app_icon">Creazione icona…</string>
     <string name="create_app_icon_success">Icona creata correttamente</string>
     <string name="create_app_icon_failed">Impossibile creare icona</string>
@@ -130,7 +130,7 @@
     <string name="continueButton">Continua</string>
     <string name="removingSpace">Eliminazione…</string>
     <string name="removeSuccess">Eliminato con successo</string>
-    <string name="confirmSecondSpacePassword">Conferma la password dello Spazio Secondario</string>
+    <string name="confirmSecondSpacePassword">Conferma la password dello spazio Secondario</string>
     <string name="secondSpace">Spazio Secondario</string>
     <string name="contactData">Contatti</string>
     <string name="messageData">Messaggi</string>
@@ -144,107 +144,107 @@
     <string name="click_to_back_first_space">Tocca per tornare allo spazio Primario</string>
     <string name="click_to_switch">Tocca per mostrare</string>
     <string name="confirm_main_space_password">Conferma la password dello spazio Primario</string>
-    <string name="create_space_loading">Creazione spazio secondario…</string>
-    <string name="close_second_space_success">Eliminazione Spazio Secondario</string>
+    <string name="create_space_loading">Creazione spazio Secondario…</string>
+    <string name="close_second_space_success">Eliminazione spazio Secondario</string>
     <string name="enable">Attiva</string>
     <string name="disable">Disattiva</string>
-    <string name="PrivacyContactDes1">"Contacts will become private.
-Messages will only appear in Second space."</string>
-    <string name="PrivacyContactDes2">"If you used private messages in First space,
-this feature will be added to Second space automatically."</string>
+    <string name="PrivacyContactDes1">"I contatti diventeranno privati.
+I messaggi compariranno solo nello Spazio secondario."</string>
+    <string name="PrivacyContactDes2">"Se hai utilizzato i messaggi nello spazio Primario,
+questa funzione verrà aggiunta automaticamente allo spazio Secondario."</string>
     <string name="openSuccess">Attivato</string>
     <string name="closeSuccess">Disattivato</string>
-    <string name="settings_notification_and_switch">Switching &amp; notifications</string>
+    <string name="settings_notification_and_switch">Cambio notifiche</string>
     <string name="settings_cross_notification_title">Notifiche</string>
     <string name="settings_cross_notification_summary">"Ricevi le notifiche dall'altro spazio"</string>
     <string name="settings_switch_shortcut_title">Tocca il collegamento per cambiare</string>
     <string name="settings_switch_shortcut_summary">Mostra sulla Home del primo spazio il collegamento</string>
     <string name="settings_space_data">Dati</string>
     <string name="settings_status_icon_title">Icona Spazio Secondario</string>
-    <string name="settings_status_icon_summary">Show Second space icon in the status bar</string>
-    <string name="settings_msg_add_shortcut">Added shortcut to First space</string>
-    <string name="settings_msg_remove_shortcut">Removed shortcut from First space</string>
-    <string name="start_setting_guide_desc_title">There are a few things to set up</string>
-    <string name="setting_is_show_text_contacts">Set up private contacts and messages</string>
-    <string name="switch_data_app">Sposta gli elementi nello Spazio Secondario</string>
-    <string name="guide_pwd_detail_title">"Protect your data
-Enter Second space from Lock screen"</string>
+    <string name="settings_status_icon_summary">"Mostra l'icona dello Spazio secondario nella barra di stato"</string>
+    <string name="settings_msg_add_shortcut">Collegamento aggiunto nello spazio Primario</string>
+    <string name="settings_msg_remove_shortcut">Collegamento rimosso dallo spazio Primario</string>
+    <string name="start_setting_guide_desc_title">Restano solo alcune cose da impostare</string>
+    <string name="setting_is_show_text_contacts">Configura i contatti e i messaggi privati</string>
+    <string name="switch_data_app">Sposta gli elementi nello spazio Secondario</string>
+    <string name="guide_pwd_detail_title">"Proteggi i tuoi dati
+Accedi allo spazio Secondario dalla lockscreen"</string>
     <string name="temporary_no_set">Non adesso</string>
-    <string name="set_space_pwd_suc">Added Second space password</string>
-    <string name="set_space_pwd_detail">You can enter Second space using the password</string>
+    <string name="set_space_pwd_suc">Aggiunta password per lo spazio Secondario</string>
+    <string name="set_space_pwd_detail">Puoi accedere allo spazio Secondario utilizzando la password</string>
     <string name="next_setp">Avanti</string>
-    <string name="guide_setting_guide_title">Gestisci lo Spazio Secondario</string>
+    <string name="guide_setting_guide_title">Gestisci lo spazio Secondario</string>
     <string name="import_now">Importa</string>
     <string name="dont_import">Non adesso</string>
     <string name="go_on_import">Continua importazione</string>
-    <string name="complete_setting_title">"You're all set!"</string>
-    <string name="complete_setting_sub_title">You can also come back later to adjust settings.</string>
+    <string name="complete_setting_title">"E' tutto impostato!"</string>
+    <string name="complete_setting_sub_title">Puoi modificare le impostazioni successivamente.</string>
     <string name="import_contacts">Importa contatti</string>
     <string name="import_photo">Importa foto</string>
-    <string name="import_contacts_desc">Make imported contacts private</string>
-    <string name="import_photo_desc">View shared items in Second space</string>
+    <string name="import_contacts_desc">Rendi privati i contatti importati</string>
+    <string name="import_photo_desc">VMostra gli elementi condivisi con lo spazio Secondario</string>
     <string name="import_application">Importa app</string>
-    <string name="import_application_desc">"Import apps to Second space.
-You can also download them separately."</string>
+    <string name="import_application_desc">"Importa applicazioni nello spazio Secondario.
+Puoi anche scaricarli separatamente"</string>
     <string name="complete_setting">Finito</string>
     <string name="import_contacts_suc">Contatti privati importati</string>
     <string name="import_photo_suc">Foto importate</string>
     <string name="import_file_suc">Elementi importati nelle cartelle</string>
     <string name="show_private_content">Mostra elementi privati</string>
-    <string name="show_normal_content">"Don't show private items"</string>
-    <string name="guide_contact_title_desc">Show private items in Second space?</string>
-    <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
-Messages will only appear in Second space."</string>
-    <string name="guide_contact_suc_title_desc">Set successfully</string>
-    <string name="guide_contact_suc_sub_title_desc">Only private contacts and messages will be shown in Second space</string>
-    <string name="notification_setting_second_space">Set up Second space</string>
-    <string name="notification_setting_second_space_desc">Add Second space password and move data</string>
-    <string name="show_private_msg">Show private messages</string>
-    <string name="contact_titile_text">"Show private messages in Second space
-to be able to view them anytime"</string>
-    <string name="contact_sub_titile_text">Messaging data will be shared between the two spaces</string>
-    <string name="show_private_msg_summary">Show private messages​ in Second space</string>
-    <string name="private_sms_show_title">Private messages are shown in Second space</string>
-    <string name="private_sms_show_sub_title">Messaging data will be shared between the two spaces​</string>
+    <string name="show_normal_content">Non mostrare elementi privati</string>
+    <string name="guide_contact_title_desc">Mostrare gli elementi privati nello spazio Secondario?</string>
+    <string name="guide_contact_sub_title_desc">"I contatti aggiunti allo spazio Secondario saranno privati.
+I messaggi saranno visibili solo nello spazio Secondario."</string>
+    <string name="guide_contact_suc_title_desc">Impostato correttamente</string>
+    <string name="guide_contact_suc_sub_title_desc">Solo i contatti e i messaggi privati verranno mostrati nello spazio Secondario</string>
+    <string name="notification_setting_second_space">Configura lo spazio Secondario</string>
+    <string name="notification_setting_second_space_desc">Aggiungi password per lo spazio Secondario e sposta i dati</string>
+    <string name="show_private_msg">MOstra i messaggi privati</string>
+    <string name="contact_titile_text">"Mostra i messaggi privati nello spazio Secondario
+per essere in grado di vederli sempre"</string>
+    <string name="contact_sub_titile_text">I dati dei messaggi verranno condivisi dai due spazi</string>
+    <string name="show_private_msg_summary">Visualizza i messaggi privati nello spazio Secondario</string>
+    <string name="private_sms_show_title">I messaggi privati verranno visualizzati nello spazio Secondario</string>
+    <string name="private_sms_show_sub_title">I dati dei messaggi verranno condivisi dai due spazi​</string>
     <string name="restore_normal_show">Non mostrare messaggi privati</string>
     <string name="restore_show_desc">Non mostrare i messaggi privati sullo Spazio Secondario. Saranno ancora disponibili nello Spazio Primario.</string>
     <string name="confirm_restore">Non mostrare</string>
     <string name="restore_show_toast">Non mostrare messaggi privati</string>
     <string name="remove_second_space_msg">Tutti i dati dello Spazio Secondario verranno persi dopo averlo eliminato. Vuoi eliminarlo ora?</string>
-    <string name="second_space_finger_printf_title">Second space fingerprint</string>
-    <string name="second_space_finger_printf_desc">Add fingerprint specifically used to enter Second space</string>
-    <string name="setting_finger_print_title">Add Second space fingerprint</string>
-    <string name="setting_finger_print_sub_title">Make sure the fingerprint is different from the one in First space</string>
+    <string name="second_space_finger_printf_title">Impronta spazio Secondario</string>
+    <string name="second_space_finger_printf_desc">Aggiungi impronta utilizzata per accedere allo spazio Secondario</string>
+    <string name="setting_finger_print_title">Aggiungi impronta per lo spazio Secondario</string>
+    <string name="setting_finger_print_sub_title">"Assicurati che l'impronta si diversa da quella usata per lo spazio Primario"</string>
     <string name="second_owner_finger_print">Impronta digitale Spazio Secondario</string>
     <string name="finger_print_of_use">Utilizza impronta digitale</string>
     <string name="lock_screen_open_second_space">Entra nel Spazio Secondario dalla schermata di blocco</string>
     <string name="finger_print_num">Impronta %d</string>
     <string name="add_finger_print">Aggiungi impronta</string>
-    <string name="please_diff_finger_print">"Make sure different fingerprints are used in First space and Second space.
-Otherwise you may not be able to enter Second space from Lock screen."</string>
+    <string name="please_diff_finger_print">Assicurati che le impronte per gli spazi Primario e Secondario siano diverse.
+Altrimenti potresti non essere in gradi di accedere allo spazio Secondario dalla lockscreen."</string>
     <string name="start_input_finger_print">Aggiungi impronta</string>
     <string name="need_set_second_space_pwd_first">Imposta prima la password del Spazio Secondario</string>
     <string name="need_set_second_space_desc">"Aggiungi una password prima di inserire l'impronta digitale sul Spazio Secondario"</string>
     <string name="setting_fingerprint_title">Aggiungi password</string>
     <string name="start_new_fingerprint">Aggiungi una nuova impronta</string>
     <string name="select_existed_fingerprint">Seleziona impronta</string>
-    <string name="start_new_fingerprint_tips">"Use Second space fingerprint
-to enter Second space from Lock screen"</string>
-    <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
-    <string name="repeat_scanner_fingerprint">Add again</string>
+    <string name="start_new_fingerprint_tips">"Utilizza l'impronta per lo spazio Secondario
+per accedere dalla lockscreen"</string>
+    <string name="scanner_second_space_fingerprint">Scansiona impronta per lo spazio Secondario</string>
+    <string name="repeat_scanner_fingerprint">Aggiungi ancora</string>
     <string name="sure_to_use">Conferma</string>
-    <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
-    <string name="scanner_fingerprint_tips_desc">Select existing fingerprint to enter Second space. You wont be able to use it in First space.</string>
+    <string name="scanner_fingerprint_tips_title">Accedi allo spazio Secondario utilizzando l'impronta esistente"</string>
+    <string name="scanner_fingerprint_tips_desc">"Seleziona l'impronta esistente per entrare nello spazio Secondario. Non sarai in grado di utilizzarla per lo spazio Primario."</string>
     <string name="back">Indietro</string>
-    <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint?"</string>
-    <string name="scanner_fingerprint_error_tips_title">"Can't find matching fingerprints"</string>
-    <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
-    <string name="delete_phone_fingerprint">Delete Second space fingerprint</string>
-    <string name="delete_fingerprint">Delete fingerprint</string>
-    <string name="delete_fingerprint_desc">Second space fingerprint will be deleted together with the password</string>
-    <string name="fingerprint_removal_failed">"Couldn't delete fingerprint"</string>
-    <string name="notification_recommend_title">Top 12 apps for Second space</string>
-    <string name="scanner_fingerprint">Scanning fingerprint…</string>
-    <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
-to enter Second space from Lock screen"</string>
+    <string name="scanner_fingerprint_error_tips_desc">Impossibile trovare impronte corrispondenti. Aggiungere impronta per lo spazio Secondario?</string>
+    <string name="scanner_fingerprint_error_tips_title">Impossibile trovare impronte corrispondenti</string>
+    <string name="no_match_repate_scanner">Impossibile trovare impronte corrispondenti, scansiona di nuovo</string>
+    <string name="delete_phone_fingerprint">Elimina impronta dello spazio Secondario</string>
+    <string name="delete_fingerprint">Elimina impronta</string>
+    <string name="delete_fingerprint_desc">"L'impronta dello spazio Secondario verrà eliminata insieme alla password"</string>
+    <string name="fingerprint_removal_failed">"Impossibile eliminare l'impronta"</string>
+    <string name="notification_recommend_title">12 app top per lo spazio Secondario</string>
+    <string name="scanner_fingerprint">Scansione impronta…</string>
+    <string name="scanner_fingerprint_enter_second">"Scansiona l'impronta per lo spazio Secondario
+per accedere Second space dalla lockscreen"</string>
 </resources>
