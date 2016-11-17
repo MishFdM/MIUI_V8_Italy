@@ -842,12 +842,12 @@ Le schede contatti sono disattivate"</string>
     <string name="delete_unknown_contact_calllog_title">Cancellare il registro chiamate?</string>
     <string name="callrecordview_menu_batch_delete">Eliminazione multipla</string>
     <string name="delete_call_log_selected_title">Cancellare il registro chiamate selezionato?</string>
-    <string name="multi_number_title">Audio conferenza</string>
+    <string name="multi_number_title">Audioconferenza</string>
     <string name="multi_number_menu_call">Chiama</string>
     <string name="multi_number_menu_message">Messaggio</string>
     <string name="multi_number_menu_group">Nuovo gruppo</string>
     <string name="multi_number_menu_delete">Elimina</string>
-    <string name="video_call">Video chiamata</string>
+    <string name="video_call">Videochiamata</string>
     <string name="copy_number">Copia</string>
     <string name="edit_contact_card_title">Modifica dettagli contatto</string>
     <string name="preview_contact_card_title">Importazione contatti…</string>
@@ -1254,7 +1254,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="dialer_menu_description">Tocca per mostrare il tastierino</string>
     <string name="back_view_description">Tocca per tornare indietro</string>
     <string name="voip_audio_description">Tocca per effettuare una chiamata VoIP</string>
-    <string name="voip_video_description">Tocca per effettuate una video chiamata VoIP</string>
+    <string name="voip_video_description">Tocca per effettuate una videochiamata VoIP</string>
     <string name="menu_newContactButton">Aggiungi</string>
     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
     <string name="dialer_digits_copy_number_label">Numero copiato</string>

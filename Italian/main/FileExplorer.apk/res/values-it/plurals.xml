@@ -254,7 +254,7 @@
     </plurals>
     <plurals name="user_sign_limt">
         <item quantity="other">Puoi inserire %d caratteri</item>
-        <item quantity="one">Pupoi inserire %d carattere</item>
+        <item quantity="one">Puoi inserire %d carattere</item>
     </plurals>
     <plurals name="video_items">
         <item quantity="other"> %1$d elementi</item>
@@ -273,7 +273,7 @@
         <item quantity="one">• Hai caricato %1$s video,</item>
     </plurals>
     <plurals name="original_user_play_2">
-        <item quantity="other">Hai resofelice %1$s persone!</item>
+        <item quantity="other">Hai reso felice %1$s persone!</item>
         <item quantity="one">Hai reso felice %1$s persona!</item>
     </plurals>
     <plurals name="original_user_fans">
@@ -282,6 +282,6 @@
     </plurals>
     <plurals name="video_publish_watchable_hint">
         <item quantity="other">Ottieni altri %1$d follower per aggiornare il tuo stato</item>
-        <item quantity="one">Ottieni %1$d altre follower per aggiornare il tuo stato</item>
+        <item quantity="one">Ottieni %1$d altri follower per aggiornare il tuo stato</item>
     </plurals>
 </resources>

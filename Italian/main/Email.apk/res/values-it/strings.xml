@@ -110,7 +110,7 @@
     <string name="account_setup_incoming_security_label">Tipo di sicurezza</string>
     <string name="account_setup_incoming_security_none_label">Nessuna</string>
     <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accetta tutti i certificati)</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (accetta tutti i certificati)</string>
     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accetta tutti i certificati)</string>
     <string name="account_setup_incoming_server_label">Server</string>
@@ -308,8 +308,8 @@
     <string name="date_heading">"Data: "</string>
     <string name="date_message_received">%1$s, %2$s</string>
     <string name="date_message_received_today">Oggi, %1$s</string>
-    <string name="default_">PREDEFINITO</string>
-    <string name="default_setup">IMPOSTAZIONI PREDEFINITE</string>
+    <string name="default_">\u0020PREDEFINITO</string>
+    <string name="default_setup">IMPOSTAZIONI PREDEFINITE\u0020</string>
     <string name="default_signature">Inviato tramite Xiaomi</string>
     <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
     <string name="delete">Elimina</string>
@@ -442,7 +442,7 @@
     <string name="from_heading">"Da: "</string>
     <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
     <string name="general_preference_confirm_send_label">Conferma prima di inviare</string>
-    <string name="general_preference_str_auto_translation">Traduzioneveloce</string>
+    <string name="general_preference_str_auto_translation">Traduzione veloce</string>
     <string name="general_preference_str_auto_translation_prompt">Copia il testo per vedere la traduzione</string>
     <string name="general_preference_text_zoom_dialog_title">Dimensioni testo messaggio</string>
     <string name="general_preference_text_zoom_huge">Testo molto grande</string>
@@ -836,7 +836,7 @@
     <string name="ser_resp_err_map_or">Oppure</string>
     <string name="ser_resp_err_map_pserr">Nome utente o password non corre</string>
     <string name="ser_resp_err_map_serclosed">Servizio chiuso</string>
-    <string name="ser_resp_err_map_ssl">"Prova a selezionare 'SSL/TLS (Accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
+    <string name="ser_resp_err_map_ssl">"Prova a selezionare 'SSL/TLS (accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
     <string name="set_network">Imposta rete</string>
     <string name="settings_activity_title">Impostazioni</string>
     <string name="share_choose">Scegli cosa condivedere</string>

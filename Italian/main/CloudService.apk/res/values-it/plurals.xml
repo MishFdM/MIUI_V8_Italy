@@ -5,7 +5,7 @@
         <item quantity="one">%d disattivato</item>
     </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">Elementi in attesadi sincronizzazione: %d</item>
+        <item quantity="other">Elementi in attesa di sincronizzazione: %d</item>
         <item quantity="one">Elemento in sincronizzazione: %d</item>
     </plurals>
     <plurals name="items_waiting_to_sync">
