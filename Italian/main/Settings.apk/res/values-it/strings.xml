@@ -126,7 +126,7 @@
     <string name="bluetooth_pairing_pin_error_message">"Impossibile eseguire l'abbinamento con %1$s. La passkey o il PIN è errato."</string>
     <string name="bluetooth_pairing_device_down_error_message">Impossibile comunicare con %1$s.</string>
     <string name="bluetooth_pairing_rejected_error_message">Abbinamento rifiutato da %1$s.</string>
-    <string name="accessibility_wifi_off">Wi-Fi disattivo.</string>
+    <string name="accessibility_wifi_off">Wi-Fi disattivato.</string>
     <string name="accessibility_no_wifi">Wi-Fi disconnesso.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi una barra.</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi due barre.</string>
@@ -1429,7 +1429,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="install_applications_title">Consenti tutte le sorgenti delle app</string>
     <string name="install_unknown_applications_title">Consente di installare le applicazioni da fonti diverse Google Play</string>
     <string name="install_unknown_applications">"Consenti l'installazione di applicazioni da fonti sconosciute"</string>
-    <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app con origini sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
+    <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app provenienti da fonti sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
     <string name="advanced_settings">Impostazioni avanzate</string>
     <string name="advanced_settings_summary">Attiva altre impostazioni</string>
     <string name="application_info_label">Informazioni applicazione</string>
