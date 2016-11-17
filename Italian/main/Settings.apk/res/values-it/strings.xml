@@ -126,7 +126,7 @@
     <string name="bluetooth_pairing_pin_error_message">"Impossibile eseguire l'abbinamento con %1$s. La passkey o il PIN è errato."</string>
     <string name="bluetooth_pairing_device_down_error_message">Impossibile comunicare con %1$s.</string>
     <string name="bluetooth_pairing_rejected_error_message">Abbinamento rifiutato da %1$s.</string>
-    <string name="accessibility_wifi_off">Wi-Fi disattivato.</string>
+    <string name="accessibility_wifi_off">Wi-Fi disattivo.</string>
     <string name="accessibility_no_wifi">Wi-Fi disconnesso.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi una barra.</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi due barre.</string>
@@ -4012,8 +4012,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router supporti il WPS e che sia abilitato</string>
     <string name="retry">Riprova</string>
-    <string name="brightness_auto_adjust_off">La retroilluminazione rimarrà invariata in ogni condizione di luce</string>
-    <string name="brightness_auto_adjust_on">La retroilluminazione varierà in base alla luce ambientale</string>
+    <string name="brightness_auto_adjust_off">La retroilluminazione rimarrà invariata in ogni condizione di luce.</string>
+    <string name="brightness_auto_adjust_on">La retroilluminazione varierà in base alla luce ambientale.</string>
     <string name="private_sms_need_to_unlock">Password richiesta:</string>
     <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>

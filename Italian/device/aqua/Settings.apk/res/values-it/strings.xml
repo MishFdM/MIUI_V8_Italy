@@ -4012,8 +4012,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router supporti il WPS e che sia abilitato</string>
     <string name="retry">Riprova</string>
-    <string name="brightness_auto_adjust_off">La retroilluminazione rimarrà invariata in ogni condizione di luce</string>
-    <string name="brightness_auto_adjust_on">La retroilluminazione varierà in base alla luce ambientale</string>
+    <string name="brightness_auto_adjust_off">La retroilluminazione rimarrà invariata in ogni condizione di luce.</string>
+    <string name="brightness_auto_adjust_on">La retroilluminazione varierà in base alla luce ambientale.</string>
     <string name="private_sms_need_to_unlock">Password richiesta:</string>
     <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
@@ -4062,7 +4062,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wifi_signal_found_msg">"Punto d'accesso Wi-Fi disponibile, vuoi connetterti ora?"</string>
     <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
-    <string name="saved_wifi">Rete salvata</string>
+    <string name="saved_wifi">Reti salvate</string>
     <string name="saved_wifi_delete">Elimina</string>
     <string name="wifi_enable_data_and_wifi_roam">Roaming Dati e Wi-Fi</string>
     <string name="wifi_enable_data_and_wifi_roam_summary">Passa alla connessione dati quando la connessione dati e il Wi-Fi provano a collegarsi e il Wi-Fi non può accedere a internet.</string>
