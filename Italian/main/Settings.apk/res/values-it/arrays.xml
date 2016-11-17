@@ -669,9 +669,9 @@
  Nota: solo per Ubuntu 8.04"</item>
     </string-array>
     <string-array name="screen_color_title">
-        <item>Caldo</item>
-        <item>Naturale</item>
-        <item>Freddo</item>
+        <item>Caldi</item>
+        <item>Naturali</item>
+        <item>Freddi</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brillante</item>
