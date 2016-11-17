@@ -243,7 +243,6 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
     <string name="micloud_main_suggest_setting">"In attesa di connessione Wi-Fi per sincronizzare.
 Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_sync_pending">In attesa di sincronizzazione</string>
-    <string name="micloud_main_data_unsynced">%d non sincronizzato</string>
     <string name="micloud_main_detail">Mostra dettagli</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
     <string name="micloud_main_sync_init">Recupero informazioni</string>
@@ -262,7 +261,6 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_clear_now">Elimina</string>
     <string name="micloud_main_query_error_title">Impossibile recuperare i dati di sincronizzazione</string>
     <string name="micloud_main_query_error_message">Non è possibile garantire che la sincronizzazione sia stata completata</string>
-    <string name="micloud_main_not_sync">%d elementi in attesa di sincronizzazione</string>
     <string name="micloud_main_multi_user_error_title">Interruzione Mi Cloud</string>
     <string name="micloud_main_multi_user_error_message">"Se accedi allo stesso account con il primo spazio Mi Cloud si interromperà. Se vuoi eseguire il backup dei dati:
 
@@ -278,9 +276,7 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_detail_lastest_with_off">Sincronizzato</string>
     <string name="micloud_detail_not_synced">Non sincronizzato</string>
     <string name="micloud_detail_preference_sync_items">Elementi</string>
-    <string name="micloud_detail_wlan">%d dati non sincronizzati</string>
-    <string name="micloud_detail_wlan_contact">%d foto contatti non sincronizzati</string>
-    <string name="micloud_detail_wlan_mms">%d MMS non sincronizzati</string>
+    <string name="micloud_detail_wlan">%d in attesa di sincronizzazione</string>
     <string name="micloud_detail_query_error">Impossibile ottenere lo stato della sincronizzazione</string>
     <string name="micloud_detail_query_error_title">Impossibile ottenere lo stato della sincronizzazione</string>
     <string name="micloud_detail_query_error_detail">Impossibile verificare lo stato della sincronizzazione. Si prega di contattare gli sviluppatori.</string>
@@ -428,7 +424,6 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_battery_low_notification_title">Batteria in esaurimento</string>
     <string name="micloud_battery_low_notification_message">Collega il carica batteria per sincronizzare</string>
     <string name="micloud_upgrade_member">Ottieni spazio aggiuntivo</string>
-    <string name="micloud_notif_title_depend_wifi">%d in attesa di sincronizzazione</string>
     <string name="micloud_notif_content_depend_wifi">Collegato ad una rete Wi-Fi per sincronizzare.</string>
     <string name="micloud_notif_title_master_depend_wifi">Impossibile sincronizzare con Mi Cloud</string>
     <string name="micloud_notif_content_master_depend_wifi">Collegati prima alla rete Wi-Fi</string>
@@ -499,8 +494,6 @@ Ultimo backup: %2$s"</string>
     <string name="member_due_date">Valido fino al %s</string>
     <string name="due_date_format">dd/MM/yyyy</string>
     <string name="all_sync_item_open">Tutti gli elementi sono attivi</string>
-    <string name="one_sync_item_close">%d è disattivo</string>
-    <string name="some_sync_item_close">%d sono disattivati</string>
     <string name="recommend_open_all_sync">Sincronizza tutti gli elementi</string>
     <string name="passed_synced_time_sec">Sincronizzato %d sec fa</string>
     <string name="passed_synced_time_min">Sincronizzato %d min fa</string>

@@ -1951,7 +1951,6 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="process_stats_summary">Statistiche tecniche sui processi in esecuzione</string>
     <string name="app_memory_use">Memoria usata</string>
     <string name="process_stats_total_duration">App %1$s per %2$s</string>
-    <string name="process_stats_memory_status">Stato della memoria del dispositivo: %1$s</string>
     <string name="process_stats_total_duration_percentage">%1$s di RAM utilizzata su %2$s</string>
     <string name="process_stats_type_background">in background</string>
     <string name="process_stats_type_foreground">in primo piano</string>
@@ -1962,9 +1961,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="process_stats_os_zram">Z-Ram</string>
     <string name="process_stats_os_cache">Cache</string>
     <string name="process_stats_ram_use">Uso della RAM</string>
-    <string name="process_stats_avg_ram_use">Uso medio della RAM</string>
     <string name="process_stats_bg_ram_use">Uso della RAM (background)</string>
-    <string name="process_stats_max_ram_use">Uso massimo della RAM</string>
     <string name="process_stats_run_time">Tempo di esecuzione</string>
     <string name="processes_subtitle">Processi</string>
     <string name="services_subtitle">Servizi</string>
@@ -4272,6 +4269,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="bluetooth_device_address">Indirizzo:</string>
     <string name="bluetooth_preference_connected_devices">Dispositivi connessi</string>
     <string name="bluetooth_unlock_confirm_device_text">Fai toccare i dispositivi tra di loro per sbloccare.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_miband2">Tocca il tasto sul dispositivo per sbloccare.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">"Tocca il tasto sull'orologio per sbloccare."</string>
     <string name="bluetooth_unlock_device_matched_text">Usa questo dispositivo per sbloccare.</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Vuoi rimuovere questo dispositivo?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Il vecchio dispositivo verrà sostituito dal dispositivo attuale.</string>
@@ -4288,7 +4287,6 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="power_mgr">Batteria</string>
     <string name="symbols_not_allowed_for_password">La password non può contenere simboli</string>
     <string name="reset_legacy_password_settings_preface_text">Devi ripristinare la tua password della Schermata di blocco.</string>
-    <string name="lock_intro_message">Lock_intro_message</string>
     <string name="priority_storage_title">Impostazioni di archiviazione</string>
     <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
     <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
@@ -4450,6 +4448,11 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="lock_screen_secure_after_timeout_summary">Richiedi password dopo %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Richiedi password subito</string>
     <string name="theme_settings_title">Temi</string>
+    <string name="choose_smartcover_type">Scegli il tipo di custodia</string>
+    <string name="normal_smartcover_title">Cover frontale opaca</string>
+    <string name="smallwindow_smartcover_title">Cover frontale trasparente</string>
+    <string name="lattice_smartcover_title">Cover frontale in lattice</string>
+    <string name="full_transparent_smarrcover_title">Cover frontale trasparente</string>
     <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
     <string name="children_mode_title">Modalità Genitore</string>
     <string name="children_mode_tips_on">Dopo aver disattivato la modalità Genitore, tocca il tasto Home per tornare alla Home</string>
@@ -4715,6 +4718,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="privacy_password_fingerprint_confirm_failed">"Impossibile verificare l'impronta"</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Conferma la password dello Spazio Secondario</string>
     <string name="privacy_password_transparent_tiltle" />
+    <string name="smartcover_lock_or_unlock_screen_tittle">Sblocco schermo con smart cover</string>
+    <string name="smartcover_sensitive_summary">Blocca o sblocca facilmente il telefono con la smart cover</string>
     <string name="music_audio_effect_optimize">Impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>

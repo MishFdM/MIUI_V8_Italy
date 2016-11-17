@@ -131,6 +131,10 @@
         <item quantity="other">%1$d persone</item>
         <item quantity="one">%1$d persona</item>
     </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">Minuti</item>
+        <item quantity="one">Minuto</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">ha squillato %d volte</item>
         <item quantity="one">ha squillato %d volta</item>
