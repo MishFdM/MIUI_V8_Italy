@@ -414,6 +414,8 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
     <string name="date_time_set_date_title">Data</string>
     <string name="date_time_set_date">Imposta data</string>
+	<string name="date_time_date_format_title">Formato data</string>
+    <string name="date_time_date_format">Scegli formato data</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
     <string name="date_picker_title">Data</string>
@@ -3231,6 +3233,8 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_access_control">Accesso</string>
     <string name="search_date_time">Ora e data</string>
     <string name="search_choose_timezone">Scegli fuso orario</string>
+	<string name="default_date_format">dd/MM/yyyy</string>
+	<string name="normal_date_format">Regionale (%s)</string>
     <string name="search_children_mode_title">Modalità genitore</string>
     <string name="search_language">Lingua</string>
     <string name="search_language_picker_title">Lingua</string>
