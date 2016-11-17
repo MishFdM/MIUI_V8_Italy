@@ -1166,7 +1166,7 @@ per l'account %s."</string>
     <string name="car_mode_disable_notification_title">Modalità automobile attivata</string>
     <string name="car_mode_disable_notification_message">Tocca per uscire dalla modalità automobile.</string>
     <string name="tethered_notification_title">Tethering oppure hotspot attivo</string>
-    <string name="tethered_notification_message">Tocca per configurare.</string>
+    <string name="tethered_notification_message">Tocca per configurare</string>
     <string name="back_button_label">Indietro</string>
     <string name="next_button_label">Avanti</string>
     <string name="skip_button_label">Ignora</string>

@@ -123,12 +123,12 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Sempre</item>
-        <item>Solo quando collegato</item>
+        <item>Solo se in carica</item>
         <item>"Mai (aumenta l'utilizzo dei dati)"</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
-        <item>Solo quando collegato</item>
+        <item>Solo se in carica</item>
         <item>Mai</item>
     </string-array>
     <string-array name="data_usage_data_range">
@@ -170,7 +170,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-        <item>Proxy Auto Config.</item>
+        <item>Proxy auto-config</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Nessuno</item>
