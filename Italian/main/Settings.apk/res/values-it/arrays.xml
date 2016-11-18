@@ -347,9 +347,12 @@
         <item>Molto grande</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
+        <item>Predefinito</item>
         <item>Nessuno</item>
         <item>Contorno</item>
         <item>Ombreggiatura</item>
+        <item>Incastonato</item>
+        <item>Rialzato</item>
     </string-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
@@ -358,6 +361,7 @@
         <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
+        <item>Definito da app</item>
         <item>Bianco su nero</item>
         <item>Nero su bianco</item>
         <item>Giallo su nero</item>

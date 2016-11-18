@@ -478,8 +478,8 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_request_permission_content">Mi Cloud ha necessità dei permessi per la sincronizzazione dei dati. Consenti a Mi Cloud di accedere a Calendario, Contatti, Mi Account, stato SIM, registro chiamate e messaggi.</string>
     <string name="micloud_request_permission_confirm">Ho capito</string>
     <string name="short_cut_desc">"Vuoi aggiungere l'icona Mi Cloud alla home?"</string>
-    <string name="add_short_cut">Aggiungi</string>
-    <string name="added_successfully">Aggiunta!</string>
+    <string name="add_short_cut">Sì</string>
+    <string name="added_successfully">Fatto!</string>
     <string name="find_device_service_title">Trova dispositivo</string>
     <string name="find_device_service_summary">Visita i.mi.com to per localizzare e bloccare dal remoto il dispositivo</string>
     <string name="find_device_service_summary_international">Visita i.mi.com to per localizzare e bloccare dal remoto il dispositivo</string>
