@@ -740,7 +740,7 @@
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Memoria interna</item>
-        <item>Memoria esterna</item>
+        <item>Scheda SD</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Molto lento</item>
@@ -789,8 +789,8 @@
         <item>Mostra animazioni di sistema</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>Per velocizzare il sistema, nascondi le animazioni</item>
-        <item>Le animazioni potrebbero influire sulle prestazioni del sistema</item>
+        <item>Migliora le prestazioni del sistema</item>
+        <item>Potrebbe influire sulle prestazioni del sistema</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>

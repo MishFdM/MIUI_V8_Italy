@@ -1050,11 +1050,11 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_media_usage">Supporti</string>
     <string name="memory_downloads_usage">Download</string>
     <string name="memory_dcim_usage">Foto, video</string>
-    <string name="memory_music_usage">Audio (musica, suonerie, podcast e così via)</string>
+    <string name="memory_music_usage">Audio (musica, suonerie, podcast)</string>
     <string name="memory_media_misc_usage">Vari</string>
     <string name="memory_media_cache_usage">Dati memorizzati nella cache</string>
-    <string name="sd_eject">Disattiva archivio condiviso</string>
-    <string name="sd_eject_summary">Disattiva scheda SD</string>
+    <string name="sd_eject">Smonta archivio condiviso</string>
+    <string name="sd_eject_summary">Smonta scheda SD</string>
     <string name="sd_insert_summary">Inserisci scheda SD</string>
     <string name="sd_mount">Monta scheda SD</string>
     <string name="sd_mount_summary"/>
@@ -1063,8 +1063,8 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_clear_cache_title">Eliminare i dati memorizzati nella cache?</string>
     <string name="memory_clear_cache_message">Saranno eliminati tutti i dati delle app nella cache.</string>
     <string name="mtp_ptp_mode_summary">La funzione MTP o PTP è attiva</string>
-    <string name="dlg_confirm_unmount_title">"Disattivare l'archivio USB?"</string>
-    <string name="dlg_confirm_unmount_text">"Se disattivi l'archivio USB, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai l'archivio USB."</string>
+    <string name="dlg_confirm_unmount_title">Smontare la scheda SD?</string>
+    <string name="dlg_confirm_unmount_text">Se smonti la scheda SD, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai la scheda SD.</string>
     <string name="dlg_error_unmount_title"/>
     <string name="dlg_error_unmount_text">"Impossibile disattivare l'archivio USB. Riprova più tardi."</string>
     <string name="unmount_inform_text">"L'archivio USB verrà disattivato."</string>
@@ -3069,7 +3069,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="do_not_disturb_mode">Non disturbare</string>
     <string name="dndm_notification">Modalità Non disturbare attivata.</string>
     <string name="dndm_open">Non disturbare</string>
-    <string name="dndm_summary">"Quando l'opzione \"Non disturbare\" è attiva, le chiamate e gli avvisi ricevuti mentre il dispositivo è in standby saranno in modalità Silenziosa."</string>
+    <string name="dndm_summary">"Quando l'opzione \"Non disturbare\" è attiva, le chiamate e le notifiche vengono silenziate."</string>
     <string name="dndm_auto_setting_group">Programmazione</string>
     <string name="dndm_auto_button_title">Programmato</string>
     <string name="dndm_auto_time_setting">Fascia oraria</string>
@@ -3655,9 +3655,9 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="common_settings">Impostazioni rapide</string>
     <string name="battery_settings">Batteria</string>
     <string name="battery_settings_title">Batteria</string>
-    <string name="power_center">Consumo</string>
+    <string name="power_center">Ottimizzazione</string>
     <string name="power_hide_mode_title">Gestisci il consumo da parte delle app</string>
-    <string name="power_hide_mode_summary">"Consente di risparmiare batteria controllando l'attività in background, la connettività Wi-Fi, la connessione dati e l'uso del GPS"</string>
+    <string name="power_hide_mode_summary">"Consente di risparmiare batteria controllando l'attività in background, le connessioni Wi-Fi e dati e l'uso del GPS ci ciascuna app"</string>
     <string name="battery_indicator_style">Indicatore batteria</string>
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
@@ -4566,7 +4566,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="usb_format_summary">Verranno eliminati tutti i dati della memoria USB, come musica e foto</string>
     <string name="usb_mount">Monta memoria USB</string>
     <string name="usb_mount_summary"/>
-    <string name="usb_insert_summary">Inserire una memoria USB da caricare</string>
+    <string name="usb_insert_summary">Inserire una memoria USB da montare</string>
     <string name="fp_nav_center_back_to_home_title">Premi il tasto Home per tornare alla schermata Home</string>
     <string name="convenience_key_category_title">Scorciatoie</string>
     <string name="single_key_use">Utilizzo tasto singolo</string>
