@@ -51,11 +51,11 @@
     <string name="record_name_minute"/>
     <string name="sound_recorder_settings">Impostazioni di registrazione</string>
     <string name="preference_led_indicator">Notifica a schermo spento</string>
-    <string name="preference_tip_rename">"Rinominare dopo l'interruzione della registrazione"</string>
+    <string name="preference_tip_rename">"Rinomina al termine della registrazione"</string>
     <string name="preference_led_indicator_prompt">Notifica la registrazione in corso a schermo spento</string>
     <string name="preference_scenes">Impostazioni scene</string>
     <string name="preference_record_scenes_dialog_title">Selezionare una scena di registrazione</string>
-    <string name="preference_silent_mode">Registrazione silenziosa</string>
+    <string name="preference_silent_mode">Silenzia durante registrazione</string>
     <string name="preference_enable_earpiece_title">"Riproduci nell'altoparlante"</string>
     <string name="preference_enable_earpiece_summary">"Permette di riprodurre la registrazione nell'altoparlante utilizzato per le chiamate"</string>
     <string name="error_filename_too_long">Nome file troppo lungo</string>

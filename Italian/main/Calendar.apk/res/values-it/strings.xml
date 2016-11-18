@@ -316,10 +316,10 @@
     <string name="user_notification">Notifica utente</string>
     <string name="user_notification_descrip">Mostra la notifica utente ogni volta che apri il Calendario</string>
     <string name="setting_title_about">Informazioni</string>
-    <string name="setting_about_summary">Versione:</string>
-    <string name="setting_about_miui_version">Versione MIUI:</string>
-    <string name="setting_about_calendar_version">Versione calendario:</string>
-    <string name="setting_about_imei">IMEI:</string>
+    <string name="setting_about_summary">Versione: </string>
+    <string name="setting_about_miui_version">Versione MIUI: </string>
+    <string name="setting_about_calendar_version">Versione calendario: </string>
+    <string name="setting_about_imei">IMEI: </string>
     <string name="no_visiable_calendar_title">Seleziona Account Calendario</string>
     <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
     <string name="no_visiable_calendar_select_account">Seleziona account</string>
@@ -357,7 +357,7 @@
     <string name="preferences_alerts_ringtone_title">Suoni</string>
     <string name="preferences_notification_ringtone_title">Suoni</string>
     <string name="pref_title_no_remind">Nessun avviso</string>
-    <string name="pref_title_notification_remind">Notifica avviso</string>
+    <string name="pref_title_notification_remind">Avviso tramite notifica</string>
     <string name="pref_title_alert_remind">Avviso pop-up</string>
     <string name="pref_title_alarm_remind">Avviso sonoro</string>
     <string name="pref_error_no_ringtone_select">Nessuna selezione</string>

@@ -17,12 +17,12 @@
     <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/BACKUP E RIPRISTINO</string>
     <string name="app_name">Mi Cloud</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="sync_item_sms_title">Sincronizza SMS</string>
+    <string name="sync_item_sms_title">Sincronizza messaggi</string>
     <string name="sync_item_sms_summary">Attiva dopo che i messaggi sono stati sincronizzati</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizza MMS solo con Wi-Fi</string>
     <string name="sub_sync_item_sms_summary">Non utilizzare la rete dati cellulare per sincronizzare i messaggi multimediali</string>
     <string name="pref_title_sync_contacts_title">Sincronizza i contatti</string>
-    <string name="pref_title_sync_display_photo_on_wifi_only">Mostra foto solo con Wi-Fi</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizza foto solo con Wi-Fi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Non utilizzare la rete dati cellulare per sincronizzare le foto dei contatti</string>
     <string name="error_title">Errore di sincronizzazione</string>
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
@@ -220,7 +220,7 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
     <string name="remind_later">Ricordamelo più tardi</string>
     <string name="enable_cloud_service_notification">"Non hai attivato Mi Cloud"</string>
     <string name="contact">Contatti</string>
-    <string name="sms">SMS</string>
+    <string name="sms">Messaggi</string>
     <string name="photo">Foto</string>
     <string name="micloud_first_login_title"/>
     <string name="micloud_first_login_summary"/>
@@ -239,7 +239,7 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
     <string name="micloud_main_sync_on_wifi">Utilizza Wi-Fi</string>
     <string name="micloud_main_sync_setting">Impostazioni di sincronizzazione</string>
     <string name="micloud_main_title_not_synced">Non sincronizzato</string>
-    <string name="micloud_main_message_not_synced">%s dati non sincronizzti</string>
+    <string name="micloud_main_message_not_synced">%s dati non sincronizzati</string>
     <string name="micloud_main_suggest_setting">"In attesa di connessione Wi-Fi per sincronizzare.
 Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_sync_pending">In attesa di sincronizzazione</string>
@@ -281,7 +281,7 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_detail_query_error_title">Impossibile ottenere lo stato della sincronizzazione</string>
     <string name="micloud_detail_query_error_detail">Impossibile verificare lo stato della sincronizzazione. Si prega di contattare gli sviluppatori.</string>
     <string name="micloud_detail_not_sync">%d in attesa di sincronizzazione</string>
-    <string name="micloud_detail_force_sync">sincronizza adesso</string>
+    <string name="micloud_detail_force_sync">Sincronizza adesso</string>
     <string name="micloud_detail_ok">OK</string>
     <string name="micloud_detail_do_not_sync">Non sincronizzare</string>
     <string name="micloud_detail_sync_now">Sincronizza adesso</string>
@@ -295,7 +295,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_check_sim_notify_text">"Sembra che tu abbia cambiato SIM. Accedi
 al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_setting_contact_summary">Informazioni contatto e foto profilo</string>
-    <string name="micloud_setting_sms_summary">SMS e MMS</string>
+    <string name="micloud_setting_sms_summary">Messaggi SMS e MMS</string>
     <string name="micloud_setting_gallery_summary">Foto e video</string>
     <string name="micloud_setting_browser_summary">Segnalibri, cronologia e schede</string>
     <string name="micloud_setting_music_summary">Playlist e preferiti</string>

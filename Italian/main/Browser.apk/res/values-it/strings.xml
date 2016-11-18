@@ -677,7 +677,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_extras_reset_default_dlg">Ripristinare le impostazioni ai valori predefiniti?</string>
     <string name="pref_font_size_category">Dimensioni testo</string>
     <string name="pref_key_gesture_title">Tasti e gesti</string>
-    <string name="pref_volume_key_action">Tasti volume: pagina precedente/successiva</string>
+    <string name="pref_volume_key_action">Scrolla con tasti volume</string>
     <string name="pref_fling_on_border_enabled">Swipe dal bordo</string>
     <string name="pref_fling_on_border_enabled_title_summary">Esegui swipe dal bordo sinistro o destro dello schermo per cambiare scheda</string>
     <string name="pref_content_search_engine">Imposta motore di ricerca preferito</string>

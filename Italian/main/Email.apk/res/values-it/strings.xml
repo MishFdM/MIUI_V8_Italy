@@ -199,7 +199,7 @@
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Allegati</string>
     <string name="authority_email_provider">com.android.email.provider</string>
-    <string name="auto_advance_help_title">"Dopo l'eliminazione di un messaggio mostra…"</string>
+    <string name="auto_advance_help_title">"Dopo un'eliminazione, mostra…"</string>
     <string name="auto_advance_label">Avanzamento automatico</string>
     <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
     <string name="auto_sync_off">Sincron. automatica disattivata.</string>

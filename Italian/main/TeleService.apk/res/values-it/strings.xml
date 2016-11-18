@@ -883,7 +883,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="search_antispam_setting">Blacklist</string>
     <string name="path_app_name">Applicazioni di sistema/Chiamate</string>
     <string name="path_voip_setting">Applicazioni di sistema/Chiamate/Impostazioni Voip</string>
-    <string name="path_call_record_setting">Applicazioni di sistema/Chiamate/Impostazioni registrazione chiamate</string>
+    <string name="path_call_record_setting">Applicazioni di sistema/Chiamate/Registrazione chiamate</string>
     <string name="path_call_forwarding_settings">Applicazioni di sistema/Chiamate/Impostazioni inoltro chiamate</string>
     <string name="path_call_waiting_title">Applicazioni di sistema/Chiamate/Chiamate in attesa</string>
     <string name="path_answer_state_setting_title">Applicazioni di sistema/Chiamate/Impostazioni chiamate in arrivo</string>
@@ -891,7 +891,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="path_antispam_setting">Applicazioni di sistema/Chiamate/Blacklist</string>
     <string name="path_preference_telocation_title">Applicazioni di sistema/Chiamate/Posizione</string>
     <string name="path_auto_answer_pref_title">Applicazioni di sistema/Chiamate/Risposta automatica</string>
-    <string name="path_call_recording_notification_toggle_title">Applicazioni di sistema/Chiamate/Impostazione registrazione chiamate/Notifica registrazione chiamata</string>
+    <string name="path_call_recording_notification_toggle_title">Applicazioni di sistema/Chiamate/Registrazione chiamate/Notifica registrazione chiamata</string>
     <string name="path_call_record_auto_title">Chiamate/Registra automaticamente</string>
     <string name="path_turnover_mute_title">Chiamate/Impostazioni chiamate in arrivo/Capovolgi per silenziare la suoneria</string>
     <string name="path_handon_ringer_title">Chiamate/Impostazioni chiamate in arrivo/Non vibrare</string>
@@ -952,7 +952,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="auto_record_yellowpage">Cartella</string>
     <string name="call_record_auto_title">Registra automaticamente</string>
     <string name="call_record_auto_summary">Tutte le conversazioni registrate verranno salvate nella cartella MIUI/sound_recorder/call_rec</string>
-    <string name="call_record_auto_scenario_title">Impostazione registrazione automatica</string>
+    <string name="call_record_auto_scenario_title">Registra chiamate provenienti da</string>
     <string name="call_record_whitelist_custom">Lista personalizzata</string>
     <string name="call_record_auto_whitelist_summary_for_one">1 numero</string>
     <string name="call_record_auto_whitelist_summary">%d numeri</string>
@@ -1006,8 +1006,8 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="auto_answer_scenario_title">Condizione per risposta automatica</string>
     <string name="auto_answer_scenario_enteries_always">Sempre</string>
     <string name="auto_answer_scenario_enteries_headset_only">Solo auricolari</string>
-    <string name="auto_answer_scenario_enteries_bluetooth_only">Solo bluetooth</string>
-    <string name="auto_answer_scenario_enteries_headset_bluetooth">Solo auricolari o bluetooth</string>
+    <string name="auto_answer_scenario_enteries_bluetooth_only">Solo Bluetooth</string>
+    <string name="auto_answer_scenario_enteries_headset_bluetooth">Solo auricolari o Bluetooth</string>
     <string name="auto_answer_summary_not_enabled">Disattivato</string>
     <string name="auto_answer_summary_delay">" (ritardo: %s secondi)"</string>
     <string name="answer_state_setting_title">Impostazioni chiamate in arrivo</string>
@@ -1041,7 +1041,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="cfnrc_title">Inoltra se non sei raggiungibile</string>
     <string name="cfnry_title">Inoltra se non hai risposto</string>
     <string name="disable_all_cf">Disabilita tutti gli inoltri di chiamate</string>
-    <string name="connect_disconnect_vibrate_title">Vibra su risposta</string>
+    <string name="connect_disconnect_vibrate_title">Vibra alla risposta</string>
     <string name="connect_disconnect_vibrate_summary">"Vibra quando l'interlocutore risponde"</string>
     <string name="connect_disconnect_vibrate_none">Non vibrare</string>
     <string name="connect_disconnect_vibrate_normal">Normale</string>
@@ -1066,7 +1066,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="enter_callbarring_password">Inserisci la password per il blocco chiamate (4 cifre)</string>
     <string name="wrong_password">Password errata</string>
     <string name="call_waiting_title">Chiamate in attesa</string>
-    <string name="call_waiting_summary">Durante una chiamata, notificami le altre chiamate in arrivo</string>
+    <string name="call_waiting_summary">Durante una chiamata, notifica le altre chiamate in arrivo</string>
     <string name="call_waiting_tone_title">Notifica chiamata in attesa</string>
     <string name="call_waiting_tone_continuously">Esegui suono di notifica continuo</string>
     <string name="call_waiting_tone_twice_only">Esegui suono di notifica due volte</string>
@@ -1100,7 +1100,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="uplmn_numeric_is_empty">Inserisci ID rete</string>
     <string name="select_voice_call_sim">Seleziona</string>
     <string name="general_setting">Impostazioni</string>
-    <string name="call_record_setting">Impostazioni registrazione chiamata</string>
+    <string name="call_record_setting">Registrazione chiamate</string>
     <string name="preference_telocation_title">Posizione</string>
     <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
     <string name="preference_auto_ip_summary_disable">Disattivato</string>

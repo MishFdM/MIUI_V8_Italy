@@ -142,7 +142,7 @@
     <string name="buffering_video_netplay_label_v5">Creazione buffer…</string>
     <string name="to_be_play_label_v5">Inizio riproduzione</string>
     <string name="episode_suffix">Il primo di %d</string>
-    <string name="about_version_label">Versione:</string>
+    <string name="about_version_label">Versione: </string>
     <string name="nowifi_alert_dialog_title">Avviso Traffico</string>
     <string name="nowifi_alert_dialog_message">Stai per usare la rete dati per lo stream video. Continuare?</string>
     <string name="nowifi_alert_dialog_continue">Continua</string>
@@ -226,8 +226,8 @@
     <string name="vp_mobile_network_using_positive">Continua</string>
     <string name="vp_mobile_network_using_negative">Annulla</string>
     <string name="vp_player_plugin_dlg_neg_btn">Chiudi</string>
-    <string name="vp_player_plugin_dlg_title">Plugin Video player</string>
-    <string name="vp_player_plugin_dlg_no_content">Nessun plugin Video player</string>
+    <string name="vp_player_plugin_dlg_title">Plugin lettore video</string>
+    <string name="vp_player_plugin_dlg_no_content">Nessun plugin lettore video</string>
     <string name="vp_download_apk_from_video_ad">"Installa l'applicazione"</string>
     <string name="vp_app_download">"Scarica l'applicazione"</string>
     <string name="vp_select_tv">Canali</string>
@@ -337,8 +337,8 @@
     <string name="development_setting">Impostazioni di Sviluppo</string>
     <string name="develop_version">Sviluppo applicazione</string>
     <string name="receive_develop_summary">"Ricevi aggiornamenti dell'applicazione quando è disponibile una nuova versione"</string>
-    <string name="player_plugin_title">Video player plugin</string>
-    <string name="player_plugin_des">Mostra i plugin disponibili per il video player</string>
+    <string name="player_plugin_title">Plugin lettore video</string>
+    <string name="player_plugin_des">Mostra i plugin disponibili per il lettore video</string>
     <string name="no_sdcard_no_download">Spazio insufficiente, impossibile eseguire il download.</string>
     <string name="offline_loaded">Video offline</string>
     <string name="storage_remain">"Disponibile: "</string>
@@ -440,8 +440,8 @@
     <string name="releasetorefresh">Rilascia per aggiornare</string>
     <string name="refreshing">Caricamento…</string>
     <string name="lastrefresh">Ultimo aggiornamento:</string>
-    <string name="version_select">Selezione versione</string>
-    <string name="version_select_summary">Seleziona versione Alpha, Developer o Stabile</string>
+    <string name="version_select">Selezione versione </string>
+    <string name="version_select_summary">Seleziona quale versione usare</string>
     <string name="app_update_background">Aggiorna app in background.</string>
     <string name="router_update">"Devi aggiornare l'app del Router Xiaomi."</string>
     <string name="downloading_app_plugin">Download in corso %1$s…</string>

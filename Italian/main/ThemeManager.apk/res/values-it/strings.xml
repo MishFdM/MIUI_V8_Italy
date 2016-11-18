@@ -18,7 +18,7 @@
     <string name="description_size">Dimensione:</string>
     <string name="description_uploadtime">Data:</string>
     <string name="description_download">Download:</string>
-    <string name="description_version">Versione:</string>
+    <string name="description_version">Versione: </string>
     <string name="description_summary">Descrizione:</string>
     <string name="description_version_szie">Versione: %1$s Dimensione: %2$s</string>
     <string name="resource_selected">In evidenza</string>

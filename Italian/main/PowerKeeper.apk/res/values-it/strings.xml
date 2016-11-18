@@ -93,8 +93,8 @@
     <string name="power_config_location_summary">"Consenti all'applicazione di rilevare la posizione GPS del dispositivo"</string>
     <string name="power_config_idle_notification_title">Mostra solo la prima notifica</string>
     <string name="power_config_idle_notification_summary">Mostra solo la prima notifica delle applicazioni</string>
-    <string name="power_config_keyguard_notification_title">Notifiche lockscreen</string>
-    <string name="power_config_keyguard_notification_summary">Consenti le notifiche nella lockscreen</string>
+    <string name="power_config_keyguard_notification_title">Notifiche schermata di blocco</string>
+    <string name="power_config_keyguard_notification_summary">Consenti le notifiche nella schermata di blocco</string>
     <string name="power_config_event_delete">Elimina</string>
     <string name="power_config_confirm_event_delete">Eliminare questa configurazione?</string>
     <string name="power_config_bg_data_delay_time_title">Limita i dati in background</string>

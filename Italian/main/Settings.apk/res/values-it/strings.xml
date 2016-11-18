@@ -723,7 +723,7 @@ Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare i
     <string name="wifi_menu_advanced">Avanzate</string>
     <string name="wifi_menu_connect">Connetti alla rete</string>
     <string name="wifi_menu_remember">Ricorda network</string>
-    <string name="wifi_menu_forget">Elimina rete</string>
+    <string name="wifi_menu_forget">Elimina</string>
     <string name="wifi_menu_modify">Modifica rete</string>
     <string name="wifi_menu_write_to_nfc">Crea un tag NFC</string>
     <string name="wifi_empty_list_wifi_off">Per visualizzare le reti disponibili, attiva il Wi-Fi.</string>
@@ -1278,8 +1278,10 @@ Ci sono altri utenti presenti su questo dispositivo.
 Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i dati dell'"<b>archivio USB</b>.</string>
     <string name="erase_external_storage">Formatta archivio USB</string>
     <string name="erase_external_storage_description">"Elimina tutti i dati nell'archivio USB interno come musica o foto"</string>
-    <string name="master_clear_button_text">Reimposta dispositivo</string>
+    <string name="master_clear_button_text">Resetta dispositivo</string>
     <string name="master_clear_final_desc">"Eliminare tutti i dati personali e le applicazioni scaricate? Quest'azione è irreversibile."</string>
+	 <string name="master_clear_gesture_prompt">Traccia sequenza di sblocco</string>
+	 <string name="master_clear_gesture_explanation">Traccia la sequenza di sblocco per effettuare il ripristino ai dati di fabbrica.</string>
     <string name="master_clear_final_button_text">Elimina tutto</string>
     <string name="master_clear_failed">Nessun ripristino eseguito perché il servizio System Clear non è disponibile.</string>
     <string name="master_clear_confirm_title">Ripristinare?</string>
@@ -1669,7 +1671,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="bugreport_in_power">Segnalazioni di bug nel menu di accensione</string>
     <string name="bugreport_in_power_summary">Includi opzione per aprire una segnalazione bug nel menu di accensione</string>
     <string name="keep_screen_on">Rimani attivo</string>
-    <string name="keep_screen_on_summary">Lo schermo non va mai in stand-by se sotto carica</string>
+    <string name="keep_screen_on_summary">Lo schermo non va mai in sospensione se il dispositivo è in carica</string>
     <string name="bt_hci_snoop_log">Attiva log di esame HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Acquisisci tutti i pacchetti HCI Bluetooth in un file</string>
     <string name="oem_unlock_enable">Abilita sblocco OEM</string>
@@ -1683,7 +1685,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="mock_location_app_set">App posizioni fittizie: %1$s</string>
     <string name="debug_view_attributes">Abilita visualizzazione ispezione attributi</string>
     <string name="debug_networking_category">Rete</string>
-    <string name="wifi_display_certification">Certificazione Display wireless</string>
+    <string name="wifi_display_certification">Certificazione display wireless</string>
     <string name="wifi_verbose_logging">Abilita Logging verbose Wi-Fi</string>
     <string name="wifi_aggressive_handover">Aggressivo handover Wi-Fi a rete cellulare</string>
     <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi-Fi Roam Scans</string>
@@ -1705,7 +1707,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
     <string name="dev_settings_warning_message">"Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso."</string>
     <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
-    <string name="verify_apps_over_usb_summary">Controlla che le applicazioni installate tramite ADB/ADT non abbiano un comportamento dannoso.</string>
+    <string name="verify_apps_over_usb_summary">Controlla che le applicazioni installate tramite ADB/ADT non abbiano un comportamento dannoso</string>
     <string name="enforce_read_external_title">Proteggi archivio USB</string>
     <string name="enforce_read_external_summary">"Le app devono richiedere l'autorizzazione per leggere l'archivio USB"</string>
     <string name="enforce_read_external_confirm_title">"Proteggere l'archivio USB?"</string>
@@ -3675,11 +3677,11 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="timezone_settings">Fuso orario</string>
     <string name="security_privacy_settings_title">Privacy</string>
     <string name="nearby_wifi">Reti disponibili</string>
-    <string name="delete_saved_network">Elimina la rete salvata</string>
+    <string name="delete_saved_network">Eliminazione reti salvate</string>
     <string name="batch_delete_saved_network">Eliminare la rete salvata: %s?</string>
-    <string name="batch_delete_saved_networks">Elimina tutte le reti se</string>
-    <string name="unlock_set_enter_system">Salta Schermata di blocco</string>
-    <string name="unlock_set_enter_system_summary">Vai direttamente alla Schermata Home dopo lo sblocco</string>
+    <string name="batch_delete_saved_networks">Eliminare le reti selezionate?</string>
+    <string name="unlock_set_enter_system">Salta schermata di blocco</string>
+    <string name="unlock_set_enter_system_summary">Vai direttamente alla schermata Home dopo lo sblocco</string>
     <string name="forget_wifi_message">Il tuo dispositivo non si connetterà più a questa rete automaticamente.</string>
     <string name="button_disconnect_network">Disconnesso dalla rete</string>
     <string name="no_nearby_wifi">Nessuna rete rilevata</string>
@@ -4594,7 +4596,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="bootloader_apply_step_4">"Potrebbe comportare la diffusione o la perdita dei dati, o anche danni irreparabili all'hardware."</string>
     <string name="bootloader_apply_step_5">Assicurati di sapere come usare la modalità Fastboot prima di attivarla.</string>
     <string name="usb_install_app">Installa tramite USB</string>
-    <string name="usb_install_app_desc">Consenti installazione USB</string>
+    <string name="usb_install_app_desc">Consenti installazione app tramite USB</string>
     <string name="usb_adb_input">Debug USB (Impostazioni di sicurezza)</string>
     <string name="usb_adb_input_desc">Consenti permessi e simulazione input tramite debug USB</string>
     <string name="bootloader_status">Stato Mi Unlock</string>
