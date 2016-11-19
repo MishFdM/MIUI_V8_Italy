@@ -660,7 +660,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="quick_optimize_no_issue_title">Impossibile trovare i problemi batteria</string>
     <string name="quick_optimize_no_issue_subtitle">Tutto sembra in buono stato</string>
     <string name="quick_optimize_no_issue">Nessun problema batteria rilevato</string>
-    <string name="quick_optimize_sub_summary_text">Aggiunto %s di vita alla batteria</string>
+    <string name="quick_optimize_sub_summary_text">Aggiunti %sdi vita alla batteria</string>
     <string name="quick_optimize_checking">Scansione</string>
     <string name="btn_text_optimize_now">Ottimizza</string>
     <string name="btn_text_optimize_manually">Ottimizza manualmente</string>
