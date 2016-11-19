@@ -3310,10 +3310,10 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_slot_status_title">IMEI</string>
     <string name="search_micloud">Sincronizza;Mi Clound</string>
     <string name="networks_title">Reti cellulari</string>
-    <string name="path_network_settings">Impostazioni/SIM e rete mobile</string>
-    <string name="path_apn_settings">Impostazioni/SIM e rete mobile/SIM/Nomi punti di accesso</string>
-    <string name="path_preferred_network_type_settings">Impostazioni/SIM e rete mobile/Tipologia di rete preferita</string>
-    <string name="path_networks_title">Impostazioni/SIM e rete mobile/Operatori di rete</string>
+    <string name="path_network_settings">Impostazioni/SIM e reti mobili</string>
+    <string name="path_apn_settings">Impostazioni/SIM e reti mobili/SIM/Nomi punti di accesso</string>
+    <string name="path_preferred_network_type_settings">Impostazioni/SIM e reti mobili/Tipologia di rete preferita</string>
+    <string name="path_networks_title">Impostazioni/SIM e reti mobili/Operatori di rete</string>
     <string name="path_wifi_settings">Impostazioni/Wi-Fi</string>
     <string name="path_wifi_enable">Impostazioni/Wi-Fi/Attiva Wi-Fi</string>
     <string name="path_advanced_settings">Impostazioni/Wi-Fi/Impostazioni aggiuntive</string>
@@ -4032,7 +4032,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
  per lo Spazio Secondario"</string>
     <string name="cancel_alert">Annullare le modifiche?</string>
     <string name="android_beam_witch_label">Attiva Android Beam</string>
-    <string name="sim_management_title">SIM e rete mobile</string>
+    <string name="sim_management_title">SIM e reti mobili</string>
     <string name="sim_radio_off">Non attivato</string>
     <string name="slot_status_title">Informazione IMEI</string>
     <string name="next_button_label">Avanti</string>

@@ -7,9 +7,9 @@
     <string name="lockscreen_charging_msg">In carica</string>
     <string name="emergency_call_string">Emergenza</string>
     <string name="forget_password_string">Pwd dimenticata</string>
-    <string name="input_puk_code">Ins.il PUK</string>
+    <string name="input_puk_code">Ins. PUK</string>
     <string name="unlocking_sim_card">Sblocco carta SIM</string>
-    <string name="input_pin_code">Ins.il PIN</string>
+    <string name="input_pin_code">Ins. PIN</string>
     <string name="incorrect_pukcode_remaining_attempts">Codice PUK errato, hai ancora %d tentativi</string>
     <string name="incorrect_pincode_remaining_attempts">Codice PIN errato, hai ancora %d tentativi</string>
     <string name="incorrect_pukcode">Codice PUK errato</string>
