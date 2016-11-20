@@ -81,9 +81,9 @@
     <string name="install_failed_msg">Impossibile installare %1$s sul dispositivo.</string>
     <string name="launch">Apri</string>
     <string name="unknown_apps_dlg_title">Blocca installazioni</string>
-    <string name="unknown_apps_dlg_text">Il tuo dispositivo è bloccato per installare applicazioni sconosciute. Puoi disattivare questa funzione dalle Impostazioni.</string>
-    <string name="unknown_apps_dlg_text1">"Il tuo dispositivo è bloccato per installare applicazioni sconosciute. Puoi disattivare questa funzione dalle "</string>
-    <string name="unknown_apps_dlg_text2">\"Impostazioni\"</string>
+    <string name="unknown_apps_dlg_text">"Il tuo dispositivo impedisce l'installazione di applicazioni provenienti da fonti sconosciute. Puoi disattivare questa funzione dalle Impostazioni"</string>
+    <string name="unknown_apps_dlg_text1">"Il tuo dispositivo impedisce l'installazione di applicazioni provenienti da fonti sconosciute. Puoi disattivare questa funzione dalle "</string>
+    <string name="unknown_apps_dlg_text2">Impostazioni</string>
     <string name="unknown_apps_dlg_text3">.</string>
     <string name="ok">OK</string>
     <string name="settings">Impostazioni</string>

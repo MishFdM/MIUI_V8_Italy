@@ -168,7 +168,7 @@ questa funzione verrà aggiunta automaticamente allo spazio Secondario."</string
     <string name="setting_is_show_text_contacts">Configura i contatti e i messaggi privati</string>
     <string name="switch_data_app">Sposta gli elementi nello spazio Secondario</string>
     <string name="guide_pwd_detail_title">"Proteggi i tuoi dati
-Accedi allo spazio Secondario dalla lockscreen"</string>
+Accedi allo spazio Secondario dalla schermata di blocco"</string>
     <string name="temporary_no_set">Non adesso</string>
     <string name="set_space_pwd_suc">Aggiunta password per lo spazio Secondario</string>
     <string name="set_space_pwd_detail">Puoi accedere allo spazio Secondario utilizzando la password</string>
@@ -177,12 +177,12 @@ Accedi allo spazio Secondario dalla lockscreen"</string>
     <string name="import_now">Importa</string>
     <string name="dont_import">Non adesso</string>
     <string name="go_on_import">Continua importazione</string>
-    <string name="complete_setting_title">"E' tutto impostato!"</string>
+    <string name="complete_setting_title">"È tutto impostato!"</string>
     <string name="complete_setting_sub_title">Puoi modificare le impostazioni successivamente.</string>
     <string name="import_contacts">Importa contatti</string>
     <string name="import_photo">Importa foto</string>
     <string name="import_contacts_desc">Rendi privati i contatti importati</string>
-    <string name="import_photo_desc">VMostra gli elementi condivisi con lo spazio Secondario</string>
+    <string name="import_photo_desc">Mostra gli elementi condivisi con lo spazio Secondario</string>
     <string name="import_application">Importa app</string>
     <string name="import_application_desc">"Importa applicazioni nello spazio Secondario.
 Puoi anche scaricarli separatamente"</string>
@@ -202,10 +202,10 @@ I messaggi saranno visibili solo nello spazio Secondario."</string>
     <string name="show_private_msg">MOstra i messaggi privati</string>
     <string name="contact_titile_text">"Mostra i messaggi privati nello spazio Secondario
 per essere in grado di vederli sempre"</string>
-    <string name="contact_sub_titile_text">I dati dei messaggi verranno condivisi dai due spazi</string>
+    <string name="contact_sub_titile_text">I dati dei messaggi verranno condivisi tra i due spazi</string>
     <string name="show_private_msg_summary">Visualizza i messaggi privati nello spazio Secondario</string>
     <string name="private_sms_show_title">I messaggi privati verranno visualizzati nello spazio Secondario</string>
-    <string name="private_sms_show_sub_title">I dati dei messaggi verranno condivisi dai due spazi​</string>
+    <string name="private_sms_show_sub_title">I dati dei messaggi verranno condivisi tra i due spazi​</string>
     <string name="restore_normal_show">Non mostrare messaggi privati</string>
     <string name="restore_show_desc">Non mostrare i messaggi privati sullo Spazio Secondario. Saranno ancora disponibili nello Spazio Primario.</string>
     <string name="confirm_restore">Non mostrare</string>
@@ -221,7 +221,7 @@ per essere in grado di vederli sempre"</string>
     <string name="finger_print_num">Impronta %d</string>
     <string name="add_finger_print">Aggiungi impronta</string>
     <string name="please_diff_finger_print">Assicurati che le impronte per gli spazi Primario e Secondario siano diverse.
-Altrimenti potresti non essere in gradi di accedere allo spazio Secondario dalla lockscreen."</string>
+Altrimenti potresti non essere in grado di accedere allo spazio Secondario dalla schermata di blocco."</string>
     <string name="start_input_finger_print">Aggiungi impronta</string>
     <string name="need_set_second_space_pwd_first">Imposta prima la password del Spazio Secondario</string>
     <string name="need_set_second_space_desc">"Aggiungi una password prima di inserire l'impronta digitale sul Spazio Secondario"</string>
@@ -229,7 +229,7 @@ Altrimenti potresti non essere in gradi di accedere allo spazio Secondario dalla
     <string name="start_new_fingerprint">Aggiungi una nuova impronta</string>
     <string name="select_existed_fingerprint">Seleziona impronta</string>
     <string name="start_new_fingerprint_tips">"Utilizza l'impronta per lo spazio Secondario
-per accedere dalla lockscreen"</string>
+per accedere dalla schermata di blocco"</string>
     <string name="scanner_second_space_fingerprint">Scansiona impronta per lo spazio Secondario</string>
     <string name="repeat_scanner_fingerprint">Aggiungi ancora</string>
     <string name="sure_to_use">Conferma</string>
@@ -243,8 +243,8 @@ per accedere dalla lockscreen"</string>
     <string name="delete_fingerprint">Elimina impronta</string>
     <string name="delete_fingerprint_desc">"L'impronta dello spazio Secondario verrà eliminata insieme alla password"</string>
     <string name="fingerprint_removal_failed">"Impossibile eliminare l'impronta"</string>
-    <string name="notification_recommend_title">12 app top per lo spazio Secondario</string>
+    <string name="notification_recommend_title">12 ottime app per lo spazio Secondario</string>
     <string name="scanner_fingerprint">Scansione impronta…</string>
-    <string name="scanner_fingerprint_enter_second">"Scansiona l'impronta per lo spazio Secondario
-per accedere Second space dalla lockscreen"</string>
+    <string name="scanner_fingerprint_enter_second">"Scansiona l'impronta dello spazio Secondario
+per accedervi dalla schermata di blocco"</string>
 </resources>
