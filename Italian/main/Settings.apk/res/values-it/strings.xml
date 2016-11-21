@@ -1050,7 +1050,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_media_usage">Supporti</string>
     <string name="memory_downloads_usage">Download</string>
     <string name="memory_dcim_usage">Foto, video</string>
-    <string name="memory_music_usage">Audio (musica, suonerie, podcast)</string>
+    <string name="memory_music_usage">Audio (musica, suonerie, podcast…)</string>
     <string name="memory_media_misc_usage">Vari</string>
     <string name="memory_media_cache_usage">Dati memorizzati nella cache</string>
     <string name="sd_eject">Smonta archivio condiviso</string>
@@ -1431,7 +1431,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="applications_settings_header">Impostazioni applicazioni</string>
     <string name="install_applications">Origini sconosciute</string>
     <string name="install_applications_title">Consenti tutte le sorgenti delle app</string>
-    <string name="install_unknown_applications_title">Consente di installare le applicazioni da fonti diverse Google Play</string>
+    <string name="install_unknown_applications_title">Permetti l'installazione di app non provenienti da Google Play</string>
     <string name="install_unknown_applications">"Consenti l'installazione di app provenienti da fonti sconosciute"</string>
     <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app provenienti da fonti sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
     <string name="advanced_settings">Impostazioni avanzate</string>
@@ -3410,7 +3410,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="path_dndm_auto_button_title">Impostazioni/Non disturbare/Fascia oraria</string>
     <string name="path_dndm_alarm_content">Impostazioni/Non disturbare/Eccezioni</string>
     <string name="path_dndm_repeated_call_setting_title">Impostazioni/Non disturbare/Chiamate ripetute</string>
-    <string name="path_children_mode_settings">Impostazioni/Impostazioni aggiuntive/Modalità genitore</string>
+    <string name="path_children_mode_settings">Impostazioni/Impostazioni aggiuntive/Modalità Genitore</string>
     <string name="path_oldman_mode">Impostazioni/Modalità semplificata</string>
     <string name="path_edge_handgrip">Impostazioni/Controlli laterali</string>
     <string name="path_other_advanced_settings">Impostazioni/Impostazioni aggiuntive</string>
@@ -4464,7 +4464,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="children_mode_title">Modalità Genitore</string>
     <string name="children_mode_tips_on">Dopo aver disattivato la modalità Genitore, tocca il tasto Home per tornare alla Home</string>
     <string name="children_mode_tips_off">Dopo aver attivato la modalità Genitore, tocca il tasto Home per tornare alla Home</string>
-    <string name="children_mode_enable_title">Modalità genitore</string>
+    <string name="children_mode_enable_title">Modalità Genitore</string>
     <string name="children_mode_set_apps_title">Applicazioni accessibili</string>
     <string name="set_password_title">Imposta password</string>
     <string name="set_password_message">Imposta una password per disattivare la modalità Genitore e per lo sblocco del dispositivo</string>

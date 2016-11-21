@@ -723,7 +723,7 @@ Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare i
     <string name="wifi_menu_advanced">Avanzate</string>
     <string name="wifi_menu_connect">Connetti alla rete</string>
     <string name="wifi_menu_remember">Ricorda network</string>
-    <string name="wifi_menu_forget">Elimina rete</string>
+    <string name="wifi_menu_forget">Elimina</string>
     <string name="wifi_menu_modify">Modifica rete</string>
     <string name="wifi_menu_write_to_nfc">Crea un tag NFC</string>
     <string name="wifi_empty_list_wifi_off">Per visualizzare le reti disponibili, attiva il Wi-Fi.</string>
@@ -1050,11 +1050,11 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_media_usage">Supporti</string>
     <string name="memory_downloads_usage">Download</string>
     <string name="memory_dcim_usage">Foto, video</string>
-    <string name="memory_music_usage">Audio (musica, suonerie, podcast e così via)</string>
+    <string name="memory_music_usage">Audio (musica, suonerie, podcast…)</string>
     <string name="memory_media_misc_usage">Vari</string>
     <string name="memory_media_cache_usage">Dati memorizzati nella cache</string>
-    <string name="sd_eject">Disattiva archivio condiviso</string>
-    <string name="sd_eject_summary">Disattiva scheda SD</string>
+    <string name="sd_eject">Smonta archivio condiviso</string>
+    <string name="sd_eject_summary">Smonta scheda SD</string>
     <string name="sd_insert_summary">Inserisci scheda SD</string>
     <string name="sd_mount">Monta scheda SD</string>
     <string name="sd_mount_summary"/>
@@ -1063,8 +1063,8 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_clear_cache_title">Eliminare i dati memorizzati nella cache?</string>
     <string name="memory_clear_cache_message">Saranno eliminati tutti i dati delle app nella cache.</string>
     <string name="mtp_ptp_mode_summary">La funzione MTP o PTP è attiva</string>
-    <string name="dlg_confirm_unmount_title">"Disattivare l'archivio USB?"</string>
-    <string name="dlg_confirm_unmount_text">"Se disattivi l'archivio USB, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai l'archivio USB."</string>
+    <string name="dlg_confirm_unmount_title">Smontare la scheda SD?</string>
+    <string name="dlg_confirm_unmount_text">Se smonti la scheda SD, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai la scheda SD.</string>
     <string name="dlg_error_unmount_title"/>
     <string name="dlg_error_unmount_text">"Impossibile disattivare l'archivio USB. Riprova più tardi."</string>
     <string name="unmount_inform_text">"L'archivio USB verrà disattivato."</string>
@@ -1278,8 +1278,10 @@ Ci sono altri utenti presenti su questo dispositivo.
 Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i dati dell'"<b>archivio USB</b>.</string>
     <string name="erase_external_storage">Formatta archivio USB</string>
     <string name="erase_external_storage_description">"Elimina tutti i dati nell'archivio USB interno come musica o foto"</string>
-    <string name="master_clear_button_text">Reimposta dispositivo</string>
+    <string name="master_clear_button_text">Resetta dispositivo</string>
     <string name="master_clear_final_desc">"Eliminare tutti i dati personali e le applicazioni scaricate? Quest'azione è irreversibile."</string>
+	 <string name="master_clear_gesture_prompt">Traccia sequenza di sblocco</string>
+	 <string name="master_clear_gesture_explanation">Traccia la sequenza di sblocco per effettuare il ripristino ai dati di fabbrica.</string>
     <string name="master_clear_final_button_text">Elimina tutto</string>
     <string name="master_clear_failed">Nessun ripristino eseguito perché il servizio System Clear non è disponibile.</string>
     <string name="master_clear_confirm_title">Ripristinare?</string>
@@ -1339,8 +1341,8 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_high_battery_use">Elevato utilizzo della batteria</string>
     <string name="location_low_battery_use">Basso utilizzo della batteria</string>
     <string name="location_mode_screen_title">Modalità di geolocalizzazione</string>
-    <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e Cellulare per stabilire la posizione</string>
-    <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e Cellulare per stabilire la posizione</string>
+    <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e cellulare per stabilire la posizione</string>
+    <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e cellulare per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
     <string name="location_menu_scanning">Scansione</string>
     <string name="location_scanning_screen_title">Scansione</string>
@@ -1359,7 +1361,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="use_location_title">Posizione e ricerca Google</string>
     <string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
     <string name="location_access_title">Accesso alla posizione</string>
-    <string name="location_access_summary">Consenti alle applicazioni che hanno chiesto la tua autorizzazione di utilizzare le informazioni sulla tua posizione</string>
+    <string name="location_access_summary">Consenti alle applicazioni di utilizzare le informazioni sulla tua posizione</string>
     <string name="location_sources_heading">Fonti di geolocalizzazione</string>
     <string name="about_settings">Informazioni sul dispositivo</string>
     <string name="about_settings_summary">Visualizza informazioni legali, stato, versione del software</string>
@@ -1429,8 +1431,8 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="applications_settings_header">Impostazioni applicazioni</string>
     <string name="install_applications">Origini sconosciute</string>
     <string name="install_applications_title">Consenti tutte le sorgenti delle app</string>
-    <string name="install_unknown_applications_title">Consente di installare le applicazioni da fonti diverse Google Play</string>
-    <string name="install_unknown_applications">"Consenti l'installazione di applicazioni da fonti sconosciute"</string>
+    <string name="install_unknown_applications_title">Permetti l'installazione di app non provenienti da Google Play</string>
+    <string name="install_unknown_applications">"Consenti l'installazione di app provenienti da fonti sconosciute"</string>
     <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app con origini sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
     <string name="advanced_settings">Impostazioni avanzate</string>
     <string name="advanced_settings_summary">Attiva altre impostazioni</string>
@@ -1669,7 +1671,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="bugreport_in_power">Segnalazioni di bug nel menu di accensione</string>
     <string name="bugreport_in_power_summary">Includi opzione per aprire una segnalazione bug nel menu di accensione</string>
     <string name="keep_screen_on">Rimani attivo</string>
-    <string name="keep_screen_on_summary">Lo schermo non va mai in stand-by se sotto carica</string>
+    <string name="keep_screen_on_summary">Lo schermo non va mai in sospensione se il dispositivo è in carica</string>
     <string name="bt_hci_snoop_log">Attiva log di esame HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Acquisisci tutti i pacchetti HCI Bluetooth in un file</string>
     <string name="oem_unlock_enable">Abilita sblocco OEM</string>
@@ -1683,7 +1685,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="mock_location_app_set">App posizioni fittizie: %1$s</string>
     <string name="debug_view_attributes">Abilita visualizzazione ispezione attributi</string>
     <string name="debug_networking_category">Rete</string>
-    <string name="wifi_display_certification">Certificazione Display wireless</string>
+    <string name="wifi_display_certification">Certificazione display wireless</string>
     <string name="wifi_verbose_logging">Abilita Logging verbose Wi-Fi</string>
     <string name="wifi_aggressive_handover">Aggressivo handover Wi-Fi a rete cellulare</string>
     <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi-Fi Roam Scans</string>
@@ -1705,7 +1707,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
     <string name="dev_settings_warning_message">"Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso."</string>
     <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
-    <string name="verify_apps_over_usb_summary">Controlla che le applicazioni installate tramite ADB/ADT non abbiano un comportamento dannoso.</string>
+    <string name="verify_apps_over_usb_summary">Controlla che le applicazioni installate tramite ADB/ADT non abbiano un comportamento dannoso</string>
     <string name="enforce_read_external_title">Proteggi archivio USB</string>
     <string name="enforce_read_external_summary">"Le app devono richiedere l'autorizzazione per leggere l'archivio USB"</string>
     <string name="enforce_read_external_confirm_title">"Proteggere l'archivio USB?"</string>
@@ -1739,7 +1741,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_display_title">Display</string>
     <string name="accessibility_captioning_title">Sottotitoli</string>
     <string name="accessibility_screen_magnification_title">Gesti di ingrandimento</string>
-    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.\n\nDopo avere aumentato lo zoom puoi:\n"<ul><li>"Eseguire una panoramica: trascina due o più dita sullo schermo."</li>\n<li>"Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale."</li></ul>\n\n"Puoi anche ingrandire temporaneamente l\'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.\n\nNota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
+    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.\n\nDopo avere aumentato lo zoom puoi:\n<ul><li>Eseguire una panoramica: trascina due o più dita sullo schermo.</li>\n<li>Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale.</li></ul>\n\nPuoi anche ingrandire temporaneamente l\'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.\n\nNota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
     <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
     <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
     <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>

@@ -744,7 +744,7 @@
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Memoria interna</item>
-        <item>Scheda SD</item>
+        <item>Memoria esterna</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Molto lento</item>
@@ -937,7 +937,7 @@
     <string-array name="common_password_business_names">
         <item>Schermata di blocco</item>
         <item>Protezione privacy</item>
-        <item>Modalità genitore</item>
+        <item>Modalità Genitore</item>
         <item>File explorer</item>
         <item>Blocco applicazioni</item>
         <item>Spazio Secondario</item>

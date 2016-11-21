@@ -1002,7 +1002,7 @@ Vuoi chiuderla?"</string>
     <string name="usb_ptp_notification_title">Collegato come fotocamera</string>
     <string name="usb_midi_notification_title">USB for MIDI</string>
     <string name="usb_accessory_notification_title">Collegato a un accessorio USB</string>
-    <string name="usb_notification_message">Tocca per altre opzioni USB.</string>
+    <string name="usb_notification_message">Tocca per altre opzioni USB</string>
     <string name="adb_active_notification_title">Debug USB collegato</string>
     <string name="adb_active_notification_message">Tocca per disattivare il debug USB.</string>
     <string name="locale_replacement"/>
