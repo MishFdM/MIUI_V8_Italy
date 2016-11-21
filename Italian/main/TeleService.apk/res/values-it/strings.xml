@@ -8,7 +8,7 @@ Ricarica e inizia a chiamare"</string>
     <string name="livetalk_manual">Manuale Operazioni</string>
     <string name="enable_button_text">Avanti</string>
     <string name="livetalk_provision">Termini del Servizio</string>
-    <string name="livetalk_provision_content">Devi accettare %1$s per utilizzare il pacchetto di ricarica. Per utilizzare questo servizio devi essere collegato ad Internet. AVerrà inviato un SMS per attivar eil servizio. Consentire?</string>
+    <string name="livetalk_provision_content">Devi accettare %1$s per utilizzare il pacchetto di ricarica. Per utilizzare questo servizio devi essere collegato ad Internet. Verrà inviato un SMS per attivar eil servizio. Consentire?</string>
     <string name="livetalk_enable_switch">Utilizza pacchetto di ricarica</string>
     <string name="remain_mins_unit">min</string>
     <string name="remain_mins_unit_plural">minuti</string>
@@ -104,9 +104,9 @@ Vuoi utilizzarlo per i pacchetti di ricarica?"</string>
     <string name="confirm">Confirm</string>
     <string name="cancel">Annulla</string>
     <string name="please_enter_phone_number">Inserisci il numero di telefono</string>
-    <string name="propmpt_dialog_do_not_ask">DNon mostrare più</string>
+    <string name="propmpt_dialog_do_not_ask">Non mostrare più</string>
     <string name="propmpt_dialog_not_activate_sim_title">Il numero di telefono non è verificato</string>
-    <string name="propmpt_dialog_not_activate_sim_content">VErifica il tuo numero per iniziare ad utilizzar eil pacchetto di ricarica. Puoi continuare ad effettuare le chiamate al nosrmale costo previsto dal tuo operatore.</string>
+    <string name="propmpt_dialog_not_activate_sim_content">Verifica il tuo numero per iniziare ad utilizzar eil pacchetto di ricarica. Puoi continuare ad effettuare le chiamate al nosrmale costo previsto dal tuo operatore.</string>
     <string name="dialog_call_ordinary_telephone">Usa la SIM</string>
     <string name="dialog_activate_livetalk">Verifica</string>
     <string name="propmpt_dialog_network_failed_title">Chiamata scaduta</string>
@@ -484,7 +484,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Modalità di rete preferita: TD-SCDMA/GSM/WCDMA</string>
     <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Modalità di rete preferita: TD-SCDMA/WCDMA/LTE</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Modalità di rete preferita: TD-SCDMA/GSM/WCDMA/LTE</string>
-    <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_summary">MOdalità rete preferita: TD-SCDMA/GSM/WCDMA/CDMA/EvDo</string>
+    <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_summary">Modalità rete preferita: TD-SCDMA/GSM/WCDMA/CDMA/EvDo</string>
     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
     <string name="enhanced_4g_lte_mode_title">Modalità 4G LTE avanzata</string>
     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (raccomandato)</string>

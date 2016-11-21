@@ -295,7 +295,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_check_sim_notify_text">"Sembra che tu abbia cambiato SIM. Accedi
 al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_setting_contact_summary">Informazioni contatto e foto profilo</string>
-    <string name="micloud_setting_sms_summary">Messaggi SMS e MMS</string>
+    <string name="micloud_setting_sms_summary">SMS e MMS</string>
     <string name="micloud_setting_gallery_summary">Foto e video</string>
     <string name="micloud_setting_browser_summary">Segnalibri, cronologia e schede</string>
     <string name="micloud_setting_music_summary">Playlist e preferiti</string>
@@ -438,7 +438,7 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_notif_content_sync_finish">Account</string>
     <string name="micloud_notif_title_sync_not_finish">Non sincronizzato</string>
     <string name="micloud_notif_content_sync_not_finish">Dettagli</string>
-    <string name="micloud_notif_title_clipboard_push">COntenuto copiato negli appunti</string>
+    <string name="micloud_notif_title_clipboard_push">Contenuto copiato negli appunti</string>
     <string name="micloud_notif_content_clipboard_push">Puoi incollarlo ovunque.</string>
     <string name="micloud_notif_title_multi_user_error">Impossibile sincronizzare con Mi Cloud</string>
     <string name="micloud_notif_content_multi_user_error">"Hai effettuato l'accesso con lo stesso account dello spazio originario."</string>

@@ -548,7 +548,7 @@
     <string name="user_setting_followed_msg">Notifiche da chi ti segue</string>
     <string name="user_setting_followed_msg_tip">Ricevi notifiche quanto altre personeiniziano a seguirti</string>
     <string name="user_setting_play_num">Notifiche sulle visite</string>
-    <string name="user_setting_play_num_tip">RIcevi notifiche sul numero di visitatori per i tuoi video</string>
+    <string name="user_setting_play_num_tip">Ricevi notifiche sul numero di visitatori per i tuoi video</string>
     <string name="user_setting_hot_comment">Notifiche sui commenti in evidenza</string>
     <string name="user_setting_hot_comment_tip">Ricevi notifiche quando i tuoi commenti vengono evidenziati</string>
     <string name="user_setting_video_has_hot_comment">Notifiche per commenti popolari</string>

@@ -237,7 +237,7 @@
     <string name="mipub_message_block_already">Tu hai impostato di non ricevere sempre i messaggi</string>
     <string name="message_block_processing">In elaborazione</string>
     <string name="message_block_reminder">Promemoria</string>
-    <string name="message_block_confirmation">COnfermi di non voler ricevere messaggi?</string>
+    <string name="message_block_confirmation">Confermi di non voler ricevere messaggi?</string>
     <string name="current_service_number">numero servizio attuale</string>
     <string name="menu_more_service">Altro</string>
     <string name="app_name">com.miui.mipub</string>

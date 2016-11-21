@@ -67,7 +67,7 @@
     <string name="send_to_midrive_failed">Questo tipo di file non è supportato.</string>
     <string name="pick_from_fileexplor_failed">Aggiorna prima Explorer.</string>
     <string name="no_tasks">Nessuna operazione</string>
-    <string name="no_app_found_to_open_file">NOn è stata trovata nessuna app per eseguire questa operazione.</string>
+    <string name="no_app_found_to_open_file">Non è stata trovata nessuna app per eseguire questa operazione.</string>
     <string name="empty_file_upload">I file vuoti non sono supportati.</string>
     <string name="empty_file_download">I file vuoti non sono supportati.</string>
     <string name="space_full">Spazio cloud insufficiente.</string>

@@ -357,7 +357,7 @@
     <string name="preferences_alerts_ringtone_title">Suoni</string>
     <string name="preferences_notification_ringtone_title">Suoni</string>
     <string name="pref_title_no_remind">Nessun avviso</string>
-    <string name="pref_title_notification_remind">Avviso tramite notifica</string>
+    <string name="pref_title_notification_remind">Avviso con notifica</string>
     <string name="pref_title_alert_remind">Avviso pop-up</string>
     <string name="pref_title_alarm_remind">Avviso sonoro</string>
     <string name="pref_error_no_ringtone_select">Nessuna selezione</string>

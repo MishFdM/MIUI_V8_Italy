@@ -59,7 +59,7 @@
     <string name="date_picker_dialog_other_button_label">Altro</string>
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="date_picker_dialog_clear">Cancella</string>
-    <string name="autofill_popup_content_description">MOstra popup riempimento automatico</string>
+    <string name="autofill_popup_content_description">Mostra popup riempimento automatico</string>
     <string name="password_generation_popup_content_description">Mostra popup generazione password</string>
     <string name="private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="license_activity_title">System WebView licenses</string>

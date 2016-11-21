@@ -33,9 +33,9 @@
     <string name="cloud_back_up_share_activity_title">Aggiorna Mi Account</string>
     <string name="cloud_back_up_share_activity_discription">Ottieni altro spazio di archiviazione, backup giornalieri ed altro.</string>
     <string name="cloud_back_up_share_activity_confirm">Aggiorna</string>
-    <string name="cloud_back_up_detail_discription">"Quando il dispositivo sarà connesso ad una rete Wi-Fi, verrà eseguito il backup di: 
-•\u0009\u0009\u0009\u0009 App, Layout schermata Home e sfondi 
-•\u0009\u0009\u0009\u0009 Sveglie, orologio e impostazioni ora 
+    <string name="cloud_back_up_detail_discription">"Quando il dispositivo sarà connesso ad una rete Wi-Fi, verrà eseguito il backup su Mi Cloud di: 
+•\u0009\u0009\u0009\u0009 App, layout schermata Home e sfondi 
+•\u0009\u0009\u0009\u0009 Sveglie, orologio e impostazioni orario 
 •\u0009\u0009\u0009\u0009 Impostazioni delle notifiche 
 •\u0009\u0009\u0009\u0009 MIUI e impostazioni di sistema 
 Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</string>

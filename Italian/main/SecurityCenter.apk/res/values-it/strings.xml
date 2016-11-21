@@ -545,7 +545,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="power_center_state_off">Disattivato</string>
     <string name="power_center_consume_time">%1$s rimanente</string>
     <string name="power_center_charge_time">Carica completata tra %1$s</string>
-    <string name="power_center_battery_full">Batteria caricata completamente\u0020</string>
+    <string name="power_center_battery_full">Batteria completamente carica\u0020</string>
     <string name="power_dialog_cancel">Annulla</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_consume_rank_title">Utilizzo batteria</string>
@@ -640,8 +640,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="deep_clean_memory_clean_title">Pulisci la cache a dispositivo bloccato</string>
     <string name="deep_clean_disconnect_data_title">Disattiva la connessione dati a dispositivo bloccato</string>
     <string name="btn_text_power_consume_suggest_optimize">Ottimizza</string>
-    <string name="power_analysis_consume_title">Consumo batteria</string>
-    <string name="power_analysis_suggestion_need_optimize">Problemi di consumo batteria rilevati.</string>
+    <string name="power_analysis_consume_title">Utilizzo batteria</string>
+    <string name="power_analysis_suggestion_need_optimize">Problemi di utilizzo batteria rilevati.</string>
     <string name="power_optimize_save_on_lockscreen">Salvaguarda i consumi quando il dispositivo è bloccato</string>
     <string name="power_optimize_close_app">Chiudi le app che consumano maggiormente</string>
     <string name="power_optimize_disable_app_autostart">Impedisci alle app di avviarsi automaticamente</string>
@@ -700,7 +700,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="app_check_reason_wakeup_alarm">Schermata di blocco attivata frequentemente</string>
     <string name="app_check_optimize_title">Ottimizza le attività di background</string>
     <string name="power_save_mode_enable">Risparmio batteria</string>
-    <string name="power_save_mode_summary" formatted="false">Monitora i processi in background, disattiva le sincronizzazioni e nascondi le animazioni di sistema. Il risparmio batteria verrà disattivato automaticamente quando carica della batteria sarà superiore al 60%.</string>
+    <string name="power_save_mode_summary" formatted="false">Monitora i processi in background, disattiva le sincronizzazioni e nascondi le animazioni di sistema. Il risparmio batteria verrà disattivato automaticamente quando la carica della batteria sarà al 60% o al 100%.</string>
     <string name="power_optimize_save_mode_not_opened">Risparmio batteria disattivo</string>
     <string name="notification_exit_power_save_mode">Disattiva il Risparmio batteria</string>
     <string name="notification_exit_power_save_mode_subtitle">Batteria ha %s di carica.</string>
@@ -800,7 +800,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="keywords_securitycenter">Sicurezza;Controllo;Scansiona</string>
     <string name="path_securitycenter">Applicazioni di sistema/Sicurezza</string>
     <string name="resource_cleanmaster">Pulizia</string>
-    <string name="keywords_cleanmaster">CEstino;Pulisci;Velocità;Memoria;Cache</string>
+    <string name="keywords_cleanmaster">Cestino;Pulisci;Velocità;Memoria;Cache</string>
     <string name="path_cleanmaster">Applicazioni di sistema/Sicurezza/Pulizia</string>
     <string name="resource_antivirus">Scansione virus</string>
     <string name="keywords_antivirus">Virus;Rischio;Antivirus;Scansione</string>
@@ -1535,7 +1535,7 @@ o inserisci la password"</string>
     <string name="sp_settings_check_item_summary_sign_exception">Gestisci le eccezioni firma</string>
     <string name="sp_button_text_ignore_alert_title">Ignorare questo elemento di controllo ?</string>
     <string name="sp_empty_title_sign_exception">"Tieni premuto l'elemento dell'app sulla pagina dei risultati per aggiungerlo alle eccezzioni"</string>
-    <string name="sp_toast_removed_from_sign_white_list">Rimosso dalle eccezioni. VErrà scansionatola prossima volta.</string>
+    <string name="sp_toast_removed_from_sign_white_list">Rimosso dalle eccezioni. La prossima volta verrà scansionato.</string>
     <string name="sp_settings_exception_count_zero">Nessun elemento</string>
     <string name="sp_monitored_apps_count_zero">"Nessuna applicazione per il pagamento è protetta"</string>
     <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>

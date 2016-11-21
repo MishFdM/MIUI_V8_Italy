@@ -67,9 +67,9 @@
     <string name="pref_title_manual_check_cleanup_db_update">Aggiorna ora</string>
     <string name="pref_category_title_garbage_cleanup_check">"Impostazioni di ottimizzazione"</string>
     <string name="pref_summary_garbage_cleanup_check_time">"Programma l'ottimizzazione"</string>
-    <string name="pref_title_garbage_cleanup_check_time">Programmazione</string>
+    <string name="pref_title_garbage_cleanup_check_time">Controlla cestino</string>
     <string name="pref_summary_garbage_cleanup_check_size">Pulisci automaticamente quando il cestino raggiunge una certa dimensione</string>
-    <string name="pref_title_garbage_cleanup_check_size">Dimensione massima cestino</string>
+    <string name="pref_title_garbage_cleanup_check_size">Dimensione per allarme cestino</string>
     <string name="pref_title_garbage_cleanup_size">Limite dimensione cestino</string>
     <string name="pref_title_apps_cleanup_size">Quando la cache raggiunge</string>
     <string name="pref_title_expand_cache_group">Espandi i gruppi della cache</string>
@@ -150,7 +150,7 @@
     <string name="toast_garbage_list_empty">Pulizia non necessaria.</string>
     <string name="hints_quick_cleanning">Pulizia…</string>
     <string name="hints_quick_prepare">Preparazione…</string>
-    <string name="start_downloading_app">Avvia download： %1$s</string>
+    <string name="start_downloading_app">Avvia download: %1$s</string>
     <string name="hints_finish_quick_scan">Scansione terminata</string>
     <string name="hints_finish_quick_cleanup">Pulizia terminata</string>
     <string name="hints_finish_quick_cleanup_title">Pulizia di %s dal cestino completata</string>
@@ -430,9 +430,9 @@
     <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
     <string name="deep_clean_normal_clean_progress_desc">%1$s file eliminati</string>
     <string name="deep_clean_data_path_clean_title">Memoria interna liberata</string>
-    <string name="btn_text_quick_cleanup_appdata">ELimina i dati selezionati %1$s</string>
+    <string name="btn_text_quick_cleanup_appdata">Elimina i dati selezionati %1$s</string>
     <string name="btn_text_quick_cleanup_large_file">Elimina i file selezionati %1$s</string>
-    <string name="btn_text_quick_cleanup_video">ELimina i video selezionati %1$s</string>
+    <string name="btn_text_quick_cleanup_video">Elimina i video selezionati %1$s</string>
     <string name="btn_text_quick_cleanup_apk">Elimina i pacchetti %1$s</string>
     <string name="deepclean_install_info_desc2">Elimina le applicazioni per liberare spazio</string>
     <string name="ad_install_success_dialog_title">%1$s installazioni completate. Aprire adesso?</string>
