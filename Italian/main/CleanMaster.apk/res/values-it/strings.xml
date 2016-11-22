@@ -101,7 +101,7 @@
     <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">File grossi</string>
     <string name="hints_installed_apps_header_left">App installate</string>
-    <string name="toast_resolve_apk_error">Risolvi errori pacchetti</string>
+    <string name="toast_resolve_apk_error">Risolvi errori APK</string>
     <string name="hints_apk_version">Versione: %s</string>
     <string name="apk_status_uninstalled">Non installata</string>
     <string name="apk_status_installed_old">Vecchia versione</string>
@@ -389,12 +389,12 @@
     <string name="hints_installed_app_never">Mai utilizzata</string>
     <string name="hints_installed_app_fewer">Utilizzata raramente</string>
     <string name="hints_installed_app_near">Utilizzata di recente</string>
-    <string name="activity_title_deep_apk">Elimina pacchetti</string>
-    <string name="deepclean_apk_content">Elimina pacchetti o App non necessarie</string>
-    <string name="deepclean_apk_summary_empty">Tutto OK, nessun pacchetto da eliminare</string>
+    <string name="activity_title_deep_apk">Elimina APK</string>
+    <string name="deepclean_apk_content">Elimina APK o app non necessarie</string>
+    <string name="deepclean_apk_summary_empty">Tutto OK, nessun APK da eliminare</string>
     <string name="deepclean_apk_version_error">Sconosciuto</string>
     <string name="title_delete_deepclean">Elimina</string>
-    <string name="summary_delete_apk">Eliminare definitivamente i pacchetti selezionati?</string>
+    <string name="summary_delete_apk">Eliminare definitivamente gli APK selezionati?</string>
     <string name="activity_title_video">Elimina video</string>
     <string name="deepclean_video_content">Elimina i video non necessari o già visti</string>
     <string name="deepclean_video_summary_empty">Sembra tutto OK</string>

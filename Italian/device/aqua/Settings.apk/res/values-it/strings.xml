@@ -3957,9 +3957,9 @@ ed esegui il software."</string>
     <string name="filter_apps_cached">Nella cache</string>
     <string name="screen">Schermo</string>
     <string name="system">Sistema</string>
-    <string name="screen_color_temperature">Colori</string>
+    <string name="screen_color_temperature">Temperatura colore</string>
     <string name="screen_saturation">Saturazione colori</string>
-    <string name="screen_color_temperature_and_saturation">Temperatura e saturazione colori</string>
+    <string name="screen_color_temperature_and_saturation">Temperatura colore e saturazione</string>
     <string name="screen_effect">Contrasto e colori</string>
     <string name="screen_optimize">Contrasto</string>
     <string name="screen_color_and_optimize">Colori e contrasto</string>
