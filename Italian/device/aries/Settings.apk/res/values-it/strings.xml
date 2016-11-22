@@ -1431,7 +1431,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="applications_settings_header">Impostazioni applicazioni</string>
     <string name="install_applications">Origini sconosciute</string>
     <string name="install_applications_title">Consenti tutte le sorgenti delle app</string>
-    <string name="install_unknown_applications_title">Permetti l'installazione di app non provenienti da Google Play</string>
+    <string name="install_unknown_applications_title">"Permetti l'installazione di app non provenienti da Google Play"</string>
     <string name="install_unknown_applications">"Consenti l'installazione di app provenienti da fonti sconosciute"</string>
     <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app provenienti da fonti sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
     <string name="advanced_settings">Impostazioni avanzate</string>

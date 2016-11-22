@@ -150,7 +150,7 @@
     <string name="toast_garbage_list_empty">Pulizia non necessaria.</string>
     <string name="hints_quick_cleanning">Pulizia…</string>
     <string name="hints_quick_prepare">Preparazione…</string>
-    <string name="start_downloading_app">Avvia download: %1$s</string>
+    <string name="start_downloading_app">Avvia download:%1$s</string>
     <string name="hints_finish_quick_scan">Scansione terminata</string>
     <string name="hints_finish_quick_cleanup">Pulizia terminata</string>
     <string name="hints_finish_quick_cleanup_title">Pulizia di %s dal cestino completata</string>

@@ -440,7 +440,7 @@
     <string name="releasetorefresh">Rilascia per aggiornare</string>
     <string name="refreshing">Caricamento…</string>
     <string name="lastrefresh">Ultimo aggiornamento:</string>
-    <string name="version_select">Selezione versione </string>
+    <string name="version_select">Selezione versione\u0020</string>
     <string name="version_select_summary">Seleziona quale versione usare</string>
     <string name="app_update_background">Aggiorna app in background.</string>
     <string name="router_update">"Devi aggiornare l'app del Router Xiaomi."</string>
