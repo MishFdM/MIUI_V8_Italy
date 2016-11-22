@@ -93,8 +93,8 @@
     <string name="power_config_location_summary">"Consenti all'applicazione di rilevare la posizione GPS del dispositivo"</string>
     <string name="power_config_idle_notification_title">Mostra solo la prima notifica</string>
     <string name="power_config_idle_notification_summary">Mostra solo la prima notifica delle applicazioni</string>
-    <string name="power_config_keyguard_notification_title">Notifiche lockscreen</string>
-    <string name="power_config_keyguard_notification_summary">Consenti le notifiche nella lockscreen</string>
+    <string name="power_config_keyguard_notification_title">Notifiche schermata di blocco</string>
+    <string name="power_config_keyguard_notification_summary">Consenti le notifiche nella schermata di blocco</string>
     <string name="power_config_event_delete">Elimina</string>
     <string name="power_config_confirm_event_delete">Eliminare questa configurazione?</string>
     <string name="power_config_bg_data_delay_time_title">Limita i dati in background</string>
@@ -106,7 +106,7 @@
     <string name="add_user_define_title">Aggiungi profilo</string>
     <string name="add_user_define_group_failed">Impossibile aggiungere il profilo</string>
     <string name="mode_settings">Impostazioni</string>
-    <string name="hide_mode_desc">"Quando un'app è in background, la sua attività verrà monitorata per controllarne il consumo di batteria. Connessione di rete, servizi di localizzazione, Radio, Timer, etc. possono essere influenzate da questa funzione. Questa configurazione è adatta per la maggior parte delle app, ma se un'app non si comporta normalmente in background, puoi personalizzare le impostazioni dell'app."</string>
+    <string name="hide_mode_desc">"Quando un'app è in background, la sua attività verrà monitorata per controllarne il consumo di batteria."</string>
     <string name="hide_mode_ultimate_desc">Modalità Ultimate attiva. Le applicazioni in background verranno congelate. Disattiva Risparmio Batteria per uscire dalla modalità Ultimate.</string>
     <string name="power_hide_mode_title">Gestisci utilizzo batteria delle app</string>
     <string name="power_hide_mode_summary">Risparmia la batteria effettuando delle restrizioni sulle singole app, processi in background, connessioni Wi-Fi e dati cellulare e GPS</string>
@@ -117,7 +117,7 @@
     <string name="power_config_mode_title">Modalità di risparmio</string>
     <string name="power_config_disable_title">Disattivato</string>
     <string name="power_config_disable_description">MIUI non limiterà le attività in background</string>
-    <string name="power_config_enhance_title">Avanzate</string>
+    <string name="power_config_enhance_title">Attivato</string>
     <string name="power_config_enhance_description">MIUI limiterà ogni attività in background quando possibile</string>
     <string name="power_config_ultimate_title">Ultimate</string>
     <string name="power_config_ultimate_description">MIUI congelerà tutte le app in background</string>
@@ -137,10 +137,9 @@
     <string name="location_disable_title">Nega</string>
     <string name="location_enable_description">Le applicazioni in background possono utilizzare i servizi di localizzazione</string>
     <string name="location_disable_description">"Le applicazioni in background possono utilizzare i servizi di localizzazione solo per un breve periodo di tempo, mentre l'uso continuo è limitato"</string>
-    <string name="config_description">MIUI è in grado di identificare app con specifici processi in background (es. app messaggi e navigazione, media players) ed utilizzare il Risparmio Batteria in modo che non interferisca con importanti processi in background.</string>
-    <string name="config_suggest_description">"Identifica applicazioni e attività per mantenere attivi i processi importanti.
-Il sistema di risparmio batteria gestirà le app importanti in modo selettivo."</string>
-    <string name="config_no_restrict_description">"Il Risparmio Batteria non limiterà l'attività dell'app"</string>
+    <string name="config_description">MIUI è in grado di identificare app con specifici processi in background (es. app messaggi e navigazione, lettori musicali) ed utilizzare il risparmio batteria in modo che non interferisca con importanti processi in background.</string>
+    <string name="config_suggest_description">"Identifica applicazioni e attività per mantenere attivi i processi importanti. Il sistema di risparmio batteria gestirà le app importanti in modo selettivo."</string>
+    <string name="config_no_restrict_description">"Il risparmio batteria non limiterà l'attività dell'app"</string>
     <string name="config_restrict_function_description">"Alcune funzioni (es. notifiche push) potrebbero essere coinvolte, ma l'app non verrà chiusa"</string>
     <string name="config_restrict_running_description">Le app verranno chiuse per risparmiare batteria</string>
     <string name="power_checker_title">PowerChecker</string>

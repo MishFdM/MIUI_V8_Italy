@@ -153,7 +153,7 @@
     <string name="refresh">Aggiorna</string>
     <string name="announcement">Attenzione</string>
     <string name="app_empty">Non hai scaricato nessuna applicazione</string>
-    <string name="screen_lock">Lockscreen</string>
+    <string name="screen_lock">Blocco schermo</string>
     <string name="systemui">Pannello delle notifiche</string>
     <string name="cta_dialog_title">Connessione Internet</string>
     <string name="cta_dialog_content">Questa applicazione deve connettersi ad Internet regolarmente.</string>

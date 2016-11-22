@@ -19,10 +19,10 @@
     <string name="activate_status_desc_query_activation_info">Recupero informazioni attivazione…</string>
     <string name="activate_status_desc_query_activation_info_no_info">Informazioni non trovate sul server</string>
     <string name="activate_status_desc_query_activation_info_server_error">Si è verificato un errore del server durante il recupero delle informazioni di attivazione</string>
-    <string name="activate_status_desc_query_activation_info_downlink_sms_error">Il server non è riuscito ad inviare un SMS di attivazione sul tuo telefono</string>
+    <string name="activate_status_desc_query_activation_info_downlink_sms_error">"Si è verificato un errore nell'invio dell'SMS di attivazione da parte del server"</string>
     <string name="activate_status_desc_wait_for_sms">"In attesa dell'SMS di attivazione dal server…"</string>
-    <string name="activate_status_desc_wait_for_sms_success">SMS di attivazione ricevuto dal server</string>
-    <string name="activate_status_desc_wait_for_sms_fail">Impossibile ricevere SMSdi attivazione dal server</string>
+    <string name="activate_status_desc_wait_for_sms_success">SMS di attivazione ricevuto correttamente</string>
+    <string name="activate_status_desc_wait_for_sms_fail">"Impossibile ricevere l'SMS di attivazione"</string>
     <string name="activate_status_desc_device_id_error">IMEI non valido</string>
     <string name="activate_status_desc_request_activation_sms">Richiesta SMS di attivazione…</string>
     <string name="activate_status_desc_request_activation_sms_server_error">"Si è verificato un errore del server durante la richiesta dell'SMS di attivazione."</string>

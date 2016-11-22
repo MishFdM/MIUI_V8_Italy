@@ -20,7 +20,7 @@
     <string-array name="express_watched_app_filter">
         <item>Operatore:</item>
         <item>Lettera di vettura:</item>
-        <item>Fonte：</item>
-        <item>Logistica：</item>
+        <item>Fonte:</item>
+        <item>Logistica:</item>
     </string-array>
 </resources>

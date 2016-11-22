@@ -720,7 +720,7 @@
     <string name="passport_verify">Verifica</string>
     <string name="passport_welcome_skip_login"><u>Salta questo passaggio</u></string>
     <string name="passport_wrong_captcha">Il codice inserito non è corretto</string>
-    <string name="passport_wrong_phone_number_format">TIl formato del numero telefono inserito non è valido</string>
+    <string name="passport_wrong_phone_number_format">Il formato del numero telefono inserito non è valido</string>
     <string name="passport_wrong_vcode">Il codice inserito non è corretto</string>
     <string name="passport_xiaomi_account_dspt">Utilizza il tuo Mi Account per accedere al Mi Cloud,Temi,e altri servizi Mi, dove vuoi.</string>
     <string name="passport_xiaomi_account_sec_dspt" />

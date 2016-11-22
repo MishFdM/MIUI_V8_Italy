@@ -282,7 +282,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="favorite_playlist">I miei preferiti</string>
     <string name="ktv_playlist">Il mio KTV</string>
     <string name="preset_music_playlist">Playlist Mi Music</string>
-    <string name="my_playlist">La mia playlist</string>
+    <string name="my_playlist">Playlist</string>
     <string name="create_playlist">Crea playlist</string>
     <string name="track_view">Brano</string>
     <string name="artist_view">Artista</string>
@@ -523,7 +523,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="select_none">Deseleziona tutto</string>
     <string name="please_select_song">Prima seleziona un brano</string>
     <string name="home_tab_online">Cerca</string>
-    <string name="home_tab_local">La mia musica</string>
+    <string name="home_tab_local">Musica</string>
     <string name="list_detail_title">Dettagli</string>
     <string name="all_music">Tutti i brani</string>
     <string name="all_artist">Tutti gli artisti</string>
@@ -551,9 +551,9 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="chinese_male">Cantanti maschili Cinesi</string>
     <string name="chinese_female">Cantanti femminili Cinesi</string>
     <string name="chinese_group">Gruppi Cinesi</string>
-    <string name="japan_korea_male">Cantanti maschili Giapponesi e Koreani</string>
-    <string name="japan_korea_female">Cantanti femminili Giapponesi e Koreane</string>
-    <string name="japan_korea_group">Gruppi Giapponesi e Koreani</string>
+    <string name="japan_korea_male">Cantanti maschili Giapponesi e Coreani</string>
+    <string name="japan_korea_female">Cantanti femminili Giapponesi e Coreane</string>
+    <string name="japan_korea_group">Gruppi Giapponesi e Coreani</string>
     <string name="english_male">Cantanti maschili internazionali</string>
     <string name="english_female">Cantanti femminili internazionali</string>
     <string name="english_group">Gruppi internazionali</string>
@@ -688,8 +688,8 @@ attendere o selezionare Musica Online."</string>
     <string name="do_not_remind_again">Non mostrare più</string>
     <string name="not_now">Non adesso</string>
     <string name="upgrade_membership">Ottieni più spazio</string>
-    <string name="version_info">Versione</string>
-    <string name="current_version">Versione attuale</string>
+    <string name="version_info">Informazioni</string>
+    <string name="current_version">Versione</string>
     <string name="music_traffic">Piano dati musica</string>
     <string name="music_traffic_summary">Ascolta e scarica canzoni senza utilizzare il traffico dati</string>
     <string name="traffic_free_to_play">Utilizza il piano dati musica</string>
@@ -724,7 +724,7 @@ attendere o selezionare Musica Online."</string>
     <string name="start_to_use">Apri applicazione</string>
     <string name="welcome_to_new_music">"Benvenuto nell'ultima versione di Mi Music!"</string>
     <string name="more_settings">Impostazioni avanzate</string>
-    <string name="more_settings_summary">impostazioni Download, mod. Sleep, dati cellulare, filtri file, etc.</string>
+    <string name="more_settings_summary">Impostazioni Download, timer ascolto, dati cellulare, filtri file, etc.</string>
     <string name="service_and_settings">Servizio e impostazioni</string>
     <string name="radar">ACRCloud</string>
     <string name="radar_support_by">Fornito da ACRCloud</string>

@@ -882,7 +882,7 @@ Le schede contatti sono disattivate"</string>
     <string name="preference_import">Importa</string>
     <string name="preference_export">Esporta</string>
     <string name="preference_others">Altro</string>
-    <string name="wipe_data">Azzera dati</string>
+    <string name="wipe_data">Cancella dati</string>
     <string name="display_only_phones">Nascondi numeri incompleti</string>
     <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
     <string name="scan_merge">Ricerca contatti duplicati…</string>
@@ -946,7 +946,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="ic_menu_done">Fatto</string>
     <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
     <string name="share_over_limit">Limite superato, impossibile condividere</string>
-    <string name="preference_key_trash_bin_title">Cerca tra i backup dei contatti eliminati di recente</string>
+    <string name="preference_key_trash_bin_title">Ripristino contatti</string>
     <string name="account_default">Dispositivo</string>
     <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
     <string name="option_view_contact">Mostra</string>

@@ -904,7 +904,7 @@
     <string name="retry_to_create_album">Riprova</string>
     <string name="gallery_setting">Galleria</string>
     <string name="cloud_settings">Mi Cloud</string>
-    <string name="backup_automatically_title">Backup e sincronizzazione automatiche</string>
+    <string name="backup_automatically_title">Backup automatico</string>
     <string name="backup_automatically_summary">Esegui il backup di foto e video per tutti i dispositivi su Mi Cloud. Puoi sfogliare, ordinare, modificare e condividere le foto e i video su tutti i dispositivi.</string>
     <string name="backup_only_in_wifi">Usa solo il Wi-Fi per il backup di foto e video</string>
     <string name="backup_only_in_wifi_summary">Non usare mai la rete dati cellulare per il backup di foto e video</string>

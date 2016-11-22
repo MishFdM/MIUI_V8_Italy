@@ -347,9 +347,12 @@
         <item>Molto grande</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
+        <item>Predefinito</item>
         <item>Nessuno</item>
         <item>Contorno</item>
         <item>Ombreggiatura</item>
+        <item>Incastonato</item>
+        <item>Rialzato</item>
     </string-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
@@ -358,6 +361,7 @@
         <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
+        <item>Definito da app</item>
         <item>Bianco su nero</item>
         <item>Nero su bianco</item>
         <item>Giallo su nero</item>
@@ -669,9 +673,9 @@
  Nota: solo per Ubuntu 8.04"</item>
     </string-array>
     <string-array name="screen_color_title">
-        <item>Caldo</item>
-        <item>Naturale</item>
-        <item>Freddo</item>
+        <item>Caldi</item>
+        <item>Naturali</item>
+        <item>Freddi</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brillante</item>
@@ -789,8 +793,8 @@
         <item>Mostra animazioni di sistema</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>Per velocizzare il sistema, nascondi le animazioni</item>
-        <item>Le animazioni potrebbero influire sulle prestazioni del sistema</item>
+        <item>Migliora le prestazioni del sistema</item>
+        <item>Potrebbe influire sulle prestazioni del sistema</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
@@ -933,7 +937,7 @@
     <string-array name="common_password_business_names">
         <item>Schermata di blocco</item>
         <item>Protezione privacy</item>
-        <item>Modalità genitore</item>
+        <item>Modalità Genitore</item>
         <item>File explorer</item>
         <item>Blocco applicazioni</item>
         <item>Spazio Secondario</item>
@@ -953,7 +957,6 @@
         <item>Foto</item>
         <item>File</item>
         <item>Note</item>
-        <item>App lock</item>
-        <item>Mod. Genitore</item>
+        <item>Modalità Genitore</item>
     </string-array>
 </resources>

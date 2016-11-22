@@ -4,7 +4,7 @@
     <string name="suw_back_button_label">Indietro</string>
     <string name="suw_more_button_label">Altro</string>
     <string name="provisioning_error_title">Ops!</string>
-    <string name="setup_work_profile">SImposta il tuo profilo</string>
+    <string name="setup_work_profile">Imposta il tuo profilo</string>
     <string name="company_controls_workspace">La tua azienda controlla questo profilo e lo mantiene sicuro. Il resto del dispositivo lo controlli tu.</string>
     <string name="company_controls_device">La tua azienda controlla questo dispositivo e lo mantiene sicuro.</string>
     <string name="the_following_is_your_mdm">La seguente applicazione avrà bisogno di accedere a questo profilo:</string>

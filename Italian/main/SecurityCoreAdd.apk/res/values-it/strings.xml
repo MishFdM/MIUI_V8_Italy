@@ -199,7 +199,7 @@ I messaggi saranno visibili solo nello spazio Secondario."</string>
     <string name="guide_contact_suc_sub_title_desc">Solo i contatti e i messaggi privati verranno mostrati nello spazio Secondario</string>
     <string name="notification_setting_second_space">Configura lo spazio Secondario</string>
     <string name="notification_setting_second_space_desc">Aggiungi password per lo spazio Secondario e sposta i dati</string>
-    <string name="show_private_msg">MOstra i messaggi privati</string>
+    <string name="show_private_msg">Mostra i messaggi privati</string>
     <string name="contact_titile_text">"Mostra i messaggi privati nello spazio Secondario
 per essere in grado di vederli sempre"</string>
     <string name="contact_sub_titile_text">I dati dei messaggi verranno condivisi tra i due spazi</string>

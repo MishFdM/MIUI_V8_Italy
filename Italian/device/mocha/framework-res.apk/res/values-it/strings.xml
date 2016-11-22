@@ -1086,7 +1086,7 @@ Vuoi chiuderla?"</string>
     <string name="usb_ptp_notification_title">Collegato come fotocamera</string>
     <string name="usb_cd_installer_notification_title">Collegato come installer</string>
     <string name="usb_accessory_notification_title">Collegato a un accessorio USB</string>
-    <string name="usb_notification_message">Tocca per altre opzioni USB.</string>
+    <string name="usb_notification_message">Tocca per altre opzioni USB</string>
     <string name="extmedia_format_title">Formattare archivio USB?</string>
     <string name="extmedia_format_message">"Tutti i file memorizzati nell'archivio USB verranno cancellati. Questa azione non può essere annullata."</string>
     <string name="extmedia_format_button_format">Formatta</string>

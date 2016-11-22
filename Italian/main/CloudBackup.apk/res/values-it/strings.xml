@@ -15,15 +15,14 @@
     <string name="cloud_app_dont_restore">Non ripristinare</string>
     <string name="cloud_app_restore_wifi_prompt">Collegati ad una rete Wi-Fi per ripristinare le app.</string>
     <string name="cloud_backup_detail_state">Backup Mi Cloud</string>
-    <string name="cloud_backup_detail_state_summary">App, Home screen e impostazioni di sistema</string>
+    <string name="cloud_backup_detail_state_summary">App, schermata Home e impostazioni di sistema</string>
     <string name="cloud_backup_detail_frequence">Programma Backup</string>
     <string name="cloud_back_up_interval_long">7 giorni</string>
-    <string name="cloud_back_up_interval_short">Tutti i giorni</string>
-    <string name="cloud_backup_detail_frequence_day">%1$s esegui una volta il backup</string>
-    <string name="cloud_backup_detail_time">, orario backup
-:%1$s</string>
+    <string name="cloud_back_up_interval_short">giorno</string>
+    <string name="cloud_backup_detail_frequence_day">Esegui il backup ogni %1$s</string>
+    <string name="cloud_backup_detail_time">Ultimo backup: %1$s</string>
     <string name="cloud_backup_detail_manage">Gestisci backup</string>
-    <string name="cloud_backup_detail_manage_summary">%1$s backup, dimensione:%2$s</string>
+    <string name="cloud_backup_detail_manage_summary">%1$s backup, dimensione: %2$s</string>
     <string name="backup_size_summary">Dimensione: %1$s</string>
     <string name="cloud_back_up_opening">Solo un secondo…</string>
     <string name="cloud_back_up_no_network_warn">Impossibile collegarsi alla rete</string>
@@ -34,8 +33,8 @@
     <string name="cloud_back_up_share_activity_title">Aggiorna Mi Account</string>
     <string name="cloud_back_up_share_activity_discription">Ottieni altro spazio di archiviazione, backup giornalieri ed altro.</string>
     <string name="cloud_back_up_share_activity_confirm">Aggiorna</string>
-    <string name="cloud_back_up_detail_discription">"Verrà eseguito il backup di questi elementi su Mi Cloud quando il dispositivo sarà connesso ad una rete Wi-Fi: 
-•\u0009\u0009\u0009\u0009 App, Layout Home screen e sfondi 
+    <string name="cloud_back_up_detail_discription">"Quando il dispositivo sarà connesso ad una rete Wi-Fi, verrà eseguito il backup su Mi Cloud di: 
+•\u0009\u0009\u0009\u0009 App, layout schermata Home e sfondi 
 •\u0009\u0009\u0009\u0009 Sveglie, orologio e impostazioni orario 
 •\u0009\u0009\u0009\u0009 Impostazioni delle notifiche 
 •\u0009\u0009\u0009\u0009 MIUI e impostazioni di sistema 

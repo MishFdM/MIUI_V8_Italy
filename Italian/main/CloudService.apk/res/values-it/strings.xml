@@ -17,12 +17,12 @@
     <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/BACKUP E RIPRISTINO</string>
     <string name="app_name">Mi Cloud</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="sync_item_sms_title">Sincronizza SMS</string>
+    <string name="sync_item_sms_title">Sincronizza messaggi</string>
     <string name="sync_item_sms_summary">Attiva dopo che i messaggi sono stati sincronizzati</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizza MMS solo con Wi-Fi</string>
     <string name="sub_sync_item_sms_summary">Non utilizzare la rete dati cellulare per sincronizzare i messaggi multimediali</string>
     <string name="pref_title_sync_contacts_title">Sincronizza i contatti</string>
-    <string name="pref_title_sync_display_photo_on_wifi_only">Mostra foto solo con Wi-Fi</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizza foto solo con Wi-Fi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Non utilizzare la rete dati cellulare per sincronizzare le foto dei contatti</string>
     <string name="error_title">Errore di sincronizzazione</string>
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
@@ -220,7 +220,7 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
     <string name="remind_later">Ricordamelo più tardi</string>
     <string name="enable_cloud_service_notification">"Non hai attivato Mi Cloud"</string>
     <string name="contact">Contatti</string>
-    <string name="sms">SMS</string>
+    <string name="sms">Messaggi</string>
     <string name="photo">Foto</string>
     <string name="micloud_first_login_title"/>
     <string name="micloud_first_login_summary"/>
@@ -239,7 +239,7 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
     <string name="micloud_main_sync_on_wifi">Utilizza Wi-Fi</string>
     <string name="micloud_main_sync_setting">Impostazioni di sincronizzazione</string>
     <string name="micloud_main_title_not_synced">Non sincronizzato</string>
-    <string name="micloud_main_message_not_synced">%s dati non sincronizzti</string>
+    <string name="micloud_main_message_not_synced">%s dati non sincronizzati</string>
     <string name="micloud_main_suggest_setting">"In attesa di connessione Wi-Fi per sincronizzare.
 Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_sync_pending">In attesa di sincronizzazione</string>
@@ -281,7 +281,7 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_detail_query_error_title">Impossibile ottenere lo stato della sincronizzazione</string>
     <string name="micloud_detail_query_error_detail">Impossibile verificare lo stato della sincronizzazione. Si prega di contattare gli sviluppatori.</string>
     <string name="micloud_detail_not_sync">%d in attesa di sincronizzazione</string>
-    <string name="micloud_detail_force_sync">sincronizza adesso</string>
+    <string name="micloud_detail_force_sync">Sincronizza adesso</string>
     <string name="micloud_detail_ok">OK</string>
     <string name="micloud_detail_do_not_sync">Non sincronizzare</string>
     <string name="micloud_detail_sync_now">Sincronizza adesso</string>
@@ -438,7 +438,7 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_notif_content_sync_finish">Account</string>
     <string name="micloud_notif_title_sync_not_finish">Non sincronizzato</string>
     <string name="micloud_notif_content_sync_not_finish">Dettagli</string>
-    <string name="micloud_notif_title_clipboard_push">COntenuto copiato negli appunti</string>
+    <string name="micloud_notif_title_clipboard_push">Contenuto copiato negli appunti</string>
     <string name="micloud_notif_content_clipboard_push">Puoi incollarlo ovunque.</string>
     <string name="micloud_notif_title_multi_user_error">Impossibile sincronizzare con Mi Cloud</string>
     <string name="micloud_notif_content_multi_user_error">"Hai effettuato l'accesso con lo stesso account dello spazio originario."</string>
@@ -478,8 +478,8 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_request_permission_content">Mi Cloud ha necessità dei permessi per la sincronizzazione dei dati. Consenti a Mi Cloud di accedere a Calendario, Contatti, Mi Account, stato SIM, registro chiamate e messaggi.</string>
     <string name="micloud_request_permission_confirm">Ho capito</string>
     <string name="short_cut_desc">"Vuoi aggiungere l'icona Mi Cloud alla home?"</string>
-    <string name="add_short_cut">Aggiungi</string>
-    <string name="added_successfully">Aggiunta!</string>
+    <string name="add_short_cut">Sì</string>
+    <string name="added_successfully">Fatto!</string>
     <string name="find_device_service_title">Trova dispositivo</string>
     <string name="find_device_service_summary">Visita i.mi.com to per localizzare e bloccare dal remoto il dispositivo</string>
     <string name="find_device_service_summary_international">Visita i.mi.com to per localizzare e bloccare dal remoto il dispositivo</string>

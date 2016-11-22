@@ -199,7 +199,7 @@
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Allegati</string>
     <string name="authority_email_provider">com.android.email.provider</string>
-    <string name="auto_advance_help_title">"Dopo l'eliminazione di un messaggio mostra…"</string>
+    <string name="auto_advance_help_title">"Dopo un'eliminazione, mostra…"</string>
     <string name="auto_advance_label">Avanzamento automatico</string>
     <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
     <string name="auto_sync_off">Sincron. automatica disattivata.</string>
@@ -758,7 +758,7 @@
     <string name="quote_divider_ipad_zh">Inviato dal mio iPad</string>
     <string name="quote_divider_iphone_en">Inviato dal mio iPhone</string>
     <string name="quote_divider_iphone_fwd_en">Inizio messaggio inoltrato:</string>
-    <string name="quote_divider_iphone_fwd_zh">Messaggio inoltrato：</string>
+    <string name="quote_divider_iphone_fwd_zh">Messaggio inoltrato:</string>
     <string name="quote_divider_ks_web">________________________________________</string>
     <string name="quote_divider_qq_en">------------------ Originale ------------------</string>
     <string name="quote_divider_qq_zh">------------------ Messaggio originale ------------------</string>

@@ -65,7 +65,7 @@ Tocca il tasto \"+\" per creare una cartella"</string>
     <string name="hint_cannot_view_hidden_note_content">Impossibile vedere il contenuto delle note nascoste</string>
     <string name="alert_title_restore">Ripristina nota</string>
     <string name="alert_message_restore">Impossibile aprire questa nota. Ripristina per modificarne il contenuto.</string>
-    <string name="note_sort_way">Scegli come vuoi ordinare le note</string>
+    <string name="note_sort_way">Ordinamento note</string>
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
@@ -111,7 +111,7 @@ Tocca il tasto \"+\" per creare una cartella"</string>
     <string name="error_contact_not_exist">Contatto inesistente</string>
     <string name="sync_tips">Tocca per sincronizzare le note con Mi Cloud.</string>
     <string name="micloud_state_total_count">%1$s</string>
-    <string name="pref_title_font_size">Dimensione font</string>
+    <string name="pref_title_font_size">Dimensione testo</string>
     <string name="call_folder_name">Note di chiamata</string>
     <string name="trash_folder_name">Cestino</string>
     <string name="root_folder_name">Note veloci</string>

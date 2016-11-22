@@ -35,8 +35,8 @@
         <item>Tutte le cartelle</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Più nuovi</item>
-        <item>Più vecchi</item>
+        <item>Messaggi più nuovi</item>
+        <item>Messaggi più vecchi</item>
         <item>Lista conversazioni</item>
     </string-array>
     <string-array name="signature_normal_string_array">

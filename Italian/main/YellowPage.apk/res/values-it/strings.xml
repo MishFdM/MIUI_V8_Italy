@@ -186,9 +186,9 @@
     <string name="recharge_user_confirm_summary">"Ti verranno addebitati %1$s per RMB%2$s 
 
 Totale: RMB%3$s"</string>
-    <string name="recharge_order_id">ID ordine：</string>
+    <string name="recharge_order_id">ID ordine:</string>
     <string name="recharge_status_description">Stato:</string>
-    <string name="recharge_actual_price">Prezzo：</string>
+    <string name="recharge_actual_price">Prezzo:</string>
     <string name="recharge_order_original_price">RMB%s</string>
     <string name="recharge_order_actual_price">¥%s</string>
     <string name="recharge_order_pay">Pagamento</string>
@@ -357,11 +357,11 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="order_empty_hint">Nessun ordine</string>
     <string name="order_merchant_title">I miei ordini</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
-    <string name="order_product_name_label">Nome prodotto： %1$s</string>
-    <string name="order_status_label">Stato ordine：%s</string>
-    <string name="order_price_label">Prezzo ordine：%s</string>
-    <string name="order_id_label">ID ordine：%s</string>
-    <string name="order_date_label">Data ordine：%s</string>
+    <string name="order_product_name_label">Nome prodotto: %1$s</string>
+    <string name="order_status_label">Stato ordine:%s</string>
+    <string name="order_price_label">Prezzo ordine:%s</string>
+    <string name="order_id_label">ID ordine:%s</string>
+    <string name="order_date_label">Data ordine:%s</string>
     <string name="order_not_found">Nessun ordine relativo</string>
     <string name="order_detail">Dettagli</string>
     <string name="order_info">Informazioni ordine</string>

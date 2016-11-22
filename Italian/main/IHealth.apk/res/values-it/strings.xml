@@ -311,5 +311,5 @@
     <string name="release_to_refresh">Rilascia per aggiornare</string>
     <string name="pull_to_refresh">Trascina per aggiornare</string>
     <string name="refreshing">Aggiornamento…</string>
-    <string name="updating">Aggiornamento：</string>
+    <string name="updating">Aggiornamento:</string>
 </resources>

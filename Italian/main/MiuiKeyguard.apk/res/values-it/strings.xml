@@ -7,9 +7,9 @@
     <string name="lockscreen_charging_msg">In carica</string>
     <string name="emergency_call_string">Emergenza</string>
     <string name="forget_password_string">Pwd dimenticata</string>
-    <string name="input_puk_code">Ins.il PUK</string>
+    <string name="input_puk_code">Ins. PUK</string>
     <string name="unlocking_sim_card">Sblocco carta SIM</string>
-    <string name="input_pin_code">Ins.il PIN</string>
+    <string name="input_pin_code">Ins. PIN</string>
     <string name="incorrect_pukcode_remaining_attempts">Codice PUK errato, hai ancora %d tentativi</string>
     <string name="incorrect_pincode_remaining_attempts">Codice PIN errato, hai ancora %d tentativi</string>
     <string name="incorrect_pukcode">Codice PUK errato</string>
@@ -65,7 +65,7 @@
     <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
     <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
     <string name="fingerprint_lockout_msg">"Aspetta un minuto e riprova a sbloccare con l'impronta"</string>
-    <string name="accessibility_enter_lock_wallpaper">Tocca lo sfondo della lockscreen</string>
+    <string name="accessibility_enter_lock_wallpaper">Tocca lo sfondo della schermata di blocco</string>
     <string name="lock_wallpaper_learn_more">Leggi di più ></string>
     <string name="lock_wallpaper_enter">Inserisci</string>
     <string name="custom_lock_wallpaper_enter">Inserisci</string>
