@@ -634,7 +634,7 @@
     <string name="exit_video_play">Esci</string>
     <string name="picker_title_selection_format">%d selezionati</string>
     <string name="picker_title_format">puoi selezionare %d</string>
-    <string name="picker_title_unlimit">seleziona immagine</string>
+    <string name="picker_title_unlimit">Seleziona immagine</string>
     <string name="picker_full_format">%d elementi al massimo.</string>
     <string name="picker_image_need_download">%d delle foto selezionate non sono sul dispositivo. Scaricare utilizzando la rete dati cellulare?</string>
     <string name="picker_origin_need_download">%1$d delle foto selezionate non sono sul dispositivo (%2$d MB). Scaricare utilizzando la rete dati cellulare?</string>

@@ -3644,7 +3644,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="camera_key_action_shortcut_title">Scorciatoia</string>
     <string name="camera_key_action_toggle_title">Comando di attivazione</string>
     <string name="camera_key_action_app_title">Apri app</string>
-    <string name="camera_key_action_shortcut_home">Vai alla Home</string>
+    <string name="camera_key_action_shortcut_home">Torna alla Home</string>
     <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
     <string name="camera_key_action_shortcut_search">Cerca</string>
     <string name="camera_key_action_shortcut_call">Chiama</string>

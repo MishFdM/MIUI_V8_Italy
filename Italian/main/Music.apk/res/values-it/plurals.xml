@@ -91,7 +91,7 @@
         <item quantity="one">%d elemento selezionato</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Brani aggiunti ai preferiti.</item>
-        <item quantity="one">Brano aggiunto ai preferiti.</item>
+        <item quantity="other">Brani aggiunti ai Preferiti.</item>
+        <item quantity="one">Brano aggiunto ai Preferiti.</item>
     </plurals>
 </resources>
