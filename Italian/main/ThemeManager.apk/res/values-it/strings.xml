@@ -199,7 +199,7 @@
     <string name="resource_unknow_error">Errore sconosciuto.</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_hint">Avviso</string>
-    <string name="resource_ringtone_volume_mute">La tua suoneria è silenziata</string>
+    <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
     <string name="resource_has_been_downloaded">Hai già scaricato questo tema.</string>
     <string name="resource_no_match_app">Nessuna applicazione trovata per eseguire questa operazione.</string>
     <string name="resource_title_rank">Classifiche</string>

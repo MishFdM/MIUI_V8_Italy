@@ -144,7 +144,7 @@
     <string name="menu_item_show_more">Altro</string>
     <string name="ringtone_mute">Nessuna</string>
     <string name="title_system_resource">Risorse di sistema</string>
-    <string name="resource_ringtone_volume_mute">La suoneria è impostata su silenzioso</string>
+    <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
     <string name="audio_list_loading">Caricamento…</string>
     <string name="title_local_resource">Risorsa locale</string>
     <string name="online_resource_entry">Risorse online</string>

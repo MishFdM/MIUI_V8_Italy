@@ -40,7 +40,7 @@
     <string name="deleting_message">Eliminazione…</string>
     <string name="rename_dialog_title">Rinomina questa registrazione</string>
     <string name="rename_duplicate">Nome già presente, inserire di nuovo:</string>
-    <string name="rename_no_more_tip">Interrompi i suggerimenti</string>
+    <string name="rename_no_more_tip">Non mostrare più</string>
     <string name="dialog_title_storage_full">Spazio di archiviazione esaurito. Eliminare alcuni file?</string>
     <string name="dialog_content_storage_full">A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?</string>
     <string name="status_bar_recording">Registrazione…</string>
@@ -135,7 +135,7 @@
     <string name="recognition_error_downloading">Download in corso</string>
     <string name="recognition_status_downloading">Download in corso</string>
     <string name="runtime_permission_ungranted">Impossibile utilizzare il Registratore per mancanza di autorizzazioni</string>
-    <string name="btn_clear_records">Elimina registrazioni(%d elemento/i)</string>
+    <string name="btn_clear_records">Elimina registrazioni (%d elemento/i)</string>
     <string name="alert_message_clear_records">Eliminare le registrazioni selezionate?</string>
     <string name="clear_records">Elimina le registrazioni sincronizzate</string>
     <string name="choose_call_records_count">%d elemento/i</string>
