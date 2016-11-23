@@ -314,7 +314,7 @@
     <string name="phrase_from">Da %1s</string>
     <string name="phrase_empty">Nessuna anteprima</string>
     <string name="pref_title_notification_body_enabled">Mostra anteprima</string>
-    <string name="pref_summary_notification_body_enabled">"Mostra un'anteprima nella Schermata di blocco e nella barra di stato"</string>
+    <string name="pref_summary_notification_body_enabled">"Mostra un'anteprima nella schermata di blocco e nella barra di stato"</string>
     <string name="pref_summary_notification_body_enabled_when_secure">"L'anteprima dei messaggi è disabilitata quando l'accesso ha restrizioni"</string>
     <string name="pref_title_wake_up_screen">Attivazione schermo</string>
     <string name="pref_summary_wake_up_screen">Attiva lo schermo alla ricezione di un nuovo SMS</string>
@@ -417,14 +417,14 @@
     <string name="loading_all_messages">Caricamento di tutti i messaggi…</string>
     <string name="mx_online">In linea</string>
     <string name="mx_offline">Non in linea</string>
-    <string name="mx_enable_popup_msg">"Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un sms per attivare il servizio, verranno applicate le tariffe previste dall'operatore. Continuare?"</string>
+    <string name="mx_enable_popup_msg">"Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un SMS per attivare il servizio, verranno applicate le tariffe previste dall'operatore. Continuare?"</string>
     <string name="mx_btn_enable_now">Attiva messaggi Mi Cloud</string>
     <string name="loading_mms">Caricamento MMS…</string>
     <string name="add_number_to_sender">Aggiungi numero a %s</string>
     <string name="unknown_num">Numero sconosciuto</string>
     <string name="in_sms">Messaggio</string>
     <string name="sms_content">Contenuto del messaggio</string>
-    <string name="hint_search_sms">%d sms</string>
+    <string name="hint_search_sms">%d messaggi</string>
     <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizzazione con Mi Cloud…</string>
     <string name="cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
