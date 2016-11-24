@@ -775,6 +775,8 @@ Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare i
     <string name="wifi_unspecified">(non specificati)</string>
     <string name="wifi_wps_available_first_item">WPS disponibile</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibile)"</string>
+	<string name="wifi_secured_first_item">Sicurezza con %1$s</string>
+    <string name="wifi_secured_second_item">, sicurezza con %1$s</string>
     <string name="wifi_wps_nfc_enter_password">Inserisci la tua password di rete</string>
     <string name="wifi_scan_always_turnon_message">"Per migliorare la precisione della posizione e per altri scopi, %1$s chiede di attivare la ricerca della rete, anche quando il Wi-Fi è disattivato.
 
