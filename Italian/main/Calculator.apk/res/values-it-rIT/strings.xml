@@ -277,7 +277,7 @@
     <string name="unit_data_short_volume_cu.af">af</string>
     <string name="unit_data_display_velocity_mps">Metri al secondo</string>
     <string name="unit_data_display_velocity_kmps">Chilometri al secondo</string>
-    <string name="unit_data_display_velocity_kmph">"Chilometri all'ora"</string>
+    <string name="unit_data_display_velocity_kmph">"Chilometri orari"</string>
     <string name="unit_data_display_velocity_c">Velocità della luce</string>
     <string name="unit_data_display_velocity_mach">Mach</string>
     <string name="unit_data_display_velocity_nmiph">Nodi</string>
