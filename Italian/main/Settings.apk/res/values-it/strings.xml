@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="defalut_launcher_title">Launcher predefinito</string>
+    <string name="miui_screen_config_title">Configurazione schermo launcher MIUI</string>
+    <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
+    <string name="lock_screen_cells_title">Spazi lockscreen</string>
+    <string name="screen_cells_config_title">Configurazione spazi schermo</string>
     <string name="status_bar_and_notification_bar">Barra notifiche e barra di stato</string>
     <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
@@ -414,8 +419,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
     <string name="date_time_set_date_title">Data</string>
     <string name="date_time_set_date">Imposta data</string>
-	<string name="date_time_date_format_title">Formato data</string>
-    <string name="date_time_date_format">Scegli formato data</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
     <string name="date_picker_title">Data</string>
@@ -723,7 +726,7 @@ Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare i
     <string name="wifi_menu_advanced">Avanzate</string>
     <string name="wifi_menu_connect">Connetti alla rete</string>
     <string name="wifi_menu_remember">Ricorda network</string>
-    <string name="wifi_menu_forget">Elimina</string>
+    <string name="wifi_menu_forget">Elimina rete</string>
     <string name="wifi_menu_modify">Modifica rete</string>
     <string name="wifi_menu_write_to_nfc">Crea un tag NFC</string>
     <string name="wifi_empty_list_wifi_off">Per visualizzare le reti disponibili, attiva il Wi-Fi.</string>
@@ -750,7 +753,7 @@ Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare i
     <string name="wifi_security">Sicurezza</string>
     <string name="wifi_signal">Intensità segnale</string>
     <string name="wifi_status">Stato</string>
-    <string name="wifi_speed">Velocità di connessione</string>
+    <string name="wifi_speed">Velocità di collegamento</string>
     <string name="wifi_frequency">Frequenza</string>
     <string name="wifi_ip_address">Indirizzo IP</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
@@ -1050,11 +1053,11 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_media_usage">Supporti</string>
     <string name="memory_downloads_usage">Download</string>
     <string name="memory_dcim_usage">Foto, video</string>
-    <string name="memory_music_usage">Audio (musica, suonerie, podcast…)</string>
+    <string name="memory_music_usage">Audio (musica, suonerie, podcast e così via)</string>
     <string name="memory_media_misc_usage">Vari</string>
     <string name="memory_media_cache_usage">Dati memorizzati nella cache</string>
-    <string name="sd_eject">Smonta archivio condiviso</string>
-    <string name="sd_eject_summary">Smonta scheda SD</string>
+    <string name="sd_eject">Disattiva archivio condiviso</string>
+    <string name="sd_eject_summary">Disattiva scheda SD</string>
     <string name="sd_insert_summary">Inserisci scheda SD</string>
     <string name="sd_mount">Monta scheda SD</string>
     <string name="sd_mount_summary"/>
@@ -1063,8 +1066,8 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_clear_cache_title">Eliminare i dati memorizzati nella cache?</string>
     <string name="memory_clear_cache_message">Saranno eliminati tutti i dati delle app nella cache.</string>
     <string name="mtp_ptp_mode_summary">La funzione MTP o PTP è attiva</string>
-    <string name="dlg_confirm_unmount_title">Smontare la scheda SD?</string>
-    <string name="dlg_confirm_unmount_text">Se smonti la scheda SD, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai la scheda SD.</string>
+    <string name="dlg_confirm_unmount_title">"Disattivare l'archivio USB?"</string>
+    <string name="dlg_confirm_unmount_text">"Se disattivi l'archivio USB, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai l'archivio USB."</string>
     <string name="dlg_error_unmount_title"/>
     <string name="dlg_error_unmount_text">"Impossibile disattivare l'archivio USB. Riprova più tardi."</string>
     <string name="unmount_inform_text">"L'archivio USB verrà disattivato."</string>
@@ -1278,10 +1281,8 @@ Ci sono altri utenti presenti su questo dispositivo.
 Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i dati dell'"<b>archivio USB</b>.</string>
     <string name="erase_external_storage">Formatta archivio USB</string>
     <string name="erase_external_storage_description">"Elimina tutti i dati nell'archivio USB interno come musica o foto"</string>
-    <string name="master_clear_button_text">Resetta dispositivo</string>
+    <string name="master_clear_button_text">Reimposta dispositivo</string>
     <string name="master_clear_final_desc">"Eliminare tutti i dati personali e le applicazioni scaricate? Quest'azione è irreversibile."</string>
-	 <string name="master_clear_gesture_prompt">Traccia sequenza di sblocco</string>
-	 <string name="master_clear_gesture_explanation">Traccia la sequenza di sblocco per effettuare il ripristino ai dati di fabbrica.</string>
     <string name="master_clear_final_button_text">Elimina tutto</string>
     <string name="master_clear_failed">Nessun ripristino eseguito perché il servizio System Clear non è disponibile.</string>
     <string name="master_clear_confirm_title">Ripristinare?</string>
@@ -1290,28 +1291,28 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="master_clear_progress_text">Attendere prego…</string>
     <string name="call_settings_title">Chiamate</string>
     <string name="call_settings_summary">Imposta segreteria, deviazione chiamate, avviso di chiamata, ID chiamante</string>
-    <string name="tether_settings_title_usb">Tethering USB</string>
+    <string name="tether_settings_title_usb">Hotspot USB</string>
     <string name="tether_settings_title_wifi">Hotspot Wi-Fi</string>
-    <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
-    <string name="tether_settings_title_usb_bluetooth">Tethering USB e Bluetooth</string>
+    <string name="tether_settings_title_bluetooth">Hotspot Bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">Hotspot USB e Bluetooth</string>
     <string name="tether_settings_title_all">Hotspot personale</string>
     <string name="usb_title">USB</string>
-    <string name="usb_tethering_button_text">Tethering USB</string>
-    <string name="usb_tethering_available_subtext">USB collegata, seleziona per avviare tethering</string>
-    <string name="usb_tethering_active_subtext">Tethering attivo</string>
-    <string name="usb_tethering_storage_active_subtext">"Tethering non disponibile quando è in uso l'archivio USB"</string>
+    <string name="usb_tethering_button_text">Hotspot USB</string>
+    <string name="usb_tethering_available_subtext">USB collegata, seleziona per impostare hotspot</string>
+    <string name="usb_tethering_active_subtext">Con hotspot</string>
+    <string name="usb_tethering_storage_active_subtext">"Hotspot non disponibile quando è in uso l'archivio USB"</string>
     <string name="usb_tethering_unavailable_subtext">USB non connessa</string>
     <string name="usb_tethering_turnon_subtext">Collegare per attivare</string>
-    <string name="usb_tethering_errored_subtext">Errore tethering USB</string>
-    <string name="bluetooth_tether_checkbox_text">Tethering Bluetooth</string>
+    <string name="usb_tethering_errored_subtext">Errore hotspot USB</string>
+    <string name="bluetooth_tether_checkbox_text">Hotspot Bluetooth</string>
     <string name="bluetooth_tethering_available_subtext">Connessione ad internet condivisa</string>
     <string name="bluetooth_tethering_device_connected_subtext">Connessione ad internet condivisa con 1 dispositivo</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Connessione ad internet condivisa con %1$d dispositivi</string>
     <string name="bluetooth_tethering_off_subtext_config">Condividi questa %1$d connessione internet</string>
     <string name="bluetooth_tethering_off_subtext">Connessione ad internet non condivisa</string>
-    <string name="bluetooth_tethering_errored_subtext">Errore tethering Bluetooth</string>
-    <string name="bluetooth_tethering_overflow_error">Tethering non possibile con più di %1$d dispositivi.</string>
-    <string name="bluetooth_untether_blank">Il tethering sarà annullato per %1$s.</string>
+    <string name="bluetooth_tethering_errored_subtext">Senza hotspot</string>
+    <string name="bluetooth_tethering_overflow_error">Hotspot non possibile con più di %1$d dispositivi.</string>
+    <string name="bluetooth_untether_blank">"L'hotspot sarà annullato per %1$s."</string>
     <string name="tethering_help_button_text">Guida</string>
     <string name="network_settings_title">Reti cellulare</string>
     <string name="manage_mobile_plan_title">Piano dati cellulare</string>
@@ -1341,8 +1342,8 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_high_battery_use">Elevato utilizzo della batteria</string>
     <string name="location_low_battery_use">Basso utilizzo della batteria</string>
     <string name="location_mode_screen_title">Modalità di geolocalizzazione</string>
-    <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e cellulare per stabilire la posizione</string>
-    <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e cellulare per stabilire la posizione</string>
+    <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e Cellulare per stabilire la posizione</string>
+    <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e Cellulare per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
     <string name="location_menu_scanning">Scansione</string>
     <string name="location_scanning_screen_title">Scansione</string>
@@ -1361,7 +1362,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="use_location_title">Posizione e ricerca Google</string>
     <string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
     <string name="location_access_title">Accesso alla posizione</string>
-    <string name="location_access_summary">Consenti alle applicazioni di utilizzare le informazioni sulla tua posizione</string>
+    <string name="location_access_summary">Consenti alle applicazioni che hanno chiesto la tua autorizzazione di utilizzare le informazioni sulla tua posizione</string>
     <string name="location_sources_heading">Fonti di geolocalizzazione</string>
     <string name="about_settings">Informazioni sul dispositivo</string>
     <string name="about_settings_summary">Visualizza informazioni legali, stato, versione del software</string>
@@ -1431,9 +1432,9 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="applications_settings_header">Impostazioni applicazioni</string>
     <string name="install_applications">Origini sconosciute</string>
     <string name="install_applications_title">Consenti tutte le sorgenti delle app</string>
-    <string name="install_unknown_applications_title">"Permetti l'installazione di app non provenienti da Google Play"</string>
-    <string name="install_unknown_applications">"Consenti l'installazione di app provenienti da fonti sconosciute"</string>
-    <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app provenienti da fonti sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
+    <string name="install_unknown_applications_title">Consente di installare le applicazioni da fonti diverse Google Play</string>
+    <string name="install_unknown_applications">"Consenti l'installazione di applicazioni da fonti sconosciute"</string>
+    <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app con origini sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
     <string name="advanced_settings">Impostazioni avanzate</string>
     <string name="advanced_settings_summary">Attiva altre impostazioni</string>
     <string name="application_info_label">Informazioni applicazione</string>
@@ -1671,7 +1672,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="bugreport_in_power">Segnalazioni di bug nel menu di accensione</string>
     <string name="bugreport_in_power_summary">Includi opzione per aprire una segnalazione bug nel menu di accensione</string>
     <string name="keep_screen_on">Rimani attivo</string>
-    <string name="keep_screen_on_summary">Lo schermo non va mai in sospensione se il dispositivo è in carica</string>
+    <string name="keep_screen_on_summary">Lo schermo non va mai in stand-by se sotto carica</string>
     <string name="bt_hci_snoop_log">Attiva log di esame HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Acquisisci tutti i pacchetti HCI Bluetooth in un file</string>
     <string name="oem_unlock_enable">Abilita sblocco OEM</string>
@@ -1685,7 +1686,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="mock_location_app_set">App posizioni fittizie: %1$s</string>
     <string name="debug_view_attributes">Abilita visualizzazione ispezione attributi</string>
     <string name="debug_networking_category">Rete</string>
-    <string name="wifi_display_certification">Certificazione display wireless</string>
+    <string name="wifi_display_certification">Certificazione Display wireless</string>
     <string name="wifi_verbose_logging">Abilita Logging verbose Wi-Fi</string>
     <string name="wifi_aggressive_handover">Aggressivo handover Wi-Fi a rete cellulare</string>
     <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi-Fi Roam Scans</string>
@@ -1707,7 +1708,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
     <string name="dev_settings_warning_message">"Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso."</string>
     <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
-    <string name="verify_apps_over_usb_summary">Controlla che le applicazioni installate tramite ADB/ADT non abbiano un comportamento dannoso</string>
+    <string name="verify_apps_over_usb_summary">Controlla che le applicazioni installate tramite ADB/ADT non abbiano un comportamento dannoso.</string>
     <string name="enforce_read_external_title">Proteggi archivio USB</string>
     <string name="enforce_read_external_summary">"Le app devono richiedere l'autorizzazione per leggere l'archivio USB"</string>
     <string name="enforce_read_external_confirm_title">"Proteggere l'archivio USB?"</string>
@@ -1741,7 +1742,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_display_title">Display</string>
     <string name="accessibility_captioning_title">Sottotitoli</string>
     <string name="accessibility_screen_magnification_title">Gesti di ingrandimento</string>
-    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.\n\nDopo avere aumentato lo zoom puoi:\n<ul><li>Eseguire una panoramica: trascina due o più dita sullo schermo.</li>\n<li>Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale.</li></ul>\n\nPuoi anche ingrandire temporaneamente l\'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.\n\nNota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
+    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.\n\nDopo avere aumentato lo zoom puoi:\n"<ul><li>"Eseguire una panoramica: trascina due o più dita sullo schermo."</li>\n<li>"Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale."</li></ul>\n\n"Puoi anche ingrandire temporaneamente l\'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.\n\nNota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
     <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
     <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
     <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
@@ -1753,7 +1754,7 @@ Passaggio 2. Tocca con due dita e tieni premuto finché senti un suono di confer
 
 Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia nella Schermata di blocco, l'accessibilità viene attivata temporaneamente fino allo sblocco del dispositivo."</string>
     <string name="accessibility_toggle_large_text_preference_title">Testo grande</string>
-    <string name="accessibility_toggle_high_text_contrast_preference_title">Testo ad alto contrasto</string>
+    <string name="accessibility_toggle_high_text_contrast_preference_title">Testo ad Alto contrasto</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Ingrandimento schermo</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Aggiorn. autom. ingrandim. schermo</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Aggiorna ingrandimento schermo per transizioni app</string>
@@ -1784,14 +1785,14 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="captioning_custom_options_title">Opzioni personalizzate</string>
     <string name="captioning_background_color">Colore sfondo</string>
     <string name="captioning_background_opacity">Opacità sfondo</string>
-    <string name="captioning_window_color">Colore finestra sottotitoli</string>
-    <string name="captioning_window_opacity">Opacità finestra sottotitoli</string>
+    <string name="captioning_window_color">Cattura colore finestra</string>
+    <string name="captioning_window_opacity">Cattura opacità finestra</string>
     <string name="captioning_foreground_color">Colore del testo</string>
     <string name="captioning_foreground_opacity">Opacità testo</string>
     <string name="captioning_edge_color">Colore bordo</string>
     <string name="captioning_edge_type">Tipo di bordo</string>
-    <string name="captioning_typeface">Stile carattere</string>
-    <string name="captioning_preview_text">I sottotitoli verranno visualizzati così</string>
+    <string name="captioning_typeface">Famiglia di caratteri</string>
+    <string name="captioning_preview_text">I sottotitoli verranno visualizzati come segue:</string>
     <string name="captioning_preview_characters">Aa</string>
     <string name="locale_default">Predefinita</string>
     <string name="color_title">Colore</string>
@@ -2802,7 +2803,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="summary_range_verbal_combination">%1$s di %2$s</string>
     <string name="zen_mode_calls">Chiamate</string>
     <string name="zen_mode_messages">Messaggi</string>
-	<string name="zen_mode_from">Chiamate/Messaggi da</string>
+    <string name="zen_mode_from">Chiamate/Messaggi da</string>
     <string name="zen_mode_selected_messages">Messaggi selezionati</string>
     <string name="zen_mode_from_anyone">Da chiunque</string>
     <string name="zen_mode_from_contacts">Solo dai contatti</string>
@@ -3055,11 +3056,11 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="write_settings_off">No</string>
     <string name="msim_sim_radio_off">Disattivo</string>
     <string name="forbidden_switch_apn_string">"Le impostazioni APN selezionate non coincidono con il tipo di rete in uso"</string>
-    <string name="ad_service">Servizi pubblicitari (AD)</string>
-    <string name="use_personalized_ad_service">Pubblicità personalizzate</string>
-    <string name="reset_aaid">"Resetta identificatore AD"</string>
+    <string name="ad_service">Servizi Pubblicitari (AD)</string>
+    <string name="use_personalized_ad_service">Personalizza AD</string>
+    <string name="reset_aaid">"Azzera l'identificatore per AD"</string>
     <string name="aaid_info">"
-L'identificatore AD è un ID unico e permanente legato al tuo dispositivo. I venditori lo utilizzano per selezionare il contenuto di maggiore interesse per te.
+L'identificatore AD è un ID unico permanente legato al tuo dispositivo. I venditori lo utilizzano per selezionare il contenuto di maggiore interesse per te.
 
 Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma vedrai pubblicità meno interessanti."</string>
     <string name="confirm_reset_aaid">OK</string>
@@ -3071,7 +3072,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="do_not_disturb_mode">Non disturbare</string>
     <string name="dndm_notification">Modalità Non disturbare attivata.</string>
     <string name="dndm_open">Non disturbare</string>
-    <string name="dndm_summary">"Quando l'opzione \"Non disturbare\" è attiva, le chiamate e le notifiche vengono silenziate."</string>
+    <string name="dndm_summary">"Quando l'opzione \"Non disturbare\" è attiva, le chiamate e gli avvisi ricevuti mentre il dispositivo è in standby saranno in modalità Silenziosa."</string>
     <string name="dndm_auto_setting_group">Programmazione</string>
     <string name="dndm_auto_button_title">Programmato</string>
     <string name="dndm_auto_time_setting">Fascia oraria</string>
@@ -3187,7 +3188,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_touch_sensitive_title">Modalità guanti</string>
     <string name="search_screen_effect">Colori e saturazione</string>
     <string name="search_screen_saver_settings">Screensaver</string>
-    <string name="search_screen_paper_mode">Modalità Lettura</string>
+    <string name="search_screen_paper_mode">Modalità lettura</string>
     <string name="search_gesture_wakeup_title">Attiva con doppio tocco</string>
     <string name="search_sound_settings">Suono;Volume;modalità silenzia;sveglia;musica;Vibrate;Phone ringtone;Default notification sound;Message received;Message delivered;Touch;Screen lock sound;Audio Impostazioni;Suppress noise</string>
     <string name="search_ring_volume">Volume suoneria</string>
@@ -3235,8 +3236,6 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_access_control">Accesso</string>
     <string name="search_date_time">Ora e data</string>
     <string name="search_choose_timezone">Scegli fuso orario</string>
-	<string name="default_date_format">dd/MM/yyyy</string>
-	<string name="normal_date_format">Regionale (%s)</string>
     <string name="search_children_mode_title">Modalità genitore</string>
     <string name="search_language">Lingua</string>
     <string name="search_language_picker_title">Lingua</string>
@@ -3310,10 +3309,10 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_slot_status_title">IMEI</string>
     <string name="search_micloud">Sincronizza;Mi Clound</string>
     <string name="networks_title">Reti cellulari</string>
-    <string name="path_network_settings">Impostazioni/SIM e reti mobili</string>
-    <string name="path_apn_settings">Impostazioni/SIM e reti mobili/SIM/Nomi punti di accesso</string>
-    <string name="path_preferred_network_type_settings">Impostazioni/SIM e reti mobili/Tipologia di rete preferita</string>
-    <string name="path_networks_title">Impostazioni/SIM e reti mobili/Operatori di rete</string>
+    <string name="path_network_settings">Impostazioni/SIM e rete mobile</string>
+    <string name="path_apn_settings">Impostazioni/SIM e rete mobile/SIM/Nomi punti di accesso</string>
+    <string name="path_preferred_network_type_settings">Impostazioni/SIM e rete mobile/Tipologia di rete preferita</string>
+    <string name="path_networks_title">Impostazioni/SIM e rete mobile/Operatori di rete</string>
     <string name="path_wifi_settings">Impostazioni/Wi-Fi</string>
     <string name="path_wifi_enable">Impostazioni/Wi-Fi/Attiva Wi-Fi</string>
     <string name="path_advanced_settings">Impostazioni/Wi-Fi/Impostazioni aggiuntive</string>
@@ -3367,8 +3366,8 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="path_screen_effect_settings">Impostazioni/Display/Colore e saturazione</string>
     <string name="path_touch_sensitive_title">Impostazioni/Display/Modalità guanti</string>
     <string name="path_screen_saver_settings">Impostazioni/Display/Blocca schermo</string>
-    <string name="path_screen_optimize">Impostazioni/Display/Colori e contrasto</string>
-    <string name="path_screen_paper_mode">Impostazioni/Display/Modalità Lettura</string>
+    <string name="path_screen_optimize">Impostazioni/Display/Colore e contrasto</string>
+    <string name="path_screen_paper_mode">Impostazioni/Display/Modalità lettura</string>
     <string name="path_gesture_wakeup_title">Impostazioni/Display/Doppio tocco sullo schermo per attivarlo</string>
     <string name="path_accelerometer_settings">Impostazioni/Display/Rotazione automatica</string>
     <string name="path_sound_settings">Impostazioni/Suoni e vibrazione</string>
@@ -3410,7 +3409,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="path_dndm_auto_button_title">Impostazioni/Non disturbare/Fascia oraria</string>
     <string name="path_dndm_alarm_content">Impostazioni/Non disturbare/Eccezioni</string>
     <string name="path_dndm_repeated_call_setting_title">Impostazioni/Non disturbare/Chiamate ripetute</string>
-    <string name="path_children_mode_settings">Impostazioni/Impostazioni aggiuntive/Modalità Genitore</string>
+    <string name="path_children_mode_settings">Impostazioni/Impostazioni aggiuntive/Modalità genitore</string>
     <string name="path_oldman_mode">Impostazioni/Modalità semplificata</string>
     <string name="path_edge_handgrip">Impostazioni/Controlli laterali</string>
     <string name="path_other_advanced_settings">Impostazioni/Impostazioni aggiuntive</string>
@@ -3439,12 +3438,12 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="path_force_touch">Impostazioni/Impostazioni aggiuntive/3D Touch</string>
     <string name="path_device_info_memory">Impostazioni/Memoria</string>
     <string name="path_storage_settings">Impostazioni/Memoria/Pulizia</string>
-    <string name="path_led_settings">Impostazioni/Impostazioni aggiuntive/LED di notifica</string>
+    <string name="path_led_settings">Impostazioni/Impostazioni aggiuntive/LED notifica</string>
     <string name="path_key_settings">Impostazioni/Impostazioni aggiuntive/Tasti</string>
     <string name="path_app_switch_key">Impostazioni/Impostazioni aggiuntive/Tasti/Recenti</string>
     <string name="path_home_key">Impostazioni/Impostazioni aggiuntive/Tasti/Home</string>
     <string name="path_back_key">Impostazioni/Impostazioni aggiuntive/Tasti/Indietro</string>
-    <string name="path_screen_key_long_press_timeout">Impostazioni/Impostazioni aggiuntive/Tasti/Durata pressione prolungata</string>
+    <string name="path_screen_key_long_press_timeout">Impostazioni/Impostazioni aggiuntive/Tasti/Definisci la durata della pressione lunga</string>
     <string name="path_button_light_timeout">Impostazioni/Impostazioni aggiuntive/Tasti/Luce tasti</string>
     <string name="path_date_time_settings">Impostazioni/Impostazioni aggiuntive/Data e ora</string>
     <string name="path_choose_timezone">Impostazioni/Impostazioni aggiuntive/Data e ora/Fuso orario</string>
@@ -3471,7 +3470,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="path_power_mode_settings">Impostazioni/Impostazioni aggiuntive/Batteria e prestazioni/Impostazioni consumi</string>
     <string name="path_power_hide_mode_title">Impostazioni/Batteria/Gestisci il consumo da parte delle app</string>
     <string name="path_xiaomi_account">Impostazioni/Mi Account</string>
-    <string name="path_account_list">Impostazioni/Altri account</string>
+    <string name="path_account_list">Impostazioni/Tutti</string>
     <string name="path_sync_settings">Impostazioni/Sincronizzazione</string>
     <string name="path_system_app_settings">Impostazioni/Applicazioni di sistema</string>
     <string name="path_applications_settings">Impostazioni/Applicazioni</string>
@@ -3535,7 +3534,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="available_size">%s disponibile</string>
     <string name="total_size">%s totale</string>
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
-    <string name="account_list">Altri account</string>
+    <string name="account_list">Tutti</string>
     <string name="account_add">Aggiungi</string>
     <string name="xiaomi_account">Mi Account</string>
     <string name="sync_settings">Sincronizzazione</string>
@@ -3609,7 +3608,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="force_touch_demo">Demo</string>
     <string name="screenshot">Screenshot</string>
     <string name="avoid_ui">Evita UI</string>
-    <string name="screenshot_three_gesture">"Scorri tre dita dall'alto verso il basso per screenshot"</string>
+    <string name="screenshot_three_gesture">"Scorri tre dita dall'alto verso il basso per acquisire uno screenshot"</string>
     <string name="screenshot_three_gesture_summary">Altre gesture con tre dita verranno disattivate</string>
     <string name="has_screenshot_sound">Suono screenshot</string>
     <string name="key_settings_title">Tasti</string>
@@ -3624,7 +3623,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="menu_key">Menu</string>
     <string name="home_key">Home</string>
     <string name="back_key">Indietro</string>
-    <string name="screen_key_long_press_timeout">Durata pressione prolungata</string>
+    <string name="screen_key_long_press_timeout">Definisci la durata della pressione lunga</string>
     <string name="under_keyguard">Schermata di blocco</string>
     <string name="long_press_volume_down">Tieni premuto il tasto volume basso</string>
     <string name="enable_snapshot_screenlock">Tieni premuto Indietro per scattare una foto</string>
@@ -3657,9 +3656,9 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="common_settings">Impostazioni rapide</string>
     <string name="battery_settings">Batteria</string>
     <string name="battery_settings_title">Batteria</string>
-    <string name="power_center">Ottimizzazione</string>
+    <string name="power_center">Consumo</string>
     <string name="power_hide_mode_title">Gestisci il consumo da parte delle app</string>
-    <string name="power_hide_mode_summary">"Consente di risparmiare batteria controllando l'attività in background, le connessioni Wi-Fi e dati e l'uso del GPS di ciascuna app"</string>
+    <string name="power_hide_mode_summary">"Consente di risparmiare batteria controllando l'attività in background, la connettività Wi-Fi, la connessione dati e l'uso del GPS"</string>
     <string name="battery_indicator_style">Indicatore batteria</string>
     <string name="power_usage_history">Consumo batteria</string>
     <string name="default_usb_mode">Connessione USB</string>
@@ -3677,11 +3676,11 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="timezone_settings">Fuso orario</string>
     <string name="security_privacy_settings_title">Privacy</string>
     <string name="nearby_wifi">Reti disponibili</string>
-    <string name="delete_saved_network">Eliminazione reti salvate</string>
+    <string name="delete_saved_network">Elimina la rete salvata</string>
     <string name="batch_delete_saved_network">Eliminare la rete salvata: %s?</string>
-    <string name="batch_delete_saved_networks">Eliminare le reti selezionate?</string>
-    <string name="unlock_set_enter_system">Salta schermata di blocco</string>
-    <string name="unlock_set_enter_system_summary">Vai direttamente alla schermata Home dopo lo sblocco</string>
+    <string name="batch_delete_saved_networks">Elimina tutte le reti se</string>
+    <string name="unlock_set_enter_system">Salta Schermata di blocco</string>
+    <string name="unlock_set_enter_system_summary">Vai direttamente alla Schermata Home dopo lo sblocco</string>
     <string name="forget_wifi_message">Il tuo dispositivo non si connetterà più a questa rete automaticamente.</string>
     <string name="button_disconnect_network">Disconnesso dalla rete</string>
     <string name="no_nearby_wifi">Nessuna rete rilevata</string>
@@ -3701,12 +3700,12 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="notification_breathing_light_freq_title">Frequenza illuminazione LED notifiche</string>
     <string name="mms_breathing_light_freq_title">Frequenza illuminazione LED messaggi</string>
     <string name="breathing_light_freq_summary">Illumina quando ricevi nuove notifiche</string>
-    <string name="led_settings">LED di notifica</string>
+    <string name="led_settings">LED notifica</string>
     <string name="led_colors_summary">Notifiche</string>
     <string name="led_frequence_summary">"Imposta l'intervallo di illuminazione del LED"</string>
     <string name="led_pulse_summary">Lampeggia quando ricevi nuove notifiche</string>
     <string name="show_rounded_corners">Mostra angoli arrotondati</string>
-    <string name="pref_operational_key">Tasti di navigazione</string>
+    <string name="pref_operational_key">Tasto funzionale</string>
     <string name="pref_button_light">Luce tasti</string>
     <string name="pref_button_light_summary">Retroilluminazione tasti Menu, Home e Indietro</string>
     <string name="button_light_timeout">Retroilluminazione tasti</string>
@@ -3743,7 +3742,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="wifi_wapi_cert_cancel_button">Annulla</string>
     <string name="wifi_wapi_cert_uninstall">Disinstalla certificato WAPI</string>
     <string name="wifi_wapi_cert_create_subdir">Crea una cartella</string>
-    <string name="wifi_wapi_cert_delet_subdir">Seleziona un certificato adatto</string>
+    <string name="wifi_wapi_cert_delet_subdir">Selezione un certificato adatto</string>
     <string name="wifi_wapi_as_cert">Certificato AS</string>
     <string name="wifi_wapi_user_cert">Certificato utente</string>
     <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Inserisci il nome della cartella</string>
@@ -3796,6 +3795,12 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="master_clear_personal_data_application">"Vuoi eliminare i tuoi dati e le app scaricate? Quest'azione è irreversibile!"</string>
     <string name="master_clear_personal_data_sdcard">"Vuoi eliminare i tuoi dati ed i contenuti? Quest'azione è irreversibile!"</string>
     <string name="master_clear_all">"Vuoi eliminare tutti i dati dalla memoria interna del tuo dispositivo? Quest'azione è irreversibile!"</string>
+    <string name="button_text_ok">OK</string>
+    <string name="button_text_ok_timer">OK (%d)</string>
+    <string name="button_text_cancel">Annulla</string>
+    <string name="master_clear_apply_title">Attenzione</string>
+    <string name="master_clear_apply_step_1">Il Ripristino alle Condizioni di Fabbrica cancellerà tutti i tuoi dati, comprese foto, canzoni, note ed altri dati personali. Assicurati di aver eseguito un backup dei dati importanti sul  computer.</string>
+    <string name="master_clear_apply_step_2">Assicurati di aver eseguito un backup dei dati importanti sul  computer. Durante il ripristino verranno cancellati tutti i dati presenti sul dispositivo. Non potrai più recuperare i tuoi dati senza un backup.</string>
     <string name="master_clear_erase_application_progress">Eliminazione app\u2026</string>
     <string name="erase_internal_storage">Elimina il contenuto della memoria</string>
     <string name="erase_internal_storage_description">Elimina musica, foto, video, e tutti i dati utente</string>
@@ -3957,22 +3962,22 @@ ed esegui il software."</string>
     <string name="filter_apps_cached">Nella cache</string>
     <string name="screen">Schermo</string>
     <string name="system">Sistema</string>
-    <string name="screen_color_temperature">Temperatura colore</string>
+    <string name="screen_color_temperature">Temperatura colori</string>
     <string name="screen_saturation">Saturazione colori</string>
     <string name="screen_color_temperature_and_saturation">Temperatura e saturazione colori</string>
     <string name="screen_effect">Contrasto e colori</string>
     <string name="screen_optimize">Contrasto</string>
-    <string name="screen_color_and_optimize">Colori e contrasto</string>
+    <string name="screen_color_and_optimize">Colore e contrasto</string>
     <string name="screen_color_and_optimize_disabled">Impossibile regolare la temperatura del colore in modalità Lettura</string>
     <string name="screen_paper_mode_title">Modalità Lettura</string>
     <string name="screen_paper_mode_summary">Riduce la luminosità di fondo</string>
-    <string name="screen_paper_mode_time_title">Programmata</string>
+    <string name="screen_paper_mode_time_title">Programmato</string>
     <string name="paper_mode_start_time_title">Inizio</string>
     <string name="paper_mode_end_time_title">Fine</string>
     <string name="screen_paper_mode_turn_on">Attivata</string>
     <string name="screen_paper_mode_turn_off">Disattivata</string>
-    <string name="screen_paper_mode_apps_title">Utilizzano la modalità Lettura</string>
-    <string name="screen_paper_mode_off_apps_title">Non utilizzano la modalità Lettura</string>
+    <string name="screen_paper_mode_apps_title">Utilizza la modalità Lettura per queste applicazioni</string>
+    <string name="screen_paper_mode_off_apps_title">Non utilizzare la modalità Lettura per queste applicazioni</string>
     <string name="screen_paper_mode_adjust_level">Intensità</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Aggiorna automaticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Aggiorna la lista delle applicazioni compatibili con la modalità Lettura</string>
@@ -3982,10 +3987,10 @@ ed esegui il software."</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">OK</string>
     <string name="screen_paper_mode_range_title">Impostazioni</string>
     <string name="screen_paper_mode_global_title">Tutte le applicazioni</string>
-    <string name="screen_paper_mode_global_summary">Utilizza la modalità Lettura per tutte le applicazioni</string>
+    <string name="screen_paper_mode_global_summary">Utilizza la modalità lettura per tutte le applicazioni</string>
     <string name="screen_paper_mode_local_title">Applicazioni selezionate</string>
-    <string name="screen_paper_mode_local_summary">Utilizza la modalità Lettura solo per le applicazioni selezionate</string>
-    <string name="screen_paper_mode_set_apps_title">Applicazioni modalità Lettura</string>
+    <string name="screen_paper_mode_local_summary">Utilizza la modalità lettura solo per le applicazioni selezionate</string>
+    <string name="screen_paper_mode_set_apps_title">Applicazioni modalità lettura</string>
     <string name="screen_paper_mode_apps_loading">Solo un attimo\u2026</string>
     <string name="screen_resolution_title">Risoluzione dello schermo</string>
     <string name="screen_resolution_switch">Modifica risoluzione</string>
@@ -4014,8 +4019,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router supporti il WPS e che sia abilitato</string>
     <string name="retry">Riprova</string>
-    <string name="brightness_auto_adjust_off">La retroilluminazione rimarrà invariata in ogni condizione di luce.</string>
-    <string name="brightness_auto_adjust_on">La retroilluminazione varierà in base alla luce ambientale.</string>
+    <string name="brightness_auto_adjust_off">La retroilluminazione rimarrà invariata in ogni condizione di luce</string>
+    <string name="brightness_auto_adjust_on">La retroilluminazione varierà in base alla luce ambientale</string>
     <string name="private_sms_need_to_unlock">Password richiesta:</string>
     <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
@@ -4032,7 +4037,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
  per lo Spazio Secondario"</string>
     <string name="cancel_alert">Annullare le modifiche?</string>
     <string name="android_beam_witch_label">Attiva Android Beam</string>
-    <string name="sim_management_title">SIM e reti mobili</string>
+    <string name="sim_management_title">SIM e rete mobile</string>
     <string name="sim_radio_off">Non attivato</string>
     <string name="slot_status_title">Informazione IMEI</string>
     <string name="next_button_label">Avanti</string>
@@ -4062,9 +4067,9 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="wifi_available_title">Connettiti al Wi-Fi</string>
     <string name="msg_wlan_signal_found">"È disponibile un punto d'accesso Wi-Fi %s, vuoi connetterti ora?"</string>
     <string name="wifi_signal_found_msg">"Punto d'accesso Wi-Fi disponibile, vuoi connetterti ora?"</string>
-    <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
+    <string name="miui_data_usage_menu_metered">Hotspot Dati cellulare</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
-    <string name="saved_wifi">Reti salvate</string>
+    <string name="saved_wifi">Rete salvata</string>
     <string name="saved_wifi_delete">Elimina</string>
     <string name="wifi_enable_data_and_wifi_roam">Roaming Dati e Wi-Fi</string>
     <string name="wifi_enable_data_and_wifi_roam_summary">Passa alla connessione dati quando la connessione dati e il Wi-Fi provano a collegarsi e il Wi-Fi non può accedere a internet.</string>
@@ -4184,7 +4189,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="xiaomi_router_notif_summary">Avvisa quando un router Xiaomi è disponibile</string>
     <string name="xiaomi_router_available_notif_title">Un router Xiaomi è disponibile</string>
     <string name="xiaomi_router_available_notif_summary">Tocca per visualizzare</string> 
-    <string name="accessibility_screen_magnification_enable">"Gesti d'ingrandimento"</string>
+    <string name="accessibility_screen_magnification_enable">"Gesti per l'ingrandimento"</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Lo schermo wireless è disattivato perché il Wi-Fi è spento</string>
     <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere ad una rete Wi-Fi. Dopo la configurazione potrai passare dalla connessione dati alla rete Wi-Fi e viceversa.</string>
     <string name="toast_need_login">Accedi al tuo Mi Account</string>
@@ -4464,7 +4469,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="children_mode_title">Modalità Genitore</string>
     <string name="children_mode_tips_on">Dopo aver disattivato la modalità Genitore, tocca il tasto Home per tornare alla Home</string>
     <string name="children_mode_tips_off">Dopo aver attivato la modalità Genitore, tocca il tasto Home per tornare alla Home</string>
-    <string name="children_mode_enable_title">Modalità Genitore</string>
+    <string name="children_mode_enable_title">Modalità genitore</string>
     <string name="children_mode_set_apps_title">Applicazioni accessibili</string>
     <string name="set_password_title">Imposta password</string>
     <string name="set_password_message">Imposta una password per disattivare la modalità Genitore e per lo sblocco del dispositivo</string>
@@ -4472,7 +4477,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="confirm_action">OK</string>
     <string name="set_password_action">Imposta password</string>
     <string name="deny_sms_title">Blocca SMS</string>
-    <string name="deny_sms_message">Impedisci alle app installate di inviare SMS</string>
+    <string name="deny_sms_message">Non consentire alle app installate di inviare SMS</string>
     <string name="wakeup_for_keyguard_notification_title">Attiva lo schermo al ricevimento di notifiche</string>
     <string name="pref_edge_handgrip">Comandi laterali</string>
     <string name="edge_mode_notification_title">Utilizza i comandi laterali</string>
@@ -4498,7 +4503,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="crypt_keeper_decrypt_methods">"Dopo aver criptato il tuo dispositivo e impostato il Blocco schermo (cioè una sequenza, un PIN o una password), dovrai sbloccare lo schermo per decriptare il dispositivo ogni volta che lo accendi. L'unico altro modo per decriptarlo è eseguire un ripristino di fabbrica, eliminando così tutti i tuoi dati"</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se hai crittografato il telefono, devi inserire la password, PIN o sequenza di sblocco ad ogni ravvio per decrittografare."</string>
     <string name="crypt_keeper_conditions_title">Info sulla criptazione del tuo dispositivo</string>
-    <string name="crypt_keeper_conditions">"La criptazione richiede un'ora o anche più. Inizia quando la batteria è carica e mantieni il dispositivo collegato alla corrente per tutta la durata dell'operazione. Se la interrompi, potresti perdere alcuni o anche tutti i tuoi dati."</string>
+    <string name="crypt_keeper_conditions">"La criptazione richiede un'ora o anche più. Inizia quando la batteria è carica e mantieni il dispositivo collegato alla corrente per tutta la durata dell'operazione. Se lo interrompi, perderai alcuni o anche tutti i tuoi dati."</string>
     <string name="application_lock_name">Blocco applicazioni</string>
     <string name="connecting_to_vpn">Connetto alla VPN</string>
     <string name="vpn_on">ON</string>
@@ -4506,6 +4511,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="apply_fingerprint_to_category_title">Usa impronta digitale per\u2026</string>
     <string name="fingerprint_list_title">Gestione impronte\u0020</string>
     <string name="add_fingerprint_text">Aggiungi impronta digitale</string>
+    <string name="manage_fingerprint_text">Gestisci impronte</string>
     <string name="delete_fingerprint_text">Rimuovi impronta digitale</string>
     <string name="delete_fingerprint_confirm_msg">"Vuoi rimuovere l'impronta digitale?"</string>
     <string name="fingerprint_identify_msg">"Lettura dell'impronta\u2026"</string>
@@ -4518,6 +4524,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="add_fingerprint_put_finger_title">Posiziona il dito</string>
     <string name="add_fingerprint_put_finger_msg">Dopo il tocco del sensore, solleva il dito e ripeti.</string>
     <string name="add_fingerprint_put_finger_edge_msg">Dopo il tocco del sensore solleva il dito e ripeti.</string>
+    <string name="add_fingerprint_name_suggest_text">Nome impronta</string>
+    <string name="add_fingerprint_success_msg">Aggiunta correttamente</string>
     <string name="add_fingerprint_done_title">Finito.</string>
     <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il dispositivo con le impronte digitali.</string>
     <string name="information_dialog_button_text">Ho capito</string>
@@ -4568,14 +4576,14 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="usb_format_summary">Verranno eliminati tutti i dati della memoria USB, come musica e foto</string>
     <string name="usb_mount">Monta memoria USB</string>
     <string name="usb_mount_summary"/>
-    <string name="usb_insert_summary">Inserire una memoria USB da montare</string>
+    <string name="usb_insert_summary">Inserire una memoria USB da caricare</string>
     <string name="fp_nav_center_back_to_home_title">Premi il tasto Home per tornare alla schermata Home</string>
     <string name="convenience_key_category_title">Scorciatoie</string>
     <string name="single_key_use">Utilizzo tasto singolo</string>
     <string name="single_key_use_summary">Il tasto Home, a differenza degli altri due tasti per le normali operazioni</string>
     <string name="settings_forbidden_message">Questa impostazione è disattivata</string>
     <string name="auto_disable_screenbuttons_title">Disattiva automaticamente i tasti di navigazione</string>
-    <string name="auto_disable_screenbuttons_summary">Disattiva automaticamente i tasti di navigazione quando utilizzi certe app. Tocca due volte qualsiasi tasto di navigazione per riattivarli.</string>
+    <string name="auto_disable_screenbuttons_summary">Disattiva automaticamente i tasti di navigazione quando utilizzi certe app. Tocca due volte qualsiasi tasto di navigazione per riattivarlo.</string>
     <string name="auto_disable_screenbuttons_ask">Chiedi se disattivare</string>
     <string name="auto_disable_screenbuttons_auto">Disattiva sempre</string>
     <string name="auto_disable_screenbuttons_no">Non disattivare mai</string>
@@ -4596,7 +4604,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="bootloader_apply_step_4">"Potrebbe comportare la diffusione o la perdita dei dati, o anche danni irreparabili all'hardware."</string>
     <string name="bootloader_apply_step_5">Assicurati di sapere come usare la modalità Fastboot prima di attivarla.</string>
     <string name="usb_install_app">Installa tramite USB</string>
-    <string name="usb_install_app_desc">Consenti installazione app tramite USB</string>
+    <string name="usb_install_app_desc">Consenti installazione USB</string>
     <string name="usb_adb_input">Debug USB (Impostazioni di sicurezza)</string>
     <string name="usb_adb_input_desc">Consenti permessi e simulazione input tramite debug USB</string>
     <string name="bootloader_status">Stato Mi Unlock</string>
@@ -4727,6 +4735,23 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="privacy_password_transparent_tiltle" />
     <string name="smartcover_lock_or_unlock_screen_tittle">Sblocco schermo con smart cover</string>
     <string name="smartcover_sensitive_summary">Blocca o sblocca facilmente il telefono con la smart cover</string>
+    <string name="fingerprint_first_open_screen_password_tittle">Impronta (imposta una password lockscreen prima di utilizzarla)</string>
+    <string name="password_turned_on_text">La password è stata attivata</string>
+    <string name="password_turned_off_text">La password è stata disattivata</string>
+    <string name="keyguard_advance_setting_title">Impostazioni avanzate</string>
+    <string name="lock_screen_signature_title">Firma lockscreen</string>
+    <string name="lock_screen_signature_summary">La firma verrà visualizzata sulla lockscreen</string>
+    <string name="fingerprint_apply_to_privacy_password">Password di protezione privacy</string>
+    <string name="fingerprint_apply_to_privacy_password_scenarios">La password di Protezione Privacy tiene al sicuro i tuoi messaggi, foto, file, note e app.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Non sarai in grado di sbloccare il dispositivo con la tua impronta dopo aver disattivato la password per la lockscreen</string>
+    <string name="turn_off_keyguard_password_alert_title">Disattiva</string>
+    <string name="new_password_to_new_fingerprint_dialog_tittle">Aggiungi impronta</string>
+    <string name="new_password_to_new_fingerprint_dialog_msg">Aggiungi la tua impronta digitale per sbloccare il telefono con essa.</string>
+    <string name="new_password_to_new_fingerprint_dialog_positive_msg">Aggiungi</string>
+    <string name="new_password_to_new_fingerprint_dialog_negative_msg">Annulla</string>
+    <string name="turn_on_keyguard_password">Attiva la password per la lockscreen</string>
+    <string name="fingerprint_manage">Gestisci impronte</string>
+    <string name="turn_off_keyguard_password_confirm_msg">Disattivare la password lockscreen?</string>
     <string name="music_audio_effect_optimize">Impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>

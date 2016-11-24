@@ -51,4 +51,13 @@
         <item>Jansa</item>
         <item>Grandinata</item>
     </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Muovi app</item>
+        <item>Widget</item>
+        <item>Sfondi</item>
+        <item>Transizioni</item>
+    </string-array>
+    <string-array name="quality_business_devices">
+        <item>Lithium</item>
+    </string-array>
 </resources>
