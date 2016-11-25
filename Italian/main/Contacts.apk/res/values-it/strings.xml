@@ -814,7 +814,7 @@ Le schede contatti sono disattivate"</string>
     <string name="callrecordview_menu_conference">Audio conferenza</string>
     <string name="openDialKeyboard">Tastierino</string>
     <string name="t9_search_guide_pinyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
-    <string name="t9_search_guide_pinyin_title2">Inserisci 9 e 4 per cercare Xiaomi Hugo</string>
+    <string name="t9_search_guide_pinyin_title2">Inserisci 9 e 9 per cercare Xiaomi Hugo</string>
     <string name="t9_search_guide_zhuyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
     <string name="t9_search_guide_zhuyin_title2">Inserisci 5 e 6 per cercare Jeff Max</string>
     <string name="date_time_set">Imposta</string>
@@ -842,12 +842,12 @@ Le schede contatti sono disattivate"</string>
     <string name="delete_unknown_contact_calllog_title">Cancellare il registro chiamate?</string>
     <string name="callrecordview_menu_batch_delete">Eliminazione multipla</string>
     <string name="delete_call_log_selected_title">Cancellare il registro chiamate selezionato?</string>
-    <string name="multi_number_title">Audioconferenza</string>
+    <string name="multi_number_title">Audio conferenza</string>
     <string name="multi_number_menu_call">Chiama</string>
     <string name="multi_number_menu_message">Messaggio</string>
     <string name="multi_number_menu_group">Nuovo gruppo</string>
     <string name="multi_number_menu_delete">Elimina</string>
-    <string name="video_call">Videochiamata</string>
+    <string name="video_call">Video chiamata</string>
     <string name="copy_number">Copia</string>
     <string name="edit_contact_card_title">Modifica dettagli contatto</string>
     <string name="preview_contact_card_title">Importazione contatti…</string>
@@ -882,7 +882,7 @@ Le schede contatti sono disattivate"</string>
     <string name="preference_import">Importa</string>
     <string name="preference_export">Esporta</string>
     <string name="preference_others">Altro</string>
-    <string name="wipe_data">Cancella dati</string>
+    <string name="wipe_data">Azzera dati</string>
     <string name="display_only_phones">Nascondi numeri incompleti</string>
     <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
     <string name="scan_merge">Ricerca contatti duplicati…</string>
@@ -946,7 +946,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="ic_menu_done">Fatto</string>
     <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
     <string name="share_over_limit">Limite superato, impossibile condividere</string>
-    <string name="preference_key_trash_bin_title">Ripristino contatti</string>
+    <string name="preference_key_trash_bin_title">Cerca tra i backup dei contatti eliminati di recente</string>
     <string name="account_default">Dispositivo</string>
     <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
     <string name="option_view_contact">Mostra</string>
@@ -1254,7 +1254,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="dialer_menu_description">Tocca per mostrare il tastierino</string>
     <string name="back_view_description">Tocca per tornare indietro</string>
     <string name="voip_audio_description">Tocca per effettuare una chiamata VoIP</string>
-    <string name="voip_video_description">Tocca per effettuate una videochiamata VoIP</string>
+    <string name="voip_video_description">Tocca per effettuate una video chiamata VoIP</string>
     <string name="menu_newContactButton">Aggiungi</string>
     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
     <string name="dialer_digits_copy_number_label">Numero copiato</string>
@@ -1279,4 +1279,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="fraud_more_indemnity">Altro</string>
     <string name="telecom_fraud_insurance">Assicurazione contro truffa telematica</string>
     <string name="telecom_fraud_insurance_description">Assicurazione di 10,000 CNY | Offerta esclusiva di Xiaomi | 9.9 CNY/anno</string>
+    <string name="yesterday">Ieri</string>
+    <string name="tomorrow">Domani</string>
 </resources>
