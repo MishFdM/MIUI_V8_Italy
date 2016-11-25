@@ -59,6 +59,8 @@
     <string name="fingerprint_try_again_text">Prova di nuovo</string>
     <string name="fingerprint_not_identified_title">Impossibile leggere le impronte digitali</string>
     <string name="fingerprint_not_identified_msg">Inserisci la password per sbloccare il dispositivo.</string>
+    <string name="fingerprint_add_title">Aggiungi impronta</string>
+    <string name="fingerprint_add_text">"L'interfaccia impronta è stata aggiornata. Aggiunngi di nuovo la tua impronta"</string>
     <string name="invalid_sim_pin_hint">Digita un PIN tra 4 e 8 numeri</string>
     <string name="invalid_sim_puk_hint">Il codice PUK dovrebbe essere di 8 o più numeri</string>
     <string name="input_password_hint_text">Inserisci password</string>

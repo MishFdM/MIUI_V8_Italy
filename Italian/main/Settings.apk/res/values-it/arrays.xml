@@ -957,6 +957,7 @@
         <item>Foto</item>
         <item>File</item>
         <item>Note</item>
+        <item>App lock</item>
         <item>Modalità Genitore</item>
     </string-array>
 </resources>
