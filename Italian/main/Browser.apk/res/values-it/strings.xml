@@ -60,7 +60,7 @@
     <string name="date_picker_dialog_other_button_label">Altro</string>
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="date_picker_dialog_clear">Cancella</string>
-    <string name="autofill_popup_content_description">MOstra popup riempimento automatico</string>
+    <string name="autofill_popup_content_description">Mostra popup riempimento automatico</string>
     <string name="password_generation_popup_content_description">Mostra popup generazione password</string>
     <string name="autofill_keyboard_accessory_content_description">Suggerimento disponibile</string>
     <string name="updating_chrome">Aggiornamento Chrome...</string>
