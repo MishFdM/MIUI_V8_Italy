@@ -725,7 +725,10 @@ Sono rimasti %d tentativo(i)."</string>
     <string name="card_title_callconnectingect">Chiamata in corso (trasferita)</string>
     <string name="card_title_callconnectedect">Connesso (trasferita)</string>
     <string name="card_title_deflectedcall">Chiamata deviata</string>
-    <string name="notification_voicemail_title">Nuovo messaggio vale</string>
+	<string name="notification_missedCallsTitle">Chiamate perse</string>
+    <string name="notification_missedCallsMsg">%s chiamate perse</string>
+    <string name="notification_missedCallTicker">Chiamata persa da %s</string>
+    <string name="notification_voicemail_title">Nuovo messaggio vocale</string>
     <string name="notification_voicemail_title_count">Nuovo messaggio in segreteria (%d)</string>
     <string name="notification_voicemail_text_format">Componi %s</string>
     <string name="notification_voicemail_no_vm_number">Numero della segreteria sconosciuto</string>
@@ -1112,7 +1115,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="preference_dial_pad_touch_tone_piano">Pianoforte</string>
     <string name="preference_dial_pad_touch_tone_off">Off</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
-    <string name="telephony_setting">Impostazioni chiamata</string>
+    <string name="telephony_setting">Chiamate</string>
     <string name="msim_setting_screen_title">SIM e rete mobile</string>
     <string name="msim_setting_categery_title">Impostazioni SIM</string>
     <string name="msim_general_setting">Impostazioni comuni</string>
