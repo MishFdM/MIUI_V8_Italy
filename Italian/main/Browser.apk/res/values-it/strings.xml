@@ -10,6 +10,7 @@
     <string name="next_button_label">Avanti</string>
     <string name="actionbar_share">Condividi</string>
     <string name="actionbar_web_search">Ricerca web</string>
+    <string name="actionbar_textselection_title">Selezione testo</string>
     <string name="media_player_error_title">Impossibile riprodurre il video</string>
     <string name="media_player_error_text_invalid_progressive_playback">Spiacenti, non è possibile riprodurre questo video in streaming su questo dispositivo.</string>
     <string name="media_player_error_text_unknown">Spiacenti, non è possibile riprodurre questo video.</string>
@@ -61,6 +62,8 @@
     <string name="date_picker_dialog_clear">Cancella</string>
     <string name="autofill_popup_content_description">Mostra popup riempimento automatico</string>
     <string name="password_generation_popup_content_description">Mostra popup generazione password</string>
+    <string name="autofill_keyboard_accessory_content_description">Suggerimento disponibile</string>
+    <string name="updating_chrome">Aggiornamento Chrome...</string>
     <string name="private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="license_activity_title">System WebView licenses</string>
     <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
@@ -125,6 +128,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="video_buffering_percent">"Caricamento "</string>
     <string name="video_float_window_playing">Riproduzione video</string>
     <string name="video_float_window">PopUp</string>
+    <string name="permission_alert_window">"Per utilizzare questa funzione, attiva la visualizzazione delle finestre pop-up."</string>
+    <string name="permission_unknown">Opzione sconosciuta</string>
     <string name="loading_tips">Trascina per aggiornare</string>
     <string name="up_to_loading_tips">Rilascia per aggiornare</string>
     <string name="miuishare_app_name">MiuiShare</string>
@@ -677,7 +682,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_extras_reset_default_dlg">Ripristinare le impostazioni ai valori predefiniti?</string>
     <string name="pref_font_size_category">Dimensioni testo</string>
     <string name="pref_key_gesture_title">Tasti e gesti</string>
-    <string name="pref_volume_key_action">Scrolla con tasti volume</string>
+    <string name="pref_volume_key_action">Scorri con i tasti volume</string>
     <string name="pref_fling_on_border_enabled">Swipe dal bordo</string>
     <string name="pref_fling_on_border_enabled_title_summary">Esegui swipe dal bordo sinistro o destro dello schermo per cambiare scheda</string>
     <string name="pref_content_search_engine">Imposta motore di ricerca preferito</string>
@@ -839,4 +844,5 @@ finestra riservata​"</string>
     <string name="view_document_downloaded_files">Accedi ai file scaricati del Gestore download</string>
     <string name="no_app_open_document">Nessuna app disponibile per gestire questa azione</string>
     <string name="not_allowed_open">"Impossibile utilizzare il Browser all'avvio"</string>
+    <string name="low_memory_toast">Impossibile utilizzare il Browser a causa di memoria insufficiente</string>
 </resources>

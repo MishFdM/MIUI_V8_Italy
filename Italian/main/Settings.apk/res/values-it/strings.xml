@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="defalut_launcher_title">Launcher predefinito</string>
+    <string name="miui_screen_config_title">Configurazione schermo launcher MIUI</string>
+    <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
+    <string name="lock_screen_cells_title">Spazi lockscreen</string>
+    <string name="screen_cells_config_title">Configurazione spazi schermo</string>
     <string name="status_bar_and_notification_bar">Barra notifiche e barra di stato</string>
     <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
@@ -414,7 +419,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="date_time_set_timezone">Seleziona fuso orario</string>
     <string name="date_time_set_date_title">Data</string>
     <string name="date_time_set_date">Imposta data</string>
-	<string name="date_time_date_format_title">Formato data</string>
+    <string name="date_time_date_format_title">Formato data</string>
     <string name="date_time_date_format">Scegli formato data</string>
     <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
     <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
@@ -772,6 +777,8 @@ Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare i
     <string name="wifi_unspecified">(non specificati)</string>
     <string name="wifi_wps_available_first_item">WPS disponibile</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibile)"</string>
+    <string name="wifi_secured_first_item">Sicurezza con %1$s</string>
+    <string name="wifi_secured_second_item">, sicurezza con %1$s</string>
     <string name="wifi_wps_nfc_enter_password">Inserisci la tua password di rete</string>
     <string name="wifi_scan_always_turnon_message">"Per migliorare la precisione della posizione e per altri scopi, %1$s chiede di attivare la ricerca della rete, anche quando il Wi-Fi è disattivato.
 
@@ -2802,7 +2809,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="summary_range_verbal_combination">%1$s di %2$s</string>
     <string name="zen_mode_calls">Chiamate</string>
     <string name="zen_mode_messages">Messaggi</string>
-	<string name="zen_mode_from">Chiamate/Messaggi da</string>
+    <string name="zen_mode_from">Chiamate/Messaggi da</string>
     <string name="zen_mode_selected_messages">Messaggi selezionati</string>
     <string name="zen_mode_from_anyone">Da chiunque</string>
     <string name="zen_mode_from_contacts">Solo dai contatti</string>
@@ -3235,8 +3242,8 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_access_control">Accesso</string>
     <string name="search_date_time">Ora e data</string>
     <string name="search_choose_timezone">Scegli fuso orario</string>
-	<string name="default_date_format">dd/MM/yyyy</string>
-	<string name="normal_date_format">Regionale (%s)</string>
+    <string name="default_date_format">dd/MM/yyyy</string>
+    <string name="normal_date_format">Regionale (%s)</string>
     <string name="search_children_mode_title">Modalità genitore</string>
     <string name="search_language">Lingua</string>
     <string name="search_language_picker_title">Lingua</string>
@@ -3796,6 +3803,12 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="master_clear_personal_data_application">"Vuoi eliminare i tuoi dati e le app scaricate? Quest'azione è irreversibile!"</string>
     <string name="master_clear_personal_data_sdcard">"Vuoi eliminare i tuoi dati ed i contenuti? Quest'azione è irreversibile!"</string>
     <string name="master_clear_all">"Vuoi eliminare tutti i dati dalla memoria interna del tuo dispositivo? Quest'azione è irreversibile!"</string>
+    <string name="button_text_ok">OK</string>
+    <string name="button_text_ok_timer">OK (%d)</string>
+    <string name="button_text_cancel">Annulla</string>
+    <string name="master_clear_apply_title">Attenzione</string>
+    <string name="master_clear_apply_step_1">Il Ripristino alle Condizioni di Fabbrica cancellerà tutti i tuoi dati, comprese foto, canzoni, note ed altri dati personali. Assicurati di aver eseguito un backup dei dati importanti sul  computer.</string>
+    <string name="master_clear_apply_step_2">Assicurati di aver eseguito un backup dei dati importanti sul  computer. Durante il ripristino verranno cancellati tutti i dati presenti sul dispositivo. Non potrai più recuperare i tuoi dati senza un backup.</string>
     <string name="master_clear_erase_application_progress">Eliminazione app\u2026</string>
     <string name="erase_internal_storage">Elimina il contenuto della memoria</string>
     <string name="erase_internal_storage_description">Elimina musica, foto, video, e tutti i dati utente</string>
@@ -4506,6 +4519,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="apply_fingerprint_to_category_title">Usa impronta digitale per\u2026</string>
     <string name="fingerprint_list_title">Gestione impronte\u0020</string>
     <string name="add_fingerprint_text">Aggiungi impronta digitale</string>
+    <string name="manage_fingerprint_text">Gestisci impronte</string>
     <string name="delete_fingerprint_text">Rimuovi impronta digitale</string>
     <string name="delete_fingerprint_confirm_msg">"Vuoi rimuovere l'impronta digitale?"</string>
     <string name="fingerprint_identify_msg">"Lettura dell'impronta\u2026"</string>
@@ -4518,6 +4532,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="add_fingerprint_put_finger_title">Posiziona il dito</string>
     <string name="add_fingerprint_put_finger_msg">Dopo il tocco del sensore, solleva il dito e ripeti.</string>
     <string name="add_fingerprint_put_finger_edge_msg">Dopo il tocco del sensore solleva il dito e ripeti.</string>
+    <string name="add_fingerprint_name_suggest_text">Nome impronta</string>
+    <string name="add_fingerprint_success_msg">Aggiunta correttamente</string>
     <string name="add_fingerprint_done_title">Finito.</string>
     <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il dispositivo con le impronte digitali.</string>
     <string name="information_dialog_button_text">Ho capito</string>
@@ -4727,6 +4743,23 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="privacy_password_transparent_tiltle" />
     <string name="smartcover_lock_or_unlock_screen_tittle">Sblocco schermo con smart cover</string>
     <string name="smartcover_sensitive_summary">Blocca o sblocca facilmente il telefono con la smart cover</string>
+    <string name="fingerprint_first_open_screen_password_tittle">Impronta (imposta una password lockscreen prima di utilizzarla)</string>
+    <string name="password_turned_on_text">La password è stata attivata</string>
+    <string name="password_turned_off_text">La password è stata disattivata</string>
+    <string name="keyguard_advance_setting_title">Impostazioni avanzate</string>
+    <string name="lock_screen_signature_title">Firma lockscreen</string>
+    <string name="lock_screen_signature_summary">La firma verrà visualizzata sulla lockscreen</string>
+    <string name="fingerprint_apply_to_privacy_password">Password di protezione privacy</string>
+    <string name="fingerprint_apply_to_privacy_password_scenarios">La password di Protezione Privacy tiene al sicuro i tuoi messaggi, foto, file, note e app.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Non sarai in grado di sbloccare il dispositivo con la tua impronta dopo aver disattivato la password per la lockscreen</string>
+    <string name="turn_off_keyguard_password_alert_title">Disattiva</string>
+    <string name="new_password_to_new_fingerprint_dialog_tittle">Aggiungi impronta</string>
+    <string name="new_password_to_new_fingerprint_dialog_msg">Aggiungi la tua impronta digitale per sbloccare il telefono con essa.</string>
+    <string name="new_password_to_new_fingerprint_dialog_positive_msg">Aggiungi</string>
+    <string name="new_password_to_new_fingerprint_dialog_negative_msg">Annulla</string>
+    <string name="turn_on_keyguard_password">Attiva la password per la lockscreen</string>
+    <string name="fingerprint_manage">Gestisci impronte</string>
+    <string name="turn_off_keyguard_password_confirm_msg">Disattivare la password lockscreen?</string>
     <string name="music_audio_effect_optimize">Impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, cuffie ed altre impostazioni audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>

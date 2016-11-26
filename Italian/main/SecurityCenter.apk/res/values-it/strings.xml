@@ -276,6 +276,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
     <string name="mi_service_traffic_detail">Dettagli framework</string>
     <string name="none_mi_service_app_detail">Vuoto</string>
+    <string name="label_mi_stats">Statistiche Mi</string>
     <string name="show_traffic_dialog_title">Mostra utilizzo nel pannello delle notifiche</string>
     <string name="show_traffic_dialog_message">Le informazioni di utilizzo dato verranno mostrate nel pannello delle notifiche. Puoi attivare o disattivare questa funzione in Utilizzo dati > Impostazioni</string>
     <string name="tc_sms_report_title">Segnala bug utilizzo dati</string>
@@ -660,7 +661,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="quick_optimize_no_issue_title">Impossibile trovare i problemi batteria</string>
     <string name="quick_optimize_no_issue_subtitle">Tutto sembra in buono stato</string>
     <string name="quick_optimize_no_issue">Nessun problema batteria rilevato</string>
-    <string name="quick_optimize_sub_summary_text">Aggiunti %sdi vita alla batteria</string>
+    <string name="quick_optimize_sub_summary_text">Aggiunti %s di durata alla batteria</string>
     <string name="quick_optimize_checking">Scansione</string>
     <string name="btn_text_optimize_now">Ottimizza</string>
     <string name="btn_text_optimize_manually">Ottimizza manualmente</string>
