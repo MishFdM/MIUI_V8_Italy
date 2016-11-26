@@ -3295,7 +3295,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_account_list">Other accounts;Account;Accounts</string>
     <string name="search_sync_settings">Sync;Auto;WLAN only</string>
     <string name="search_system_app_settings">App di sistema</string>
-    <string name="search_application_settings">App instalalte</string>
+    <string name="search_application_settings">App installate</string>
     <string name="search_app_permission">Permissions;Root access</string>
     <string name="search_permission_settings_title">Permessi app</string>
     <string name="search_application_lock">Blocco applicazioni</string>

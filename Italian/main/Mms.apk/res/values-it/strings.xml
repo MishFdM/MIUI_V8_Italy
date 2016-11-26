@@ -672,7 +672,7 @@
     <string name="from_pkg_name">"Dall'app:"</string>
     <string name="hybrid_check_network">Impostazioni di rete</string>
     <string name="hybrid_try_again">Prova di nuovo</string>
-    <string name="hybrid_network_unavaliable">Impossibile collegarsi alal rete</string>
+    <string name="hybrid_network_unavaliable">Impossibile collegarsi alla rete</string>
     <string name="hybrid_network_access_denied">Accesso di rete negato</string>
     <string name="hybrid_service_unavailiable">Il servizio non è disponibile</string>
     <string name="hybrid_data_error">SI è verificato un errore</string>
