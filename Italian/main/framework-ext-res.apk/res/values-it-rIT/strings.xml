@@ -15,7 +15,7 @@
     <string name="status_bar_toggle_vibrate">Vibrazione</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_power_mode">Consumo</string>
-    <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
+    <string name="status_bar_toggle_wifi_ap">Hotspot</string>
     <string name="status_bar_toggle_quiet_mode">Non disturb.</string>
     <string name="status_bar_toggle_paper_mode">Lettura</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
@@ -80,8 +80,8 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="global_actions_reboot">Riavvia</string>
     <string name="global_actions_shutdown">Spegni</string>
     <string name="global_actions_silent_mode">Modalità silenziosa</string>
-    <string name="reboot_info_auto_boot">Il dispositivo si avvierà alle %s grazie alla pianificazione di avvio automatico</string>
-    <string name="reboot_info_shutdown_alarm">"Il dispositivo si avvierà e suonerà ' %s '"</string>
+    <string name="reboot_info_auto_boot">Il dispositivo è programmato per avviarsi alle %s</string>
+    <string name="reboot_info_shutdown_alarm">"La sveglia suonerà alle %s"</string>
     <string name="key_btn_space">Spazio</string>
     <string name="key_btn_ok">OK</string>
     <string name="lockscreen_access_pattern_start">Sequenza avviata</string>

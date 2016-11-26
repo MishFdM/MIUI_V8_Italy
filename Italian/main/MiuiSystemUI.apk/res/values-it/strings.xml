@@ -220,7 +220,7 @@ scorri in basso per bloccare"</string>
     <string name="camera_key_action_shortcut_title">Collegamento</string>
     <string name="camera_key_action_toggle_title">Comando veloce</string>
     <string name="camera_key_action_app_title">Apri applicazione</string>
-    <string name="camera_key_action_shortcut_home">Torna alla schermata home</string>
+    <string name="camera_key_action_shortcut_home">Torna alla Home</string>
     <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
     <string name="camera_key_action_shortcut_search">Cerca</string>
     <string name="camera_key_action_shortcut_call">Chiama</string>

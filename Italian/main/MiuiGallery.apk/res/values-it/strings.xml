@@ -456,8 +456,8 @@
     <string name="album_page_label">Album</string>
     <string name="other_album">Altri album</string>
     <string name="crop_label">Ritaglia</string>
-    <string name="name_split">,</string>
-    <string name="more_album_hint">,etc</string>
+    <string name="name_split">, </string>
+    <string name="more_album_hint">, etc</string>
     <string name="runtime_permission_ungranted">Galleria chiusa per mancanza permessi</string>
     <string name="not_remind_again">Non mostrare più</string>
     <string name="yes">Sì</string>
@@ -619,7 +619,7 @@
     <string name="album_others_share_baby_info_format">Album bambino da %s</string>
     <string name="album_already_forced_top">Già top</string>
     <string name="album_show_local_only">Mostra solo album locali</string>
-    <string name="album_show_local_only_summary">Attiva per vedere ed eliminare solo sul tuo dispositivo</string>
+    <string name="album_show_local_only_summary">Attiva per vedere ed eliminare solo le foto sul tuo dispositivo</string>
     <string name="menu_item_sort_size">Dim.</string>
     <string name="menu_item_sort_date">Data</string>
     <string name="menu_item_sort_name">Nome</string>
@@ -634,7 +634,7 @@
     <string name="exit_video_play">Esci</string>
     <string name="picker_title_selection_format">%d selezionati</string>
     <string name="picker_title_format">puoi selezionare %d</string>
-    <string name="picker_title_unlimit">seleziona immagine</string>
+    <string name="picker_title_unlimit">Seleziona immagine</string>
     <string name="picker_full_format">%d elementi al massimo.</string>
     <string name="picker_image_need_download">%d delle foto selezionate non sono sul dispositivo. Scaricare utilizzando la rete dati cellulare?</string>
     <string name="picker_origin_need_download">%1$d delle foto selezionate non sono sul dispositivo (%2$d MB). Scaricare utilizzando la rete dati cellulare?</string>
@@ -911,7 +911,7 @@
     <string name="enable_face_album_title">Ordina per contatti</string>
     <string name="enable_face_album_summary">Ordina automaticamente le foto in base alle persone ritratte</string>
     <string name="slim_after_backuped_title">Ottimizza lo spazio locale dopo il backup</string>
-    <string name="slim_after_backuped_summary">Sostituisci le foto in locale ad alta risoluzione con versioni ottimizzate dopo il backup su Mi Cloud. Questa procedura ottimizza lo spazio della memoria interna.</string>
+    <string name="slim_after_backuped_summary">Sostituisci le foto ad alta risoluzione sul dispositivo con versioni ottimizzate dopo il backup su Mi Cloud. Questa procedura può farti guadagnare molto spazio sulla memoria interna.</string>
     <string name="browse_category_title">Sfoglia</string>
     <string name="show_hidden_album_title">Mostra gli album nascosti</string>
     <string name="slideshow_interval_title">Mostra ogni slide per</string>
@@ -927,8 +927,8 @@
     <string name="welcome_to_micloud">Benvenuto in Mi Cloud</string>
     <string name="micloud_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="welcome_to_slim">"Benvenuto nell'album slim"</string>
-    <string name="slim_introduce">Sostituisci foto/video ad alta risoluzione in locale con versioni ottimizzate dopo il caricamento su Mi Cloud. Le foto ad alta risoluzione saranno archiviate su Mi Cloud. Puoi risparmiare fino al 90% di spazio (è necessario un Mi Account).</string>
-    <string name="slim_introduce_with_specific_size">Sostituisci foto/video ad alta risoluzione in locale con versioni ottimizzate dopo il caricamento su Mi Cloud. Le foto ad alta risoluzione saranno archiviate su Mi Cloud. Risparmi %1$s (è necessario un Mi Account).</string>
+    <string name="slim_introduce">Sostituisci le foto ad alta risoluzione sul dispositivo con versioni ottimizzate dopo il backup su Mi Cloud. Le foto ad alta risoluzione saranno disponibili su Mi Cloud.</string>
+    <string name="slim_introduce_with_specific_size">Sostituisci le foto ad alta risoluzione sul dispositivo con versioni ottimizzate dopo il backup su Mi Cloud. Le foto ad alta risoluzione saranno disponibili su Mi Cloud. Spazio guadagnato: %1$s (è necessario un Mi Account).</string>
     <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="next">Avanti</string>
     <string name="login_and_enable_service">"Esegui l'accesso ed utilizza Mi Cloud"</string>

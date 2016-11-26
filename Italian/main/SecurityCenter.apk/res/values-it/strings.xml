@@ -1456,7 +1456,7 @@ o inserisci la password"</string>
     <string name="apps_item_virus_summary_uninstalled">Apk</string>
     <string name="apps_item_sign_install_button_text">Sostituisci</string>
     <string name="apps_item_sign_dialog_title">"Installa versione ufficiale dell'app"</string>
-    <string name="apps_item_sign_dialog_content">"La firma di \"%s\ è diversa da quella nell\'App Store. Eliminare questa app ed installare la versione ufficiale? Nota: installando un'app con una firma diversa si potrebbe incorrere in perdite di dati."</string>
+    <string name="apps_item_sign_dialog_content">"La firma di %s è diversa dalla versione presente nell\'App Store. Eliminare questa app ed installare la versione ufficiale? Nota: installare un'app con una firma diversa potrebbe causare la perdita di dati applicazione."</string>
     <string name="wifi_item_title_connection">Connessione Wi-Fi</string>
     <string name="wifi_item_title_encryption">Crittografia Wi-Fi</string>
     <string name="wifi_item_title_fake">Riconosci Wi-Fi fasulle</string>

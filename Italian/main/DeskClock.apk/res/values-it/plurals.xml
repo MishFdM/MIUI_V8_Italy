@@ -29,8 +29,8 @@
         <item quantity="one">Sospensione per %d minuto.</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">Le sveglie verranno silenziate dopo %d minuti</item>
-        <item quantity="one">Le sveglie verranno silenziate dopo %d minuto</item>
+        <item quantity="other">La sveglia verrà silenziata dopo %d minuti</item>
+        <item quantity="one">La sveglia verrà silenziata dopo %d minuto</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Eliminare le sveglie selezionate?</item>

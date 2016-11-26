@@ -20,8 +20,8 @@
         <item>uguale a</item>
     </string-array>
     <string-array name="mortgage_repayment">
-        <item>Quote costanti di capitali e interessi (rimborso mensile pari)</item>
-        <item>Pari principali (detratto da rimborso mensile)</item>
+        <item>Rate costanti</item>
+        <item>Rate decrescenti</item>
     </string-array>
     <array name="unit_data_order_currency_" />
 </resources>
