@@ -104,11 +104,8 @@
     <string name="cancel_btn_label">Annulla</string>
     <string name="default_folder_title_tools">Strumenti</string>
     <string name="default_folder_title_recommend">Preferiti</string>
-    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_game">Giochi</string>
     <string name="default_folder_title_security">Sistema</string>
-    <string name="default_folder_title_telcel">Telcel</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="wallpaper_settings">Impostazioni sfondo</string>
     <string name="choose_wallpaper">Scegli sfondo</string>
     <string name="current_preview">Anteprima</string>
