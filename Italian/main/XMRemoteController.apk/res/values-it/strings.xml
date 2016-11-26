@@ -263,8 +263,8 @@
     <string name="match_ac_intro_power">Rilascia quando il condizionatore si spegne</string>
     <string name="match_ac_name_mode">Raffreddamento</string>
     <string name="match_ac_name_power">Spegni</string>
-    <string name="match_ch_inc">"E' passato al canale successivo?"</string>
-    <string name="match_chl_dec">"E' passato al canale precedente?"</string>
+    <string name="match_ch_inc">"È passato al canale successivo?"</string>
+    <string name="match_chl_dec">"È passato al canale precedente?"</string>
     <string name="match_count_frame">Accoppia telecomandi %1$d / %2$d</string>
     <string name="match_count_tip_frame">Pulsanti di test ( %1$d / %2$d)</string>
     <string name="match_data">Dati ottenuti</string>

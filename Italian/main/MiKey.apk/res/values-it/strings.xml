@@ -216,7 +216,7 @@ per eseguire lo scatto"</string>
     <string name="faq_misreq_title">Cosa fare in caso di malfunzionamenti?</string>
     <string name="faq_misreq_text">"Se il controllo della musica nella schermata di blocco non risponde, ferma la musica, rimuovi l'app dalla RAM, riconnetti il Mi Key e riavvia l'app Mi Key. Siamo a conoscenza di questo bug e stiamo lavorando per risolverlo."</string>
     <string name="faq_comp_title">Con quali telefoni è compatibile?</string>
-    <string name="faq_comp_text">"Oltre agli Xiaomi, tutti i telefono di ultima generazione sono in grado di utilizzarlo. Per via di u tasto X aggiuntivo su alcuni Xiaomi, il Mi Key supporta solo i sistemi MIUI-V5. E' inoltre necessario scaricare l'applicazione Mi Key"</string>
+    <string name="faq_comp_text">"Oltre agli Xiaomi, tutti i telefono di ultima generazione sono in grado di utilizzarlo. Per via di u tasto X aggiuntivo su alcuni Xiaomi, il Mi Key supporta solo i sistemi MIUI-V5. È inoltre necessario scaricare l'applicazione Mi Key"</string>
     <string name="faq_voice_title">Non senti nessun suono in chiamata?</string>
     <string name="faq_voice_text">Togli e rimetti il Mi Key ed accertati di aver scelto Mi Key</string>
     <string name="faq_slow_title">La reazione ai click è troppo lenta?</string>

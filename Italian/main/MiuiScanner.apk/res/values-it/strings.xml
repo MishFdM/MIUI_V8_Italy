@@ -166,7 +166,7 @@
     <string name="document_color_picture_tip">Conversione a colori…</string>
     <string name="document_save_succeed_tip">Documento salvato in %1$s</string>
     <string name="document_recognize_fail_tip">Impossibile riconoscere il documento</string>
-    <string name="recognition_error_download_title">"E' necessario il motore di riconoscimento"</string>
+    <string name="recognition_error_download_title">"È necessario il motore di riconoscimento"</string>
     <string name="recognition_error_download_msg">Scarica il motore di riconoscimento per scansionare le schede. La sua dimensione è di circa 15MB.</string>
     <string name="recognition_error_download_ok">Scarica</string>
     <string name="recognition_error_download_cancel">Più tardi</string>

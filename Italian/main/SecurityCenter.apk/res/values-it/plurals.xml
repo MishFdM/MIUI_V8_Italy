@@ -131,31 +131,31 @@
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d app contengono minacce per la privacy</item>
-        <item quantity="one">%d contiene minacce per la privacy</item>
+        <item quantity="one">%d app contiene minacce per la privacy</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">La password dovrebbe contenere almeno %d lettere.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 lettera. "</item>
+        <item quantity="one">"La password dovrebbe contenere almeno 1 lettera."</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">La password dovrebbe contenere almeno %d lettere minuscole.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 lettera minuscola. "</item>
+        <item quantity="one">"La password dovrebbe contenere almeno 1 lettera minuscola."</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
         <item quantity="other">La password dovrebbe contenere almeno %d lettere maiuscole.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 lettera maiuscola. "</item>
+        <item quantity="one">"La password dovrebbe contenere almeno 1 lettera maiuscola."</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">La password dovrebbe contenere almeno %d numeri.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 numero. "</item>
+        <item quantity="one">"La password dovrebbe contenere almeno 1 numero."</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">La password dovrebbe contenere almeno %d simboli speciali numeri.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 simbolo speciali. "</item>
+        <item quantity="other">La password dovrebbe contenere almeno %d simboli speciali.</item>
+        <item quantity="one">"La password dovrebbe contenere almeno 1 simbolo speciale."</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">La password dovrebbe contenere almeno %d caratteri diversi da lettere.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 carattere diverso da lettere. "</item>
+        <item quantity="one">"La password dovrebbe contenere almeno 1 carattere diverso da lettere."</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d app bloccate</item>
@@ -179,12 +179,12 @@
         <item quantity="one">Un elemento</item>
     </plurals>
     <plurals name="sp_back_title_text">
-        <item quantity="other">%s rischi di pagamento</item>
-        <item quantity="one">%s rischio di pagamento</item>
+        <item quantity="other">%s rischi per i pagamenti</item>
+        <item quantity="one">%s rischio per i pagamenti</item>
     </plurals>
     <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s pagamenti app sono protetti</item>
-        <item quantity="one">%s pagamento app è protetto</item>
+        <item quantity="other">%s app di pagamento sono protette</item>
+        <item quantity="one">%s app di pagamento è protetta</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_enable">
         <item quantity="other">%s app sono protette</item>
