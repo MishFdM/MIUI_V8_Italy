@@ -1039,8 +1039,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero indicare erroneamente che MIUI sta impedendo alle app di avviarsi. Per verificare i permessi concessi alle singole app, vai in Impostazioni > Applicazioni</string>
     <string name="button_text_known">OK</string>
     <string name="empty_title_perm_apps">Vuoto</string>
-    <string name="reject_all">Limita tutto</string>
-    <string name="confirm_reject_all_permission">"Limitare tutte le app nell'utilizzo di questa funzione?"</string>
+    <string name="reject_all">Nega a tutte</string>
+    <string name="confirm_reject_all_permission">"Impedire a tutte le app l'utilizzo di questa funzione?"</string>
     <string name="permission_group_title_others">Altri</string>
     <string name="permission_action_accept">Accetta</string>
     <string name="permission_action_prompt">Chiedi sempre</string>
@@ -1113,7 +1113,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="usb_adb_input_apply_step_3">Accertati di aver compreso i rischi prima di dare il consenso. Consentire adesso?</string>
     <string name="adb_install_no_network">Collegati alla rete e prova di nuovo</string>
     <string name="pc_install_manager">"Installa tramite USB"</string>
-    <string name="monitor_requests_from_pc">"Gestisci l'installazione dell'app tramite USB"</string>
+    <string name="monitor_requests_from_pc">"Gestisci l'installazione delle app tramite USB"</string>
     <string name="app_install_intercept">"Blocca l'installazione"</string>
     <string name="pc_to_phone_install">Installazione tramite USB di %s bloccata</string>
     <string name="recently_reject_message_one">%1$s richieste di installazione rifiutate</string>
@@ -1431,7 +1431,7 @@ o inserisci la password"</string>
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
     <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
     <string name="activity_title_safepay">Sicurezza pagamenti</string>
-    <string name="suffix_pay_risk_count_top">rischi</string>
+    <string name="suffix_pay_risk_count_top">Rischi</string>
     <string name="suffix_pay_risk_count_bottom">pagamento</string>
     <string name="handle_bar_title_wifi">Wi-Fi</string>
     <string name="handle_bar_title_system">Sistema</string>
