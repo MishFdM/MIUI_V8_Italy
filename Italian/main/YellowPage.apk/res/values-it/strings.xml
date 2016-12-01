@@ -125,7 +125,7 @@
     <string name="mark_number_check_dialog_title">Componi numero</string>
     <string name="mark_number_check_most_choice">(Altre Scelte Utente)</string>
     <string name="mark_number_check_choose_others">Scegli altri</string>
-    <string name="mark_number_feedback_personal_number">"E' un numero personale"</string>
+    <string name="mark_number_feedback_personal_number">"È un numero personale"</string>
     <string name="mark_number_feedback_not_number">Non è il numero di %s</string>
     <string name="mark_number_delete_confirm_title">Rimuovi le informazioni</string>
     <string name="mark_number_delete_confirm_message">Rimuovere le informazioni per %s ?</string>
@@ -161,7 +161,7 @@
     <string name="turn_off_smart_antispam_hint">Disattivare la protezione per le chiamate da numeri sconosciuti?</string>
     <string name="about_phone_event">Informazioni sul servizio</string>
     <string name="phone_event_setting_notice_text">Utilizzando questa funzione accetti %1$s e %2$s.</string>
-    <string name="phone_event_setting_notice_text_with_contacts_permission">"Utilizzando questa funzione accetti %1$s e %2$s. E' richiesto l'accesso ai tuoi contatti."</string>
+    <string name="phone_event_setting_notice_text_with_contacts_permission">"Utilizzando questa funzione accetti %1$s e %2$s. È richiesto l'accesso ai tuoi contatti."</string>
     <string name="agree_to_turn_on">Concordo</string>
     <string name="payment_back">Indietro</string>
     <string name="payment_failed_common_problems">Si è verificato un errore durante il pagamento.</string>

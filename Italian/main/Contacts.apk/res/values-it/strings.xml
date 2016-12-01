@@ -638,7 +638,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="generic_no_account_prompt_title">Aggiungi un account</string>
     <string name="contact_editor_prompt_zero_accounts">Non verrà effettuato il backup del nuovo contatto. Vuoi aggiungere un account per gestire il backup dei contatti online?</string>
     <string name="contact_editor_prompt_one_account">Il nuovo contatto verrà sincronizzato con %1$s.</string>
-    <string name="contact_editor_prompt_multiple_accounts">Puoi sincronizzare il nuovo contatto con uno dei seguenti account. Quale desideri utilizzare?</string>
+    <string name="contact_editor_prompt_multiple_accounts">Sincronizzare il nuovo contatto con:</string>
     <string name="keep_local">Memorizza in locale</string>
     <string name="add_account">Aggiungi account</string>
     <string name="add_new_account">Aggiungi nuovo account</string>

@@ -61,7 +61,7 @@
     <string name="remain_flow">Statistiche traffico</string>
     <string name="no_install">Non installato</string>
     <string name="commute_setting_brief">Ricevi percorsi e suggerimenti prima della partenza</string>
-    <string name="taxi_setting_brief">"E' necessario contattare un taxi in base al percorso progettato, chiamalo con un tasto."</string>
+    <string name="taxi_setting_brief">"È necessario contattare un taxi in base al percorso progettato, chiamalo con un tasto."</string>
     <string name="music_setting_brief">"Inserisci le cuffie per continuare ad ascoltare l'ultimo brano riprodotto o la radio."</string>
     <string name="groupon_setting_brief">在合适的时间展示已购的机票、火车票、电影票、团购券信息。</string>
     <string name="exercise_setting_brief">随时查看运动数据。</string>

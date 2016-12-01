@@ -484,7 +484,7 @@ Vorrei alzarmi quando sono del tutto sveglio"</string>
     <string name="system_low_info">"Il tuo telefono utilizza Android 4.3+, utilizzare quest'app potrebbe non essere compatibile. È raccomandato l'aggiornamento ad Android 4.4 o superiore il prima possibile."</string>
     <string name="system_low_title">Aggiorna il sistema</string>
     <string name="system_not_support_info">"Il tuo sistema non è sufficientemente aggiornato.
-E' necessario Android 4.4 o superiore. "</string>
+È necessario Android 4.4 o superiore. "</string>
     <string name="system_not_support_title">Il sistema non supporta Mi Band</string>
     <string name="time_format_hour_min">" %1$s ore %2$s min"</string>
     <string name="time_format_min">%s Min</string>
