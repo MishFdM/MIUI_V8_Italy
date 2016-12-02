@@ -1481,7 +1481,7 @@ o inserisci la password"</string>
     <string name="result_sms_info_auth">"Limita l'accesso ad app di terze parti per i codici di verifica"</string>
     <string name="toast_set_success">Aperto correttamente</string>
     <string name="toast_reject_sms_read_permission_success">Impostato correttamente</string>
-    <string name="sp_settings_title_input_method">Metodo d'inserimento sicuro</string>
+    <string name="sp_settings_title_input_method">Metodo d\'inserimento sicuro</string>
     <string name="sp_settings_info_input_method">Utilizza la tastiera di sistema nelle app di pagamento</string>
     <string name="sp_settings_info_monitor">Monitora il sistema quando vengono avviate le app di pagamento</string>
     <string name="scan_status_safe">Sicuro</string>
