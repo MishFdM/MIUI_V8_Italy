@@ -48,7 +48,6 @@ Vuoi utilizzarlo per i pacchetti di ricarica?"</string>
     <string name="livetalk_white_list_number_title">White list senza utilizzo di pacchetto di ricarica</string>
     <string name="operator_first_title">Prima operatore</string>
     <string name="operator_remain_mins">Minuti pacchetto operatore</string>
-    <string name="operator_remain_mins_value">%1$s minuti</string>
     <string name="operator_first_set_failed">Fallito</string>
     <string name="operator_first_sim_card_changed_title">Modifica SIM</string>
     <string name="operator_first_sim_card_changed_summary">Azzera minuti pacchetto operatore</string>
