@@ -117,6 +117,9 @@
     <string name="pref_title_mms_delete">Limiti MMS</string>
     <string name="pref_messages_to_save">Imposta il numero di messaggi da salvare</string>
     <string name="pref_title_storage_status">Stato memoria messaggi</string>
+    <string name="pref_title_about_smart_sms">Informazioni sul partner peri messaggi Smart</string>
+    <string name="about_smart_sms_title">Partner messaggi Smart</string>
+    <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
     <string name="pref_title_mms_auto_retrieval">Recupero automatico</string>
     <string name="pref_summary_mms_auto_retrieval">Prova automaticamente a recuperare il messaggio</string>
     <string name="pref_title_mms_retrieval_during_roaming">Reinvio automatico in roaming</string>

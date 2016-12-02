@@ -179,6 +179,7 @@ scorri in basso per bloccare"</string>
     <string name="description_target_search">Cerca</string>
     <string name="status_bar_date_format_12">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
+    <string name="stat_sys_data_connected_1x_half">1X</string>
     <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
     <string name="status_bar_recent_memory_info2"/>
     <string name="nav_guide_title">Nascondi tasti virtuali</string>
@@ -341,6 +342,7 @@ scorri in basso per bloccare"</string>
     <string name="long_screenshot_stop">Interrompi</string>
     <string name="long_screenshot_processing">Elaborazione…</string>
     <string name="long_screenshot_top_msg">Screenshot lungo in esecuzione…</string>
+    <string name="long_screenshot_top_msg_manual">Ritaglia lo screenshot e tocca il tasto per terminare</string>
     <string name="long_screenshot_out_of_memory_error">"Fallito a causa dell'immagine troppo grande"</string>
     <string name="float_incall_message">Messaggio</string>
     <string name="float_incall_ignore">Ignora</string>

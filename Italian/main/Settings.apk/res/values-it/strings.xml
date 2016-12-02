@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="launcher_title">Home</string>
     <string name="defalut_launcher_title">Launcher predefinito</string>
     <string name="miui_screen_config_title">Configurazione schermo launcher MIUI</string>
     <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
@@ -3257,12 +3258,12 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_trusted_credentials">Trusted credentials</string>
     <string name="search_credentials_install">Install from storage</string>
     <string name="search_security_encryption_title">Encrypt device using lock screen password</string>
-    <string name="search_handy_mode">One_handed mode</string>
+    <string name="search_handy_mode">Modalità mano singola;</string>
     <string name="search_accessibility_settings">Accessibility</string>
     <string name="search_accessibility_captioning_title">Captions</string>
     <string name="search_accessibility_screen_magnification_title">Magnification gestures</string>
     <string name="search_accessibility_global_gesture_preference_title">Accessibility shortcut</string>
-    <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
+    <string name="search_ntts_settings_title">TTS;Impostazioni TTS</string>
     <string name="search_accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
     <string name="search_accessibility_display_daltonizer_preference_title">Color correction</string>
     <string name="search_touch_assistant">Touch assistant</string>
@@ -4683,7 +4684,13 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="anr_record_interval_title">Registra intervalli ANR</string>
     <string name="open_anr_debug">Attiva debugg ANR</string>
     <string name="input_password_hint_text">Inserisci la password</string>
+    <string name="miui_enable_service_title">Il servizio eseguirà queste azioni:</string>
     <string name="storage_wizard_format_confirm_third_body">Il ^1 verrà formattato</string>
+    <string name="resetting_second_space_passwd">Reimpostazione password spazio Secondario</string>
+    <string name="reset_second_space_passwd">Reimpostazione password spazio Secondario</string>
+    <string name="reset_second_space_passwd_detail">Inserisci la password del  Mi Account utilizzata nello spazio Primario</string>
+    <string name="reset_second_space_passwd_confirm">Continua</string>
+    <string name="reset_second_space_passwd_cancel">Annulla</string>
     <string name="path_pn_settings">Impostazioni/Reti mobili/Nomi punti di accesso</string>
     <string name="keyguard_shortcut_title">Collegamenti</string>
     <string name="keyguard_shortcut_summary">Imposta i collegamenti per 2 app sulla schermata di blocco</string>
@@ -4743,6 +4750,13 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="privacy_password_transparent_tiltle" />
     <string name="smartcover_lock_or_unlock_screen_tittle">Sblocco schermo con smart cover</string>
     <string name="smartcover_sensitive_summary">Blocca o sblocca facilmente il telefono con la smart cover</string>
+    <string name="privacy_password_remind_bindaccont_message">Aggiungi il tuo Mi Account (%s) per poter ripristinare la tua password in caso la dimenticassi.</string>
+    <string name="privacy_password_bind_account">Aggiungi Mi Account</string>
+    <string name="privacy_password_remind_bind_notlogin_account">Aggiungi il tuo Mi Account per poter ripristinare la password in caso la dimenticassi.</string>
+    <string name="privacy_password_bind_account_immediate">Aggiungi</string>
+    <string name="privacy_password_remind_bindaccount_title">Aggiungi Mi Account</string>
+    <string name="privacy_password_never_remind">Non chiedere più</string>
+    <string name="privacy_password_enter_privacy">Inserisci la password di protezione Privacy</string>
     <string name="fingerprint_first_open_screen_password_tittle">Impronta (imposta una password per la schermata di blocco prima di utilizzarla)</string>
     <string name="password_turned_on_text">La password è stata attivata</string>
     <string name="password_turned_off_text">La password è stata disattivata</string>

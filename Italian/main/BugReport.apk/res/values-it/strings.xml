@@ -7,12 +7,12 @@
     <string name="michat_attach_take_photo">Fotocamera</string>
     <string name="michat_back_to_detail">Ritorna alla chat</string>
     <string name="michat_message_copy_info">Copiato negli appunti</string>
-    <string name="michat_mesage_send_error_network">Impossibile inviare, controlla la connessione di rete</string>
+    <string name="michat_message_send_error_network">Impossibile inviare, controlla la connessione di rete</string>
     <string name="michat_failed_to_fetch_fql">Impossibile recuperare le informazioni sulle FAQ, controlla la connessione di rete</string>
     <string name="michat_wait_for_a_moment">Solo un secondo, riceverai aiuto tra poco!</string>
     <string name="michat_product_click_text">Mostra</string>
     <string name="michat_webview_title">Mostra dettagli</string>
-    <string name="michat_mesage_resend_error_network">Impossibile collegarsi alla rete</string>
+    <string name="michat_message_error_network">Impossibile connettersi alla rete</string>
     <string name="michat_menu_copy_text">Copia</string>
     <string name="michat_network_unavaliable">Impossibile recuperare le informazioni, controlla la connessione di rete</string>
     <string name="michat_service_unavailiable">Impossibile recuperare le informazioni, riprova più tardi</string>
@@ -66,7 +66,7 @@
     <string name="michat_invalid_url">URL non valido</string>
     <string name="michat_motto">Mi Support è pronto ad aiutarti</string>
     <string name="michat_no_good_message_title">Questo non risolve il mio problema.</string>
-    <string name="michat_artifical_customer_phone">4001005678</string>
+    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">Se non riesci a chiamare il numero 400, componi %1$s utilizzando un telefono diverso</string>
     <string name="login_system_failed">Impossibile accedere, prova di nuovo</string>
     <string name="dialog_ask_delete">Elimina</string>
@@ -281,4 +281,6 @@
     <string name="module_finance">Finanza e Mi Wallet</string>
     <string name="module_more">Altro</string>
     <string name="module_search">Cerca</string>
+    <string name="feedback_submit_hint">Segnalaci unerrore appena lo rilevi, così ci aiuterai a risolverlo più rapidamente.</string>
+    <string name="toast_post_deleted">Questo argomento non esiste, è stato eliminato o modificato.</string>
 </resources>

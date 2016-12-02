@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Ricerca</string>
+    <string name="search_button">Cerca</string>
     <string name="hot_search">Ricerche frequenti</string>
     <string name="search_history">Cronologia</string>
     <string name="loading">Ricerca…</string>
@@ -14,6 +16,11 @@
     <string name="search_suggestion">Suggerimenti</string>
     <string name="distance_unit_meter">m</string>
     <string name="distance_unit_kilometer">km</string>
+    <string name="search_sources">Elementi ricercabili</string>
+    <string name="corpus_label_web">Cerca app, musica, video, pagine gialle...</string>
+    <string name="corpus_description_web">Segnalibri</string>
+    <string name="corpus_label_apps">App</string>
+    <string name="corpus_description_apps">Applicazioniinstallate</string>
     <string name="cta_declaration_title">Termini del Servizio</string>
     <string name="cta_declaration">Questa opzione richiede una connessione ad internet, accesso alla tua posizione, lettura del registro chiamate e dei contatti per funzionare correttamente.</string>
     <string name="cta_declaration_ignore">Non mostrare più</string>
@@ -30,6 +37,17 @@
     <string name="search_group_unfold">Altro</string>
     <string name="common_setting">Impostazioni generali</string>
     <string name="recent_apps">App consigliate</string>
+    <string name="recent_apps_filter">"Nascondi le app che non utilizzi"</string>
+    <string name="recent_edit">Modifica</string>
+    <string name="recent_edit_done">Fatto</string>
+    <string name="recent_delete_title">Nascondi app</string>
+    <string name="recent_delete_content">"Nascondere queste applicazioni adesso?
+Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
+    <string name="recent_delete_negative">Annulla</string>
+    <string name="recent_delete_positive">OK</string>
+    <string name="recent_close_title">Disattiva funzione</string>
+    <string name="recent_close_content">"Disattivare questa funzione adesso?
+Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
     <string name="entrance_setting">Riavvio ricerca</string>
     <string name="swipe_up_title">Scorri in alto</string>
     <string name="swipe_up_summary">Scorri in alto per avviare la ricerca globale</string>
@@ -53,6 +71,15 @@
     <string name="switch_mms">Messaggi</string>
     <string name="switch_contacts">Contatti</string>
     <string name="switch_setting">Impostazioni</string>
+    <string name="recent_function">Funzioni</string>
+    <string name="recent_filter_functions">Funzioni disattivate</string>
+    <string name="update_title">Aggiornamento disponibile</string>
+    <string name="updated_title">MIUI è aggiornato</string>
+    <string name="update_version_alpha">Alpha</string>
+    <string name="update_version_dev">Beta</string>
+    <string name="update_version_stable">Stabile</string>
+    <string name="update_right_now">Aggiorna</string>
+    <string name="update_check">Verifica aggiornamenti</string>
     <string name="apps_search_activity" />
     <string name="xiaomi_suggest_base" />
     <string name="xiaomi_homepage_suggest" />

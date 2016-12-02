@@ -286,6 +286,7 @@ Assicurati di ricordare le risposte."</string>
     <string name="mipay_center">Mi Wallet</string>
     <string name="mi_pass">Mi Pass</string>
     <string name="mi_insurance">Mi Insurance</string>
+    <string name="mi_family">Mi Home</string>
     <string name="account_settings">Account</string>
     <string name="account_bind_settings">Collega account</string>
     <string name="account_bind_devices">Dispositivi associati</string>
@@ -293,7 +294,6 @@ Assicurati di ricordare le risposte."</string>
     <string name="micloud_space_info">%s disponibili</string>
     <string name="loading_micloud_sync_data">Caricamento…</string>
     <string name="activity_not_found_notice">"Impossibile trovare l'applicazione"</string>
-
     <string name="scan_barcode_title">"Esegui l'accesso sicuro al Mi Account scansionando il codice QR dalla pagina web o dalla TV"</string>
     <string name="authorize_title">Autorizzazione</string>
     <string name="my_device_title">Dispositivo attuale</string>
@@ -380,4 +380,5 @@ Assicurati di ricordare le risposte."</string>
     <string name="oauth_getting_scopes">Verifica account…</string>
     <string name="oauth_get_scopes_failed">Impossibile recuperare le informazioni account</string>
     <string name="oauth_scopes_intro">%2$s riceverà i seguenti permessi: %3$s</string>
+    <string name="guest_account_label">Account Ospite Mi</string>
 </resources>

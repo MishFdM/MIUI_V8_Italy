@@ -663,6 +663,9 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="quick_optimize_no_issue">Nessun problema batteria rilevato</string>
     <string name="quick_optimize_sub_summary_text">Aggiunti %s di durata alla batteria</string>
     <string name="quick_optimize_checking">Scansione</string>
+    <string name="quick_optimize_suggest_battery_over_heat">Il telefono si sta surriscaldando, prendi provvedimenti</string>
+    <string name="quick_optimize_suggest_battery_consume_too_fast">Il telefono si sta scaricando, prendi provvedimenti</string>
+    <string name="btn_text_optimize_extend_battery_time">Aggiungi %s</string>
     <string name="btn_text_optimize_now">Ottimizza</string>
     <string name="btn_text_optimize_manually">Ottimizza manualmente</string>
     <string name="battery_history_activity_title">Cronologia</string>
@@ -976,7 +979,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="activity_title_create_shortcut">Gestore scorciatoie</string>
     <string name="menu_item_notification_title">Mostra nella barra notifiche</string>
     <string name="menu_item_notification_garbage_text">%s</string>
-    <string name="menu_item_notification_garbage_text_error">Errore</string>
     <string name="menu_item_notification_power_text">Batteria</string>
     <string name="menu_item_notification_antispam_text_normal">Spam</string>
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
@@ -1234,6 +1236,15 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="pref_category_title_virus_white_list">Eccezioni</string>
     <string name="pref_title_virus_white_list">Eccezioni</string>
     <string name="pref_summary_virus_white_list">Impedisci alle app selezionate di essere pulite</string>
+    <string name="pref_title_manual_check_virus_db_update">Verifica aggiornamenti</string>
+    <string name="msg_update_error_code_success">Fatto</string>
+    <string name="msg_update_up">Nascondi</string>
+    <string name="virus_dp_update_title">Aggiorna definizioni</string>
+    <string name="virus_update_tips_title">Collegati alla rete Wi-Fi</string>
+    <string name="virus_wait_network_dialog_message">Gli aggiornamenti sono di grandi dimensioni. Connettiti a Wi-Fi per scaricarli.</string>
+    <string name="virus_update_success">Aggiornato correttamente</string>
+    <string name="virus_update_fail">Impossibile aggiornare</string>
+    <string name="virus_already_update">Ledefinizioni sono aggiornate</string>
     <string name="sp_background_risk_dialog_title">Pericoloso</string>
     <string name="sp_background_risk_dialog_summary">, esegui un controllo approfondito e risolvi i pericoli per i pagamenti</string>
     <string name="sp_background_risk_type_wifi">La rete Wi-Fi a cui sei collegato è pericolosa</string>
@@ -1617,4 +1628,5 @@ Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo 
     <string name="sys_app_prot_cracked_confirm">Ho capito</string>
     <string name="sys_app_prot_cracked_login">Accedi al tuo Mi Account</string>
     <string name="confirmSecondSpacePassword">Conferma password Spazio Secondario</string>
+    <string name="sponsored_sec_fb">Sponsorizzati</string>
 </resources>

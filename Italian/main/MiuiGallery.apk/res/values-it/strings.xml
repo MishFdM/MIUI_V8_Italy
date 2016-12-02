@@ -465,11 +465,11 @@
     <string name="home_page_empty">Vuoto</string>
     <string name="people_page_label">Volto</string>
     <string name="people_page_unname">Senza nome</string>
-    <string name="view_baby_album">Mostra album del bambino</string>
     <string name="face_album_rename_hint">Inserisci il nome</string>
     <string name="face_album_use_tip">Ordina automaticamente in base alle persone ritratte.</string>
     <string name="face_album_detecting_tip">Solo un attimo…</string>
-    <string name="face_album_empty">Vuoto</string>
+    <string name="face_album_empty">"Foto non sufficienti per il riconoscimento.
+Scatta più foto ai tuoi amici!"</string>
     <string name="face_album_empty_syncing">Sincronizzazione dati</string>
     <string name="face_album_empty_syncing_when_connect_wifi">I dati sui volti verranno sincronizzati quando connesso ad una rete Wi-Fi</string>
     <string name="start_to_use_face_albumset">Attiva riconoscimento Volti</string>
@@ -494,6 +494,20 @@
     <string name="ignore_album">Non mostrare</string>
     <string name="merge_album">Unisci</string>
     <string name="merge_album_title">Unisci album</string>
+    <string name="face_album_title">%s</string>
+    <string name="all_faces">Tuute le foto con persone</string>
+    <string name="more_face">Altre personeche assomigliano</string>
+    <string name="face_confirm">"E' la stessa persona"</string>
+    <string name="face_recommend">Suggerimenti</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
+    <string name="face_name_input">Nome</string>
+    <string name="face_name_edit">Modifica</string>
+    <string name="confirm_hidden_recommend_group">OK</string>
+    <string name="confirm_hidden_recommend_group_title">Non mostrare i suggerimenti</string>
+    <string name="confirm_hidden_recommend_group_message">QUando i suggerimenti sono disattivati, puoi ancora utilizzare la funzione \"Altre persone che assomigliano\"</string>
+    <string name="remind_face_recommend_confirm">Conferma</string>
+    <string name="empty_recommend_face_page_view">Nessun altro suggerimento</string>
+    <string name="empty_recommend_button_view">Indietro</string>
     <string name="pick_from_contact">Scegli dai contatti</string>
     <string name="create_new_face">Nuovo volto</string>
     <string name="preparing_data">Preparazione…</string>
