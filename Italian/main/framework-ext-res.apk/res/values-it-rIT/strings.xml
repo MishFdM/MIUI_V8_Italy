@@ -36,7 +36,7 @@
     <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
     <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
     <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
-    <string name="screen_rotation_freeze_message">Autorazione disattivata.</string>
+    <string name="screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
     <string name="screen_button_disabled_message">Tasti navigazione disattivati. Per riattivarli, tocca i tasti Home e Power insieme.</string>
     <string name="screen_button_enabled_message">Tasti navigazione attivati.</string>
     <string name="miui">MIUI</string>
