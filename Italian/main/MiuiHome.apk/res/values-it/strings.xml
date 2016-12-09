@@ -14,6 +14,7 @@
     <string name="lock_screen_failed_message">Impossibile applicare</string>
     <string name="lock_screen_success_message">Applicato</string>
     <string name="wallpaper_failed_message">Impossibile applicare lo sfondo</string>
+    <string name="launcher_not_exist">La Home si è bloccata, torna indietro e prova di nuovo.</string>
     <string name="image_too_small_message">"L'immagine originale non è abbastanza grande"</string>
     <string name="failed_to_load_image">"Impossibile caricare l'immagine"</string>
     <string name="wallpaper_success_message">Sfondo applicato con successo</string>
@@ -104,8 +105,11 @@
     <string name="cancel_btn_label">Annulla</string>
     <string name="default_folder_title_tools">Strumenti</string>
     <string name="default_folder_title_recommend">Preferiti</string>
+    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_game">Giochi</string>
     <string name="default_folder_title_security">Sistema</string>
+    <string name="default_folder_title_telcel">Telcel</string>
+    <string name="default_folder_title_claro">Claro</string>
     <string name="wallpaper_settings">Impostazioni sfondo</string>
     <string name="choose_wallpaper">Scegli sfondo</string>
     <string name="current_preview">Anteprima</string>
@@ -121,6 +125,7 @@
     <string name="apply_both">Entrambi</string>
     <string name="enable_wallpaper_scroll">Attiva scorrimento sfondo</string>
     <string name="disable_wallpaper_scroll">Disattiva scorrimento sfondo</string>
+    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="online_wallpaper">Online</string>
     <string name="custom_wallpaper_picker">Sfoglia</string>
     <string name="reset_scene_prompt">La scena verrà ripristinata al layout predefinito</string>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>Combinato</item>
+        <item>Separati</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Scansione</item>
@@ -27,10 +31,6 @@
         <item>Fallito</item>
         <item>Bloccato</item>
         <item>Evita tempor. connessioni deboli</item>
-    </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>Combinato</item>
-        <item>Separati</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
