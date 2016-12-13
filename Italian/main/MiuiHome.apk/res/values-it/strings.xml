@@ -14,6 +14,7 @@
     <string name="lock_screen_failed_message">Impossibile applicare</string>
     <string name="lock_screen_success_message">Applicato</string>
     <string name="wallpaper_failed_message">Impossibile applicare lo sfondo</string>
+    <string name="launcher_not_exist">La Home si è bloccata, torna indietro e prova di nuovo.</string>
     <string name="image_too_small_message">"L'immagine originale non è abbastanza grande"</string>
     <string name="failed_to_load_image">"Impossibile caricare l'immagine"</string>
     <string name="wallpaper_success_message">Sfondo applicato con successo</string>

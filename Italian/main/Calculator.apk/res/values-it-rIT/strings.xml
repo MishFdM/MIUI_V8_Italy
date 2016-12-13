@@ -137,14 +137,18 @@
     <string name="tax_birth">Nascita</string>
     <string name="tax_income_error">Inserisci un reddito corretto</string>
     <string name="tax_param_error">Inserisci il tasso di interesse corretto</string>
+    <string name="tax_city_error">Inserisci la città esatta</string>
     <string name="tax_result_real_get">Reale</string>
     <string name="tax_income_before_tax">Reddito al netto di tasse</string>
     <string name="tax_city_picker">Città</string>
     <string name="tax_income_type_fixed_monthly_salary">Stipendio mensile</string>
     <string name="tax_income_type_annual_bonus">Bonus annuali</string>
     <string name="tax_income_number">Reddito</string>
+    <string name="tax_annual_bonus_number">Bonus</string>
+    <string name="tax_last_salary_number">Introiti</string>
     <string name="tax_fixed_salary_hint">Inserisci il tuo reddito al netto delle tasse</string>
     <string name="tax_annual_bonus_hint">Inserisci il tuo bonus al netto delle tasse</string>
+    <string name="tax_last_salary_hint">Inserisci gli introiti</string>
     <string name="tax_thershold_native">%s (nativo)</string>
     <string name="tax_thershold_foreign">%s (straniero)</string>
     <string name="tax_insurance_and_fund">Assicurazione e fondo</string>
@@ -385,4 +389,29 @@
     <string name="tax_title_secondary" />
     <string name="times" />
     <string name="year" />
+    <string name="preference_settings">Impostazioni</string>
+    <string name="preference_use_degress_title">Utilizza angoli</string>
+    <string name="preference_use_degress_summary">Sostituisci i radianti con gli angoli nelle funzioni trigonometriche</string>
+    <string name="preference_about_calculator">Informazioni</string>
+    <string name="preference_check_update_title">Cerca aggiornamenti</string>
+    <string name="preference_feedback_title">FAQ</string>
+    <string name="preference_follow_us">Seguici</string>
+    <string name="preference_follow_wechat_title">WeChat</string>
+    <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_follow_web_title">Sito ufficiale</string>
+    <string name="preference_alert_follow_wechat">Copia e incolla su WeChat per seguire</string>
+    <string name="preference_alert_follow_wechat_button">Copia</string>
+    <string name="preference_follow_wechat_summary">MIUI</string>
+    <string name="preference_follow_weibo_summary">\@MIUI</string>
+    <string name="preference_follow_web_summary">www.miui.com</string>
+    <string name="xiaomi_update_dialog_title">%1$s aggiornamento!</string>
+    <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
+Dimensione: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Presentazione versione %1$s
+Dimensione aggiornamento delta: %2$s"</string>
+    <string name="xiaomi_external_storage_unavailable">Archivio non disponibile, verifica la scheda SD.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_connect_download_manager_fail">Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
 </resources>

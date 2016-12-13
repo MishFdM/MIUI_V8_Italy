@@ -174,29 +174,13 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="music_browser_label">Musica</string>
     <string name="unknown_artist_name">Artista sconosciuto</string>
     <string name="unknown_album_name">Album sconosciuto</string>
-    <string name="alert_title_vip_song">Brani Premium</string>
-    <string name="alert_msg_vip_song_for_download">"Effettua l'iscrizione a Premium per scaricare questo brano."</string>
-    <string name="alert_msg_vip_song_for_download_upgrade">Hai raggiunto il limite mensile per i download. Aggiorna la tua iscrizione a Premium per continuare ad utilizzare il servizio.</string>
-    <string name="alert_title_vip_songs">Iscrizione a Premium</string>
-    <string name="alert_title_vip_songs_upgrade">Aggiorna iscrizione a Premium</string>
-    <string name="alert_msg_vip_song_for_stream">"Effettua l'iscrizione a Premium per ascoltare questo brano."</string>
-    <string name="alert_msg_vip_songs_for_download">"Effettua l'iscrizione a Premium per ascoltare tutti i brani."</string>
-    <string name="alert_msg_vip_songs_for_stream">"Alcuni brani possono essere ascoltati solo con l'iscrizione a Premium."</string>
-    <string name="alert_msg_vip_songs_for_download_upgrade">Hai raggiunto il limite dei download per questo mese. Aggiorna la tua iscrizione a Premium per scaricare altro.</string>
     <string name="toast_normal_songs_for_download">Qualità download impostata su Normale</string>
     <string name="toast_uhd_songs_for_download">Qualità download impostata su Alta</string>
     <string name="toast_normal_songs_for_stream">Qualità streaming impostata su Normale</string>
     <string name="toast_uhd_songs_for_stream">Qualità streaming impostata su Alta</string>
-    <string name="toast_vip_download_one_limit">"Hai raggiunto il limite dei download per questo mese. Puoi scaricare altri brani con l'iscrizione a Premium il prossimo mese."</string>
-    <string name="toast_vip_download_some_limit">"Hai raggiunto il limite dei download per questo mese. Puoi scaricare altri brani con l'iscrizione a Premium il prossimo mese."</string>
-    <string name="toast_cancel_download">Download annullato</string>
-    <string name="toast_cancel_play">Riproduzione annullata</string>
     <string name="toast_download_in_process">Download in corso</string>
-    <string name="buy_vip">Effettua iscrizione a Premium</string>
-    <string name="upgrade_vip">Aggiorna a Premium</string>
     <string name="confirm_download">Download</string>
-    <string name="stream_normal">Riproduci in qualità normale</string>
-    <string name="toast_stream_normal">"Riproduzione in qualità normale. Effettua l'iscrizione a Premium per ascoltare musica in alta qualità."</string>
+    <string name="toast_stream_normal">Riproduzione in Qualità Normale. Ottieni il Pacchetto Musica Premium per goderti lo streaming ad alta qualità.</string>
     <string name="toast_download_error_by_vip_required">"Effettua l'iscrizione a Premium per scaricare questo brano."</string>
     <string name="toast_download_error_by_count_limit">Hai raggiunto il limite dei download per questo mese.</string>
     <string name="toast_download_error_by_not_login">Accedi al Mi Account e prova di nuovo.</string>
@@ -377,7 +361,6 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="ultra_high_quality">Migliore</string>
     <string name="normal_quality">Normale</string>
     <string name="download_completed">Scaricati</string>
-    <string name="login_first">Accedi prima al tuo Mi Account</string>
     <string name="data_usage_warning">Utilizzo dati</string>
     <string name="data_usage_warning_summary">Lo streaming in alta qualità tramite rete cellulare può aumentare il traffico dati.</string>
     <string name="payment_success">Pagamento completato</string>
@@ -493,6 +476,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="recommend_fragment_title">In evidenza</string>
     <string name="channel_list_fragment_title">Radio</string>
     <string name="bill_list_fragment_title">Classifiche</string>
+    <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
     <string name="nowplaying_menu_item_delete">Elimina</string>
     <string name="similar_songs">Brani simili</string>
     <string name="search_for_artist">Artista</string>
@@ -644,7 +628,7 @@ attendere o selezionare Musica Online."</string>
     <string name="create_order_fail">"Impossibile creare l'ordine, prova di nuovo."</string>
     <string name="more_share">Condividi</string>
     <string name="more_add_song_list">Aggiungi</string>
-	<string name="share_chooser_title">Condividi usando</string>
+    <string name="share_chooser_title">Condividi usando</string>
     <string name="share_description">Da Mi Music</string>
     <string name="share_end_note">Da Mi Music</string>
     <string name="share_text_list">"Ho trovato un'incredibile playlist su Mi Music:"</string>
@@ -748,10 +732,11 @@ attendere o selezionare Musica Online."</string>
     <string name="download_confirm_button_text">Installa</string>
     <string name="milink_unavaliable_please_update">Mi Link non disponibile. È necessario aggiornare MIUI.</string>
     <string name="song_exist_in_playlist">Operazione fallita. Il brano è già nella playlist.</string>
-    <string name="othor_song_in_album">Altri brani nello stesso Album.</string>
+    <string name="other_song_in_album">Altri brani nello stesso Album.</string>
     <string name="ad_extension">Promozione</string>
     <string name="ad_close">Chiudi</string>
     <string name="ad_mark">AD</string>
+    <string name="news_mark">NEWS</string>
     <string name="download_traffic_dialog_msg">"L'utilizzo della rete dati cellulare per il download della musica aumenta il consumo dei dati e potrebbe aumentare anche i costi</string>
     <string name="download_traffic_dialog_position_button">Scarica uno alla volta</string>
     <string name="download_traffic_dialog_negative_button">Scarica con Wi-Fi</string>
@@ -818,5 +803,4 @@ attendere o selezionare Musica Online."</string>
     <string name="talkback_favorite">Mi piace</string>
     <string name="talkback_progress">Barra progresso</string>
     <string name="talkback_back">Indietro</string>
-	<string name="my_music">Musica</string>
 </resources>

@@ -4504,7 +4504,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="vpn_on">ON</string>
     <string name="vpn_off">OFF</string>
     <string name="apply_fingerprint_to_category_title">Usa impronta digitale per\u2026</string>
-    <string name="fingerprint_list_title">Gestione impronte\u0020</string>
+    <string name="fingerprint_list_title">Impronta</string>
     <string name="add_fingerprint_text">Aggiungi impronta digitale</string>
     <string name="delete_fingerprint_text">Rimuovi impronta digitale</string>
     <string name="delete_fingerprint_confirm_msg">"Vuoi rimuovere l'impronta digitale?"</string>

@@ -169,8 +169,8 @@ Vuoi utilizzarlo per i pacchetti di ricarica?"</string>
     <string name="no_voip">Chiamate via internet non supportate</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Chiedi sempre</string>
+    <string name="sip_connection_service_label">Servizio chiamata SIP integrato</string>
     <string name="description_dialpad_overflow">Altre opzioni</string>
-    <string name="description_delete_button">Elimina</string>
     <string name="description_image_button_plus">Plus</string>
     <string name="description_voicemail_button">Segreteria</string>
     <string name="default_notification_description">Suono predefinito (%1$s)</string>
@@ -725,7 +725,7 @@ Sono rimasti %d tentativo(i)."</string>
     <string name="card_title_callconnectingect">Chiamata in corso (trasferita)</string>
     <string name="card_title_callconnectedect">Connesso (trasferita)</string>
     <string name="card_title_deflectedcall">Chiamata deviata</string>
-	<string name="notification_missedCallsTitle">Chiamate perse</string>
+    <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedCallsMsg">%s chiamate perse</string>
     <string name="notification_missedCallTicker">Chiamata persa da %s</string>
     <string name="notification_voicemail_title">Nuovo messaggio vocale</string>
@@ -972,7 +972,8 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="call_record_auto_always">Tutti i numeri</string>
     <string name="call_record_on_summary">Attivato</string>
     <string name="call_record_off_summary">Disattivo</string>
-    <string name="autoip">Composizione PI automatica</string>
+    <string name="autoip">Composizione automatica PI automatica</string>
+    <string name="autoip_phone">Composizione automatica PI</string>
     <string name="autoip_prefix">Prefisso internazionale</string>
     <string name="autoip_prefix_summary">"Prefisso internazionale del tuo operatore: %s"</string>
     <string name="autoip_autoip_current_areacode_summary">Prefisso internazionale della località dove ti trovi ora: %s</string>
