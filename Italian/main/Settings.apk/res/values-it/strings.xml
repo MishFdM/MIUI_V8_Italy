@@ -3704,7 +3704,7 @@ Se decidi di non personalizzare le pubblicità non diminuirai il loro numero ma 
     <string name="search_children_mode_settings">Modalità genitore;Blocca SMS</string>
     <string name="search_oldman_mode">Modalità semplificata;Modalità classica</string>
     <string name="search_edge_handgrip">Controlli laterali</string>
-    <string name="search_other_advanced_settings">Impostazioni aggiuntive;Privacy Impostazioni;Date&time;Language & input;One_handed mode;Battery & performance;Storage;Notification light;Led;Headphones & audio effects;Buttons;Keys;Accessibility;Funzioni beta;Lab functions;Developer options;Backup & reset;Transfer;One key migrate</string>
+    <string name="search_other_advanced_settings">Impostazioni aggiuntive;Privacy Impostazioni;Data e ora;Lingua e tastiera;Modalità a una mano;Batteria e prestazioni;Memoria;Led Notifica;Led;Cuffie e effetti audio;Tasti;Tasti;Accessibilità;Funzioni beta;Funzioni Lab;Opzioni sviluppatori;Backup e reset;Trasferisci;One key migrate</string>
     <string name="search_security_settings">Privacy Impostazioni</string>
     <string name="search_access_control">Accesso</string>
     <string name="search_date_time">Ora e data</string>
