@@ -5,14 +5,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nessuna</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -321,7 +319,6 @@
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="screen_zoom_summary_small">Piccolo</string>
-    <string name="screen_zoom_summary_default">Default</string>
     <string name="screen_zoom_summary_large">Grande</string>
     <string name="screen_zoom_summary_very_large">Più grande</string>
     <string name="screen_zoom_summary_extremely_large">Massimo</string>
@@ -434,10 +431,6 @@
     <string name="additional_system_update_menu"/>
     <string name="hotspot_accout_check_server_url"/>
     <string name="hotspot_accout_up_sell_url"/>
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_always_show_value">1</string>
-    <string name="input_method_selector_always_hide_value">2</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
     <string name="category_key_wireless">com.android.settings.category.wireless</string>
     <string name="category_key_device">com.android.settings.category.device</string>
     <string name="category_key_personal">com.android.settings.category.personal</string>
@@ -1710,8 +1703,6 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="terms_title">Termini e condizioni</string>
     <string name="webview_license_title">System WebView License</string>
     <string name="wallpaper_attributions">Sfondi</string>
-    <string name="wallpaper_attributions_values">"Satellite imagery providers:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_manual_activity_title">Manuale</string>
     <string name="settings_manual_activity_unavailable">Si è verificato un problema durante il caricamento del manuale.</string>
     <string name="settings_license_activity_title">Licenze open source</string>
@@ -1983,7 +1974,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo sia per il tuo pro
     <string name="keyboard_shortcuts_helper">Keyboard shortcuts helper</string>
     <string name="keyboard_shortcuts_helper_summary">Display available shortcuts</string>
     <string name="physical_device_title">%1$s - %2$s</string>
-    <string name="default_keyboard_layout">Default</string>
     <string name="pointer_settings_category">Mouse/trackpad</string>
     <string name="pointer_speed">Velocità del puntatore</string>
     <string name="game_controller_settings_category">Controller di gioco</string>
@@ -2184,7 +2174,6 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Attivato</string>
     <string name="battery_stats_phone_signal_label">Segnale rete cellulare</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">Tempo di attività dispositivo</string>
     <string name="wifi_on_time">Tempo accensione Wi-Fi</string>
     <string name="bluetooth_on_time">Tempo accensione Wi-Fi</string>
@@ -2759,7 +2748,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="restriction_menu_change_pin">Cambia PIN</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
     <string name="help_label">Guida</string>
-    <string name="help_uri_default"/>
     <string name="help_uri_dashboard"/>
     <string name="help_uri_beam"/>
     <string name="help_uri_display"/>
@@ -2981,7 +2969,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="notification_importance_blocked">Bloccato: non mostrare mai queste notifiche</string>
     <string name="notification_importance_min">"Minima: mostra silenziosamente in fondo all'elenco delle notifiche"</string>
     <string name="notification_importance_low">Bassa: mostra queste notifiche silenziosamente</string>
-    <string name="notification_importance_default">No full screen interruption or peeking.</string>
     <string name="notification_importance_high">"Elevata. Apri sullo schermo e attiva l'audio"</string>
     <string name="notification_importance_max">"Urgente: mostra in cima all'elenco delle notifiche, visualizza sullo schermo e attiva l'audio"</string>
     <string name="notification_importance_unspecified">App determines importance for each notification</string>
@@ -3202,7 +3189,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="app_link_open_never">Non aprire mai con questa app</string>
     <string name="fingerprint_not_recognized">Non riconosciuta</string>
     <string name="default_apps_title">App predefinite</string>
-    <string name="default_for_work">Default for work</string>
     <string name="assist_and_voice_input_title">Assistenza e input vocale</string>
     <string name="default_assist_title">App di assistenza</string>
     <string name="default_assist_none">Nessuna</string>
@@ -3217,7 +3203,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="default_phone_title">App Telefono</string>
     <string name="default_app">(Predefinita)</string>
     <string name="system_app">(Sistema)</string>
-    <string name="system_default_app">(System default)</string>
     <string name="apps_storage">Apps storage</string>
     <string name="usage_access">Accesso ai dati di utilizzo</string>
     <string name="permit_usage_access">Consenti accesso ai dati di utilizzo</string>
@@ -3369,7 +3354,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="backup_disabled">Backup disattivato</string>
     <string name="about_summary">Android %1$s</string>
     <string name="disabled_by_policy_title">Azione non consentita</string>
-    <string name="default_admin_support_msg">"This action is disabled. Contact your organization's administrator to learn more."</string>
     <string name="admin_support_more_info">Altri dettagli</string>
     <string name="admin_profile_owner_message">"L'amministratore può monitorare e gestire le app e i dati associati al profilo di lavoro, inclusi accesso aziendale, impostazioni, autorizzazioni, attività di rete e informazioni sulla posizione del dispositivo."</string>
     <string name="admin_profile_owner_user_message">"L'amministratore può monitorare e gestire le app e i dati associati all'utente, inclusi accesso aziendale, impostazioni, autorizzazioni, attività di rete e informazioni sulla posizione del dispositivo."</string>
@@ -3428,7 +3412,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="unrestricted_app_title">Uso dati senza limitazioni</string>
     <string name="unrestricted_app_summary">Consenti accesso senza limitazioni con Risparmio dati attivo</string>
     <string name="home_app">App home</string>
-    <string name="no_default_home">No default Home</string>
     <string name="lockpattern_settings_require_cred_before_startup">Proteggi avvio</string>
     <string name="lockpattern_settings_require_pattern_before_startup_summary">Richiedi la sequenza per avviare il dispositivo. Quando non è attivo, il dispositivo non può ricevere chiamate, messaggi, notifiche o attivare sveglie.</string>
     <string name="lockpattern_settings_require_pin_before_startup_summary">Richiedi il PIN per avviare il dispositivo. Quando non è attivo, il dispositivo non può ricevere chiamate, messaggi, notifiche o attivare sveglie.</string>
@@ -3441,7 +3424,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="battery_saver_desc_turn_on_auto_pct">Attiva automaticamente al %1$s%% di batteria</string>
     <string name="not_battery_optimizing">Ottimizzazione della batteria non in uso</string>
     <string name="lockscreen_remote_input">Impedisci di digitare risposte o altro testo nelle notifiche quando il dispositivo è bloccato</string>
-    <string name="default_spell_checker">Default spell checker</string>
     <string name="choose_spell_checker">Scegli controllo ortografico</string>
     <string name="spell_checker_not_selected">Non selezionato</string>
     <string name="notification_log_no_title">(nessuno)</string>
@@ -3468,7 +3450,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="notification_log_details_ashmem">ashmem</string>
     <string name="notification_log_details_sound">suono</string>
     <string name="notification_log_details_vibrate">vibrazione</string>
-    <string name="notification_log_details_default">default</string>
     <string name="notification_log_details_none">nessuno</string>
     <string name="notification_log_details_ranking_null">Ranking object is missing.</string>
     <string name="notification_log_details_ranking_none">"Ranking object doesn't contain this key."</string>
