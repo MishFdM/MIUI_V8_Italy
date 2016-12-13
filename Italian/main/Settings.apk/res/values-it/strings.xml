@@ -4944,9 +4944,6 @@ Vuoi disabilitare le finestre flottanti?"</string>
      <string name="data_used_template">Utilizzo dati: %1$s</string>
      <string name="data_warning">Avviso relativo ai dati</string>
      <string name="decline_remote_bugreport_action">Rifiuto</string>
-     <string name="default_admin_support_msg">"Questa azione è stata disattivata. Per ulteriori informazioni, contatta l'amministratore della tua organizzazione."</string>
-     <string name="default_for_work">Predefinite per il lavoro</string>
-     <string name="default_spell_checker">Controllo ortografico predef.</string>
      <string name="development_settings_enable">Attiva Opzioni sviluppatore</string>
      <string name="disabled_by_admin">"Disattivata dall'amministratore"</string>
      <string name="disabled_by_admin_summary_text">"Gestita dall'amministratore"</string>
@@ -5043,11 +5040,9 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo sia per il tuo pro
      <string name="move_error_device_admin">"Impossibile installare l'amministratore del dispositivo su supporti esterni."</string>
      <string name="n_cacrts">Certificati CA %d</string>
      <string name="network_restrictions">Limitazioni di rete</string>
-     <string name="no_default_home">Nessuna Home predefinita</string>
      <string name="no_vr_listeners">Nessuna delle app installate ha richiesto di essere eseguita come servizio helper realtà virtuale</string>
      <string name="not_battery_optimizing">Ottimizzazione della batteria non in uso</string>
      <string name="notification_importance_blocked">Bloccato: non mostrare mai queste notifiche</string>
-     <string name="notification_importance_default">"Normale: attiva l'audio per queste notifiche"</string>
      <string name="notification_importance_high">"Elevata. Apri sullo schermo e attiva l'audio"</string>
      <string name="notification_importance_low">Bassa: mostra queste notifiche silenziosamente</string>
      <string name="notification_importance_max">"Urgente: mostra in cima all'elenco delle notifiche, visualizza sullo schermo e attiva l'audio"</string>
@@ -5058,7 +5053,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo sia per il tuo pro
      <string name="notification_log_details_ashmem">ashmem</string>
      <string name="notification_log_details_content_intent">intent</string>
      <string name="notification_log_details_content_view">visualizzazione personalizzata</string>
-     <string name="notification_log_details_default">predefinito</string>
      <string name="notification_log_details_delete_intent">elimina intent</string>
      <string name="notification_log_details_delimiter">": "</string>
      <string name="notification_log_details_explanation">spiegazione</string>
@@ -5122,7 +5116,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo sia per il tuo pro
      <string name="screen_zoom_short_summary">Ingrandisci o riduci gli elementi sullo schermo</string>
      <string name="screen_zoom_summary">Ingrandisci o riduci gli elementi sullo schermo. Alcune app sullo schermo potrebbero cambiare posizione.</string>
      <string name="screen_zoom_summary_custom">Personalizzato (%d)</string>
-     <string name="screen_zoom_summary_default">Predefinito</string>
      <string name="screen_zoom_summary_extremely_large">Massimo</string>
      <string name="screen_zoom_summary_large">Grande</string>
      <string name="screen_zoom_summary_small">Piccolo</string>
@@ -5168,7 +5161,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo sia per il tuo pro
      <string name="suggestion_remove">Rimuovi</string>
      <string name="suggestions_title">Suggerimenti (%1$d)</string>
      <string name="system_app">(Sistema)</string>
-     <string name="system_default_app">(Predefinito)</string>
      <string name="talkback_summary">Lo screen reader è rivolto principalmente a utenti non vedenti o con problemi di vista</string>
      <string name="talkback_title">TalkBack</string>
      <string name="title_convert_fbe">Conversione in crittografia basata su file</string>
@@ -5215,8 +5207,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo sia per il tuo pro
      <string name="vr_listener_security_warning_summary">%1$s potrà essere eseguito quando utilizzi applicazioni in modalità realtà virtuale.</string>
      <string name="vr_listener_security_warning_title">"Consentire al servizio di realtà virtuale l'accesso a %1$s?"</string>
      <string name="vr_listeners_title">Servizi helper realtà virtuale</string>
-     <string name="wallpaper_attributions_values">"Fornitori di immagini satellitari:
-©2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
      <string name="wallpaper_suggestion_summary">Personalizza lo schermo</string>
      <string name="wallpaper_suggestion_title">Cambia sfondo</string>
      <string name="wifi">Wi-Fi</string>
