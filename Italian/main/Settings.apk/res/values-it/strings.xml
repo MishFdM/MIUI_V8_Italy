@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="launcher_title">Home</string>
+    <string name="launcher_title">Launcher</string>
     <string name="defalut_launcher_title">Launcher predefinito</string>
     <string name="miui_screen_config_title">Configurazione schermo launcher MIUI</string>
     <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
-    <string name="lock_screen_cells_title">Spazi schermata di blocco</string>
+    <string name="lock_screen_cells_title">Blocca spazi schermata di blocco</string>
     <string name="screen_cells_config_title">Configurazione spazi schermo</string>
     <string name="status_bar_and_notification_bar">Barra notifiche e barra di stato</string>
     <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
@@ -3004,6 +3004,13 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="inactive_apps_title">App disattivate</string>
     <string name="inactive_app_inactive_summary">Disattivata. Tocca per attivare.</string>
     <string name="inactive_app_active_summary">Attivata. Tocca per disattivare.</string>
+	<string name="runningservices_settings_title">Servizi attivi</string>
+    <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente attivi</string>
+    <string name="enable_webview_multiprocess">Multi processi WebView</string>
+    <string name="enable_webview_multiprocess_desc">Esegui renderer WebView separatamente</string>
+    <string name="select_webview_provider_title">Implementazione WebView</string>
+    <string name="select_webview_provider_dialog_title">Imposta WebView</string>
+    <string name="select_webview_provider_toast_text">Questa scelta non è più valida. Riprova.</string>
     <string name="assist_access_context_title">Utilizza il testo sullo schermo</string>
     <string name="assist_access_context_summary">Consenti alle app di assistenza di accedere al contenuto dello schermo come testo</string>
     <string name="assist_access_screenshot_title">Utilizza screenshot</string>
