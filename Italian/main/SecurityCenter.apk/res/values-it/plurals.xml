@@ -56,6 +56,10 @@
         <item quantity="other">%d problemi batteria</item>
         <item quantity="one">%d problema batteria</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Trovati %d problemi batteria, sistemali!</item>
+        <item quantity="one">Trovato %d problema batteria, sistemare!</item>
+    </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d elementi possono essere ottimizzati</item>
         <item quantity="one">%d elemento può essere ottimizzato</item>
