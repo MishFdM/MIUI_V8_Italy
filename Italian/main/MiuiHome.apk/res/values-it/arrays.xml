@@ -51,7 +51,7 @@
         <item>Jansa</item>
         <item>Grandinata</item>
     </string-array>
-	<string-array name="editing_mode_entries">
+    <string-array name="editing_mode_entries">
         <item>Temi</item>
         <item>Widget</item>
         <item>Sfondo</item>

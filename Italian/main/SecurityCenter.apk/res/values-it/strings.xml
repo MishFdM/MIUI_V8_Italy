@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
     <string name="cta_dialog_title">Termini e Condizioni</string>
     <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza MIUI. Per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati. Continuare?"</string>
     <string name="cta_checkbox_title">Non chiedere più</string>
@@ -663,6 +664,9 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="quick_optimize_no_issue">Nessun problema batteria rilevato</string>
     <string name="quick_optimize_sub_summary_text">Aggiunti %sdi durata alla batteria</string>
     <string name="quick_optimize_checking">Scansione</string>
+    <string name="quick_optimize_suggest_battery_over_heat">Il telefono si sta surriscaldando, prendi provvedimenti</string>
+    <string name="quick_optimize_suggest_battery_consume_too_fast">La batteria si sta scaricando rapidamente, prendi provvedimenti</string>
+    <string name="btn_text_optimize_extend_battery_time">Aggiungi %s</string>
     <string name="btn_text_optimize_now">Ottimizza</string>
     <string name="btn_text_optimize_manually">Ottimizza manualmente</string>
     <string name="battery_history_activity_title">Cronologia</string>
@@ -794,6 +798,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="uninstall_app_done">Disinstallazione ultimata</string>
     <string name="auto_task_edit_step1">1.</string>
     <string name="auto_task_edit_step2">2.</string>
+    <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="resource_securitycenter_settings">Sicurezza</string>
     <string name="keywords_securitycenter_settings">Risparmio batteria;Permessi;Lista blocco;Utilizzo dati;Calibra piano dati;Test di rete;Blocco app;Risparmio batteria;Riscaldamento;Attiva;Disattiva;Batteria;Consumo;Avvio automatico;Root;Localizzazione;Accesso ai contatti;Blocco;Blacklist;Lista blocco smart;Truffa;Vendite;Agenti;Dati;Traffico;Calibrazione;Connessione;Internet;Test;Password;Privacy;Accesso;Protezione</string>
     <string name="path_securitycenter_settings">Applicazioni di sistema/Sicurezza</string>
@@ -976,7 +981,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="activity_title_create_shortcut">Gestore scorciatoie</string>
     <string name="menu_item_notification_title">Mostra nella barra notifiche</string>
     <string name="menu_item_notification_garbage_text">%s</string>
-    <string name="menu_item_notification_garbage_text_error">Errore</string>
     <string name="menu_item_notification_power_text">Batteria</string>
     <string name="menu_item_notification_antispam_text_normal">Spam</string>
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
@@ -1234,6 +1238,15 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="pref_category_title_virus_white_list">Eccezioni</string>
     <string name="pref_title_virus_white_list">Eccezioni</string>
     <string name="pref_summary_virus_white_list">Impedisci alle app selezionate di essere pulite</string>
+    <string name="pref_title_manual_check_virus_db_update">Verifica aggiornamenti</string>
+    <string name="msg_update_error_code_success">Fatto</string>
+    <string name="msg_update_up">Nascondi</string>
+    <string name="virus_dp_update_title">Aggiornamento definizioni</string>
+    <string name="virus_update_tips_title">Collegati a Wi-Fi</string>
+    <string name="virus_wait_network_dialog_message">Gli aggiornaemnti sono di grandi dimensioni. Collegati ad una rete Wi-Fi per scaricarli.</string>
+    <string name="virus_update_success">Aggiornato correttamente</string>
+    <string name="virus_update_fail">Impossibile aggiornare</string>
+    <string name="virus_already_update">Le definizioni non sono aggiornate</string>
     <string name="sp_background_risk_dialog_title">Pericoloso</string>
     <string name="sp_background_risk_dialog_summary">, esegui un controllo approfondito e risolvi i pericoli per i pagamenti</string>
     <string name="sp_background_risk_type_wifi">La rete Wi-Fi a cui sei collegato è pericolosa</string>
@@ -1350,6 +1363,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_xspace_summary">Crea un doppio account per le applicazioni</string>
     <string name="card_main_xspace_action">Crea</string>
     <string name="card_main_overscroll_tips">La sicurezza nella sua forma migliore</string>
+    <string name="skin_change_close_btn_text">Imposta come sfondo presefinitop</string>
+    <string name="skin_change_close_toast">"Le modifiche verranno apportate al prossimo avvio dell'app Sicurezza"</string>
     <string name="system_info_remind">"Aggiungi il blocco per prevenire l'accesso non autorizzato alle tue app"</string>
     <string name="Setting_lock">Impostazioni</string>
     <string name="btn_jump">Salta</string>
@@ -1617,4 +1632,5 @@ Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo 
     <string name="sys_app_prot_cracked_confirm">Ho capito</string>
     <string name="sys_app_prot_cracked_login">Accedi al tuo Mi Account</string>
     <string name="confirmSecondSpacePassword">Conferma password Spazio Secondario</string>
+    <string name="sponsored_sec_fb">Sponsorizzato</string>
 </resources>

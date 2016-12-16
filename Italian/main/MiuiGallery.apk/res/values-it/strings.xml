@@ -547,6 +547,12 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="have_known">Conosciuto</string>
     <string name="expand_people">Espandi altre persone</string>
     <string name="collaps_people">Chiudi altre persone</string>
+    <string name="operation_remove_face">Rimuovi</string>
+    <string name="remove_from_current_album">Rimuovi da questo album</string>
+    <string name="remove_to_other_album">Unisci con una persona diversa</string>
+    <string name="remove_from_album_title">Rimuovi da questo album</string>
+    <string name="remove_from_album_message">Questa fotonon verrà più mostrata qui</string>
+    <string name="remove_to_album_title">Unisci con</string>
     <string name="finish_create_baby_album_toast">Album creato su Mi Cloud per \"%s\"</string>
     <string name="creating_baby_album">Creazione album…</string>
     <string name="create_baby_album">Crea un Album bambino</string>
@@ -990,7 +996,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="alert_secret_album_title">Album Privato</string>
     <string name="alert_secret_album_message">"Puoi sfogliare l'album Mi Cloud nell'album privato."</string>
     <string name="alert_secret_album_enter">OK</string>
-    <string name="number_of_uploading_finish">Tutti i file caricati su Mi Cloud</string>
+    <string name="all_items_synced">"E' stato eseguito il backup di tutti gli album su Mi Cloud"</string>
     <string name="need_to_turn_on_sync">Attiva la sincronizzazione con Mi Cloud ora.</string>
     <string name="need_to_turn_on_sync_first">Prima attiva la sincronizzazione con Mi Cloud.</string>
     <string name="need_to_turn_on_network">Connetti ad internet</string>
@@ -1040,7 +1046,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="quotation">\"%s\"</string>
     <string name="cloud_camera_display_name">Non ordinati</string>
     <string name="cloud_screenshots_display_name">Screenshot</string>
-    <string name="error_title">Errore di sincronizzazione</string>
+    <string name="error_title">Impossibile sincronizzare</string>
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
     <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
     <string name="error_not_acceptable">Sincronizzazione disattivata.</string>

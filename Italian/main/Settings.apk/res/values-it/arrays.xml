@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="status_bar_style_entries">
-        <item>Combinato</item>
-        <item>Separati</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Scansione</item>
@@ -628,7 +624,8 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Nessuno</item>
-        <item>Street-snap(necessario selezionare la modalità fotocamera)</item>
+        <item>Scatto rapido(foto)</item>
+        <item>Scatto rapido(video)</item>
         <item>Collegamenti ai trasporti pubblici</item>
     </string-array>
     <string-array name="button_light_timeout_entries">

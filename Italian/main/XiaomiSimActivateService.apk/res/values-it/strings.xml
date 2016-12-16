@@ -104,8 +104,8 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
     <string name="activate_sms_postfix">Questo SMS viene utilizzato epr attivare i tuoi servizi Mi</string>
     <string name="activate_history_title">Attivazione SIM</string>
     <string name="activate_history_overview">Attivazione per SIM %1$s. Viene avviata da \"%2$s\".</string>
+    <string name="activate_history_success_overview">SIM attivata correttamente. Attivazione eseguita da \"%1$s\".</string>
+    <string name="activate_history_canceled_overview">Attivazione SIM annullata. Attivazione eseguita da \"%1$s\".</string>
     <string name="activate_history_multisim_overview">Attivazione per la SIM %3$d %1$s. Viene attivata da \"%2$s\".</string>
     <string name="activate_history_sms">"È stato inviato un SMS durante l'attivazione."</string>
-    <string name="activate_history_success">Completata</string>
-    <string name="activate_history_cancelled">Annullata</string>
 </resources>
