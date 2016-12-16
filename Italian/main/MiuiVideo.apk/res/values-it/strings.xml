@@ -681,6 +681,6 @@ Per attivare il tuo account, segui il
     <string name="single_pay">pagamento singolo</string>
     <string name="go_to_cinema">vai al cinema</string>
     <string name="no_vip_product">non supporta i servizi VIP</string>
-    <string name="video_pre_play_tip">Puoi vedere un'anteprima di %1$d minuti，per vederlo integralmente <Data>acquista subito</Data></string>
+    <string name="video_pre_play_tip">"Puoi vedere un'anteprima di %1$d minuti, per vederlo integralmente <Data>acquista subito</Data>"</string>
     <string name="current_price">Prezzo attuale</string>
 </resources>
