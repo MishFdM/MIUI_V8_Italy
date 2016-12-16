@@ -657,7 +657,6 @@ Per attivare il tuo account, segui il
     <string name="notification_title">\"%s\" completamento download</string>
     <string name="notification_sub_title">%d download completato(i)</string>
     <string name="notification_ticker_text">Completamento download video offline</string>
-    <string name="notification_default_title">Video offline</string>
     <string name="app_upgrade_title">"Mi Video è già aggiornato all'ultima versione."</string>
     <string name="app_upgrade_hint">"Tocca per guardare \"The Full Polymerization\", video HD online."</string>
     <string name="sniff">Fonte</string>

@@ -319,7 +319,6 @@
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="screen_zoom_summary_small">Piccolo</string>
-    <string name="screen_zoom_summary_default">Predefinito</string>
     <string name="screen_zoom_summary_large">Grande</string>
     <string name="screen_zoom_summary_very_large">Più grande</string>
     <string name="screen_zoom_summary_extremely_large">Massimo</string>
@@ -1981,7 +1980,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo sia per il tuo pro
     <string name="keyboard_shortcuts_helper">Keyboard shortcuts helper</string>
     <string name="keyboard_shortcuts_helper_summary">Display available shortcuts</string>
     <string name="physical_device_title">%1$s - %2$s</string>
-    <string name="default_keyboard_layout">Predefinito</string>
     <string name="pointer_settings_category">Mouse/trackpad</string>
     <string name="pointer_speed">Velocità del puntatore</string>
     <string name="game_controller_settings_category">Controller di gioco</string>
@@ -2756,7 +2754,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="restriction_menu_change_pin">Cambia PIN</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
     <string name="help_label">Guida</string>
-    <string name="help_uri_default" />
     <string name="help_uri_dashboard"/>
     <string name="help_uri_beam"/>
     <string name="help_uri_display"/>
@@ -2978,7 +2975,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="notification_importance_blocked">Bloccato: non mostrare mai queste notifiche</string>
     <string name="notification_importance_min">"Minima: mostra silenziosamente in fondo all'elenco delle notifiche"</string>
     <string name="notification_importance_low">Bassa: mostra queste notifiche silenziosamente</string>
-    <string name="notification_importance_default">Nessuna interruzione o anteprima in modalità a schermo intero.</string>
     <string name="notification_importance_high">"Elevata. Apri sullo schermo e attiva l'audio"</string>
     <string name="notification_importance_max">"Urgente: mostra in cima all'elenco delle notifiche, visualizza sullo schermo e attiva l'audio"</string>
     <string name="notification_importance_unspecified">App determines importance for each notification</string>
@@ -3199,7 +3195,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="app_link_open_never">Non aprire mai con questa app</string>
     <string name="fingerprint_not_recognized">Non riconosciuta</string>
     <string name="default_apps_title">App predefinite</string>
-    <string name="default_for_work">Predefinito per il lavoro</string>
     <string name="assist_and_voice_input_title">Assistenza e input vocale</string>
     <string name="default_assist_title">App di assistenza</string>
     <string name="default_assist_none">Nessuna</string>
@@ -3214,7 +3209,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="default_phone_title">App Telefono</string>
     <string name="default_app">(Predefinita)</string>
     <string name="system_app">(Sistema)</string>
-    <string name="system_default_app">(Predefinito di sistema)</string>
     <string name="apps_storage">Apps storage</string>
     <string name="usage_access">Accesso ai dati di utilizzo</string>
     <string name="permit_usage_access">Consenti accesso ai dati di utilizzo</string>
@@ -3366,7 +3360,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="backup_disabled">Backup disattivato</string>
     <string name="about_summary">Android %1$s</string>
     <string name="disabled_by_policy_title">Azione non consentita</string>
-    <string name="default_admin_support_msg">Questa azione è disattivata. Contatta il tuo amministratore per maggiori informazioni.</string>
     <string name="admin_support_more_info">Altri dettagli</string>
     <string name="admin_profile_owner_message">"L'amministratore può monitorare e gestire le app e i dati associati al profilo di lavoro, inclusi accesso aziendale, impostazioni, autorizzazioni, attività di rete e informazioni sulla posizione del dispositivo."</string>
     <string name="admin_profile_owner_user_message">"L'amministratore può monitorare e gestire le app e i dati associati all'utente, inclusi accesso aziendale, impostazioni, autorizzazioni, attività di rete e informazioni sulla posizione del dispositivo."</string>
@@ -3425,7 +3418,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="unrestricted_app_title">Uso dati senza limitazioni</string>
     <string name="unrestricted_app_summary">Consenti accesso senza limitazioni con Risparmio dati attivo</string>
     <string name="home_app">App home</string>
-    <string name="no_default_home">Nessuna Home predefinita</string>
     <string name="lockpattern_settings_require_cred_before_startup">Proteggi avvio</string>
     <string name="lockpattern_settings_require_pattern_before_startup_summary">Richiedi la sequenza per avviare il dispositivo. Quando non è attivo, il dispositivo non può ricevere chiamate, messaggi, notifiche o attivare sveglie.</string>
     <string name="lockpattern_settings_require_pin_before_startup_summary">Richiedi il PIN per avviare il dispositivo. Quando non è attivo, il dispositivo non può ricevere chiamate, messaggi, notifiche o attivare sveglie.</string>
@@ -3438,7 +3430,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="battery_saver_desc_turn_on_auto_pct">Attiva automaticamente al %1$s%% di batteria</string>
     <string name="not_battery_optimizing">Ottimizzazione della batteria non in uso</string>
     <string name="lockscreen_remote_input">Impedisci di digitare risposte o altro testo nelle notifiche quando il dispositivo è bloccato</string>
-    <string name="default_spell_checker">Controllo ortografico predefinito</string>
     <string name="choose_spell_checker">Scegli controllo ortografico</string>
     <string name="spell_checker_not_selected">Non selezionato</string>
     <string name="notification_log_no_title">(nessuno)</string>
