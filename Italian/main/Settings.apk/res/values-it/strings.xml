@@ -331,7 +331,7 @@
     <string name="defalut_launcher_title">Launcher predefinito</string>
     <string name="miui_screen_config_title">Configurazione schermo launcher MIUI</string>
     <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
-    <string name="lock_screen_cells_title">Blocca spazi schermata di blocco</string>
+    <string name="lock_screen_cells_title">Blocca spazi vuoti icone</string>
     <string name="screen_cells_config_title">Configurazione spazi schermo</string>
     <string name="open_personal_assistant_title">Attiva Assistente Smart</string>
     <string name="open_personal_assistant_dialog_title">Disattiva Assistente Smart</string>
