@@ -127,6 +127,7 @@
     <string name="resource_select_audio_confirm_picker">Selezionare questo suono?</string>
     <string name="loading_resource_detail_info">Caricamento delle informazioni…</string>
     <string name="loading_resource_detail_fail">Impossibile caricare la risorsa.</string>
+    <string name="add_resource_detail_fail">Impossibile aggiungere risorsa</string>
     <string name="resource_expand_full_text">Espandi</string>
     <string name="resource_account_login">Accedi</string>
     <string name="resource_account_switch">Cambia account</string>
@@ -256,6 +257,7 @@
     <string name="theme_component_title_all">Temi</string>
     <string name="theme_import_from_sdcard">Importa dalla scheda SD</string>
     <string name="theme_select_others">Sfoglia</string>
+    <string name="third_party_pickers_activity_title">Aggiungi %1$s</string>
     <string name="lockstyle_personal_settings">Personalizza</string>
     <string name="wallpaper_settings">Impostazione sfondo</string>
     <string name="desktop_wallpaper">Schermata Home</string>
@@ -285,8 +287,7 @@
     <string name="favorite_list_format">%1$s preferiti</string>
     <string name="purchased_list">Temi acquistati</string>
     <string name="purchased_list_current">MIUI 8</string>
-	 <string name="purchased_list_legacy">Vecchie versioni</string>
-    <string name="purchased_list_format">%1$s acquistati</string>
+    <string name="purchased_list_legacy">Vecchie versioni</string>
     <string name="my_gifts">Regali</string>
     <string name="my_gifts_purchased">Acquistati</string>
     <string name="my_gifts_received">Ricevuti</string>

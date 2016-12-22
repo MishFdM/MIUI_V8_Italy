@@ -1031,7 +1031,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="reject_via_sms_summary">Modifica gli SMS di risposta rapida</string>
     <string name="reject_via_sms_title">Risposta rapida</string>
     <string name="missed_call_notify_times_title">Promemoria chiamate perse</string>
-    <string name="missed_call_notify_times_summary">Scegli il numero di promemoria che desideri ricevere riguardo le chiamate perse (i promemoria avvengono ad intervalli di 5 minuti)</string>
+    <string name="missed_call_notify_times_summary">Scegli il numero di promemoria che desideri ricevere per le chiamate perse (i promemoria avvengono ad intervalli di 5 minuti)</string>
     <string name="missed_call_notify_none">Nessun promemoria</string>
     <string name="missed_call_notify_once">1 volta</string>
     <string name="missed_call_notify_twice">2 volte</string>

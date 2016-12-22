@@ -12,6 +12,7 @@
     <string name="download_success">Completati</string>
     <string name="download_error">Falliti</string>
     <string name="download_error_insufficient_space">Spazio insufficiente</string>
+    <string name="download_error_download_file_not_exists">Il file non esiste</string>
     <string name="dialog_title_not_available">Download fallito</string>
     <string name="dialog_failed_body">Desideri riprovare a scaricare il file più tardi o vuoi rimuoverlo dalla coda?</string>
     <string name="dialog_title_queued_body">File non ancora disponibile</string>
@@ -459,5 +460,6 @@ Accelerate i download su tutti i tuoi dispositivi."</string>
     <string name="choose_open_picture">"Seleziona un'azione"</string>
     <string name="extra_ad_title">Potrebbe piacerti anche</string>
     <string name="toast_update_data_limit_fail">Impossibile impostare</string>
+    <string name="ad_download">Installa</string>
     <string name="download_title">Download</string>
 </resources>

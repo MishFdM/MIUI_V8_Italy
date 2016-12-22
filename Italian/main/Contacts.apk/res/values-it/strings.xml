@@ -784,7 +784,7 @@ Le schede contatti sono disattivate"</string>
     <string name="callrecordview_menu_show_stranger">Chiamate da numeri sconosciuti</string>
     <string name="callrecordview_menu_show_new">Nuovi contatti</string>
     <string name="callrecordview_menu_show_sim">%s chiamate</string>
-    <string name="callrecordview_menu_delete">Cancella chiamate</string>
+    <string name="callrecordview_menu_delete">Cancella chiamata</string>
     <string name="callrecordview_menu_delete_all">Cancella lista chiamate</string>
     <string name="callrecordview_menu_delete_missed">Cancella chiamate perse</string>
     <string name="callrecordview_menu_delete_called">Cancella chiamate effettuate</string>
