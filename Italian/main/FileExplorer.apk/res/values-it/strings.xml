@@ -790,7 +790,6 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="open_chest">Apri per ricevere un premio</string>
     <string name="count_down">Contoalla rovescia: %1$s</string>
     <string name="full_gems">Scambia le tue gemme</string>
-    <string name="default_prize_text">Questo va nel mio tesoro!</string>
     <string name="prize_result_tip">Scambia</string>
     <string name="prize_result_tip2">Le gemme vanno nel tuo tesoro</string>
 </resources>
