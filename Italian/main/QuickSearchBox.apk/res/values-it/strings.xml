@@ -92,6 +92,7 @@ Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
     <string name="xiaomi_hint" />
     <string name="hot_words" />
     <string name="xiaomi_hot_query" />
+    <string name="search_widget">Cerca</string>
     <string name="remove_from_history">Rimuovi dalla cronologia</string>
     <string name="remove_from_history_failed">Impossibile rimuovere elemento dalla cronologia</string>
     <string name="corpus_selection_heading">Cerca</string>

@@ -1162,6 +1162,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="summary_find_device">Localizza e rintraccia il tuo dispositivo ovunque ti trovi</string>
     <string name="title_realname_verify">Verifica ID</string>
     <string name="summary_realname_verify">Verifica la tua identità per rendere i pagamenti più sicuri.</string>
+    <string name="title_mifi_insurance">Garanzia estesa</string>
+    <string name="summary_mifi_insurance">Ottieni 1 anno di garanzia con sostituzione in caso di danno hardware</string>
     <string name="title_cloud_space_almost_full">Lo spazio Mi Cloud è quasi pieno, gli elementi potrebbero non sincronizzarsi</string>
     <string name="summary_cloud_space_almost_full">Ottieni altro spazio di archiviazione</string>
     <string name="title_cloud_space_full">Archiviazione Mi Cloud piena, impossibile sincronizzare le foto</string>
@@ -1585,6 +1587,7 @@ o inserisci la password"</string>
     <string name="optimize_result_button_see_detaills">Dettagli</string>
     <string name="optimize_result_button_open_now">Attiva</string>
     <string name="optimize_result_button_realname_now">Verifica</string>
+    <string name="optimize_result_button_mifi_insurance">Acquista adesso</string>
     <string name="optimize_result_button_update_now">Aggiorna</string>
     <string name="optimize_result_button_to_open">Attiva</string>
     <string name="optimize_result_button_to_set">Imposta</string>

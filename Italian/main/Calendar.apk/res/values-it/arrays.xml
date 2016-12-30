@@ -6,18 +6,6 @@
         <item>SMS</item>
         <item>Allarme</item>
     </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>Mai</item>
-        <item>0 minuti</item>
-        <item>5 minuti</item>
-        <item>10 minuti</item>
-        <item>15 minuti</item>
-        <item>30 minuti</item>
-        <item>1 ora</item>
-        <item>1 giorno</item>
-        <item>2 giorni</item>
-        <item>1 settimana</item>
-    </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
         <item>0</item>
@@ -174,30 +162,67 @@
         <item>Questo ed eventi futuri</item>
         <item>Tutti gli eventi</item>
     </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Questo ed eventi futuri</item>
-        <item>Tutti gli eventi</item>
-    </string-array>
     <string-array name="change_response_labels">
         <item>Solo questa istanza</item>
         <item>Tutti gli eventi della serie</item>
     </string-array>
-    <string-array name="buttons_list">
-        <item>Giorno</item>
-        <item>Settimana</item>
-        <item>Mese</item>
-        <item>Agenda</item>
+    <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+    </array>
+    <array name="account_preset1">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+    </array>
+    <array name="account_preset2">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset4">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+    </array>
+    <string-array name="reminder_minutes_labels">
+        <item>Mai</item>
+        <item>0 minuti</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>1 giorno</item>
+        <item>2 giorni</item>
+        <item>1 settimana</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Questo ed eventi futuri</item>
+        <item>Tutti gli eventi</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>Sto arrivando di corsa, sono in ritardo di qualche minuto.</item>
         <item>Sarò li in 10 minuti circa.</item>
         <item>Vai pure ed inizia senza di me.</item>
         <item>"Mi dispiace, non ce la faccio. Dovremo rimandare."</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Sempre</item>
-        <item>Solo in silenzioso</item>
-        <item>Mai</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Nero trasparente</item>
@@ -246,7 +271,7 @@
         <item>mesi</item>
         <item>anni</item>
     </string-array>
-    <string-array name="repeat_choose_day">
+    </string-array>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -319,40 +344,9 @@
         <item>Ora</item>
         <item>Numero</item>
     </string-array>
-    <array name="account_birthday">
-        <item>#ffe99080</item>
-        <item>#b3d5a198</item>
-        <item>#fffcefef</item>
-        <item>#ffce7e6f</item>
-    </array>
-    <array name="account_xiaomi">
-        <item>#ff31aeaa</item>
-        <item>#b355c3bf</item>
-        <item>#ffe9f5f5</item>
-        <item>#ff349a97</item>
-    </array>
-    <array name="account_preset1">
-        <item>#ffb69dd0</item>
-        <item>#b3bfa5db</item>
-        <item>#fff6f1fa</item>
-        <item>#ffa894be</item>
-    </array>
-    <array name="account_preset2">
-        <item>#fff0a16f</item>
-        <item>#b3d88c5b</item>
-        <item>#fffdf3ec</item>
-        <item>#ffe4884d</item>
-    </array>
-    <array name="account_preset3">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-    </array>
-    <array name="account_preset4">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-    </array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Sempre</item>
+        <item>Solo quando silenzioso</item>
+        <item>Mai</item>
+    </string-array>
 </resources>

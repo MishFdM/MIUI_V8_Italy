@@ -1281,4 +1281,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="telecom_fraud_insurance_description">Assicurazione di 10,000 CNY | Offerta esclusiva di Xiaomi | 9.9 CNY/anno</string>
     <string name="yesterday">Ieri</string>
     <string name="tomorrow">Domani</string>
+    <string name="low_memory_toast">Memoria insufficiente per utilizzare questa funzione.</string>
+    <string name="yellowpage_fc_toast">Errore con Pagine Gialle, impossibile utilizzare questa funzione.</string>
 </resources>

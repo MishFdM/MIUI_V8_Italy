@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Bussola</string>
-    <string name="getting_location">Ricerca posizione…</string>
     <string name="cannot_get_location">--</string>
     <string name="location_north">N</string>
     <string name="location_south">S</string>
     <string name="location_east">E</string>
     <string name="location_west">O</string>
-    <string name="menu_calibrate">Calibrazione</string>
     <string name="calibrate_success">Calibrazione completata</string>
     <string name="calibrate_failed_no_location">Non è stato possibile effettuare la calibrazione</string>
     <string name="calibrate_failed_timeout">Non è stato possibile connettersi al server</string>
@@ -32,7 +30,6 @@
     <string name="direction_south_east">SE</string>
     <string name="direction_south_west">SO</string>
     <string name="guide_toast">A causa di possibili interferenze del campo magnetico, si consiglia di calibrare la Bussola con il seguente movimento.</string>
-    <string name="calibrate_altitude">Calibrazione</string>
     <string name="mobiledata_alert_dialog_title">Avvertimento utilizzo dei dati</string>
     <string name="mobiledata_alert_dialog_message">"Vuoi connetterti a internet per calibrare l'altitudine?"</string>
     <string name="do_not_show_next_time">Non chiedere più</string>
@@ -55,4 +52,5 @@
     <string name="altitude_uncalibrate_msg">"Impossibile calibrare l'altitudine senza una connessione dati o GPS."</string>
     <string name="altitude_uncalibrate_refresh">Riprova</string>
     <string name="altitude_uncalibrate_cancel">Annulla</string>
+    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
 </resources>

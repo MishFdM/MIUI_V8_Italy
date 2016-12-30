@@ -241,12 +241,8 @@
         <item quantity="many">video</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s video</item>
-        <item quantity="zero">%1$s video</item>
-        <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s video</item>
-        <item quantity="few">%1$s video</item>
-        <item quantity="many">%1$s video</item>
+        <item quantity="other">"%d video"</item>
+        <item quantity="one">"%d video"</item>
     </plurals>
    <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s commenti</item>
@@ -283,5 +279,21 @@
     <plurals name="video_publish_watchable_hint">
         <item quantity="other">Ottieni altri %1$d follower per aggiornare il tuo stato</item>
         <item quantity="one">Ottieni %1$d altri follower per aggiornare il tuo stato</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">"%d follower"</item>
+        <item quantity="one">"%d follower"</item>
+    </plurals>
+    <plurals name="video_like_num">
+        <item quantity="other">%1$s mi piace</item>
+        <item quantity="one">%1$s mi piace</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s gemme</item>
+        <item quantity="one">%1$s gemma</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">"Raccogli altre %d gemme per partecipare all'estrazione"</item>
+        <item quantity="one">"Raccogli altre %d gemme per partecipare all'estrazione"</item>
     </plurals>
 </resources>
