@@ -210,17 +210,6 @@
         <item>XXL</item>
         <item>XXXL</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Molto lenta</item>
-        <item>Lenta</item>
-        <item>Normale</item>
-        <item>Veloce</item>
-        <item>Più veloce</item>
-        <item>Molto veloce</item>
-        <item>Rapida</item>
-        <item>Molto rapida</item>
-        <item>Massima velocità</item>
-    </string-array>
     <string-array name="tts_pitch_entries">
         <item>Molto basso</item>
         <item>Basso</item>
@@ -567,13 +556,6 @@
         <item>Viola</item>
         <item>Rosa</item>
         <item>Rosso</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Fonte Audio</item>
-        <item>MIDI</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi preferita</item>
