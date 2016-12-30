@@ -271,7 +271,7 @@
         <item>mesi</item>
         <item>anni</item>
     </string-array>
-    </string-array>
+    <string-array name="repeat_choose_day">
         <item>1</item>
         <item>2</item>
         <item>3</item>

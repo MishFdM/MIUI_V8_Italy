@@ -3211,8 +3211,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="default_browser_title_none">Nessun browser predefinito</string>
     <string name="default_phone_title">App Telefono</string>
     <string name="default_app">(Predefinita)</string>
-    <string name="system_app">(System)</string>
     <string name="system_app">(Sistema)</string>
+    <string name="system_default_app">(Predefinito sistema)</string>
     <string name="apps_storage">Apps storage</string>
     <string name="usage_access">Accesso ai dati di utilizzo</string>
     <string name="permit_usage_access">Consenti accesso ai dati di utilizzo</string>
