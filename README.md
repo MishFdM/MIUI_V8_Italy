@@ -16,12 +16,7 @@ _________________
 
 #####Special thanks to:
 - MarkHUK
-- ale8530
 - ingbrzy
-- ibotpeaches
-- espetrunk
-- salvestro
-- raimondomartire
-- Francko76
-- kekkojoker90
+- ale8530
 - realtebo
+
