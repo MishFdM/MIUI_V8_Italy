@@ -404,7 +404,7 @@
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
-    </string-array>>
+    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
         <item>480p</item>
