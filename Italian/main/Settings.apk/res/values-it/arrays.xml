@@ -513,14 +513,6 @@
         <item>Rosa</item>
         <item>Rosso</item>
     </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>@string/usb_use_charging_only</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
-        <item>MIDI</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>WLAN preferred</item>
         <item>Cellular preferred</item>
@@ -743,11 +735,6 @@
         <item>4,5\"</item>
         <item>4,0\"</item>
         <item>3,5\"</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Subito</item>
