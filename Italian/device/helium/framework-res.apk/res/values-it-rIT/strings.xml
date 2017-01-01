@@ -190,7 +190,7 @@
     <string name="wfcRegErrorTitle">WLAN Calling</string>
     <string name="wfcSpnFormat">%s</string>
     <string name="wfcDataSpnFormat">%s</string>
-    <string name="wifi_calling_off_summary">Off</string>
+    <string name="wifi_calling_off_summary">Disattivato</string>
     <string name="wfc_mode_wifi_preferred_summary">WLAN preferred</string>
     <string name="wfc_mode_cellular_preferred_summary">Cellular preferred</string>
     <string name="wfc_mode_wifi_only_summary">WLAN only</string>
@@ -1426,6 +1426,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
 
 La funzione di risparmio energetico viene disattivata automaticamente quando il dispositivo è in carica."</string>
     <string name="zen_mode_until">Fino alle ore %1$s</string>
+    <string name="zen_mode_alarm">Fino alle ore %1$s (prossima sveglia)</string>
     <string name="zen_mode_forever">Fino alla disattivazione</string>
     <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
@@ -1456,6 +1457,8 @@ La funzione di risparmio energetico viene disattivata automaticamente quando il 
     <string name="China_Telecom">China Telecom</string>
     <string name="usb_cd_installer_notification_title">Collegato come installer</string>
     <string name="permission">Permessi</string>
+    <string name="allow_button">Consenti</string>
+    <string name="deny_button">Nega</string>
     <string name="lock_to_app_description">"Il blocco su schermo blocca il display in un'unica visualizzazione.
 
 Per sbloccare, tocca e tieni premute contemporaneamente le opzioni Indietro e Panoramica."</string>

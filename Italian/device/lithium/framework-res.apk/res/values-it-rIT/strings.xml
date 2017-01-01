@@ -1457,6 +1457,8 @@ La funzione di risparmio energetico viene disattivata automaticamente quando il 
     <string name="China_Telecom">China Telecom</string>
     <string name="usb_cd_installer_notification_title">Collegato come installer</string>
     <string name="permission">Permessi</string>
+    <string name="allow_button">Consenti</string>
+    <string name="deny_button">Nega</string>
     <string name="lock_to_app_description">"Il blocco su schermo blocca il display in un'unica visualizzazione.
 
 Per sbloccare, tocca e tieni premute contemporaneamente le opzioni Indietro e Panoramica."</string>
