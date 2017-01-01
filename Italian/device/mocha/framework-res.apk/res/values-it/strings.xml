@@ -189,7 +189,7 @@
     <string name="permgrouplab_socialInfo">Tue informazioni sociali</string>
     <string name="permgroupdesc_socialInfo">Accesso diretto alle informazioni sui tuoi contatti e sulle tue connessioni sociali.</string>
     <string name="permgrouplab_location">La tua posizione</string>
-    <string name="permgroupdesc_location">"Monitoraggio della posizione fisica dell'utente."</string>
+    <string name="permgroupdesc_location">"monitoraggio della posizione fisica dell'utente"</string>
     <string name="permgrouplab_network">Comunicazione di rete</string>
     <string name="permgroupdesc_network">Accesso a varie funzioni di rete.</string>
     <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>

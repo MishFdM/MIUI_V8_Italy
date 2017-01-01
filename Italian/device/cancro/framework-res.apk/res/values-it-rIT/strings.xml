@@ -280,7 +280,7 @@
     <string name="permgrouplab_contacts">Contatti</string>
     <string name="permgroupdesc_contacts">accesso ai tuoi contatti</string>
     <string name="permgrouplab_location">La tua posizione</string>
-    <string name="permgroupdesc_location">"Monitoraggio della posizione fisica dell'utente."</string>
+    <string name="permgroupdesc_location">"monitoraggio della posizione fisica dell'utente"</string>
     <string name="permgrouplab_calendar">Calendario</string>
     <string name="permgroupdesc_calendar">Accesso diretto al calendario e agli eventi.</string>
     <string name="permgrouplab_sms">SMS</string>
