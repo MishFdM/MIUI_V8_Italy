@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="status_bar_style_entries">
-        <item>Combined</item>
-        <item>Separate</item>
+        <item>Combinato</item>
+        <item>Separato</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -72,21 +72,21 @@
         <item>30 minuti</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Enorme</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Molto lento</item>
+        <item>Lento</item>
+        <item>Normale</item>
+        <item>Veloce</item>
+        <item>Velocissimo</item>
+        <item>Molto veloce</item>
+        <item>Rapido</item>
+        <item>Molto rapido</item>
+        <item>Rapidissimo</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Molto basso</item>
@@ -489,8 +489,8 @@
         <item>Rosso</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
-        <item>WLAN preferred</item>
-        <item>Cellular preferred</item>
+        <item>Wi-Fi preferita</item>
+        <item>Dati preferita</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Disattivata</item>
@@ -504,7 +504,7 @@
         <item>Leggero</item>
     </string-array>
     <string-array name="ap_identify">
-        <item>default</item>
+        <item>predefinito</item>
         <item>iPhone</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
@@ -666,8 +666,8 @@
         <item>Chiedi sempre</item>
     </string-array>
     <string-array name="wifi_ssid_type_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
+        <item>Connetti automaticamente</item>
+        <item>Connetti manualmente</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -766,8 +766,8 @@
         <item>1 min</item>
     </string-array>
     <string-array name="screen_button_style">
-        <item>Left hand style</item>
-        <item>Right hand style</item>
+        <item>Stile mano sinistra</item>
+        <item>Stile mano destra</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
