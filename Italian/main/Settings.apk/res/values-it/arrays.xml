@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>Combined</item>
+        <item>Separate</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Scansione</item>
@@ -27,141 +31,6 @@
         <item>Fallito</item>
         <item>Bloccato</item>
         <item>Evita tempor. connessioni deboli</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Non controllare mai</item>
-        <item>Controlla solo contenuti DRM</item>
-        <item>Controlla sempre</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Non usare mail il controllo HDCP</item>
-        <item>Usa il controllo HDCP solo per contenuti DRM</item>
-        <item>Usa sempre il controllo HDCP</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Disattivato</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Disattivato</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Disattivato</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animazione disattivata</item>
-        <item>Scala animazione .5x</item>
-        <item>Scala animazione 1x</item>
-        <item>Scala animazione 1.5x</item>
-        <item>Scala animazione 2x</item>
-        <item>Scala animazione 5x</item>
-        <item>Scala animazione 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Animazioni disattivate</item>
-        <item>Scala animazione .5x</item>
-        <item>Scala animazione 1x</item>
-        <item>Scala animazione 1.5x</item>
-        <item>Scala animazione 2x</item>
-        <item>Scala animazione 5x</item>
-        <item>Scala animazione 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Animazioni disattivate</item>
-        <item>Scala animazione .5x</item>
-        <item>Scala animazione 1x</item>
-        <item>Scala animazione 1.5x</item>
-        <item>Scala animazione 2x</item>
-        <item>Scala animazione 5x</item>
-        <item>Scala animazione 10x</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Nessuno</item>
-        <item>480p</item>
-        <item>480p (sicuro)</item>
-        <item>720p</item>
-        <item>720p (sicuro)</item>
-        <item>1080p</item>
-        <item>1080p (sicuro)</item>
-        <item>4K</item>
-        <item>4K (sicuro)</item>
-        <item>4K (migliorato)</item>
-        <item>4K (migliorato, sicuro)</item>
-        <item>720p, 1080p (doppio schermo)</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Nessuno</item>
-        <item>Logcat</item>
-        <item>Systrace (Grafica)</item>
-        <item>Richiamo su glGetError</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Limite predefinito</item>
-        <item>Nessun processo in background</item>
-        <item>Massimo 1 processo</item>
-        <item>Massimo 2 processi</item>
-        <item>Massimo 3 processi</item>
-        <item>Massimo 4 processi</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>Charging</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
-        <item>MIDI</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
-    </string-array>
-    <string-array name="color_mode_names">
-        <item>Vibrante (Predefinito)</item>
-        <item>Naturale</item>
-        <item>Standard</item>
-    </string-array>
-    <string-array name="color_mode_descriptions">
-        <item>Migliora i colori</item>
-        <item>"Colori naturali come visto dall'occhio"</item>
-        <item>Ottimizza i colori per contenuti digitali</item>
-    </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>Combinato</item>
-        <item>Separato</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -207,6 +76,17 @@
         <item>Normal</item>
         <item>Large</item>
         <item>Huge</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Molto basso</item>
@@ -263,12 +143,6 @@
         <item>Conteggio avvii</item>
         <item>Nome applicazione</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Nessuno</item>
         <item>MSCHAPV2</item>
@@ -295,11 +169,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP o CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>Non specificato</item>
@@ -472,12 +341,6 @@
         <item>Incastonato</item>
         <item>Rialzato</item>
     </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Definito da app</item>
         <item>Bianco su nero</item>
@@ -485,6 +348,105 @@
         <item>Giallo su nero</item>
         <item>Giallo su blu</item>
         <item>Personalizzato</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Non controllare mai</item>
+        <item>Controlla solo contenuti DRM</item>
+        <item>Controlla sempre</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Non usare mail il controllo HDCP</item>
+        <item>Usa il controllo HDCP solo per contenuti DRM</item>
+        <item>Usa sempre il controllo HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animazione disattivata</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animazioni disattivate</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animazioni disattivate</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+    </string-array>>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nessuno</item>
+        <item>480p</item>
+        <item>480p (sicuro)</item>
+        <item>720p</item>
+        <item>720p (sicuro)</item>
+        <item>1080p</item>
+        <item>1080p (sicuro)</item>
+        <item>4K</item>
+        <item>4K (sicuro)</item>
+        <item>4K (migliorato)</item>
+        <item>4K (migliorato, sicuro)</item>
+        <item>720p, 1080p (doppio schermo)</item>
+</string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nessuno</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafica)</item>
+        <item>Richiamo su glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>On screen as bars</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limite predefinito</item>
+        <item>Nessun processo in background</item>
+        <item>Massimo 1 processo</item>
+        <item>Massimo 2 processi</item>
+        <item>Massimo 3 processi</item>
+        <item>Massimo 4 processi</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>VPN PPTP</item>
@@ -519,11 +481,7 @@
         <item>medio</item>
         <item>basso</item>
         <item>critico</item>
-    </string-array>
-    <string-array name="haptic_feedback_level_entries">
-        <item>Forte</item>
-        <item>Medio</item>
-        <item>Leggero</item>
+        <item>\?</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Normale</item>
@@ -555,9 +513,17 @@
         <item>Rosa</item>
         <item>Rosso</item>
     </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices">
-        <item>Wi-Fi preferita</item>
-        <item>Rete mobile preferita</item>
+        <item>WLAN preferred</item>
+        <item>Cellular preferred</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Disattivata</item>
@@ -569,6 +535,10 @@
         <item>Forte</item>
         <item>Medio</item>
         <item>Leggero</item>
+    </string-array>
+    <string-array name="ap_identify">
+        <item>default</item>
+        <item>iPhone</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>
@@ -606,9 +576,6 @@
         <item>Ciano</item>
         <item>Bianco</item>
         <item>Viola</item>
-    </string-array>
-    <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
     </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
@@ -731,12 +698,9 @@
         <item>Connetti manualmente</item>
         <item>Chiedi sempre</item>
     </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 minuti</item>
-        <item>15 minuti</item>
-        <item>30 minuti</item>
-        <item>1 ora</item>
-        <item>Illimitato</item>
+    <string-array name="wifi_ssid_type_entries">
+        <item>Automatically connect</item>
+        <item>Manually connect</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -775,23 +739,15 @@
         <item>Rete domestica</item>
         <item>Tutte le reti</item>
     </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
-    </string-array>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_entries">
-        <item>HOT</item>
-        <item>WARM</item>
-        <item>COLD</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5\"</item>
         <item>4,0\"</item>
         <item>3,5\"</item>
+    </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Subito</item>
@@ -824,127 +780,14 @@
         <item>XXL</item>
         <item>XXXL</item>
     </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>ag</item>
-        <item>ar</item>
-        <item>bs</item>
-        <item>bh</item>
-        <item>bd</item>
-        <item>bb</item>
-        <item>be</item>
-        <item>bz</item>
-        <item>bo</item>
-        <item>bw</item>
-        <item>bg</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cl</item>
-        <item>co</item>
-        <item>cd</item>
-        <item>cr</item>
-        <item>ci</item>
-        <item>hr</item>
-        <item>cu</item>
-        <item>cz</item>
-        <item>dm</item>
-        <item>do</item>
-        <item>ec</item>
-        <item>eg</item>
-        <item>sv</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fk</item>
-        <item>fr</item>
-        <item>gf</item>
-        <item>de</item>
-        <item>gh</item>
-        <item>gr</item>
-        <item>gd</item>
-        <item>gt</item>
-        <item>gy</item>
-        <item>ht</item>
-        <item>hn</item>
-        <item>hk</item>
-        <item>hu</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>iq</item>
-        <item>il</item>
-        <item>it</item>
-        <item>jm</item>
-        <item>jo</item>
-        <item>kz</item>
-        <item>ke</item>
-        <item>kw</item>
-        <item>lb</item>
-        <item>ls</item>
-        <item>ly</item>
-        <item>lt</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mr</item>
-        <item>mu</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>np</item>
-        <item>ni</item>
-        <item>ng</item>
-        <item>kp</item>
-        <item>om</item>
-        <item>pk</item>
-        <item>ps</item>
-        <item>pa</item>
-        <item>py</item>
-        <item>pe</item>
-        <item>ph</item>
-        <item>pl</item>
-        <item>qa</item>
-        <item>ro</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sa</item>
-        <item>sn</item>
-        <item>rs</item>
-        <item>sg</item>
-        <item>sk</item>
-        <item>so</item>
-        <item>za</item>
-        <item>gs</item>
-        <item>kr</item>
-        <item>es</item>
-        <item>lk</item>
-        <item>kn</item>
-        <item>lc</item>
-        <item>vc</item>
-        <item>sd</item>
-        <item>sr</item>
-        <item>sz</item>
-        <item>ch</item>
-        <item>sy</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tn</item>
-        <item>tr</item>
-        <item>tm</item>
-        <item>tt</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>us</item>
-        <item>uy</item>
-        <item>uz</item>
-        <item>ve</item>
-        <item>vn</item>
-        <item>ye</item>
-        <item>zm</item>
-        <item>zw</item>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Illimitato</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Schermata di blocco</item>
@@ -953,6 +796,16 @@
         <item>File explorer</item>
         <item>Blocco applicazioni</item>
         <item>Spazio Secondario</item>
+    </string-array>
+    <string-array name="anr_record_interval_entries">
+        <item>10 sec</item>
+        <item>20 sec</item>
+        <item>30 sec</item>
+        <item>1 min</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>Left hand style</item>
+        <item>Right hand style</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
@@ -972,3 +825,5 @@
         <item>Modalità Genitore</item>
     </string-array>
 </resources>
+
+
