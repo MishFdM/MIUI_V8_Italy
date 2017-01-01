@@ -126,4 +126,8 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="package_delete_confirm_step_1">Eliminare %s?</string>
     <string name="package_delete_confirm_step_2">Eliminando questa applicazione il sistema può diventare instabile.</string>
     <string name="package_delete_confirm_step_3">Non sarai in grado di aprire questa applicazione dopo averla eliminata.</string>
+    <string name="grant_dialog_button_allow">Consenti</string>
+    <string name="grant_dialog_button_deny">Nega</string>
+    <string name="current_permission_template">%1$s di %2$s</string>
+    <string name="permission_warning_template">Consenti %1$s al %2$s?</string>
 </resources>
