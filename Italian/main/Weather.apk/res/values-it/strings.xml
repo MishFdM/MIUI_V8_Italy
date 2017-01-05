@@ -6,6 +6,7 @@
     <string name="gps_hint">Località attuale</string>
     <string name="add_city">Aggiungi</string>
     <string name="edit_city">Modifica</string>
+    <string name="daily_forecast_detail">Dettaglio previsione</string>
     <string name="network_unavailable">Impossibile connettersi alla rete.</string>
     <string name="act_find_city_hot_title">Aggiungi</string>
     <string name="act_find_city_hint">Inserisci località</string>
@@ -143,6 +144,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="video_dialog_subtitle" />
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
+    <string name="lunar_calendar" />
     <string name="ads_extension" />
     <string name="activity_main_one_alert" />
     <string name="activity_main_alert" />
@@ -185,4 +187,10 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="set">Impostazioni</string>
     <string name="common_loading_text">Solo un attimo...</string>
     <string name="change_alert">Controlla la connessione di rete e prova di nuovo</string>
+    <string name="yes_vote_ratio">Per %1$s%%</string>
+    <string name="yes_vote_num"> | %1$s persone</string>
+    <string name="no_vote_ratio">Contro %1$s%%</string>
+    <string name="no_vote_num">%1$s persone | </string>
+    <string name="already_voted">Votato</string>
+    <string name="already_voted_toast">Hai già votato per oggi</string>
 </resources>

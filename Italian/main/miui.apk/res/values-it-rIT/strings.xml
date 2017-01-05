@@ -24,6 +24,7 @@
     <string name="select_all">Seleziona tutto</string>
     <string name="deselect_all">Deseleziona</string>
     <string name="instruction">Istruzioni</string>
+    <string name="sar">SAR</string>
     <string name="abc_action_bar_up_description">Livello superiore</string>
     <string name="abc_action_bar_home_description">Naviga in home</string>
     <string name="time_picker_label_hour">O</string>
@@ -582,4 +583,5 @@
     <string name="no_network">Impossibile connettersi alla rete</string>
     <string name="webview_reload">Riprova</string>
     <string name="hybrid_provider">Pagina web fornita da %1$s .</string>
+    <string name="xiaomi_mobile">Mi Mobile</string>
 </resources>
