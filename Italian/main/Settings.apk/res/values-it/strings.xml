@@ -2975,7 +2975,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="notification_importance_blocked">Bloccato: non mostrare mai queste notifiche</string>
     <string name="notification_importance_min">"Minima: mostra silenziosamente in fondo all'elenco delle notifiche"</string>
     <string name="notification_importance_low">Bassa: mostra queste notifiche silenziosamente</string>
-    <string name="notification_importance_default">Sempre attivo. Nessuna interruzione a tutto schermo.</string>
     <string name="notification_importance_high">"Elevata. Apri sullo schermo e attiva l'audio"</string>
     <string name="notification_importance_max">"Urgente: mostra in cima all'elenco delle notifiche, visualizza sullo schermo e attiva l'audio"</string>
     <string name="notification_importance_unspecified">App determines importance for each notification</string>
