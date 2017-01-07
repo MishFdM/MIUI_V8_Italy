@@ -282,7 +282,6 @@
     <string name="charge_length_format">%1$s fa</string>
     <string name="remaining_length_format">%1$s rimanenti</string>
     <string name="screen_zoom_summary_small">Piccolo</string>
-    <string name="screen_zoom_summary_default">Predefinite</string>
     <string name="screen_zoom_summary_large">Grande</string>
     <string name="screen_zoom_summary_very_large">Più grande</string>
     <string name="screen_zoom_summary_extremely_large">Massimo</string>
