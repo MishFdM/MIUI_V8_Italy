@@ -1212,13 +1212,13 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
   <string name="sms_control_no">Nega</string>
   <string name="sms_control_title">Invio SMS</string>
   <string name="sms_control_yes">Consenti</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;"Verranno effettuati addebiti sull'account del tuo gestore di telefonia mobile."&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details">&lt;b&gt;"Verranno effettuati addebiti sull\'account del tuo gestore di telefonia mobile."&lt;/b&gt;</string>
   <string name="sms_short_code_confirm_allow">Invia</string>
   <string name="sms_short_code_confirm_always_allow">Consenti sempre</string>
   <string name="sms_short_code_confirm_deny">Annulla</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; vorrebbe inviare un messaggio a &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Non consentire mai</string>
-  <string name="sms_short_code_details">&lt;b&gt;Potrebbero essere effettuati addebiti&lt;/b&gt;" sull'account del tuo gestore di telefonia mobile."</string>
+  <string name="sms_short_code_details">&lt;b&gt;Potrebbero essere effettuati addebiti&lt;/b&gt;" sull\'account del tuo gestore di telefonia mobile."</string>
   <string name="sms_short_code_remember_choice">Memorizza la mia scelta</string>
   <string name="sms_short_code_remember_undo_instruction">Modifica: Impostazioni &gt; Applicazioni</string>
   <string name="smv_application">"L'applicazione %1$s (processo %2$s) ha violato la norma StrictMode autoimposta."</string>
