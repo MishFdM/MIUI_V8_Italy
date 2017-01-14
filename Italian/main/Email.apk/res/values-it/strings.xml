@@ -775,6 +775,7 @@
     <string name="refreshing">Aggiornamento…</string>
     <string name="refreshing_done">Sincronizzazione completata</string>
     <string name="release_to_refresh">Rilascia per aggiornare</string>
+    <string name="remind_attachment_size_limit">La dimensione delle email deve essre inferiore a %sMB</string>
     <string name="remote_search_result">%s email trovate sul server.</string>
     <string name="remove_account">Rimuovi account</string>
     <string name="remove_folder">Rimuovi da %1$s</string>
@@ -812,7 +813,6 @@
     <string name="security_unsupported_ticker_fmt">"L'account \"%s\" non può essere sincronizzato."</string>
     <string name="select_attachment_type">Scegli tipo di allegato</string>
     <string name="select_no_file">Nessun allegato selezionato per la condivisione.</string>
-    <string name="selected_lable">Selezionato</string>
     <string name="send">Invia</string>
     <string name="send_failed">"Il messaggio non è stato inviato."</string>
     <string name="send_feed_back">Send feedback</string>
@@ -943,7 +943,6 @@ Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modif
     <string name="wipe_account_fail_title">Impossibile eliminare informazioni personali</string>
     <string name="wrong_password">Password errata</string>
     <string name="yes">Sì</string>
-    <string name="yidianzixun">Yi Dian Zixun</string>
     <string name="you_are_in_mobile_network">Stai usando la rete dati cellulare</string>
     <string name="youfuli">Promozione</string>
     <string name="zip_viewer_no_file">Nessun file</string>

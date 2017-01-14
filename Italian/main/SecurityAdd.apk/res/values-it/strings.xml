@@ -63,6 +63,8 @@
     <string name="shield_keyboard_detail">Tocca due volte i tasti per riattivarli</string>
     <string name="anti_disturb_msg_title">DND</string>
     <string name="anti_disturb_msg_detail">Disattiva tutte le notifiche per le chiamate in arrivo</string>
+    <string name="wlan_change_protection_title">Previeni il cambio di rete</string>
+    <string name="wlan_change_protection_detail">Non passare automaticamente a Wi-Fi quando connesso a rete dati mobile</string>
     <string name="other">Altre impostazioni</string>
     <string name="game_booster_intro">Info su Acceleratore di Gioco</string>
     <string name="start_game">Avvia</string>
@@ -78,4 +80,5 @@
     <string name="release_memory">Pulisci cache</string>
     <string name="start">Avvia</string>
     <string name="close">Chiudi</string>
+    <string name="lucky_result_title">Assistente registrazione</string>
 </resources>

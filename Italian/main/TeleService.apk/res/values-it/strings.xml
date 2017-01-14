@@ -311,6 +311,7 @@ Vuoi utilizzarlo per i pacchetti di ricarica?"</string>
     <string name="mmiStarted">Codice MMI inizializzato</string>
     <string name="ussdRunning">Codice USSD in esecuzione…</string>
     <string name="mmiCancelled">Codice MMI annullato</string>
+    <string name="cancel">Annulla</string>
     <string name="enter_input" formatted="false">Il messaggio USSD deve essere lungo tra gli %d e i %d caratteri. Si prega di riprovare.</string>
     <string name="manageConferenceLabel">Gestisci chiamata conferenza</string>
     <string name="ok">OK</string>

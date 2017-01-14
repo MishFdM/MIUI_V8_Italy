@@ -12,12 +12,6 @@
         <item quantity="other">%d brani trovati</item>
         <item quantity="one">%d brano trovato</item>
     </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">Puoi scaricare solo %d brani Premium per questo mese. Aggiorna il tuo Pacchetto brani Premium per scaricarne altri</item>
-    </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">"Puoi scaricare solo %d brani Premium per questo mese. Scaricare comunque i brani selezionati?"</item>
-    </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d giorni in scadenza</item>
         <item quantity="one">%d giorno in scadenza</item>
@@ -58,6 +52,10 @@
         <item quantity="other">Rimuovere %d brani?</item>
         <item quantity="one">Rimuovere %d brano?</item>
     </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Eliminare %d brani da Mi Cloud?</item>
+        <item quantity="one">ELiminare %d brano da Mi Cloud?</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d brani aggiunti alla playlist</item>
         <item quantity="one">1 brano aggiunto alla playlist</item>
@@ -65,10 +63,6 @@
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d brani rimossi dalla playlist</item>
         <item quantity="one">1 brano rimosso dalla playlist</item>
-    </plurals>
-    <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d brani</item>
-        <item quantity="one">1 brano</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">La riproduzione terminerà tra %d minuti</item>
@@ -93,5 +87,34 @@
     <plurals name="song_already_favorite">
         <item quantity="other">Brani aggiunti ai Preferiti.</item>
         <item quantity="one">Brano aggiunto ai Preferiti.</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d commenti</item>
+        <item quantity="one">%d commento</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d follower</item>
+        <item quantity="one">%d follower</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">Backup non eseguito per %1$d brani (%2$.1fMB)</item>
+        <item quantity="one">Backup non eseguito per %1$d brano (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Esegui il backup di %1$d brani (%2$.1fMB)</item>
+        <item quantity="one">Esegui il backup di %1$d brano (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Backup dei brani, %1$d rimanenti (%2$.1fMB)</item>
+        <item quantity="one">Backup del brano, %1$d rimanente (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">Non è stato eseguito il backup di %d brani su Mi Cloud. Interrompere?</item>
+        <item quantity="one">on è stato eseguito il backup di %d un brano su Mi Cloud. Interrompere?"</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Creato il %1$s | totale %2$d brani</item>
+        <item quantity="zero">Creato il %1$s | totale %2$d brani</item>
+        <item quantity="one">Creato il %1$s | totale %2$d brano</item>
     </plurals>
 </resources>

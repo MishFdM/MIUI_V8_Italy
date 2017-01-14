@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="time_in_justnow">Poco fa</string>
+    <string name="permission_granted">%1$s permessi concessi</string>
     <string name="michat_app_name">Supporto online</string>
     <string name="michat_feedback_title_name">Sondaggio feedback</string>
     <string name="michat_attach_smiley">Emoticon</string>
@@ -283,4 +285,7 @@
     <string name="module_search">Cerca</string>
     <string name="feedback_submit_hint">Segnalaci unerrore appena lo rilevi, così ci aiuterai a risolverlo più rapidamente.</string>
     <string name="toast_post_deleted">Questo argomento non esiste, è stato eliminato o modificato.</string>
+    <string name="toast_log_not_exists">Il log richiesto è statoeliminato onon esiste</string>
+    <string name="toast_pic_not_exists">Immagine cache eliminata</string>
+    <string name="title_bbs_feedback_main">Maggiori informazioni sui telefoni Mi</string>
 </resources>

@@ -1206,6 +1206,11 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="call_operator_init">Imposta operatore</string>
     <string name="call_problem_report">Segnala un problema</string>
     <string name="call_not_found"> --</string>
+    <string name="disclaimer_title">Avviso</string>
+    <string name="disclaimer_text">"Le pagine gialle recuperano infomrazioni sul tuo saldo tramite invio di un SMS. Il tuo operatore potrebbe , so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
+
+To avoid frequent queries, we update balance info once a day."</string>
+    <string name="report_inquiry_mms">Report SMS</string>
     <string name="data_charge">Ricarica dati mobili</string>
     <string name="data_already_used">Dati utilizzati</string>
     <string name="data_left">Dati rimanenti</string>
