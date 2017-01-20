@@ -46,7 +46,7 @@
     <string name="status_bar_recording">Registrazione…</string>
     <string name="status_bar_back">Premi per tornare al Registratore</string>
     <string name="status_bar_recording_pause">Registrazione in pausa</string>
-    <string name="low_battery_error">La batteria è a meno del 5%, per assicurarsi di non perdere la registrazione per uno spegnimento improvviso, la registrazione è stata interrotta e salvata. Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
+    <string name="low_battery_error_title">Batteria scarica</string>
     <string name="low_battery_error">"Batteria rimanente inferiore al 5%. Interrompi e salva la tua registrazione per essere certo di non perderla.</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="record_name_hour">.</string>
@@ -144,4 +144,5 @@
     <string name="network_tip_dialog_title">"E' richiesta la connessione Internet"</string>
     <string name="network_tip_dialog_content">Il motore di riconoscimento vocale deve collegarsi as Internet per funzionare correttamente.</string>
     <string name="network_tip_dialog_ok">Consenti</string>
+    <string name="network_tip_dialog_cancel">Annulla</string>
 </resources>
