@@ -62,4 +62,6 @@ Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di uti
     <string name="content_description_miui_version">MIUI 8</string>
     <string name="content_description_complete">Completato</string>
     <string name="content_description_language_picker">Seleziona la lingua</string>
+    <string name="language_picker_popular_languages_title">Lingue più utilizzate</string>
+    <string name="language_picker_other_languages_title">Altre lingue</string>
 </resources>

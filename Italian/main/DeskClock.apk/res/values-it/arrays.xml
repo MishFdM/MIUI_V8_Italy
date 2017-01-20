@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Nessuno</item>
+        <item>Riavvia</item>
+        <item>Spegni</item>
+    </string-array>
     <string-array name="alarm_in_furture">
         <item>Sveglia tra meno di un minuto</item>
         <item>Sveglia tra %1$s</item>

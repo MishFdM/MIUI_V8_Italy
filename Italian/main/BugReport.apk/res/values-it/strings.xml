@@ -198,6 +198,7 @@
     <string name="feedback_detail_tile">Avanzamento</string>
     <string name="feedback_tracking">Segui le segnalazioni</string>
     <string name="feedback_status_more">Dettagli</string>
+    <string name="feedback_status_supplement_more">Aggiungi un commento</string>
     <string name="feedback_submit_succ">Inviato correttamente</string>
     <string name="feedback_submitting">Invio in corso…</string>
     <string name="feedback_submit_hint1">Ti notificheremo sui progressi del tuo report</string>

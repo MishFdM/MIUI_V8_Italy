@@ -7,7 +7,10 @@
     <string name="add_city">Aggiungi</string>
     <string name="edit_city">Modifica</string>
     <string name="daily_forecast_detail">Dettaglio previsione</string>
+    <string name="daily_forecast_no_data">"Impossibile recuperare i dati
+trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
     <string name="network_unavailable">Impossibile connettersi alla rete.</string>
+    <string name="connect_fail">Anomalia nella connessione di rete. Prova di nuovo più tardi.</string>
     <string name="act_find_city_hot_title">Aggiungi</string>
     <string name="act_find_city_hint">Inserisci località</string>
     <string name="act_set_city_find_side">Localizzazione in corso…</string>
@@ -95,6 +98,7 @@
     <string name="information_menu_title" />
     <string name="information_manager_wlan">Aggiorna quando connesso a Wi-Fi</string>
     <string name="information_manager_information">Informazioni Meteo</string>
+    <string name="information_manager_extension">Estensione meteo</string>
     <string name="activity_main_clickable">></string>
     <string name="aqi_short_desc">IQA %1$s</string>
     <string name="wind_unit">%1$s km/h</string>
@@ -126,6 +130,7 @@
     <string name="tts_report_split" />
     <string name="tts_report_defautl_head" />
     <string name="realtime_wind_default_title">Vento</string>
+    <string name="realtime_cityname_default">Posizione città</string>
     <string name="realtime_humidity_title">Umidità relativa</string>
     <string name="realtime_aqi_title">Indice Qualità Aria</string>
     <string name="aqi_detail_sub_title">Dettagli IQA</string>
@@ -146,6 +151,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="video_dialog_play" />
     <string name="lunar_calendar" />
     <string name="ads_extension" />
+    <string name="wind_direction_no_data">Vento</string>
     <string name="activity_main_one_alert" />
     <string name="activity_main_alert" />
     <string name="activity_alert_detail_title" />
@@ -182,6 +188,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="alert_warning">Avviso</string>
     <string name="unit">Unità</string>
     <string name="information_set">Informazioni</string>
+    <string name="other">Altro</string>
     <string name="unit_temperature">Unità temperatura</string>
     <string name="unit_wind">Unità forza vento</string>
     <string name="set">Impostazioni</string>

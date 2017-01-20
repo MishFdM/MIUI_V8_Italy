@@ -47,6 +47,7 @@
     <string name="timer_continue">Continua</string>
     <string name="worldclock_empty_text">Nessun orologio internazionale</string>
     <string name="alarmclock_empty_text">Nessuna sveglia</string>
+    <string name="alarmclock_silent_hint">Sveglia silenziata</string>
     <string name="stopwatch_lap_empty_text">Nessun giro</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_start_alarm">Tempo scaduto!</string>
