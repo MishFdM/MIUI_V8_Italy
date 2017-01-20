@@ -625,7 +625,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="hybrid_pull_to_refresh_pull_label">Trascina per aggiornare…</string>
     <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Caricamento…</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="album_videos_name">Video</string>
     <string name="album_pano_name">Panorama</string>
     <string name="album_faces_name">Volto</string>
@@ -953,7 +952,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="welcome_to_slim">"Benvenuto nell'album slim"</string>
     <string name="slim_introduce">Sostituisci le foto ad alta risoluzione sul dispositivo con versioni ottimizzate dopo il backup su Mi Cloud. Le foto ad alta risoluzione saranno disponibili su Mi Cloud.</string>
     <string name="slim_introduce_with_specific_size">Sostituisci le foto ad alta risoluzione sul dispositivo con versioni ottimizzate dopo il backup su Mi Cloud. Le foto ad alta risoluzione saranno disponibili su Mi Cloud. Spazio guadagnato: %1$s (è necessario un Mi Account).</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="next">Avanti</string>
     <string name="login_and_enable_service">"Esegui l'accesso ed utilizza Mi Cloud"</string>

@@ -130,7 +130,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
     <string name="tts_report_split" />
     <string name="tts_report_defautl_head" />
     <string name="realtime_wind_default_title">Vento</string>
-    <string name="realtime_cityname_default">Posizione città</string>
     <string name="realtime_humidity_title">Umidità relativa</string>
     <string name="realtime_aqi_title">Indice Qualità Aria</string>
     <string name="aqi_detail_sub_title">Dettagli IQA</string>
