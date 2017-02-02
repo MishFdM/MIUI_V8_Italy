@@ -297,8 +297,6 @@
     <string name="search_history_cleared">Cronologia eliminata</string>
     <string name="preferences_alerts_title">Notifiche</string>
     <string name="preferences_alerts_popup_title">Notifica pop-up</string>
-    <string name="preferences_default_reminder_title">Promemoria predefinito</string>
-    <string name="preferences_default_reminder_dialog">Promemoria predefinito</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Usa orario predefinito</string>
     <string name="preferences_use_home_tz_descrip">Mostra orario eventi con il fuso orario predefinito</string>
