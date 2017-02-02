@@ -354,7 +354,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="grant_dialog_button_deny">Nega</string>
     <string name="grant_dialog_button_deny_anyway">Nega comunque</string>
     <string name="current_permission_template">%1$s di %2$s</string>
-    <string name="permission_warning_template">Consentire a &lt;b>%1$s&lt;/b> di %2$s?</string>
+    <string name="permission_warning_template">Consentire a %1$s di %2$s?</string>
     <string name="grant_dialog_button_allow">Consenti</string>
     <string name="app_permissions_breadcrumb">App</string>
     <string name="app_permissions">Autorizzazioni app</string>
