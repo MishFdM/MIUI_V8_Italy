@@ -352,6 +352,9 @@
     <string name="no_visiable_calendar_title">Seleziona Account Calendario</string>
     <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
     <string name="no_visiable_calendar_select_account">Seleziona account</string>
+	<string name="setting_accounts">Calendario Account</string>
+    <string name="setting_features_title">Impostazioni funzionalità</string>
+    <string name="setting_title_holiday_display">Mostra vacanze</string>
     <string name="event_info_reminders_label_1">Promemoria</string>
     <string name="event_info_reminders_label_more">Promemoria %d</string>
     <string name="event_account">Account calendario</string>
@@ -434,6 +437,9 @@
     <string name="setting_holiday_display_desc">Schede vacanze posizionate nella homapge del calendario</string>
     <string name="setting_holiday_reminder">Promemoria vacanze</string>
     <string name="setting_others">Aggiuntive</string>
+	<string name="preferences_default_allday_reminder_title">Orario promemoria per tutti i giorni</string>
+    <string name="preferences_default_reminder_title">Orario promemoria</string>
+    <string name="preferences_default_reminder_dialog">Orario promemoria</string>
     <string name="setting_homepage">Visualizzazione homepage</string>
     <string name="preferences_holidays">Mostra vacanze</string>
     <string name="preferences_solar_terms">Mostra giorni calendario solare</string>

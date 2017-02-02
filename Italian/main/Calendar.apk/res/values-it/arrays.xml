@@ -228,6 +228,17 @@
         <item>Nero trasparente</item>
         <item>Sfondo bianco</item>
     </string-array>
+	    <string-array name="default_reminder_labels">
+        <item>"Al momento dell'evento"</item>
+        <item>5 minuti prima</item>
+        <item>10 minuti prima</item>
+        <item>15 minuti prima</item>
+        <item>30 minuti prima</item>
+        <item>1 ora prima</item>
+        <item>1 giorno prima</item>
+        <item>2 giorni prima</item>
+        <item>1 settimana prima</item>
+    </string-array>
     <string-array name="miui_reminder_minutes_labels">
         <item>Nessun avviso</item>
         <item>0 minuti</item>
