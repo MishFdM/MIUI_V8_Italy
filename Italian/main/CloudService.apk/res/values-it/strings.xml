@@ -145,7 +145,7 @@ Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="master_alert_notif_title">Ultima sincronizzazione: %s giorni fa</string>
     <string name="master_alert_notif_content">Impossibile sincronizzare</string>
     <string name="sub_alert_notif_title">Sincronizzazione disabilitata</string>
-    <string name="sub_alert_notif_content">Attiva MiCloud</string>
+    <string name="sub_alert_notif_content">Attiva Mi Cloud</string>
     <string name="noRemind">Non ricordarmelo più</string>
     <string name="restoreSync">Abilita sincronizzazione</string>
     <string name="enableAll">Abilita tutto</string>

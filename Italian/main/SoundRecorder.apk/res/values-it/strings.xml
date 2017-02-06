@@ -104,7 +104,7 @@
     <string name="text_btn_play">Riproduci</string>
     <string name="text_btn_mark">Segna</string>
     <string name="text_btn_list">Lista</string>
-    <string name="text_btn_complete">Complete</string>
+    <string name="text_btn_complete">Completa</string>
     <string name="text_btn_recognize">Riconoscimento</string>
     <string name="text_btn_wave">Onda</string>
     <string name="text_finish">Conferma</string>
