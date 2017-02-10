@@ -161,7 +161,6 @@
     <string name="color_picker_dialog_title">Seleziona colore</string>
     <string name="color_picker_hue">Colore</string>
     <string name="color_picker_saturation">Saturazione</string>
-    <string name="color_picker_value">Valore</string>
     <string name="comment_app_menu">commenti</string>
     <string name="comment_hint">Commenti</string>
     <string name="comment_menu">commenti</string>
@@ -345,7 +344,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="js_dialog_before_unload_positive_button">Abbandona questa pagina</string>
     <string name="js_dialog_before_unload_title">Conferma navigazione</string>
     <string name="js_dialog_title">La pagina \" %s \" dice:</string>
-    <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_disable_confirm_message">Disattivando JavaScript alcuni siti web potrebbero non essere visualizzati correttamente</string>
     <string name="js_disable_confirm_title">Disattivare JavaScript?</string>
     <string name="keep_queued_download">Mantieni</string>
