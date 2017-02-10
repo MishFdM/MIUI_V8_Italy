@@ -618,6 +618,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="boot_reminder">Accendi il dispositivo ad orari programmati</string>
     <string name="shutdown_cancel_reminder">Il dispositivo non si è spento</string>
     <string name="shutdown_cancel_reminder_detail">Il dispositivo non si è spento perché era in corso una chiamata</string>
+    <string name="shutdown_cancel_reminder_detail2">Sembra che tu stia giocando adesso. Lo spegnimento programmatto è stato annullato.</string>
     <string name="legal_workday_invalidate">Dati scaduti (Attualmente attivo da Lunedì a Venerdì)</string>
     <string name="legal_workday_invalidate_message">(Dati scaduti,premi per aggiornare interconnessioni)</string>
     <string name="legal_workday_message">\u0020(Salta le festività)</string>
@@ -789,6 +790,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="auto_task_notify_exit_task_title">Operazione automatica terminata</string>
     <string name="auto_task_notify_task_canceled_title">Azione annullata</string>
     <string name="auto_task_notify_task_canceled_summary">Puoi effettuare e ricevere chiamate</string>
+    <string name="auto_task_notify_task_canceled_summary2">Sembra che tu stia giocando in questo momento.</string>
     <string name="auto_task_notify_task_continue_do">Avvia operazione</string>
     <string name="auto_task_notify_task_count_down">"L'operazione automatica inizierà tra 5 secondi"</string>
     <string name="auto_task_notify_task_cancel_count_down">"L'operazione automatica verrà annullata tra 5 secondi"</string>
@@ -1271,7 +1273,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="hints_scan_result_phone_safe">Sembra tutto OK</string>
     <string name="hints_cleanning_done">Scansionato con successo</string>
     <string name="virus_scan_process_pre">%</string>
-    <string name="please_continue_keep">Mantieni</string>
+    <string name="try_recommended_function">Proteggi il dispositivo con le nuove funzioni di Sicurezza</string>
     <string name="btn_text_quick_antivirus">Correggi</string>
     <string name="activity_title_white_list">Eccezioni</string>
     <string name="there_is_no">Sembra tutto OK, ritorna più tardi</string>
@@ -1354,6 +1356,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_netcheck_action">Verifica</string>
     <string name="card_main_gamebooster_title">Aumento velocità di gioco</string>
     <string name="card_main_gamebooster_summary">"Aumenta la velocità e migliora l'esperienza di gioco"</string>
+    <string name="card_main_hbassistant_title">Assistente busta rossa</string>
+    <string name="card_main_hbassistant_summary">Utilizza questo strumento per ricevere le buste più velocemente</string>
     <string name="action_button_text_100">Ottimizza</string>
     <string name="action_button_text_80_100">Ottimizza</string>
     <string name="action_button_text_60_80">Ottimizzato</string>
@@ -1636,4 +1640,7 @@ Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo 
     <string name="sys_app_prot_cracked_login">Accedi al tuo Mi Account</string>
     <string name="confirmSecondSpacePassword">Conferma password Spazio Secondario</string>
     <string name="sponsored_sec_fb">Sponsorizzato</string>
+    <string name="dialog_remove_luckymoney">Questa versione MIUI supporta l'Assistente Bust Rossa come app di sistema, disinstallare ed utilizzare la nuova app per ricevere le buste più velocemente?</string>
+    <string name="dialog_remobe_luckymoney_ok">OK</string>
+    <string name="dialog_remobe_luckymoney_cancle">Usa la versione singola</string>
 </resources>

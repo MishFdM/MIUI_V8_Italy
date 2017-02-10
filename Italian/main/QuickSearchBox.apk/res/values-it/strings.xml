@@ -31,6 +31,8 @@
     <string name="connect_and_retry">Collegati ad internet e riprova</string>
     <string name="applications_search_label">App</string>
     <string name="settings_description">Nomi delle app installate</string>
+    <string name="appindex_search_label">Funzioni app</string>
+    <string name="appindex_description">Funzioni e app installate</string>
     <string name="application_desc">Applicazione</string>
     <string name="web_search_results">Google</string>
     <string name="search_group_fold">Nascondi</string>
@@ -80,6 +82,11 @@ Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
     <string name="update_version_stable">Stabile</string>
     <string name="update_right_now">Aggiorna</string>
     <string name="update_check">Verifica aggiornamenti</string>
+    <string name="app_loaction">Trova sulla Home</string>
+    <string name="local_app">App</string>
+    <string name="local_setting">Impostazioni</string>
+    <string name="pull_to_input">Trascina in basso per visualizzare la barra di ricerca</string>
+    <string name="release_to_input">Rilascia per visualizzare la barra di ricerca</string>
     <string name="apps_search_activity" />
     <string name="xiaomi_suggest_base" />
     <string name="xiaomi_homepage_suggest" />

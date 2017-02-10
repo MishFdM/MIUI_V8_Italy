@@ -35,6 +35,14 @@
     <string name="phone_locked_timeout_minutes_string">Prego riprovare tra %s minuti</string>
     <string name="unlock_sim_string">Sblocca SIM</string>
     <string name="lockscreen_glogin_submit_button">Accesso</string>
+    <string name="phone_locked_foget_password">Password dimenticata?</string>
+    <string name="phone_locked_foget_password_header">Cosa devo fare se dimentico la password?</string>
+    <string name="phone_locked_foget_password_content">"Puoi acedere su i.mi.com utilizzando il Mi Account associato con questo dispositivo e cancellare tutti i dati. Questa operazione eliminerà tutti i dati personali su questo dispositivo. Successivamente puoi riavviare e ripristinare contatti, messaggi, foto e altri elementi da Mi Cloud. 
+
+Non sarai in grado di farlo a meno che tu non abbia eseguito l'accesso al tuo Mi Account su questo dispositivo. In alternativa dovrai formattare di nuovo il dispositivo."</string>
+    <string name="phone_locked_foget_password_footer">"Passaggi:
+Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi Wipe device."</string>
+    <string name="phone_locked_foget_password_ok">Ho capito</string>
     <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
     <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>

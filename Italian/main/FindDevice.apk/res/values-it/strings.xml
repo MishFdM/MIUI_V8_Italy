@@ -41,6 +41,8 @@ Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzio
     <string name="activate_xiaomi_account">Attiva questo dispositivo</string>
     <string name="login_extra_steps">Verifica di accesso</string>
     <string name="phone_locked">"Questo dispositivo è associato ad un Mi Account (%s). Esegui l'accesso per attivare il dispositivo."</string>
+    <string name="phone_locked_account_email">, email associata: %s</string>
+    <string name="phone_locked_account_phone">, numero associato: %s</string>
     <string name="password">Password</string>
     <string name="captcha">Captcha</string>
     <string name="stop_on_empty_password">La password non può essere vuota</string>

@@ -408,4 +408,8 @@ Assicurati di ricordare le risposte."</string>
     <string name="oauth_get_scopes_failed">Impossibile recuperare le informazioni account</string>
     <string name="oauth_scopes_intro">%2$s riceverà i seguenti permessi: %3$s</string>
     <string name="guest_account_label">Account Ospite Mi</string>
+    <string name="push_notification_title">"Hai effettuato l'accesso Mi Account tramite un dispositivo sconosciuto"</string>
+    <string name="push_notification_content">Premi per ricevere ilcodice di verifica</string>
+    <string name="push_notify_dialog_title">Verifica di Sicurezza Accesso</string>
+    <string name="push_notify_dialog_message">Un nuovo dispositivo sta cercando di accedere al tuo Mi Account. Inserisci il codice di verifica sul tuo nuovo dispositivo per completare la verifica di sicurezza. Se non lo hai richiesto tu, modifica la password del tuo Mi Account.</string>
 </resources>

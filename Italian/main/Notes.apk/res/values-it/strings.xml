@@ -159,4 +159,5 @@
     <string name="welcome_note_for_cm">"E molte altre fantastiche funzioni!
   - Sincronizzazione con Mi Cloud
   - Impostazione avvisi"</string>
+    <string name="cloud_trash_bin_title">Elimina le note su Mi Cloud</string>
 </resources>
