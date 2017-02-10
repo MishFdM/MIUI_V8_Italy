@@ -298,7 +298,7 @@ finestra riservata​"</string>
     <string name="find_on_page_next">Avanti</string>
     <string name="find_on_page_prev">Indietro</string>
     <string name="find_previous">Trova il precedente</string>
-    <string name="fling_on_border_gesture_hint">Puoi selezionare l'azione per questa gesture nelle Impostazioni</string>
+    <string name="fling_on_border_gesture_hint">"Puoi selezionare l'azione per questa gesture nelle Impostazioni"</string>
     <string name="force_quick_search_title">Cerca</string>
     <string name="force_touch_bookmark_history_title">Segnalibri e cronologia</string>
     <string name="force_touch_infoflow_title">Notizie Quotidiane</string>

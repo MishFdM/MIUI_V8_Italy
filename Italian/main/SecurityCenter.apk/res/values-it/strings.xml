@@ -1640,7 +1640,7 @@ Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo 
     <string name="sys_app_prot_cracked_login">Accedi al tuo Mi Account</string>
     <string name="confirmSecondSpacePassword">Conferma password Spazio Secondario</string>
     <string name="sponsored_sec_fb">Sponsorizzato</string>
-    <string name="dialog_remove_luckymoney">Questa versione MIUI supporta l'Assistente Bust Rossa come app di sistema, disinstallare ed utilizzare la nuova app per ricevere le buste più velocemente?</string>
+    <string name="dialog_remove_luckymoney">"Questa versione MIUI supporta l'Assistente Bust Rossa come app di sistema, disinstallare ed utilizzare la nuova app per ricevere le buste più velocemente?"</string>
     <string name="dialog_remobe_luckymoney_ok">OK</string>
     <string name="dialog_remobe_luckymoney_cancle">Usa la versione singola</string>
 </resources>
