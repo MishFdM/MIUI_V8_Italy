@@ -587,7 +587,6 @@
     <string name="qq_login_btn_str">QQ</string>
     <string name="weibo_login_btn_str">Weibo</string>
     <string name="user_id_tip">ID: </string>
-    <string name="user_desc_default_tip">Accedi per raccogliere punti e vincere premi.</string>
     <string name="click_login_str">Accedi</string>
     <string name="you_liao_god_str">Uomo</string>
     <string name="you_liao_goddess_str">Donna</string>
@@ -596,7 +595,6 @@
     <string name="you_liao_xunlei_desc">Sottoscrivi un contratto per ricevere lo status di Ospite</string>
     <string name="you_liao_god_desc">Carica video regolarmente ed espandi il gruppo dei tuoi fan per ottenere lo status di Uomo</string>
     <string name="you_liao_goddess_desc">Carica video regolarmente ed espandi il gruppo dei tuoi fan per ottenere lo status di Donna​</string>
-    <string name="default_user_desc">Questa personanon ha aggiunto ancora una descrizione</string>
     <string name="recommend">Consigliati</string>
     <string name="topic_message">%1$s: %2$s</string>
     <string name="message_my_received_praise">Mi piace ricevuti</string>
@@ -811,7 +809,6 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="open_chest">Apri per ricevere un premio</string>
     <string name="count_down">Contoalla rovescia: %1$s</string>
     <string name="full_gems">Scambia le tue gemme</string>
-    <string name="default_prize_text">That goes right into my treasury!</string>
     <string name="prize_result_tip">Exchange</string>
     <string name="prize_result_tip2">Gems go to your treasury</string>
     <string name="black_list">"You're blocked. Submit your feedback on the MIUI Forum to learn why."</string>
@@ -835,7 +832,6 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="select_interest_tip">Theres a lot to discover!</string>
     <string name="finish_str">Fatto</string>
     <string name="tab_msg">Messaggi</string>
-    <string name="msg_page_video_default_title">Ho caricato un video, dai uno sguardo!</string>
     <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">Seguito correttamente</string>
 </resources>
