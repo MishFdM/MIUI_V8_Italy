@@ -259,7 +259,6 @@
     <string name="add_contact">Contatto</string>
     <string name="add_nickname">Nickname</string>
     <string name="add_festival">Festival</string>
-    <string name="add_redpackage">Pacchetto Rosso</string>
     <string name="add_nickname_title">Aggiungi nickname</string>
     <string name="edit_nickname_for_nocontact">Nessun destinatario aggiunto. Aggiungere almeno un destinatario e premere per altre opzioni.</string>
     <string name="edit_nickname_for_nocontact_by_robot">Inserisci almeno un destinatario per poter modificare il nickname.</string>
@@ -531,6 +530,7 @@
     <string name="alert_dlg_cancel_button">Annulla</string>
     <string name="cloud_recommend_msg">Tocca per sincronizzare i messaggi con Mi Cloud.</string>
     <string name="yellowpage_recommend_msg">Prova le funzioni SMS di MIUI</string>
+    <string name="mx_stranger_recommend_msg">Tocca per bloccare Messaggi Mi da numeri sconosciuti</string>
     <string name="send_message_notification_tickerText">Richiesta di permessi per Gestione dispositivo</string>
     <string name="send_message_notification_title">Gestione dispositivo</string>
     <string name="send_message_notification_msg">Richiesta di permesso invio messaggio per Gestione dispositivo</string>
@@ -631,11 +631,6 @@
     <string name="wild_msg_title">Attiva sincronizzazione cloud</string>
     <string name="select_message_send_sim">Scegli SIM</string>
     <string name="card_insert_to_contact">Importa contatto</string>
-    <string name="red_package_btn">Apri</string>
-    <string name="snippet_red_package">[Red Package]</string>
-    <string name="title_red_package">Buona fortuna</string>
-    <string name="title_send_red_package">Controlla Pacchetto Rosso</string>
-    <string name="title_recv_red_package">Ottieni Pacchetto Rosso</string>
     <string name="fake_cell_alert_hint">Sembra che questo messaggio sia stato inviato da un numero di telefono che diverso è diverso da quello visualizzato. Fai attenzione agli SMS che contengono richieste finanziarie.</string>
     <string name="fake_cell_safe_hint">Questo messaggio è sicuro</string>
     <string name="fake_cell_checking_hint">Controllo di sicurezza…</string>

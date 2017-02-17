@@ -837,6 +837,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="resource_powercenter_powerrank">Batteria e prestazioni</string>
     <string name="keywords_powercenter_powerrank">Utilizzo batteria</string>
     <string name="path_powercenter_powerrank">Batteria e prestazioni/Utilizzo batteria</string>
+    <string name="resource_payment_security">Sicurezza pagamento</string>
     <string name="app_name_securitycenter">Sicurezza</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
@@ -1223,6 +1224,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="antivirus_choose_engine_settings">Impostazioni definizioni virus</string>
     <string name="antivirus_choose_engine_title">Definizioni</string>
     <string name="antivirus_choose_engine_disable_toast">Impossibile modificare le definizioni durante la scansione</string>
+    <string name="antivirus_choose_engine_update_disable_toast">"Impossibile cambiare definizioni durante l'aggiornamento"</string>
     <string name="antivirus_choose_engine_dialog_title">Scegli le definizioni</string>
     <string name="antivirus_choose_engine">Utilizza le definizioni da %s</string>
     <string name="antivirus_update_db">%s</string>

@@ -1143,6 +1143,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="adjust">Migliora</string>
     <string name="sticker">Adesivo</string>
     <string name="doodle">Disegna</string>
+    <string name="text_append">Testo</string>
     <string name="doodle_small_size">Piccolo</string>
     <string name="doodle_middle_size">Medio</string>
     <string name="doodle_big_size">Grande</string>
@@ -1177,6 +1178,12 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="filter_crema_elegant">Crema</string>
     <string name="filter_hudson_blues">Hudson</string>
     <string name="filter_f2_classic">Classico</string>
+    <string name="text_append_style">Bolla</string>
+    <string name="text_append_color">Colore</string>
+    <string name="text_append_font">Carattere</string>
+    <string name="text_append_transparent">Opacità</string>
+    <string name="text_append_hint">Inserisci testo</string>
+    <string name="text_append_font_example">Aa</string>
     <string name="adjust_auto">Auto</string>
     <string name="adjust_blur">Sfocato</string>
     <string name="adjust_brightness">Luminosità</string>

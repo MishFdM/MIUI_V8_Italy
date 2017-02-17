@@ -253,6 +253,7 @@ Per attivare il tuo account, segui il
     <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
     <string name="user_avatar_uploading">Caricamento…</string>
     <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
+    <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="account_none_binded_info">Nessuno</string>
     <string name="account_bind_secure_phone_title">Aggiungi numero di telefono</string>
     <string name="account_bind_secure_email_title">Aggiungi email</string>
@@ -402,7 +403,8 @@ Assicurati di ricordare le risposte."</string>
     <string name="login_find_device_bind">Questo dispositivo è associato con un ID Mi Account esistente (%s).</string>
     <string name="miui_provision_find_status_text">"Questo dispositivo è associato con un Mi Account esistente (%1$s), inserisci la password per verificare il dispositivo.
 (Numero sblocco: %2$s)"</string>
-    <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
+    <string name="find_device_locked_account_phone" formatted="false">%s,telefono associato:%s</string>
+    <string name="find_device_locked_account_email" formatted="false">%s,email associata:%s</string>
     <string name="oauth_title">Accedi con il Mi Account</string>
     <string name="oauth_getting_scopes">Verifica account…</string>
     <string name="oauth_get_scopes_failed">Impossibile recuperare le informazioni account</string>

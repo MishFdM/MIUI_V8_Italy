@@ -473,8 +473,10 @@
     <string name="wechat_copying_video_success">Exported successfully</string>
     <string name="wechat_copying_video_dialog_title">Export to Gallery</string>
     <string name="wechat_copying_video_dialog_msg">Files will be saved to this folder: /DCIM/WeChat</string>
-    <string name="wechat_copying_video_dialog_checkbox">Delete files after exporting</string>
-    <string name="wechat_copying_video_empty">No videos to export</string>
-    <string name="wechat_content_empty">No files to export</string>
-    <string name="wechat_content_bad_pic_file">The file is corrupted</string>
+    <string name="wechat_copying_video_dialog_checkbox">"Elimina i file doopo l'esportazione"</string>
+    <string name="wechat_copying_video_empty">Nessun video da esportare</string>
+    <string name="wechat_content_empty">Nessun file da esportare</string>
+    <string name="wechat_content_bad_pic_file">File corrotto</string>
+    <string name="file_not_found">File non trovato</string>
+    <string name="wechat_add_to_cleanlist">Pulito correttamente</string>
 </resources>

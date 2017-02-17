@@ -646,6 +646,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="dialog_voicemail_not_ready_message">Per configurare la segreteria, vai in Menu > Impostazioni.</string>
     <string name="dialog_voicemail_airplane_mode_message">Per chiamare la segreteria, disattiva prima la modalità Aereo.</string>
     <string name="action_menu_overflow_description">Altre opzioni</string>
+    <string name="update_sim_contact_photo_toast">Non è possibile impostare la foto per i contatti SIM</string>
     <string name="import_from_sim">Importa da SIM</string>
     <string name="export_to_sim_title">Esportazione…</string>
     <string name="import_from_sim1">Importa da SIM 1</string>
@@ -696,7 +697,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="preview_incall_show_entry">Anteprima video</string>
     <string name="play_incall_show_entry">Riproduci video</string>
     <string name="add_display_photo_entry">Aggiungi foto profilo</string>
-    <string name="play_add_incall_show_entry">Play or add video</string>
+    <string name="play_add_incall_show_entry">Riproduci o aggiungi video</string>
     <string name="contact_detail_profile_switch_on">Mostra la foto profilo dei contatti</string>
     <string name="contact_detail_profile_switch_on_subtitle">Tocca per attivare le schede contatti</string>
     <string name="contact_detail_profile_switch_off">Schede contatti disattivate</string>
@@ -1104,6 +1105,22 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="bluetooth_connection_failed_toast">Connessione Bluetooth interrotta</string>
     <string name="device_import_progress_toast">%1$d contatti importati</string>
     <string name="no_contact_in_other_phone">Nessun contatto rilevato</string>
+    <string name="device_transfer_by_bluetooth_message">"1. Attiva il \"Bluetooth\" dell\'altro dispositivo;
+        
+
+- Per i dispositivi Android il \"Bluetooth\" è nella sezione delle connessioni di rete
+        
+- Per i dispositivi iOS \"Bluetooth\" si trova nelle impostazioni
+        
+
+2. I dispositivi Android devono attivare anche l\'opzione \"Visibile\";
+        
+
+3. Tocca \"Avanti\", e consenti ai contatti di accedere ai permessi al passaggio seguente."</string>
+    <string name="device_transfer_by_sim_message">"1. Salva i contatti dell\'altro dispositivo sulla SIM;
+        
+
+2. Vai in \"Impostazioni contatti\" -- \"Importa/Esporta contatti\" -- \"Importa da SIM\", tieni premuto su di un contatto SIM, scegli il contatto da importare, quindi tocca \"Importa\"."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="import_weibo_dialog_title">Importa contatti Weibo</string>
     <string name="import_weibo_fetch_followers">Recupero contatti…</string>

@@ -266,6 +266,7 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
 
 1.Utilizza un altro account
 2.Trasferisci i dati nel primo spazio"</string>
+    <string name="micloud_main_cancel_sync">Annulla sincronizzazione</string>
     <string name="micloud_detail_syncing">Sincronizzazione</string>
     <string name="micloud_detail_upload_syncing">Upload %s</string>
     <string name="micloud_detail_download_syncing">Download %s</string>
@@ -289,6 +290,9 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_detail_battery_low_message">Batteria troppo scarica. Ricarica il telefono e sincronizza.</string>
     <string name="micloud_detail_depend_wifi_title">Serve Wi-Fi</string>
     <string name="micloud_detail_depend_wifi_message">Collegati alla rete Wi-Fi o verifica le impostazioni di sincronizzazione.</string>
+    <string name="micloud_detail_pause">Sincronizazione in pausa</string>
+    <string name="micloud_detail_need_charge">"E' necessario mettere in carica per sincronizzare"</string>
+    <string name="micloud_detail_battery_low">Batteria in esaurimento</string>
     <string name="micloud_check_sim_title">"Sembra che tu abbia cambiato SIM. Accedi
 al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Riattivazione Mi Cloud</string>
@@ -508,4 +512,8 @@ Ultimo backup: %2$s"</string>
     <string name="wipe_data_dialog_msg">%s non sono stati sincronizzati e rimarranno sul telefono.</string>
     <string name="wipe_data_dialog_button_check_sync">Controlla se sincronizzato</string>
     <string name="wipe_data_dialog_msg_and_on">, ed altri elementi</string>
+    <string name="micloud_dialog_sync_now_title">Sincronizza dati adesso usando il flusso di trasferimento</string>
+    <string name="micloud_dialog_sync_now_message">Si consiglia di utilizzare la rete Wi-Fi</string>
+    <string name="micloud_dialog_sync_now_negative">Non adesso</string>
+    <string name="micloud_dialog_sync_now_positive">Flusso di trasferimento in uso</string>
 </resources>
