@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_charge_remaining">%1$s fino alla carica</string>
+    <string name="power_charging">%1$d%% - %2$s</string>
+    <string name="power_charging_duration">%1$d%% - %2$s fino alla carica completa</string>
+    <string name="power_charging_duration_ac">%1$d%% - %2$s fino alla carica completa su AC</string>
+    <string name="power_charging_duration_usb">%1$d%% - %2$s fino alla carica completa su USB</string>
+    <string name="power_charging_duration_wireless">%1$d%% - %2$s fino alla carica completa su Wireless</string>
+    <string name="power_discharge_remaining">%1$s rimanenti</string>
+    <string name="power_discharging_duration">%1$d%% - circa %2$s rimanenti</string>
+</resources>
