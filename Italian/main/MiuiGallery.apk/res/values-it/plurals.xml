@@ -164,4 +164,12 @@
         <item quantity="other">%1$d foto saltate perché impossibile visualizzare.</item>
         <item quantity="one">Una foto saltata perché impossibile visualizzare.</item>
     </plurals>
+	    <plurals name="file_count_format">
+        <item quantity="other">%1$d elementi</item>
+        <item quantity="one">%1$d elemento</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Trovate %1$d nuove foto</item>
+        <item quantity="one">Trovata 1 nuova foto</item>
+    </plurals>
 </resources>
