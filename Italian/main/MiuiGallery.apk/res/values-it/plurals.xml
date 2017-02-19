@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Non vuoi mostrare questi volti?</item>
-        <item quantity="one">Non vuoi mostrare questo volto?</item>
+    <plurals name="face_count">
+        <item quantity="other">%d foto in totale</item>
+        <item quantity="one">%d foto in totale</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%1$s nuovi volti potrebbero appartenere a %2$s >></item>
-        <item quantity="one">%1$s nuovo volto potrebbe appartenere a %2$s >></item>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">%d foto in totale</item>
+        <item quantity="one">%d foto in totale</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d anni</item>
