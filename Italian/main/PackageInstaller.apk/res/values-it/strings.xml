@@ -447,4 +447,9 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="lb_time_separator">:</string>
     <string name="lb_onboarding_get_started">INIZIA</string>
     <string name="lb_onboarding_accessibility_next">Avanti</string>
+    <string name="miui_install_confirm_question_update">Sovrascrivere applicazione esistente?</string>
+    <string name="miui_install_source">Fonte:%s</string>
+    <string name="miui_install_version">Versione:%s</string>
+    <string name="miui_install_source_unkown">Sconosciuto</string>
+    <string name="miui_permission_detail">Permessi</string>
 </resources>
