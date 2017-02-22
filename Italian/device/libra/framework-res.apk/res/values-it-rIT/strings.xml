@@ -44,7 +44,6 @@
   <string name="action_bar_up_description">Vai in alto</string>
   <string name="action_menu_overflow_description">Altre opzioni</string>
   <string name="action_mode_done">Fine</string>
-  <string name="activity_chooser_view_dialog_title_default">Scegli attività</string>
   <string name="activity_chooser_view_see_all">Mostra tutto</string>
   <string name="activity_list_empty">Nessuna attività corrispondente trovata.</string>
   <string name="activity_resolver_use_always">Sempre</string>
@@ -204,13 +203,6 @@ utilizzando %s"</string>
   <string name="days">giorni</string>
   <string name="decline">Rifiuto</string>
   <string name="decline_remote_bugreport_action">RIFIUTO</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Segreteria</string>
-  <string name="default_audio_route_category_name">Sistema</string>
-  <string name="default_audio_route_name">Telefono</string>
-  <string name="default_audio_route_name_dock_speakers">Altoparlanti dock</string>
-  <string name="default_audio_route_name_headphones">Cuffie audio</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Elimina</string>
   <string name="deleteText">Elimina</string>
   <string name="deleted_key">%1$s eliminato</string>
@@ -412,7 +404,6 @@ utilizzando %s"</string>
   <string name="imTypeHome">Casa</string>
   <string name="imTypeOther">Altro</string>
   <string name="imTypeWork">Lavoro</string>
-  <string name="ime_action_default">Esegui</string>
   <string name="ime_action_done">Fine</string>
   <string name="ime_action_go">Vai</string>
   <string name="ime_action_next">Avanti</string>
@@ -439,7 +430,6 @@ Vuoi abbandonare la pagina?"</string>
   <string name="js_dialog_before_unload_positive_button">Abbandona questa pagina</string>
   <string name="js_dialog_before_unload_title">Conferma navigazione</string>
   <string name="js_dialog_title">"La pagina all'indirizzo \"%s\" indica:"</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Collega gli auricolari per ascoltare la pronuncia dei tasti premuti per la password.</string>
   <string name="keyboard_password_character_no_headset">Punto.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -546,7 +536,6 @@ Riprova tra %2$d secondi."</string>
   <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
   <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
   <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
-  <string name="lockscreen_carrier_default">Nessun servizio</string>
   <string name="lockscreen_emergency_call">Emergenza</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe">Hai erroneamente tentato di sbloccare il telefono %1$d volte. Dopo altri %2$d tentativi non riusciti, il telefono verrà sottoposto a un ripristino dati di fabbrica e tutti i dati utente andranno persi.</string>
   <string name="lockscreen_failed_attempts_almost_glogin">"%1$d tentativi errati di inserimento della sequenza di sblocco. Dopo altri %2$d tentativi falliti, ti verrà chiesto di sbloccare il telefono con i tuoi dati di accesso Google.
@@ -1109,8 +1098,6 @@ per l'account %s."</string>
   <string name="restr_pin_incorrect">Non corretto</string>
   <string name="restr_pin_try_later">Riprova più tardi</string>
   <string name="revoke">Revoca</string>
-  <string name="ringtone_default">Suoneria predefinita</string>
-  <string name="ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
   <string name="ringtone_picker_title">Suonerie</string>
   <string name="ringtone_silent">Nessuna</string>
   <string name="ringtone_unknown">Suoneria sconosciuta</string>
@@ -1360,7 +1347,6 @@ Vuoi chiuderla?"</string>
   <string name="wifi_calling_off_summary">Non attiva</string>
   <string name="wifi_connect_alert_message">"L'applicazione %1$s vorrebbe connettersi alla rete Wi-Fi %2$s"</string>
   <string name="wifi_connect_alert_title">Consentire la connessione?</string>
-  <string name="wifi_connect_default_application">"Un'applicazione"</string>
   <string name="wifi_no_internet">Connessione Wi-Fi priva di accesso Internet</string>
   <string name="wifi_no_internet_detailed">Tocca per le opzioni</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1391,9 +1377,6 @@ Vuoi chiuderla?"</string>
   <string name="years">anni</string>
   <string name="yes">OK</string>
   <string name="zen_mode_alarm">Fino a %1$s (prossima sveglia)</string>
-  <string name="zen_mode_default_events_name">Evento</string>
-  <string name="zen_mode_default_weekends_name">Fine settimana</string>
-  <string name="zen_mode_default_weeknights_name">Notte di un giorno feriale</string>
   <string name="zen_mode_downtime_feature_name">Tempo di inattività</string>
   <string name="zen_mode_feature_name">Non disturbare</string>
   <string name="zen_mode_forever">Fino alla disattivazione</string>

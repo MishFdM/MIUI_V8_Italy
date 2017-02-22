@@ -330,7 +330,6 @@
     <string name="match_data">Dati ottenuti</string>
     <string name="match_data_error_tips">Impossibile ottenere info. Torna indietro indietro per continuare</string>
     <string name="match_dataset_frame">%1$d/%2$d</string>
-    <string name="match_direction_default">I tasti di direzione funzionano?</string>
     <string name="match_dvd_intro_pause">Rilascia quando il DVD va in pausa di riproduzione</string>
     <string name="match_dvd_intro_play">Rilascia quando il DVD inizia la riproduzione</string>
     <string name="match_dvd_intro_stop">Rilascia quando si ferma la riproduzione DVD</string>
@@ -353,7 +352,6 @@ Assicurati che %1$s risponda."</string>
     <string name="match_mibox_sencond">    · Controlla la tua Mi TV con questo dispositivo.</string>
     <string name="match_mibox_third">    · Aggiungi automaticamente altri dispositivi Mi</string>
     <string name="match_name_power">Power</string>
-    <string name="match_number_default">I pulsanti numerici funzionano?</string>
     <string name="match_power_confirm_tip_frame">È attivo %1$s?</string>
     <string name="match_power_main_tip_frame">È attivo %1$s?</string>
     <string name="match_stb_intro_left">Rilascia quando il cursore si sposta a sinistra</string>
@@ -364,7 +362,6 @@ Assicurati che %1$s risponda."</string>
     <string name="match_stb_name_up">Su</string>
     <string name="match_stb_seletion_des">Scegli la tua posizione</string>
     <string name="match_succuss">Hai finito</string>
-    <string name="match_tip_default">Il dispositivo risponde?</string>
     <string name="match_tip_eject">Il pulsante eject funziona?</string>
     <string name="match_tip_exit">Il pulsante exit funziona?</string>
     <string name="match_tip_ff">Il pulsante fast forward funziona?</string>
@@ -526,7 +523,6 @@ direttamente dalla Schermata di blocco"</string>
     <string name="save_share_title">Salvare il telecomando su questo dispositivo?</string>
     <string name="scaning">Scansione…</string>
     <string name="scanning_milink">Ricerca dispositivi ...</string>
-    <string name="scene_default">Predefinito</string>
     <string name="scene_name_frame">%1$s %2$s%3$s</string>
     <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">Screenshot</string>

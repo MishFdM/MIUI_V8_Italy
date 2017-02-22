@@ -17,7 +17,6 @@ Installare questa versione?"</string>
     <string name="progress_verifying">Verifica…</string>
     <string name="update_title">%1$s è aggiornato.</string>
     <string name="update_time">%4$s rilasciato il %2$s/%3$s/%1$s.</string>
-    <string name="update_log_default">Nessun changelog.</string>
     <string name="permission_warn_title">Questa app proviene da fonti sconosciute.</string>
     <string name="permission_warn_hint">Questa app avrà accesso a:</string>
     <string name="button_continue_install">Continua</string>

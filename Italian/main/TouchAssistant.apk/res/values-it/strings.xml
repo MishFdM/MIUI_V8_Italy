@@ -40,7 +40,6 @@
     <string name="pref_category_quick_pay">Pagamento rapido</string>
     <string name="pref_category_quick_settings">Impostazioni rapide</string>
     <string name="pref_category_system">Impostazioni di sistema</string>
-    <string name="restore_default">Ripristina predefinite</string>
     <string name="restore_intro">Ripristina le impostazioni predefinite, che includono funzioni e ordini. Questo non eliminerà i dati sul tuo telefono.</string>
     <string name="show_on_keyguard">Mostra su Blocco schermo</string>
     <string name="theme_manager_not_supported">Gestore temi non supportato.</string>

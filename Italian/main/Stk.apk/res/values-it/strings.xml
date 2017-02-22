@@ -12,17 +12,10 @@
     <string name="button_no">No</string>
     <string name="alphabet">Alfabeto</string>
     <string name="digits">Tasti (0-9, *, #, +)</string>
-    <string name="default_call_setup_msg">Chiamata in corso…</string>
-    <string name="default_setup_call_msg">Chiamata impostata</string>
     <string name="stk_app_state">Stato applicazione</string>
     <string name="enable_app">Abilitata</string>
     <string name="disable_app">Disabilitata</string>
     <string name="stk_dialog_title">Strumenti SIM</string>
-    <string name="default_tone_dialog_msg">Riproduci suono</string>
-    <string name="default_open_channel_msg">Canale aperto?</string>
-    <string name="default_send_data_msg">Invio dati</string>
-    <string name="default_receive_data_msg">Ricezione dati</string>
-    <string name="default_close_channel_msg">Canale chiuso</string>
     <string name="stk_dialog_accept">SÌ</string>
     <string name="stk_dialog_reject">NO</string>
     <string name="no_sim_card_inserted">Si prega di inserire la SIM prima di avviare Strumenti SIM.</string>

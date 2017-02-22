@@ -204,7 +204,6 @@
     <string name="toast_uninstall_success">Disinstallazione completata</string>
     <string name="toast_app_no_residual_on_sdcard">"L'applicazione non ha nessun file salvato sulla scheda SD"</string>
     <string name="last_check_canceled">La precedente scansione è stata annullata</string>
-    <string name="default_cache_type">Dati File</string>
     <string name="deepclean_normal_title">Pulizia automatica</string>
     <string name="deepclean_normal_item_desc1">Pulizia generale</string>
     <string name="deepclean_normal_item_desc2">È consigliato effettuare la pulizia</string>
@@ -280,7 +279,6 @@
     <string name="hints_cleanfinish">Pulizia terminata</string>
     <string name="hints_num">0</string>
     <string name="mainbtn_text_quick_cleanup">Pulisci %s</string>
-    <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
     <string name="pref_title_open_optimizer_memory_scan">Pulizia memoria</string>
     <string name="toast_select_white_need_remove">Seleziona gli elementi da rimuovere</string>
     <string name="network_not_available">Impossibile collegarsi alla rete</string>

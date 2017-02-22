@@ -106,7 +106,6 @@ Inserisci il numero di telefono associato con la nuova SIM per riattivare %s"</s
     <string name="activate_feature_verify_mx_token">Verifica Mi Account</string>
     <string name="activate_feature_live_talk">Pacchetto di ricarica telefono</string>
     <string name="activate_feature_remote_assist">Assistente remoto</string>
-    <string name="activate_feature_default_name">Servizi Mi</string>
     <string name="activate_history_title">Attivazione SIM</string>
     <string name="activate_history_overview">Attivazione per SIM %1$s. Viene attivato dalla funzione \"%2$s\".</string>
     <string name="activate_history_multisim_overview">Attivazione per SIM %3$d %1$s. iene attivato dalla funzione \"%2$s\".</string>

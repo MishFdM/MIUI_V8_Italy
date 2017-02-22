@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="defaultname">Carkit</string>
     <string name="process"/>
     <string name="bluetooth_remember_choice">Consenti sempre</string>
     <string name="dun_notif_ticker">Richiesta Bluetooth DUN</string>

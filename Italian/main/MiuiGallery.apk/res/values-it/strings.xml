@@ -812,7 +812,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="create_new_album">Crea nuovo album</string>
     <string name="album_already_exists">Esiste giàun album con questo nome</string>
     <string name="create_new_album_failed">Creazione fallita</string>
-    <string name="default_album_name">Nuovo album</string>
     <string name="new_album_invalid_prefix">"Non usare \".\" oo \"_\" come inizio del nome dell'album."</string>
     <string name="new_album_invalid_char">Il nome contiene caratteri non validi \"%s\", inserisci numeri o lettere.</string>
     <string name="new_album_invalid_name">\"%s\" è un album di sistema, si prega di rinominare.</string>
@@ -938,7 +937,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="browse_category_title">Sfoglia</string>
     <string name="show_hidden_album_title">Mostra gli album nascosti</string>
     <string name="slideshow_interval_title">Mostra ogni slide per</string>
-    <string name="slideshow_interval_value">%1$d secondi</string>
     <string name="slideshow_interval_dialog_title">"L'intervallo dev'essere maggiore di 0 secondi"</string>
     <string name="slideshow_interval_invalid">"Intervallo non valido, deve essere 1~3600. Verrà ripristinato l'intervallo predefinito"</string>
     <string name="other_settings">Impostazioni aggiuntive</string>

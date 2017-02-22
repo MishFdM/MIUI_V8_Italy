@@ -55,7 +55,6 @@
     <string name="permlab_startPrintServiceConfigActivity">avvia attività di configurazione dei servizi di stampa</string>
     <string name="permdesc_startPrintServiceConfigActivity">"Consenti all'utente di avviare le attività di configurazione del servizio di stampa. Non dovrebbe mai essere necessario per le normali app."</string>
     <string name="print_write_error_message">Impossibile scrivere sul file</string>
-    <string name="print_error_default_message">Impossibile generare processo di stampa</string>
     <string name="print_error_retry">Riprova</string>
     <string name="print_error_printer_unavailable">Questa stampante non è disponibile in questo momento</string>
     <string name="print_preparing_preview">Preparazione anteprima…</string>

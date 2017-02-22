@@ -47,7 +47,6 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
     <string name="lockscreen_access_pattern_detected">Sequenza completa</string>
-    <string name="default_lockscreen_unlock_hint_text">Scorri in alto per sbloccare</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Hai inserito la password sbagliata per %d volte. Dopo altri %d tentativi errati, ti verrà chiesto di sbloccare il tuo telefono accedendo al tuo account.
 
  Riprova tra %d secondi."</string>
@@ -62,7 +61,6 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="unlock_string">Sblocca</string>
     <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
     <string name="open_remote_center_hint_text">Scorri a destra per aprire il Telefono</string>
-    <string name="left_action_default_hint_text">Mi Remote</string>
     <string name="click_to_enter_text">Tocca per sbloccare</string>
     <string name="fingerprint_try_again_text">Prova di nuovo</string>
     <string name="fingerprint_not_identified_title">Impossibile leggere le impronte digitali</string>

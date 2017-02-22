@@ -446,11 +446,6 @@
         <item>Scimpanzè</item>
         <item>Scimmia</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Chiedi</item>
-        <item>Non consentire mai</item>
-        <item>Consenti sempre</item>
-    </string-array>
     <string-array name="ram_states">
         <item>normale</item>
         <item>medio</item>

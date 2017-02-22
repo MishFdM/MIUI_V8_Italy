@@ -115,7 +115,6 @@
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accetta tutti i certificati)</string>
     <string name="account_setup_incoming_server_label">Server</string>
     <string name="account_setup_incoming_username_label">Nome utente</string>
-    <string name="account_setup_incoming_username_label_default_hint">Includi un dominio</string>
     <string name="account_setup_need_password_verification">Il tuo account è stato aperto tramite autenticazione password, autenticazione richiesta</string>
     <string name="account_setup_options_mail_check_frequency_10min">Ogni 10 minuti</string>
     <string name="account_setup_options_mail_check_frequency_12hour">Ogni 12 ore</string>
@@ -132,7 +131,6 @@
     <string name="account_setup_options_mail_window_3days">Ultimi tre giorni</string>
     <string name="account_setup_options_mail_window_all">Tutto</string>
     <string name="account_setup_options_mail_window_auto">Automatico</string>
-    <string name="account_setup_options_mail_window_default">Usa imp. predefinite account</string>
     <string name="account_setup_options_mail_window_label">Giorni da sincronizzare</string>
     <string name="account_setup_options_mail_window_label_imap_or_pop3">Conservare per</string>
     <string name="account_setup_options_title">Impostazioni account</string>
@@ -267,7 +265,6 @@
     <string name="contact_edit_title_phone_contact">Lista contatti telefono</string>
     <string name="contact_in_filter_title">Da lui/lei.</string>
     <string name="contact_info_string">Mostra informazioni di contatto per %1$s</string>
-    <string name="contact_info_string_default">Mostra informazioni di contatto</string>
     <string name="contact_list_add_btn">Aggiungi</string>
     <string name="contact_list_search_hint">Ricerca contatti</string>
     <string name="contact_list_title">Lista contatti</string>
@@ -308,9 +305,6 @@
     <string name="date_heading">"Data: "</string>
     <string name="date_message_received">%1$s, %2$s</string>
     <string name="date_message_received_today">Oggi, %1$s</string>
-    <string name="default_">\u0020PREDEFINITO</string>
-    <string name="default_setup">IMPOSTAZIONI PREDEFINITE\u0020</string>
-    <string name="default_signature">Inviato tramite Xiaomi</string>
     <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
     <string name="delete">Elimina</string>
     <string name="delete_message_flow">Elimina flusso messaggio</string>
@@ -396,7 +390,6 @@
     <string name="file_not_found_redownload">Impossibile trovare il file</string>
     <string name="file_rar_not_support">File \".rar\" protetti non supportati!</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
-    <string name="first_quick_default_reply">Tocca questo collegamento, \"%s\" verrà inviato a tutti i destinatari.</string>
     <string name="folder_drafts_name_cn0">草稿</string>
     <string name="folder_drafts_name_cn1">草稿箱</string>
     <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -540,7 +533,6 @@
     <string name="meeting_where">Dove: %s</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Allegati</string>
-    <string name="menu_att_mgr_order_default">Predefinito</string>
     <string name="menu_att_mgr_order_mime">Ordina per formato</string>
     <string name="menu_att_mgr_order_name">Ordina per nome</string>
     <string name="menu_att_mgr_order_rev_date">Ordina per data</string>

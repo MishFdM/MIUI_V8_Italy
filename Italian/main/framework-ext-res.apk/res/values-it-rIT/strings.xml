@@ -139,7 +139,6 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="apply_password_action">Imposta password</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Posiziona il dito sul tasto Home</string>
     <string name="maml_component_customization_title">Impostazioni</string>
-    <string name="default_name">Predefinito</string>
     <string name="resource_select">Seleziona</string>
     <string name="group_name_contacts">Contatti</string>
     <string name="group_name_friends">Amici</string>

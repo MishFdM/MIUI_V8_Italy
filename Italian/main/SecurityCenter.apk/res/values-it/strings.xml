@@ -144,7 +144,6 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="pref_avaible_traffic">Piano dati</string>
     <string name="pref_daily_traffic">Soglia dati</string>
     <string name="pref_data_usage_not_set">Imposta limite utilizzo dati</string>
-    <string name="pref_warning_values">Livello per avviso utilizzo dati</string>
     <string name="pref_pkg_begin_date">Data azzeramento dati</string>
     <string name="pref_month_first_day">1</string>
     <string name="pref_month_begin_date">Data azzeramento dati</string>
@@ -312,7 +311,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_sms_report_get_sms_failure">Impossibile recuperare SMS con il formato di utilizzo dei dati</string>
     <string name="tc_sms_report_get_sms_timeout">Richiesta scaduta</string>
     <string name="tc_sms_report_get_sms_successs">Formato SMS utilizzo dati aggiornato</string>
-    <string name="tc_sms_report_get_default">"Non avrai costi aggiuntivi per l'SMS utilizzato per recuperare il traffico dati dal tuo operatore."</string>
     <string name="tc_sms_report_toast_text">Recupero informazione…</string>
     <string name="privacy_declare_dialog_title">Termini del servizio</string>
     <string name="privacy_declare_dialog_message">Utilizzando questo servizio accetti i Termini e Condizioni di Opera.</string>
@@ -358,8 +356,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="daily_limit_and_lock_screen">Limite dati e notifiche</string>
     <string name="pref_title_traffic_limit_number">Dimensione</string>
     <string name="pref_title_over_traffic_limit_warning">Quando superato</string>
-    <string name="reach_daily_limit_value_title">Limite giornaliero raggiunto</string>
-    <string name="reach_daily_limit_value_body">"Riduci l'utilizzo dati giornaliero."</string>
     <string name="daily_limit_network_available_body">Tocca per visualizzare le statistiche di utilizzo dei dati.</string>
     <string name="daily_limit_over_message">Hai superato il limite dati giornaliero</string>
     <string name="three_percent_total_pkg">%s (3%% di dati mensili)</string>
@@ -368,7 +364,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="lock_screen_warning_category">Notifiche schermata di blocco</string>
     <string name="lock_screen_warning_switch_title">Mostra avvisi sulla schermata di blocco</string>
     <string name="lock_screen_warning_switch_summary">Mostra avvisi sulla schermata di blocco quando i dati superano una certa soglia</string>
-    <string name="lock_screen_warning_value">Avviso utilizzo dati</string>
     <string name="traffic_setting_completed">OK</string>
     <string name="traffic_setting_extra_pkg_title">Impostazioni aggiuntive</string>
     <string name="traffic_setting_extra_pkg_summary">Regola il tuo piano dati e limiti di utilizzo</string>
@@ -868,7 +863,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="last_check_date_yesterday">"Ultima scansione: ieri "</string>
     <string name="last_check_never_checked">Scansione raccomandata (è la prima volta)</string>
     <string name="last_check_canceled">La precedente scansione è stata annullata</string>
-    <string name="last_checked_default">"L'ultima scansione risale a %s giorni fa"</string>
     <string name="examination_score_100">Sembra tutto a posto!</string>
     <string name="examination_score_100_with_recommend">%d elementi possono essere ottimizzati</string>
     <string name="examination_score_80_100">Alcune cose possono essere ottimizzate</string>
@@ -1005,7 +999,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="menu_item_virus_install_monitor_title">Gestore installazioni</string>
     <string name="menu_item_virus_install_monitor_summary">Esegui scansione antivirus prima di installare le app</string>
     <string name="activity_title_virus_settings">Impostazioni</string>
-    <string name="hints_virus_lib_update_default_summary">Ultimo aggiornamento: sconosciuto</string>
     <string name="menu_item_virus_lib_auto_update_summary">Ultimo aggiornamento: %s</string>
     <string name="hints_virus_app_list_item_summary">Virus (app)</string>
     <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
@@ -1030,7 +1023,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="activity_title_perm_manager">Gestione licenze</string>
     <string name="activity_title_auto_start_manager">Avvio automatico</string>
     <string name="activity_title_notification_bar_manager">Notifiche</string>
-    <string name="activity_title_default_apps_manager">App predefinite</string>
     <string name="activity_title_permission_manager">Permessi</string>
     <string name="activity_title_other_permission_manager">Altri permessi</string>
     <string name="activity_title_root_manager">Permessi root</string>
@@ -1208,9 +1200,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="pref_category_title_lock_screen_memory_clean">Ottimizzazione in standby</string>
     <string name="pref_title_lock_screen_memory_clean">Ottimizza in standby</string>
     <string name="pref_summary_lock_screen_memory_clean">Ottimizza automaticamente durante lo standby</string>
-    <string name="title_default_app">MIUI %s non è impostato come predefinito</string>
-    <string name="summary_default_app">%s non è impostata come app di sistema predefinita</string>
-    <string name="toast_default_app">%1$s impostata come app di sistema predefinita per %2$s"</string>
     <string name="notification_title_cmcc_app_check">"%d giorni dall'ultimo controllo"</string>
     <string name="notification_summary_cmcc_app_check">Tocca per vedere i dettagli.</string>
     <string name="title_cmcc_app_check">Verifica non completa</string>
@@ -1472,7 +1461,6 @@ o inserisci la password"</string>
     <string name="button_text_disconnect_now">Disconnetti</string>
     <string name="apps_item_sms_reset_button_text">Ripristina predefiniti</string>
     <string name="apps_item_sms_title">Impostazioni messaggi predefinite</string>
-    <string name="apps_item_sms_default_set_success">Impostato correttamente!</string>
     <string name="apps_item_virus_cleanup_text">Cancella</string>
     <string name="apps_item_virus_cleanup_success">Cancellato correttamente!</string>
     <string name="apps_item_virus_summary_installed">App installate</string>
@@ -1530,7 +1518,6 @@ o inserisci la password"</string>
     <string name="safe_result_item_info_system_scan">Monitoraggio pagamenti attivo</string>
     <string name="safe_result_item_info_system_antivirus">Protezione dai virus di phishing</string>
     <string name="safe_result_item_info_sms_auth">"Limita l'accesso ad app di terze parti per i codici di verifica"</string>
-    <string name="safe_result_item_info_sms_default">"Utilizzo dell'app per i messaggi predefinita"</string>
     <string name="safe_result_item_info_sms_url">Protezione da URL malevoli negli SMS</string>
     <string name="safe_result_item_info_app_sign">Nessuna app non ufficiale</string>
     <string name="safe_result_item_info_app_virus">Nessun virus o applicazione a rischio</string>
@@ -1607,9 +1594,6 @@ o inserisci la password"</string>
     <string name="optimize_result_button_purchase_flow">Acquista altri dati cellulare</string>
     <string name="optimize_result_button_purchase">Acquista</string>
     <string name="optimize_result_button_cloudspace">Amplia spazio cloud</string>
-    <string name="optimize_result_title_system_default_settings">Le impostazioni predefinite sono state modificate</string>
-    <string name="optimize_result_summary_system_default_settings">"L'utilizzo di applicazioni di predefinite MIUI aumenta il livello di stabilità e sicurezza del sistema."</string>
-    <string name="optimize_result_toast_system_default_settings">Ripristina le impostazioni predefinite</string>
     <string name="optimize_result_toast_system_no_item_selected">Nessun elemento selezionato</string>
     <string name="optimize_result_title_sucurity_risk">Trovati rischi per la sicurezza</string>
     <string name="optimize_result_summary_sucurity_risk">Alcune funzionalità di sicurezza sono disattivate. Attiva queste funzionalità per rendere il tuo dispositivo più sicuro:</string>

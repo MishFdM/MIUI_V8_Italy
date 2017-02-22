@@ -280,7 +280,6 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_settings_related">Impostazioni</string>
     <string name="ok">OK</string>
-    <string name="default_permission_description">"Eseguire un'operazione sconosciuta"</string>
     <string name="location_settings">Impostazioni posizione</string>
     <string name="location_warning">"%1$s è un provider di servizi di localizzazione per questo dispositivo. L'accesso alla posizione può essere modificato nelle impostazioni di localizzazione."</string>
     <string name="permission_request_title">Richiesta autorizzazione</string>

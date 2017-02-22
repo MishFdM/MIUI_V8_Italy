@@ -628,7 +628,6 @@ Per attivare il tuo account, segui il
     <string name="empty_tv_exiting">In uscita…</string>
     <string name="tv_cp_info_format">Supportato da %1$s</string>
     <string name="tv_channel_empty_hint">Nessun canale</string>
-    <string name="defaults">Predefinito</string>
     <string name="fullscreen">Tutto schermo</string>
     <string name="ads_ignore">Ignora</string>
     <string name="need_upgrade_title">Aggiornamento disponibile</string>

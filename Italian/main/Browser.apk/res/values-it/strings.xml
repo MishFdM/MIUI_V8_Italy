@@ -239,8 +239,6 @@ finestra riservata​"</string>
     <string name="download_btn_select_none">Deseleziona tutto</string>
     <string name="download_complete">Download completato</string>
     <string name="download_completed">Scaricati</string>
-    <string name="download_default_path_txt">Ricorda la mia scelta</string>
-    <string name="download_dialog_default_path_invalid">Il percorso per i download non è valido. Verrà usato invece il percorso predefinito per i file scaricati.</string>
     <string name="download_dialog_file_length_hint_txt">Dimens.:</string>
     <string name="download_dialog_file_length_lessthan1kb">Meno di 1K</string>
     <string name="download_dialog_file_length_nolength_error_txt">Impossibile scaricare</string>
@@ -515,17 +513,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_enable_news">Nuovi avvisi</string>
     <string name="pref_enable_novels">Libri</string>
     <string name="pref_enable_videos">Video</string>
-    <string name="pref_extras_reset_default">Ripristina valori predef.</string>
-    <string name="pref_extras_reset_default_dlg">Ripristinare le impostazioni ai valori predefiniti?</string>
-    <string name="pref_extras_reset_default_summary">Ripristina impostazioni predefinite</string>
-    <string name="pref_extras_reset_default_title">Ripristina impostazioni predefinite</string>
     <string name="pref_extras_send_feedback">Invia feedback</string>
     <string name="pref_extras_title">Avanzate</string>
     <string name="pref_extras_title_version">Versione</string>
-    <string name="pref_file_downlaod_save_is_reset_default_settings">Ripristina impostazioni predefinite</string>
-    <string name="pref_file_downlaod_save_reset_default_settings">Ripristina impostazioni predefinite</string>
-    <string name="pref_file_download_default_path_prefix">Percorso predefinito: %s</string>
-    <string name="pref_file_download_save_modify_default_path">Percorso file scaricati</string>
     <string name="pref_file_download_save_title">Download</string>
     <string name="pref_fling_on_border">Scorri dal bordo</string>
     <string name="pref_fling_on_border_title_summary">Scorri dal bordo sinistro dello schermo a quello destro</string>
@@ -599,7 +589,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="quicklink_saved_before">Sito aggiunto alla pagina iniziale</string>
     <string name="quicklink_user_define_webpage_title">Nome</string>
     <string name="quicklink_user_define_webpage_url">URL</string>
-    <string name="quicklinks_group_default_subtitle">Nessuno</string>
     <string name="quicklinks_management">Siti utili</string>
     <string name="quicklinks_most_visited">Aggiungi i siti più visitati alla pagina iniziale</string>
     <string name="quicklinks_most_visited_subtitle">Mostra i siti visitati di recente in una nuova scheda</string>
@@ -763,7 +752,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="v5_edit_mode_title_empty">0 selezionati</string>
     <string name="v5_select_all">Seleziona tutti</string>
     <string name="version_check_button_checking">Verifica</string>
-    <string name="version_check_button_default">Ricerca aggiornamenti</string>
     <string name="version_check_button_download_failed">Riprendi il download</string>
     <string name="version_check_button_downloading">Download in corso</string>
     <string name="version_check_button_install">Installa</string>

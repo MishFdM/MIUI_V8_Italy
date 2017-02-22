@@ -4,8 +4,6 @@
     <string name="copy">Copia</string>
     <string name="copyUrl">Copia URL</string>
     <string name="cut">Taglia</string>
-    <string name="defaultVoiceMailAlphaTag">Segreteria</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Nessun numero di telefono)</string>
     <string name="httpErrorBadUrl">Impossibile aprire la pagina. URL non valido.</string>
     <string name="httpErrorUnsupportedScheme">Protocollo non supportato.</string>
@@ -790,7 +788,6 @@
     <string name="keyguard_password_wrong_pin_code">Codice PIN errato.</string>
     <string name="keyguard_label_text">Per sbloccare, premi Menu, poi 0.</string>
     <string name="emergency_call_dialog_number_for_display">Numero di emergenza</string>
-    <string name="lockscreen_carrier_default">Nessun servizio.</string>
     <string name="lockscreen_screen_locked">Schermo bloccato.</string>
     <string name="lockscreen_instructions_when_pattern_enabled">Premi Menu per sbloccare o effettuare chiamate di emergenza.</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Premi Menu per sbloccare.</string>
@@ -893,7 +890,6 @@ Visita "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_no_action">"Nessun pacchetto trovato che fornisca l'azione FACTORY_TEST."</string>
     <string name="factorytest_reboot">Riavvia</string>
     <string name="js_dialog_title">"La pagina all'indirizzo \"%s\" indica:"</string>
-    <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload_title">Conferma navigazione</string>
     <string name="js_dialog_before_unload_positive_button">Abbandona questa pagina</string>
     <string name="js_dialog_before_unload_negative_button">Rimani su questa pagina</string>
@@ -1074,8 +1070,6 @@ Vuoi chiuderla?"</string>
     <string name="volume_icon_description_incall">Chiamata</string>
     <string name="volume_icon_description_media">Media</string>
     <string name="volume_icon_description_notification">Notifiche</string>
-    <string name="ringtone_default">Suoneria predefinita</string>
-    <string name="ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
     <string name="ringtone_silent">Nessuna</string>
     <string name="ringtone_picker_title">Suonerie</string>
     <string name="ringtone_unknown">Suoneria sconosciuta</string>
@@ -1083,7 +1077,6 @@ Vuoi chiuderla?"</string>
     <string name="network_available_sign_in">Accedi alla rete</string>
     <string name="wifi_watchdog_network_disabled">Impossibile connettersi alla rete Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" ha una connessione Internet debole."</string>
-    <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">Avvia Wi-Fi Direct. Verrà disattivato il client/hotspot Wi-Fi.</string>
     <string name="wifi_p2p_failed_message">Avvio di Wi-Fi Direct non riuscito.</string>
@@ -1207,7 +1200,6 @@ Vuoi chiuderla?"</string>
     <string name="ime_action_next">Avanti</string>
     <string name="ime_action_done">Fine</string>
     <string name="ime_action_previous">Prec.</string>
-    <string name="ime_action_default">Esegui</string>
     <string name="dial_number_using">"Componi numero 
 utilizzando %s"</string>
     <string name="create_contact_using">"Crea contatto
@@ -1348,7 +1340,6 @@ per l'account %s."</string>
     <string name="sha256_fingerprint">Fingerprint SHA-256:</string>
     <string name="sha1_fingerprint">Fingerprint SHA-1:</string>
     <string name="activity_chooser_view_see_all">Mostra tutto</string>
-    <string name="activity_chooser_view_dialog_title_default">Scegli attività</string>
     <string name="share_action_provider_share_with">Condividi con</string>
     <string name="list_delimeter">", "</string>
     <string name="sending">Invio…</string>
@@ -1357,11 +1348,6 @@ per l'account %s."</string>
     <string name="activity_resolver_use_always">Sempre</string>
     <string name="activity_resolver_use_once">Solo una volta</string>
     <string name="activity_resolver_work_profiles_support">%1$s non supporta il profilo di lavoro</string>
-    <string name="default_audio_route_name">Telefono</string>
-    <string name="default_audio_route_name_headphones">Cuffie</string>
-    <string name="default_audio_route_name_dock_speakers">Dock altoparlanti</string>
-    <string name="default_media_route_name_hdmi">HDMI</string>
-    <string name="default_audio_route_category_name">Sistema</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
     <string name="wireless_display_route_description">Visualizzazione wireless</string>
     <string name="media_route_button_content_description">Trasmetti</string>
