@@ -38,7 +38,6 @@
     <string name="pm_lable_name">Informazioni sui permessi di root</string>
     <string name="pc_activity_title">Ottimizza batteria</string>
     <string name="game_booster">Accelerazione Velocità di Gioco</string>
-    <string name="top_game">Giochi top</string>
     <string name="game_setting">Impostazioni di gioco</string>
     <string name="gs_auto_clean_memory">Pulisci cache</string>
     <string name="gs_auto_clean_memory_detail">"Pulisci automaticamente la cache per ottimizzare l'esperienza di gioco"</string>
