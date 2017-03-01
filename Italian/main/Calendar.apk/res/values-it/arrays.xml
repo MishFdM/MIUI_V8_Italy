@@ -18,6 +18,30 @@
         <item>2880</item>
         <item>10080</item>
     </integer-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Mai</item>
+        <item>0 minuti</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>1 giorno</item>
+        <item>2 giorni</item>
+        <item>1 settimana</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Predefinita</item>
         <item>Sabato</item>
@@ -194,11 +218,40 @@
         <item>Questo ed eventi futuri</item>
         <item>Tutti gli eventi</item>
     </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Sto arrivando di corsa, sono in ritardo di qualche minuto.</item>
+        <item>Sarò li in 10 minuti circa.</item>
+        <item>Vai pure ed inizia senza di me.</item>
+        <item>"Mi dispiace, non ce la faccio. Dovremo rimandare."</item>
+    </string-array>
     <string-array name="widget_style_list">
         <item>Nero trasparente</item>
         <item>Sfondo bianco</item>
     </string-array>
+	    <string-array name="default_reminder_labels">
+        <item>"Al momento dell'evento"</item>
+        <item>5 minuti prima</item>
+        <item>10 minuti prima</item>
+        <item>15 minuti prima</item>
+        <item>30 minuti prima</item>
+        <item>1 ora prima</item>
+        <item>1 giorno prima</item>
+        <item>2 giorni prima</item>
+        <item>1 settimana prima</item>
+    </string-array>
     <string-array name="miui_reminder_minutes_labels">
+        <item>Nessun avviso</item>
+        <item>0 minuti</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>1 giorno</item>
+        <item>2 giorni</item>
+        <item>1 settimana</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
         <item>Nessun avviso</item>
         <item>0 minuti</item>
         <item>5 minuti</item>

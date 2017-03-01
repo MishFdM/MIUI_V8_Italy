@@ -4,6 +4,7 @@
     <string name="date_time_date_format_title">Formato data</string>
     <string name="date_time_date_format">Scegli formato data</string>
     <string name="search_choose_timezone">Scegli fuso orario</string>
+    <string name="default_date_format">dd/MM/yyyy</string>
     <string name="normal_date_format">Regionale (%s)</string>
     <string name="search_children_mode_title">Modalità bambino</string>
     <string name="power_charge_remaining">%1$s fino alla carica</string>

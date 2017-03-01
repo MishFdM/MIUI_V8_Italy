@@ -26,6 +26,7 @@
     <string name="cta_declaration_ignore">Non mostrare più</string>
     <string name="cta_declaration_positive_text">Consenti</string>
     <string name="cta_declaration_negative_text">Esci</string>
+    <string name="default_hint">Cerca App, Musica, Video, Libri…</string>
     <string name="network_unavailable">Non collegato ad internet</string>
     <string name="connect_and_retry">Collegati ad internet e riprova</string>
     <string name="applications_search_label">App</string>
@@ -63,6 +64,7 @@ Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
     <string name="switch_prompt_title">Non riesci a trovare %s?</string>
     <string name="switch_prompt_ignore">Ignora</string>
     <string name="switch_prompt_set">Opzioni</string>
+    <string name="switch_prompt_title_default">Non riesci a tovare ciò che cerchi?</string>
     <string name="switch_online">Online</string>
     <string name="switch_notes">Note</string>
     <string name="switch_application">App</string>
@@ -93,6 +95,7 @@ Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
     <string name="baidu_search_url_from_systemui">http://www.google.com/search?q=%s&amp;tn=ins</string>
     <string name="baidu_search_url_from_launcher">http://www.google.com/search?q=%s&amp;tn=ins</string>
     <string name="baidu_search_url_from_input">http://www.google.com/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_default">http://www.google.com/search?q=%s&amp;tn=ins</string>
     <string name="xiaomi_hint" />
     <string name="hot_words" />
     <string name="xiaomi_hot_query" />

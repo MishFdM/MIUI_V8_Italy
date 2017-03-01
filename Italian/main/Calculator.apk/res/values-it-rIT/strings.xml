@@ -177,6 +177,8 @@
     <string name="choose_currency">Seleziona una valuta</string>
     <string name="rate_data_provider">Tassi di interesse forniti da HeXun</string>
     <string name="unit_data_display_currency_cnh">RMB offshore</string>
+    <string name="unit_data_default_length_0">m</string>
+    <string name="unit_data_default_length_1">cm</string>
     <string name="unit_data_display_length_m">Metro</string>
     <string name="unit_data_display_length_km">Chilometro</string>
     <string name="unit_data_display_length_dm">Decimetro</string>
@@ -295,6 +297,8 @@
     <string name="unit_data_short_velocity_mileph">mi/h</string>
     <string name="unit_data_short_velocity_ftps">ft/s</string>
     <string name="unit_data_short_velocity_inps">in/s</string>
+    <string name="unit_data_default_weight_0">kg</string>
+    <string name="unit_data_default_weight_1">g</string>
     <string name="unit_data_display_weight_kg">Chilogrammo</string>
     <string name="unit_data_display_weight_t">Tonnellata</string>
     <string name="unit_data_display_weight_g">Grammo</string>

@@ -40,6 +40,7 @@
     <string name="toast_notes_hidden_count">%1$s nascoste correttamente</string>
     <string name="toast_notes_unhidden_count">%1$s visualizzate correttamente</string>
     <string name="toast_notes_delete_success">Eliminate correttamente</string>
+    <string name="theme_title_default">Predefinito</string>
     <string name="theme_title_invitation">Invito</string>
     <string name="theme_title_arty">Floreale</string>
     <string name="theme_title_antique">Autunno</string>
@@ -117,6 +118,7 @@
     <string name="search_hint">Cerca note</string>
     <string name="search_setting_description">Testo nelle note</string>
     <string name="search">Note</string>
+    <string name="default_folder_name">Note</string>
     <string name="notify_alarm_title">Promemoria sveglia</string>
     <string name="alarm_bar_title">Promemoria</string>
     <string name="toast_message_add_image_fail">Impossibile inserire immagine.</string>
@@ -147,6 +149,7 @@
     <string name="sns_footer_text">Creata con Mi Note</string>
     <string name="dlg_info_creating_message">Creazione messaggio…</string>
     <string name="sns_message_disconnect">Impossibile connettersi alla rete. Controlla la connessione e riprova.</string>
+    <string name="sns_content_default">Condividi foto</string>
     <string name="sns_toast_empty">Non puoi inviare un messaggio vuoto</string>
     <string name="sns_toast_over_limit">Invia come immagine (oltre il limite del testo)</string>
     <string name="sns_desc_preview_weibo">Anteprima messaggio Weibo</string>

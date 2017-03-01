@@ -10,6 +10,11 @@
     <string name="preference">Impostazioni</string>
     <string name="password_preference">Password tag</string>
     <string name="volume">Audio</string>
+    <string name="ringer_value">Suoneria %s%%</string>
+    <string name="notification_value">Notifiche %s%%</string>
+    <string name="media_value">Media %s%%</string>
+    <string name="alarm_value">Sveglia %s%%</string>
+    <string name="voice_call_value">Volume chiamate %s%%</string>
     <string name="settings">Impostazioni</string>
     <string name="phone">Telefono</string>
     <string name="create">Crea</string>

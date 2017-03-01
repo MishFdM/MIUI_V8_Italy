@@ -8,6 +8,10 @@
     <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
     <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora</string>
     <string name="resource_mute">Nessuna</string>
+    <string name="resource_default">Suoneria predefinita</string>
+    <string name="resource_ringtone_default">Suonerie</string>
+    <string name="resource_notification_default">Notifiche</string>
+    <string name="resource_alarm_default">Sveglia</string>
     <string name="resource_detail_header_theme_designer_title">Autore: %1$s</string>
     <string name="description_designer">Designer:</string>
     <string name="description_author">Autore:</string>
@@ -53,6 +57,7 @@
     <string name="download_preview_failed">Impossibile caricare anteprime</string>
     <string name="resource_delete_confirm">Vuoi eliminare questi elementi?</string>
     <string name="all_resources">Tutto</string>
+    <string name="resource_default_name">Elemento</string>
     <string name="resource_detail">Dettagli</string>
     <string name="resource_detail_window_title">%1$s dettagli</string>
     <string name="resource_detail_update_log_title">Aggiornamenti</string>
@@ -179,7 +184,9 @@
     <string name="resource_comment_edit_title">Modifica commento: %1$s</string>
     <string name="resource_comment_edit_comment">Aggiungi commento</string>
     <string name="resource_comment_edit_comment_waiting">Verifica cronologia utente…</string>
+    <string name="resource_comment_edit_text_default">Aggiungi un commento</string>
     <string name="resource_comment_publish">Invia</string>
+    <string name="resource_comment_name_default">Utente %1$s</string>
     <string name="resource_comment_loading_list">Caricamento commenti…</string>
     <string name="resource_comment_rate">Valutazione:</string>
     <string name="resource_comment_entry_tips">Commenti (%1$s)</string>
@@ -222,6 +229,7 @@
     <string name="backup_theme_success_message">Backup tema eseguito correttamente</string>
     <string name="backup_theme_fail_trial_rights_message">Impossibile eseguire il backup dei temi in prova</string>
     <string name="backup_theme_name">Backup temi</string>
+    <string name="theme_description_title_default">Predefinito</string>
     <string name="theme_description_title_customized">Modificato</string>
     <string name="component_category_finest_title">In evidenza</string>
     <string name="component_category_more_title">Altro</string>
@@ -260,6 +268,7 @@
     <string name="apply_font_tip">Il tema contiene dei font. È necessario riavviare.</string>
     <string name="apply_font_btn_reboot">Applica e riavvia</string>
     <string name="apply_font_btn_exclude">Applica senza font</string>
+    <string name="apply_default_font_tip">Vuoi continuare a utilizzare il font attuale del sistema?</string>
     <string name="theme_yes">Sì</string>
     <string name="theme_no">No</string>
     <string name="title_component">Personalizza temi</string>
@@ -365,6 +374,7 @@
     <string name="provision_loading_tips">Solo un attimo…</string>
     <string name="provision_title">Scegli un tema</string>
     <string name="provision_second_title">Seleziona uno dei 5 temi predefiniti</string>
+    <string name="provision_default_theme_title">Predefiniti</string>
     <string name="theme_precast_create_notification_title">Aggiornato a MIUI 7</string>
     <string name="theme_precast_create_notification_content">Tocca per visualizzare nuovi temi.</string>
     <string name="theme_precast_update_notification_title">Temi aggiornati per MIUI 7</string>

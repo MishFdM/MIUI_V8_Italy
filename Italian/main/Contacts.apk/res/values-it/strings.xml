@@ -344,6 +344,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
     <string name="importing_vcard_finished_title">Importazione vCard %s terminata</string>
     <string name="importing_vcard_canceled_title">Importazione di %s annullata</string>
     <string name="vcard_import_will_start_message">La vCard %s verrà importata a breve.</string>
+    <string name="vcard_import_will_start_message_with_default_name">Il file sarà importato a breve.</string>
     <string name="vcard_import_request_rejected_message">Richiesta importazione vCard rifiutata. Riprova più tardi.</string>
     <string name="vcard_export_will_start_message">La vCard %s verrà esportata a breve.</string>
     <string name="vcard_export_request_rejected_message">Richiesta esportazione vCard rifiutata. Riprova più tardi.</string>
@@ -574,6 +575,8 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="delete_group_dialog_message">Eliminare il gruppo \"%1$s\"? (I contatti non verranno eliminati).</string>
     <string name="toast_join_with_empty_contact">Inserisci il nome del contatto prima di unirlo a un altro contatto.</string>
     <string name="copy_text">Copia negli appunti</string>
+    <string name="set_default">Imposta come predefinito</string>
+    <string name="clear_default">Rimuovi impostazione predefinita</string>
     <string name="toast_text_copied">Testo copiato</string>
     <string name="cancel_confirmation_dialog_title">Annulla</string>
     <string name="cancel_confirmation_dialog_message">Annullare le modifiche?</string>
@@ -938,12 +941,14 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="preference_phone_more_title">Chiamate</string>
     <string name="preference_dial_pad_touch_tone_switch">Toni al tocco del tastierino</string>
     <string name="preference_tone_title">Toni</string>
+    <string name="preference_dial_pad_touch_tone_default">Predefinito</string>
     <string name="preference_dial_pad_touch_tone_piano">Tasti del pianoforte</string>
     <string name="preference_dial_pad_touch_tone_human">Voce</string>
     <string name="ic_menu_done">Fatto</string>
     <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
     <string name="share_over_limit">Limite superato, impossibile condividere</string>
     <string name="preference_key_trash_bin_title">Ripristino contatti</string>
+    <string name="account_default">Dispositivo</string>
     <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
     <string name="option_view_contact">Mostra</string>
     <string name="option_edit_contact">Modifica</string>
@@ -975,6 +980,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="today">Oggi</string>
     <string name="next_birthday">Prossimo compleanno: %s</string>
     <string name="ringLabelsGroup">Suoneria</string>
+    <string name="default_ringtone">Suoneria predefinita</string>
     <string name="recent_number">Recente</string>
     <string name="cloud_antispam_mark">Segnala come spam</string>
     <string name="cloud_antispam_marked">Segnato</string>

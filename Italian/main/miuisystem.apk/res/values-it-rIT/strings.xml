@@ -97,6 +97,7 @@
     <string name="heavy_snow"/>
     <string name="winter_solstice">"Solstizio d'inverno"</string>
     <string name="no_notification_tips">Nessuna notifica.</string>
+    <string name="android_ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
     <string name="cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
     <string name="cloud_state_finished">Sincronizzato con Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizzato con Mi Cloud</string>

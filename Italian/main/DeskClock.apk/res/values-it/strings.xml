@@ -79,6 +79,8 @@
     <string name="legal_workday_message">(escluse le festività)</string>
     <string name="legal_off_day">Escludi giorni feriali</string>
     <string name="legal_off_day_message">" (Sveglie disattivate nei giorni feriali)"</string>
+    <string name="default_alarm_alert">Imposta suoneria sveglia predefinita</string>
+    <string name="default_alarm_title">Suoneria predefinita</string>
     <string name="menu_item_sort_by_gmt_offset">Ordina per data</string>
     <string name="menu_item_sort_by_name">Ordina per nome</string>
     <string name="birthday_alarm">Suoneria compleanno</string>
@@ -100,6 +102,7 @@
     <string name="delete_alarm">Elimina sveglia</string>
     <string name="delete_alarm_confirm">Questa sveglia sarà eliminata.</string>
     <string name="label">Nome</string>
+    <string name="default_label">Sveglia</string>
     <string name="set_alarm">Imposta sveglia</string>
     <string name="alarm_vibrate">Vibrazione</string>
     <string name="alarm_repeat">Ripetizione</string>

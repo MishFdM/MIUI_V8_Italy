@@ -173,6 +173,7 @@
     <string name="version">Versione %s</string>
     <string name="new_add">Nuovo</string>
     <string name="pref_download_storage_path">Crea una nuova cartella per i download</string>
+    <string name="pref_download_revert_default">Predefinito</string>
     <string name="file_picker">Scegli un percorso</string>
     <string name="new_add_bt">Aggiungi torrent</string>
     <string name="pref_sniff_shortcut">Crea un collegamento in Home per la ricerca web</string>
@@ -181,6 +182,7 @@
     <string name="third_web_filename_hint">Nome file</string>
     <string name="third_web_filesize">Dimensione:</string>
     <string name="third_web_savepath">Salva in</string>
+    <string name="third_web_default">Imposta come percorso predefinito, non chiedere più</string>
     <string name="third_web_cancel">Annulla</string>
     <string name="third_web_confirm">OK</string>
     <string name="creat_task_success">Aggiunto in coda download</string>
@@ -209,6 +211,7 @@ Accelerate i download su tutti i tuoi dispositivi."</string>
     <string name="do_not_support_url">Questo tipo di URL non è supportato</string>
     <string name="edit_hint"> Inserisci un URL (http o https)</string>
     <string name="revert_download_path">Utilizzare il percorso predefinito per i download?</string>
+    <string name="revert_default">Ripristina</string>
     <string name="save_path">"Salva i download in: "</string>
     <string name="cancel">Annulla</string>
     <string name="confirm">OK</string>

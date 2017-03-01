@@ -469,6 +469,7 @@ scorri in basso per bloccare"</string>
     <string name="torch_activity_hint">Puoi accedere velocemente alla torcia tenendo premuto il tasto [icon] nella Schermata di blocco</string>
     <string name="torch_opened">Torcia attivata</string>
     <string name="torch_closed">Torcia disattivata</string>
+    <string name="lockscreen_carrier_default">Nessun servizio</string>
     <string name="chooseUsbActivity">Scegli come utilizzare il collegamento USB</string>
     <string name="usb_storage_title">USB connesso</string>
     <string name="usb_storage_message">Sei connesso al PC tramite USB. Tocca il tasto sottostante per copiare i file tra il computer ed il tuo dispositivo.</string>

@@ -220,6 +220,7 @@ Potrai partecipare il prossimo martedì"</string>
     <string name="comment_publish">Invia</string>
     <string name="edit_comment_title">Modifica commento</string>
     <string name="edit_comment">Aggiungi commenti</string>
+    <string name="edit_text_default">Scrivi un commento</string>
     <string name="comment_sending">Invio…</string>
     <string name="comment_upload_failed">Impossibile inviare commento</string>
     <string name="comment_upload_hint">Grazie per il tuo feedback!</string>

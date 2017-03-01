@@ -30,6 +30,9 @@
     <string name="no_vm_number">Numero segreteria telefonica mancante</string>
     <string name="no_vm_number_msg">Nessun numero segreteria telefonica è salvato sulla SIM.</string>
     <string name="add_vm_number_str">Aggiungi numero</string>
+    <string name="change_default_dialer_dialog_title">"Cambiare l'applicazione predefinita per il telefono?"</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Utilizzare %1$s invece di %2$s come applicazione predefinita per il telefono?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Utilizzare %s come applicazione predefinita per il telefono?</string>
     <string name="test_account_0_label">Q Mobile</string>
     <string name="test_account_1_label">Market Wireless</string>
     <string name="test_account_2_label">Sonoma Circles Talk Plus</string>

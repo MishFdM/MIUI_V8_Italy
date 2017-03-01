@@ -291,14 +291,17 @@
     <string name="preferences_hide_declined_title">Nascondi eventi passati</string>
     <string name="preferences_week_start_day_title">Inizio settimana</string>
     <string name="preferences_week_start_day_dialog">Inizio settimana</string>
+    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_clear_search_history_title">Elimina cronologia</string>
     <string name="preferences_clear_search_history_summary">Elimina tutte le ricerche eseguite</string>
     <string name="search_history_cleared">Cronologia eliminata</string>
     <string name="preferences_alerts_title">Notifiche</string>
     <string name="preferences_alerts_popup_title">Notifica pop-up</string>
+    <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Usa orario predefinito</string>
     <string name="preferences_use_home_tz_descrip">Mostra orario eventi con il fuso orario predefinito</string>
     <string name="preferences_home_tz_title">Orario predefinito</string>
+    <string name="preferences_home_tz_default">Europa/Roma</string>
     <string name="preferences_show_week_num_title">Mostra numero settimana</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
     <string name="gadget_title">Calendario</string>
@@ -333,6 +336,7 @@
     <string name="menu_reminder_preferences">Promemoria</string>
     <string name="account_and_calendar">Account e calendario</string>
     <string name="account_and_calendar_to_display">Account e calendario da visualizzare</string>
+    <string name="default_reminder_mode">Modalità avviso predefinita</string>
     <string name="time_zone">Fuso orario</string>
     <string name="event_all_day_label">Tutto il giorno</string>
     <string name="today_no_events">Nessun evento oggi</string>
@@ -408,6 +412,7 @@
     <string name="birthday_event_description">Oggi: %4$s di %1$s!</string>
     <string name="birthday_event_description_detail_leap"/>
     <string name="birthday_event_description_detail_smart"/>
+    <string name="birthday_event_description_default">%2$s%3$s%4$s di %1$s</string>
     <string name="birthday_event_description_special">%1$s è %3$s%4$s%5$s di %2$s</string>
     <string name="birthday_event_description_today">Oggi</string>
     <string name="birthday_event_description_tomorrow">Domani</string>
@@ -430,6 +435,9 @@
     <string name="setting_holiday_display_desc">Schede vacanze posizionate nella homapge del calendario</string>
     <string name="setting_holiday_reminder">Promemoria vacanze</string>
     <string name="setting_others">Aggiuntive</string>
+	<string name="preferences_default_allday_reminder_title">Orario promemoria per tutti i giorni</string>
+    <string name="preferences_default_reminder_title">Orario promemoria</string>
+    <string name="preferences_default_reminder_dialog">Orario promemoria</string>
     <string name="setting_homepage">Visualizzazione homepage</string>
     <string name="preferences_holidays">Mostra vacanze</string>
     <string name="preferences_solar_terms">Mostra giorni calendario solare</string>

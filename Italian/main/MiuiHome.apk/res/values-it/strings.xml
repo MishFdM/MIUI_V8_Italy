@@ -103,6 +103,10 @@
     <string name="failed_to_delete_temporary">Eliminazione fallita, riprova.</string>
     <string name="confirm_btn_label">OK</string>
     <string name="cancel_btn_label">Annulla</string>
+    <string name="default_folder_title_tools">Strumenti</string>
+    <string name="default_folder_title_recommend">Preferiti</string>
+    <string name="default_folder_title_game">Giochi</string>
+    <string name="default_folder_title_security">Sistema</string>
     <string name="wallpaper_settings">Impostazioni sfondo</string>
     <string name="choose_wallpaper">Scegli sfondo</string>
     <string name="current_preview">Anteprima</string>
@@ -248,6 +252,7 @@
     <string name="recommend_apps_notice">App consigliate</string>
     <string name="recommend_apps_switch_title">App consigliate</string>
     <string name="recommend_apps_notice_nodata">App consigliate (No dati)</string>
+    <string name="recommend_apps_default_title">Vuoto</string>
     <string name="recommend_apps_tips">Questo servizio deve collegarsi ad internet per funzionare. Per disattivare questo servizio tocca il nome della cartella.</string>
     <string name="children_folder_title">Ragazzi</string>
     <string name="children_mode_exit">Uscita</string>

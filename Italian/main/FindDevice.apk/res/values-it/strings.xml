@@ -74,5 +74,7 @@ Vai su id.mi.com e prova a sbloccare il dispositivo da qui"</string>
     <string name="passport_notification_need_unlock_again">Prova a sbloccare ancora</string>
     <string name="device_lost">Questo dispositivo è stato smarrito</string>
     <string name="device_locked">Questo dispositivo è bloccato</string>
+    <string name="default_lock_msg_words_with_phone">Ciao! Ho smarrito questo telefono. Potresti contattarmi? Grazie!</string>
+    <string name="default_lock_msg_words">Ciao! Ho smarrito questo telefono. Ti contatterò al più presto. Grazie per la tua collaborazione!</string>
     <string name="lock_msg_phone">Informazioni di contatto: %s</string>
 </resources>

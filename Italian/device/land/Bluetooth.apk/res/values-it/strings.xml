@@ -161,6 +161,7 @@
     <string name="auth_notif_ticker">Richiesta di autenticazione Obex</string>
     <string name="auth_notif_title">Chiave sessione</string>
     <string name="auth_notif_message">Digita la chiave di sessione per %1$s</string>
+    <string name="defaultname">Kit auto</string>
     <string name="unknownName">Nome sconosciuto</string>
     <string name="localPhoneName">Il mio nome</string>
     <string name="bluetooth_sap_notif_title">Accesso bluetooth SIM</string>
