@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_bit_rate">
+        <item>200 Mbps</item>
+        <item>100 Mbps</item>
+        <item>50 Mbps</item>
+        <item>32 Mbps</item>
+        <item>24 Mbps</item>
+        <item>16 Mbps</item>
+        <item>8 Mbps</item>
+        <item>4 Mbps</item>
+        <item>1 Mbps</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Automatico</item>
+        <item>Verticale</item>
+        <item>Orizzontale</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>Muto</item>
+        <item>Microfono</item>
+        <item>Speaker</item>
+    </string-array>
+</resources>
