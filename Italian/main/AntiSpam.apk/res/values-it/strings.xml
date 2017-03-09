@@ -3,7 +3,7 @@
     <string name="app_name">AntiSpam</string>
     <string name="fw_blocked">Blacklist</string>
     <string name="fw_blocked_count">"Bloccati "</string>
-    <string name="fw_blocked_join">"  "</string>
+    <string name="fw_blocked_join">" e "</string>
     <string name="tab_title">Blacklist</string>
     <string name="tab_block_log">Log dei blocchi</string>
     <string name="tab_blacklist">Blacklist</string>
