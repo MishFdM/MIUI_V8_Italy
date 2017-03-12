@@ -9,7 +9,11 @@
     <string name="search_silent_mode">Silenzia suoneria durante registrazione</string>
     <string name="search_enable_earpiece_title">Utilizza il ricevitore per riprodurre audio</string>
     <string name="search_quliaty_title">Qualità di registrazione</string>
+    <string name="keywords_search_record_list">Registratore;Transcript;Transcripts;Record;Share recording;Share recordings;Recording;Recordings</string>
+    <string name="keywords_search_record">New recording;Add recording;Recording;Recordings;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>
+    <string name="keywords_search_call_record">Record calls;Record call;Call recording;Call recordings</string>
     <string name="app_name">Registratore</string>
+    <string name="record">Registra</string>
     <string name="recording">Registrazione</string>
     <string name="recording_stopped">Registrazione interrotta</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
@@ -145,4 +149,7 @@
     <string name="network_tip_dialog_content">Il motore di riconoscimento vocale deve collegarsi as Internet per funzionare correttamente.</string>
     <string name="network_tip_dialog_ok">Consenti</string>
     <string name="network_tip_dialog_cancel">Annulla</string>
+    <string name="head_set_tip_dialog_title">Usa microfono interno</string>
+    <string name="head_set_tip_dialog_msg">Disconnetti le cuffie per poter registrare il suono con impostazioni specifiche (es., Musica, Voice).</string>
+    <string name="head_set_tip_dialog_ok">Ho capito</string>
 </resources>

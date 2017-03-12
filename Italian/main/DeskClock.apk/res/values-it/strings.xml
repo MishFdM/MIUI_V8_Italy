@@ -92,7 +92,26 @@
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>
     <string name="oneshot_alarm">Elimina dopo che ha suonato</string>
-    <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>
+    <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>    <string name="system_time_settings_category_title">Time settings</string>
+    <string name="alarm_settings_category_title">Impostazioni sveglia</string>
+    <string name="life_post_weather_temperature_centigrade">°</string>
+    <string name="temperature_unit">%1$s°</string>
+    <string name="life_post_weather_degree_invalid">--</string>
+    <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
+    <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
+    <string name="life_post_weather_invalid">Impossibile recuperare informazioni meteo, tocca per riprovare</string>
+    <string name="life_post_wake_up_time_title">Orario di sveglia</string>
+    <string name="life_post_wake_up_acumu_day_title">Conteggio giorni</string>
+    <string name="life_post_wake_up_percentage_title">Mi Fan dietro di te</string>
+    <string name="life_post_wake_up_percentage_sign">%</string>
+    <string name="life_post_wake_up_item_time_title">Orario di sveglia</string>
+    <string name="life_post_wake_up_item_percentage_title">Mi Fan dietro di te</string>
+    <string name="life_post_wake_up_item_acumu_day_title">Conteggio giorni</string>
+    <string name="life_post_wake_up_item_acumu_day">%1$s giorni</string>
+    <string name="life_post_setting">Rapporto del mattino</string>
+    <string name="life_post_setting_open_title">Ricevi rapporti del mattino</string>
+    <string name="life_post_setting_open_subtitle">Ricevi informazioni sul meteo quando disattivilesveglietra le 4:00 e le 9:30</string>
+    <string name="life_post_setting_wake_up_list_title">Cronologia risvegli</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>

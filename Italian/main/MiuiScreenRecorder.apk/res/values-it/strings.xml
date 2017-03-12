@@ -45,11 +45,10 @@
     <string name="button_clear_storage">Liberare spazio</string>
     <string name="button_goon_recorder">Riprendi</string>
     <string name="button_confirm">OK</string>
-    <string name="delete_confirm_text">Eliminare questa registrazione schermo?</string>
-    <string name="delete_confirm_text_multi1">Elimina</string>
-    <string name="delete_confirm_text_multi2">registrazione schermo?</string>
     <string name="bubble_text">Tocca per iniziare</string>
+    <string name="date_year">/</string>
     <string name="date_month">/</string>
+    <string name="date_day" />
     <string name="error_open_file_failed_no_app_found">"Impossibile trovare un'applicazione per l'apertura del file"</string>
     <string name="hint_home">Home</string>
     <string name="hint_menu">Menu</string>

@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="chinese_leap"/>
-    <string name="event_lunar_month"/>
-    <string name="huangli_good_type"/>
-    <string name="huangli_bad_type"/>
-    <string name="chongsha"/>
-    <string name="wuxing"/>
-    <string name="xingxiu"/>
-    <string name="taishen"/>
-    <string name="pengzu"/>
     <string name="online_calendar_activity_label">Iscriviti al Calendario</string>
     <string name="tab_local">Locale</string>
     <string name="tab_online">Online</string>
@@ -23,16 +15,12 @@
     <string name="delete_topic_success">退订\"%s\"成功</string>
     <string name="calendar_server_error">服务器错误</string>
     <string name="calendar_network_error">网络错误</string>
-    <string name="no_local_calendar">没有订阅日历 :)</string>
     <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
     <string name="refresh">刷新</string>
-    <string name="movable_list_header_label">简介</string>
-    <string name="topic_list_header_label">订阅列表</string>
     <string name="setting_sms_import">导入短信事件</string>
     <string name="preferences_import_credit_repayment">信用卡还款</string>
     <string name="preferences_import_travel">机票火车票</string>
     <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
-    <string name="topic_dialog_title">退订订阅</string>
     <string name="online_reminder_header_text">提醒</string>
     <string name="action_text_card_manager">订阅频道</string>
     <string name="text_year">年</string>

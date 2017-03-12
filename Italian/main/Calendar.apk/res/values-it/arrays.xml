@@ -251,6 +251,11 @@
         <item>2 giorni</item>
         <item>1 settimana</item>
     </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Sempre</item>
+        <item>Solo quando silenzioso</item>
+        <item>Mai</item>
+    </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
         <item>Nessun avviso</item>
         <item>0 minuti</item>
@@ -354,10 +359,5 @@
         <item>Mai</item>
         <item>Ora</item>
         <item>Numero</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Sempre</item>
-        <item>Solo quando silenzioso</item>
-        <item>Mai</item>
     </string-array>
 </resources>

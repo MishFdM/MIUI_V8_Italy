@@ -117,4 +117,9 @@
         <item quantity="zero">Creato il %1$s | totale %2$d brani</item>
         <item quantity="one">Creato il %1$s | totale %2$d brano</item>
     </plurals>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">%d brani totale</item>
+        <item quantity="zero">%d brano totale</item>
+        <item quantity="one">%d brano totale</item>
+    </plurals>
 </resources>

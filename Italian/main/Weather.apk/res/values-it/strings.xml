@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="search_weather">Meteo</string>
+    <string name="search_weather_keywords">Temperature;Weather Forecast;Weather;Air Quality;Pollution Degree;Humidity</string>
     <string name="temperature_unit">%1$s°</string>
     <string name="app_name">Meteo</string>
     <string name="location_management">Località</string>
@@ -99,6 +101,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
     <string name="information_manager_wlan">Aggiorna quando connesso a Wi-Fi</string>
     <string name="information_manager_information">Informazioni Meteo</string>
     <string name="information_manager_extension">Estensione meteo</string>
+    <string name="information_manager_default_weather_bg">Sfondo meteo predefinito</string>
     <string name="activity_main_clickable">></string>
     <string name="aqi_short_desc">IQA %1$s</string>
     <string name="wind_unit">%1$s km/h</string>
@@ -118,6 +121,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
     <string name="top_pollution_no2">NO2</string>
     <string name="top_pollution_co">CO</string>
     <string name="top_pollution_o3">O3</string>
+    <string name="realtime_temperature_no_data">N/A</string>
     <string name="no_data">--</string>
     <string name="ads_install_num" />
     <string name="ads_score_title" />

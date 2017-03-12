@@ -234,6 +234,7 @@
     <string name="feedback_status_answered">Risposto</string>
     <string name="feedback_status_replyed">Risposto</string>
     <string name="feedback_status_jira_comment">Aggiungi un commento</string>
+    <string name="feedback_status_forum_reply">Rispondi</string>
     <string name="feedback_status_change_notification_title">Il tuo report ha ricevuto un aggiornamento</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s suggerimento \"%2$s\"</string>

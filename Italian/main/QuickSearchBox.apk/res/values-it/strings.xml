@@ -87,6 +87,7 @@ Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
     <string name="local_setting">Impostazioni</string>
     <string name="pull_to_input">Trascina in basso per visualizzare la barra di ricerca</string>
     <string name="release_to_input">Rilascia per visualizzare la barra di ricerca</string>
+    <string name="choose_search_engine">Seleziona il motore di ricerca predefinito</string>
     <string name="apps_search_activity" />
     <string name="xiaomi_suggest_base" />
     <string name="xiaomi_homepage_suggest" />
