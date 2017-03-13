@@ -47,9 +47,7 @@
     <string name="auth_username_summary">"Nome utente usato per l'autenticazione"</string>
     <string name="default_preference_summary">Non impostato</string>
     <string name="display_name_summary">Come il nome utente</string>
-    <string name="optional_summary">Opzionale</string>
-    <string name="default_port">5060</string>
-    <string name="default_transport">UDP</string>
+    <string name="optional_summary">Opzionale</string>>
     <string name="advanced_settings_show">▷ Tocca per vedere tutto</string>
     <string name="advanced_settings_hide">▽ Tocca per nascondere tutto</string>
     <string name="empty_alert">"%s è richiesto e non può essere lasciato vuoto."</string>
@@ -786,7 +784,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="network_settings_select_automatic_hint">Impossibile registrarsi sulla rete che hai selezionato.
 Sarà usata al suo posto la rete preferita.</string>
     <string name="network_settings_forbidden">%s (vietato)</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="sip_save_register_error">Non è possibile registrare e salvare un profilo SIP</string>
     <string name="sip_profile_create_error">Impossibile creare un nuovo profilo SIP</string>
     <string name="preferred_network_type_title">Tipologia di rete preferita</string>
@@ -1076,7 +1073,6 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="sim_contact_name">Nome</string>
     <string name="sim_contact_number">Numero</string>
     <string name="sip_call_options_entry_3">Chiedi ad ogni chiamata</string>
-    <string name="set_primary">SetPrimary</string>
     <string name="old_pin2_label">Vecchio PIN2</string>
     <string name="new_pin2_label">Nuovo PIN2</string>
     <string name="confirm_pin2_label">Conferma il nuovo PIN2</string>
