@@ -2268,7 +2268,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="enable_multi_window">Modalità multi finestra</string>
     <string name="enable_multi_window_summary">Attività multiple sullo schermo allo stesso momento.</string>
     <string name="confirm_enable_multi_window_title">Attivare la modalità multi finestra?</string>
-    <string name="confirm_enable_multi_window_text">ATTENZIONE: questa è una funzione estremamente sperimentale che consente attività multiple sullo schermo allo stesso tempo tramite l'interfaccia App Recenti. Alcune app potrebbero chiudersi forzatamente o non funzionare correttamente se utilizzate con questa funzione.</string>
+    <string name="confirm_enable_multi_window_text">"ATTENZIONE: questa è una funzione estremamente sperimentale che consente attività multiple sullo schermo allo stesso tempo tramite l'interfaccia App Recenti. Alcune app potrebbero chiudersi forzatamente o non funzionare correttamente se utilizzate con questa funzione."</string>
     <string name="debug_applications_category">Applicazioni</string>
     <string name="immediately_destroy_activities">Non conservare attività</string>
     <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
