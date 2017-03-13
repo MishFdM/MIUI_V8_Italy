@@ -360,4 +360,9 @@
         <item>Ora</item>
         <item>Numero</item>
     </string-array>
+    <string-array name="repeat_countdown">
+        <item>Mai</item>
+        <item>Mensile</item>
+        <item>Annuale</item>
+    </string-array>
 </resources>
