@@ -406,7 +406,7 @@
     <string name="birthday_event_description_tomorrow">Domani</string>
     <string name="birthday_event_description_day_after_tomorrow">Dopodomani</string>
     <string name="birthday_event_description_a_week_later">Tra una settimana</string>
-    <string name="birthday_event_description_days_later">Tra %1$s gioni</string>
+    <string name="birthday_event_description_days_later">Tra %1$s giorni</string>
     <string name="birthday_event_description_yesterday">Ieri</string>
     <string name="birthday_event_description_day_before_yesterday">"L'altro ieri"</string>
     <string name="birthday_event_description_a_week_ago">Una settimana fa</string>
