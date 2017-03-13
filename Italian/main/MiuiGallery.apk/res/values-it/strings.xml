@@ -1028,7 +1028,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="syncing_gprs_title">Utilizzo rete dati mobile per il backup</string>
     <string name="syncing_metadata_title">Sincronizzazione dati Mi Cloud</string>
     <string name="synced_title">Backup di foto e video eseguito correttamente</string>
-    <string name="sync_off_title">Attiva la sincronizzazione Mi Cloud per Mi Cloud to back up photos and videos automatically</string>
+    <string name="sync_off_title">Attiva la sincronizzazione Mi Cloud per salvare video e foto automaticamente.</string>
     <string name="sync_state_unknow">Recupero informazioni</string>
     <string name="sync_metatata_wait_title">In attesa di sincronizzare i dati Mi Cloud</string>
     <string name="cloud_storage_title">Archiviazione Mi Cloud</string>
