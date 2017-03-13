@@ -89,17 +89,18 @@ Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
     <string name="release_to_input">Rilascia per visualizzare la barra di ricerca</string>
     <string name="choose_search_engine">Seleziona il motore di ricerca predefinito</string>
     <string name="apps_search_activity" />
-    <string name="xiaomi_suggest_base" />
-    <string name="xiaomi_homepage_suggest" />
-    <string name="xiaomi_homepage_hint" />
+    <string name="xiaomi_suggest_base">" "</string>
+    <string name="xiaomi_homepage_suggest">" "</string>
+    <string name="xiaomi_homepage_hint">" "</string>
     <string name="baidu_suggest_base">" "</string>
     <string name="baidu_search_url_from_systemui">http://www.google.com/search?q=%s&amp;tn=ins</string>
     <string name="baidu_search_url_from_launcher">http://www.google.com/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_minus_one">http://www.google.com/search?q=%s&amp;tn=ins</string>
     <string name="baidu_search_url_from_input">http://www.google.com/search?q=%s&amp;tn=ins</string>
     <string name="baidu_search_url_from_default">http://www.google.com/search?q=%s&amp;tn=ins</string>
-    <string name="xiaomi_hint" />
-    <string name="hot_words" />
-    <string name="xiaomi_hot_query" />
+    <string name="search_apps_url">market://search?q=%s&amp;c=apps</string>
+    <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
+    <string name="xiaomi_hint">" "</string>
     <string name="search_widget">Cerca</string>
     <string name="remove_from_history">Rimuovi dalla cronologia</string>
     <string name="remove_from_history_failed">Impossibile rimuovere elemento dalla cronologia</string>
