@@ -384,12 +384,6 @@
     <string name="event_info_jump_to_email">"Vai all'email"</string>
     <string name="event_show_more">Altre opzioni</string>
     <string name="event_hide_more">Nascondi</string>
-    <string name="event_info_when">Quando\u0009\u0009</string>
-    <string name="event_info_repeat">Ripetizione\u0009</string>
-    <string name="event_info_where">Dove\u0009</string>
-    <string name="event_info_descrip">Descrizione\u0009\u0009\u0009</string>
-    <string name="event_info_end">Fine\u0009\u0009\u0009</string>
-    <string name="event_info_jump_to_email">Vai alla posta</string>
     <string name="event_action_delete">Elimina</string>
     <string name="event_action_edit">Modifica</string>
     <string name="lunar_date">Data lunare</string>
