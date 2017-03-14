@@ -429,6 +429,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="no_favorites_songs">Vuoto</string>
     <string name="no_local_songs">Vuoto</string>
     <string name="no_local_songs_selected">Impossibile inviare i brani perché non sono stati scaricati</string>
+    <string name="no_scanned_songs">Vuoto</string>
     <string name="track_main_fragment_tab_track">Brano</string>
     <string name="track_main_fragment_tab_album">Album</string>
     <string name="no_online_song_selected">Nessun brano selezionato</string>
@@ -521,6 +522,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="delete_file_as_well">Elimina anche il file locale</string>
     <string name="delete_file_start">Elimina i file selezionati</string>
     <string name="delete_file_end">Elimina in modo permanente</string>
+    <string name="auto_upgrade">Aggiorna automaticamente</string>
     <string name="no_song">Nessun brano</string>
     <string name="recommend_fragment_title">In evidenza</string>
     <string name="channel_list_fragment_title">Radio</string>
@@ -835,6 +837,7 @@ attendere o selezionare Musica Online."</string>
     <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_recommend">Playlist in evidenza</string>
     <string name="playlist_type_my">Mia playlist</string>
+    <string name="playlist_empty">Nessuna playlist trovata</string>
     <string name="local_page_song_download">Locali</string>
     <string name="local_page_song_all">Tutti i brani</string>
     <string name="local_page_song_favorite">Preferiti</string>
@@ -842,6 +845,10 @@ attendere o selezionare Musica Online."</string>
     <string name="local_page_custom_title">Per te</string>
     <string name="local_page_custom_subtitle">Nuovi brani ogni giorno</string>
     <string name="shuffle_music">Riproduzione casuale</string>
+    <string name="local_page_song_download_history">Download</string>
+    <string name="local_page_playlist">Le mie playlist</string>
+    <string name="recently_played_songs">Recenti</string>
+    <string name="favorites">Preferiti</string>
     <string name="talkback_radar">Riconoscimento musica</string>
     <string name="talkback_search">Cerca</string>
     <string name="talkback_play">Riproduci / Pausa</string>
@@ -887,4 +894,15 @@ attendere o selezionare Musica Online."</string>
     <string name="search_history_clear_all">Cancella</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_empty">Nessun risultato. Riprova con altre parole</string>
+    <string name="artist_area_all">Tutti</string>
+    <string name="artist_area_china">Cina</string>
+    <string name="artist_area_korea">Korea</string>
+    <string name="artist_area_japan">Giappone</string>
+    <string name="artist_area_europe_usa">Europa/USA</string>
+    <string name="artist_gender_all">Tutti</string>
+    <string name="artist_gender_male">Maschio</string>
+    <string name="artist_gender_female">Femmina</string>
+    <string name="artist_gender_group">Gruppo</string>
+    <string name="text_separator">|</string>
+    <string name="hot_icon_in_fast_indexer">H</string>
 </resources>

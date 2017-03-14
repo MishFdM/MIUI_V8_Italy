@@ -678,4 +678,6 @@
     <string name="hybrid_pull_to_refresh_pull_label">Trascina per aggiornare...</string>
     <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare...</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Solo un attimo...</string>
+    <string name="title_use_gsm_alphabet">Utilizza alfabeto GSM</string>
+    <string name="fail_to_add_attachment">Impossibile aggiungere allegato</string>
 </resources>

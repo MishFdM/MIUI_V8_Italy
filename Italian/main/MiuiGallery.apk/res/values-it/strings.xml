@@ -535,7 +535,15 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="confirm_recommandation_multiple_faces_not">" "<data> Sei sicuro che non siano <font color="#323232"><b>%1$s</b></font>? Questi volti verranno spostati in \"%2$s\" dopo la conferma. </data>" "</string>
     <string name="blank_app_name"/>
     <string name="set_group">Imposta gruppo</string>
-    <string name="how_to_set_relation">Tieni premuto su un album per impostare il gruppo</string>
+    <string name="how_to_set_relation">Tieni premuto su un album per creare un gruppo</string>
+    <string name="define_by_user">Personalizza</string>
+    <string name="load_relations">Solo un attimo...</string>
+    <string name="input_relation_name">Inserisci il nome del gruppo</string>
+    <string name="default_relation_name">Nuovo gruppo</string>
+    <string name="empty_relation">Il nome del gruppo non può essere vuoto</string>
+    <string name="new_relation_invalid_prefix">Non è possibile iniziare inomi dei gruppi con “.” o “_”"</string>
+    <string name="new_relation_invalid_char">I nomi dei gruppi non possono contenere “%s”. Usa lettere, numeri o caratteri.</string>
+    <string name="new_relation_invalid_name">Il gruppo “%s” è già esistente, rinomina questo gruppo.</string>
     <string name="operation_remove_from_face_album">Rimuovi copertina</string>
     <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
     <string name="share_with_family">Condividi con la famiglia</string>
@@ -669,8 +677,10 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="picker_download_progress_message">Download in corso, termine: %1$d/%2$d</string>
     <string name="operation_send">Invia</string>
     <string name="operation_edit">Modifica</string>
+    <string name="operation_edit_video">Modifica</string>
     <string name="operation_projection">Proietta</string>
     <string name="operation_delete">Elimina</string>
+    <string name="operation_rename">Rinomina</string>
     <string name="operation_save">Salva</string>
     <string name="operation_add_album">"Aggiungi all'album"</string>
     <string name="operation_add_secret">Aggiungi Album privato</string>
@@ -816,6 +826,9 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="new_album_invalid_prefix">"Non usare \".\" oo \"_\" come inizio del nome dell'album."</string>
     <string name="new_album_invalid_char">Il nome contiene caratteri non validi \"%s\", inserisci numeri o lettere.</string>
     <string name="new_album_invalid_name">\"%s\" è un album di sistema, si prega di rinominare.</string>
+    <string name="rename_album">Rinomina album</string>
+    <string name="rename_album_succeeded">Rinominato correttamente</string>
+    <string name="rename_album_failed">Impossibile rinominare</string>
     <string name="album_name">Nome album</string>
     <string name="delete_origin">"Elimina le immagini dall'album originale"</string>
     <string name="by_sms">SMS</string>
@@ -1007,12 +1020,17 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="backup_with_gprs_dialog_title">Esegui il backup utilizzando la rete dati mobile</string>
     <string name="backup_with_gprs_dialog_message">Sono necessari %s di traffico dati per il backup degli elementi. Eseguire adesso il backup?</string>
     <string name="backup_with_gprs_dialog_btn">Backup</string>
+    <string name="backup_close">Chiudi backup</string>
+    <string name="backup_pause_title">Backup tra %s</string>
+    <string name="backup_detail_page_empty">Nessuna foto o video in attesa di backup</string>
     <string name="sync_pending_title">Verranno sincronizzati automaticamente</string>
     <string name="syncing_normal_title">Backup foto e video</string>
     <string name="syncing_gprs_title">Utilizzo rete dati mobile per il backup</string>
     <string name="syncing_metadata_title">Sincronizzazione dati Mi Cloud</string>
     <string name="synced_title">Backup di foto e video eseguito correttamente</string>
-    <string name="sync_off_title">Attiva la sincronizzazione Mi Cloud per Mi Cloud to back up photos and videos automatically</string>
+    <string name="sync_off_title">Attiva la sincronizzazione Mi Cloud per salvare video e foto automaticamente.</string>
+    <string name="sync_state_unknow">Recupero informazioni</string>
+    <string name="sync_metatata_wait_title">In attesa di sincronizzare i dati Mi Cloud</string>
     <string name="cloud_storage_title">Archiviazione Mi Cloud</string>
     <string name="cloud_storage_subtitle">"E' stato eseguito il backup di tutti gli elementi su Mi Cloud"</string>
     <string name="cloud_storage_photo_title">Foto</string>

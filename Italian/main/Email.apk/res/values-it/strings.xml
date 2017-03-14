@@ -3,6 +3,7 @@
     <string name="SMTP_independent_verification_text">Verifica SMTP indipendente</string>
     <string name="SMTP_password_text">Password</string>
     <string name="SMTP_username_text">Nome utente</string>
+	<string name="accessibility_guide_first">Nella prossima schermata, seleziona il tab \"Servizi\" per attivare il 139 Email Configurazione Automatica</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Account duplicato</string>
     <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -202,6 +203,16 @@
     <string name="auto_advance_help_title">"Dopo un'eliminazione, mostra…"</string>
     <string name="auto_advance_label">Avanzamento automatico</string>
     <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
+	<string name="auto_mail_describe">139 Email è un servizio di configurazione automatica che può aiutare a compilare le informazioni di login sulla casella di posta. Desideri attivare questa funzione?</string>
+    <string name="auto_mail_disable_txt">Disattivato</string>
+    <string name="auto_mail_enable_txt">Inizia impostazioni</string>
+    <string name="auto_mail_title_note">"Trova l'opzione 139 Email Configurazione Automatica, tocca per iniziare."</string>
+    <string name="auto_mail_window_description">Servizo 139 Email Configurazione Automatica</string>
+    <string name="auto_mail_window_label">139 Email Configurazione Automatica</string>
+    <string name="auto_remind_bind">Aggiungi</string>
+    <string name="auto_remind_discribe_text">Attiva per ricevere i promemoria automatici</string>
+    <string name="auto_remind_text">Promemoria automatici</string>
+    <string name="auto_remind_unbind">Ferma</string>
     <string name="auto_sync_off">Sincron. automatica disattivata.</string>
     <string name="battery_saver">Risparmio batteria</string>
     <string name="battery_saver_keywords">risparmio batteria;batteria email</string>
@@ -245,6 +256,9 @@
     <string name="compose_picturesexceedlimits">Non puoi inserire più di 5 immagini</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
+	<string name="config">Numero di telefono 139 Email configurato</string>
+    <string name="config_cancel">Annulla</string>
+    <string name="config_retry">Riprova</string>
     <string name="confirm">OK</string>
     <string name="confirm_before_delete">Conferma prima di eliminare</string>
     <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
@@ -282,7 +296,7 @@
     <string name="contextmenu_copylink">Copia URL link</string>
     <string name="contextmenu_create">Crea un nuovo contatto</string>
     <string name="contextmenu_dial_dot">Componi…</string>
-    <string name="contextmenu_edit">Edit contact</string>
+    <string name="contextmenu_edit">Modifica contatto</string>
     <string name="contextmenu_feedback">Invia feedback</string>
     <string name="contextmenu_help">Guida</string>
     <string name="contextmenu_map">Mappa</string>
@@ -397,6 +411,9 @@
     <string name="file_rar_not_support">File \".rar\" protetti non supportati!</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Tocca questo collegamento, \"%s\" verrà inviato a tutti i destinatari.</string>
+	<string name="float_window_content">"Rilevato che si sta utilizzando la casella di posta, premi su Conferma per impostare automaticamente l'account e password di 139 Email."</string>
+    <string name="float_window_info">Quando stai configurando la 139 email, non puoi operare con il telefono,altrimenti la configurazione fallirà.</string>
+    <string name="float_window_title">Configurazione………</string>
     <string name="folder_drafts_name_cn0">草稿</string>
     <string name="folder_drafts_name_cn1">草稿箱</string>
     <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -601,6 +618,7 @@
     <string name="no_matched_attachment">Nessun allegato corrispondente.</string>
     <string name="not_subject">(Nessun oggetto)</string>
     <string name="not_synced_title">Account non sincronizzato</string>
+	<string name="note_title">139 Email Configurazione Automatica</string>
     <string name="notification_action_archive">Archivia</string>
     <string name="notification_action_delete">Elimina</string>
     <string name="notification_action_remove_label">Rimuovi etichetta</string>

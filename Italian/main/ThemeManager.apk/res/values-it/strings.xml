@@ -277,7 +277,6 @@
     <string name="wallpaper_set_as_destop">Imposta come sfondo</string>
     <string name="wallpaper_set_as_lockscreen">Imposta come Schermata di blocco</string>
     <string name="wallpaper_crop">Taglia</string>
-    <string name="wallpaper_loading_text">Caricamento…</string>
     <string name="wallpaper_decoded_error">Decodifica fallita</string>
     <string name="close">Chiudi</string>
     <string name="download_success">Scaricato correttamente</string>
@@ -405,4 +404,22 @@
     <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Non mostrare più</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Ho capito</string>
+    <string name="wallpaper_scroll_type_tips">Scorrimento sfondo</string>
+    <string name="both_all_apply_success">Sfondo applicato</string>
+    <string name="both_all_apply_failured">Impossibile impostare sfondo</string>
+    <string name="lockscreen_apply_success">Sfondo schermata blocco applicato</string>
+    <string name="lockscreen_apply_failured">Impossibile applicare lo sfondo alla schermata di blocco</string>
+    <string name="home_apply_success">Sfondo Home applicato</string>
+    <string name="home_apply_failured">Impossibile applicare lo sfondo Home</string>
+    <string name="lockscreen_apply_success_but_home_apply_failured">Sfondo schermata di blocco applicato ma non è stato possibile applicare lo sfondo della Home</string>
+    <string name="lockscreen_apply_failured_but_home_apply_success">Sfondo Home applicato ma non è stato possibile applicare lo sfondo della schermata di blocco</string>
+    <string name="the_picture_is_too_small">"L'iimagine è troppo piccola"</string>
+    <string name="is_setting_wallpaper_message">Impostazione sfondo...</string>
+    <string name="ad_app_download_start">Avvio download...</string>
+    <string name="ad_app_is_downloading">Download in corso...</string>
+    <string name="wallpaper_settings_page_title">sfondo</string>
+    <string name="wallpaper_auto_change_title">Schermata di blocco</string>
+    <string name="wallpaper_settings_lockscreen_text">Schermata di blocco</string>
+    <string name="wallpaper_settings_desktop_text">Home</string>
+    <string name="wallpaper_settings_change_wallpaper">Cambia</string>
 </resources>

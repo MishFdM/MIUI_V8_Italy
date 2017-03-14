@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="resource_xspace">App clonate</string>
+    <string name="keywords_xspace">App clonata;App clonate;Clona app;Clona app;Clona app;Clona app;Clona app;App clonate;Doppi account;2 account</string>
+    <string name="path_xspace">Impostazioni/App clonate</string>
+    <string name="resource_sspace">Spazio secondario</string>
+    <string name="keywords_sspace">Spazio secondario;Due spazi;2 spazi;Nascondi app;Nascondi file;Nascondi foto;Schermaa di blocco;Passwrodschermata di blocco;Privacy;Modalità privacy;Modalità privata;Privato;Modalità ospite;Sessione ospite;Accesso ospite;Account ospite;Ospite</string>
+    <string name="path_sspace">Impostazioni/Spazio Secondario</string>
     <string name="app_name">Componente di Sicurezza di Sistema</string>
     <string name="switch_data_settings">Sposta dati</string>
     <string name="switch_in_contacts">Importa contatti</string>
@@ -247,4 +253,31 @@ per accedere dalla schermata di blocco"</string>
     <string name="scanner_fingerprint">Scansione impronta…</string>
     <string name="scanner_fingerprint_enter_second">"Scansiona l'impronta dello spazio Secondario
 per accedervi dalla schermata di blocco"</string>
+   <string name="xspace_guide_title">Crea appclonata per %s</string>
+    <string name="xspace_guide_des">Utilizza 2 account senza cambiare</string>
+    <string name="xpsace_guide_button">Crea</string>
+    <string name="space_name_default">Spazio di lavoro</string>
+    <string name="space_des_default">Spazio separato con dati crittografati</string>
+    <string name="create_work_space">Crea spazio di lavoro</string>
+    <string name="switch_download_space">Passa allo spazio di lavoro</string>
+    <string name="confirm_airspace_password">Conferma la password dello spazio di lavoro</string>
+    <string name="air_space_created">Spazio di lavoro creato correttamente</string>
+    <string name="enter_air_space">Passa allo spazio di lavoro</string>
+    <string name="invalid_qr_code">Codice QR non valido</string>
+    <string name="need_network_when_create">Collegati alla rete prima di creare lo spazio di lavoro</string>
+    <string name="downloading_space">Download in corso...</string>
+    <string name="air_space_deleted">Spazio di lavoro eliminato correttamente</string>
+    <string name="need_reset_passwd">Ripristina la password prima di accedere allo spazio di lavoro</string>
+    <string name="reset_passwd_success">Password ripristinata correttamente</string>
+    <string name="air_space_exit">Esci dallo spazio</string>
+    <string name="air_space_setting">Impostazioni spazio</string>
+    <string name="other">Altro</string>
+    <string name="airspace_users_full">Non è possibile creare altri spazi di lavoro</string>
+    <string name="same_qr_code_title">%s è già esistente</string>
+    <string name="same_qr_code_des">Sembra che questo spazio di lavoro sia già esistente. Puoi utilizzare i collegamenti a Home e Pannello Notifiche per accedere. Accedere adesso?</string>
+    <string name="same_qr_code_enter_space">Accedi allo spazio di lavoro</string>
+    <string name="same_qr_code_create_space">Creane un altro</string>
+    <string name="not_support_air_space">Questa funzione non è supportata sul tuo telefono</string>
+    <string name="loading">Solo un attimo...</string>
+    <string name="contact_us">Contattaci</string>
 </resources>

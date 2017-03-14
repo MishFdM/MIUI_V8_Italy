@@ -96,29 +96,37 @@
         <item quantity="other">%1$d elementi | %2$s</item>
         <item quantity="one">%1$d elemento | %2$s</item>
     </plurals>
-    <plurals name="backuped">
-        <item quantity="other">Backup eseguito per %1$d elementi</item>
-        <item quantity="one">Backup eseguito per %1$d elemento</item>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d foto e video</item>
+        <item quantity="one">%1$d foto o video</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d elementi in attesa di backup</item>
-        <item quantity="one">%1$d elemento in attesa di backup</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d foto e video | %2$s</item>
+        <item quantity="one">%1$d foto o video | %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">Errore di rete. %1$d elementi in attesa di backup</item>
-        <item quantity="one">Errore di rete. %1$d elemento in attesa di backup</item>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Ripristina backup tra %d ore</item>
+        <item quantity="one">Ripristina backup tra %d ora</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">Sincronizzazione disattivata. %1$d elementi in attesa di backup</item>
-        <item quantity="one">Sincronizzazione disattivata. %1$d elemento in attesa di backup</item>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d foto e video | Pausa</item>
+        <item quantity="one">%d foto o video | Pausa</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">Spazio esaurito su Mi Cloud. %1$d elementi in attesa di backup</item>
-        <item quantity="one">Spazio esaurito su Mi Cloud. %1$d elemento in attesa di backup</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">Non è stato eseguito il backup di %d foto e video</item>
+        <item quantity="one">Non è stato eseguito il backup di %d foto o video"</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">Spazio interno non sufficiente. %1$d elementi in attesa di backup</item>
-        <item quantity="one">Spazio interno non sufficiente. %1$d elemento in attesa di backup</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d foto</item>
@@ -156,6 +164,10 @@
         <item quantity="other">Errore download per %1$d file</item>
         <item quantity="one">Errore download per %1$d file</item>
     </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Non è stato possibile scaricare %1$d file, controlla la connessione di rete e prova di nuovo</item>
+        <item quantity="one">Non è stato possibile scaricare %1$d file, controlla la connessione di rete e prova di nuovo</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
@@ -164,7 +176,7 @@
         <item quantity="other">%1$d foto saltate perché impossibile visualizzare.</item>
         <item quantity="one">Una foto saltata perché impossibile visualizzare.</item>
     </plurals>
-	    <plurals name="file_count_format">
+    <plurals name="file_count_format">
         <item quantity="other">%1$d elementi</item>
         <item quantity="one">%1$d elemento</item>
     </plurals>
