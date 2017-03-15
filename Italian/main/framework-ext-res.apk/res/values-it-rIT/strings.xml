@@ -38,9 +38,9 @@
     <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
     <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
     <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
+    <string name="status_bar_toggle_battery_saver_action">com.miui.securitycenter/com.miui.powercenter.savemode.PowerSaveActivity</string>
+    <string name="status_bar_toggle_nfc_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
     <string name="screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
-    <string name="screen_button_disabled_message">Tasti navigazione disattivati. Per riattivarli, tocca i tasti Home e Power insieme.</string>
-    <string name="screen_button_enabled_message">Tasti navigazione attivati.</string>
     <string name="miui">MIUI</string>
     <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
     <string name="securespaces_extension_accelerometer_serviceName"/>
@@ -137,6 +137,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="apply_password_confirm_dlg_title">Questa password verrà utilizzata per %s</string>
     <string name="apply_password_confirm_dlg_msg">Richiedere password per %s?</string>
     <string name="apply_password_action">Imposta password</string>
+    <string name="subinfo_default_name">SIM %d</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Posiziona il dito sul tasto Home</string>
     <string name="maml_component_customization_title">Impostazioni</string>
     <string name="default_name">Predefinito</string>
@@ -175,4 +176,5 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="package_delete_confirm_step_2">Eliminando questa app potresti causare instabilità del sistema.</string>
     <string name="package_delete_confirm_step_3">Non potrai utilizzare questa app una volta eliminata.</string>
     <string name="configure_input_methods">Scegli tastiere</string>
+    <string name="miui_upgrading_notification_title">Sistema in aggiornamento, alcune funzioni potrebbero essere limitate</string>
 </resources>
