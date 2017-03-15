@@ -402,18 +402,18 @@
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>Area ritaglio non rettangolare blu</item>
+        <item>Evidenzia comandi di disegno test in verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Off</item>
-        <item>On screen as bars</item>
+        <item>Su schermo sotto forma di barre</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
+        <item>Visualizza le zone di conflitto</item>
+        <item>Mostra aree adattate per Deuteranomalia</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predefinito</item>
