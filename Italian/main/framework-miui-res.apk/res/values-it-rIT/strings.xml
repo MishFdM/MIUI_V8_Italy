@@ -6,7 +6,7 @@
     <string name="reboot_progress">Riavvio in corso…</string>
     <string name="memory_clear_result">"%1$s liberati | %2$s disponibili"</string>
     <string name="memory_clear_nothing_result">La RAM è già ottimizzata.</string>
-    <string name="device_xiaomi">Mi Phone</string>
+    <string name="device_xiaomi">Telefono MI</string>
     <string name="device_hongmi">Redmi</string>
     <string name="miui_device_name">Dispositivo MIUI</string>
     <string name="app_no_notification">Nessuna notifica</string>
