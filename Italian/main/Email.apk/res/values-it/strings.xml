@@ -925,7 +925,7 @@
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>
     <string name="trigger_y_char">y</string>
-    <string name="try_exchange_login">Sign in with EXCHANGE</string>
+    <string name="try_exchange_login">Login con EXCHANGE</string>
     <string name="turn_auto_sync_on_dialog_body">Tutte le modifiche apportate ad applicazioni ed account, non solo Gmail, verranno sincronizzate tra web, i tuoi altri dispositivi ed il tuo %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Attiva</string>
     <string name="turn_auto_sync_on_dialog_title">Attivare sincron. automatica?</string>
