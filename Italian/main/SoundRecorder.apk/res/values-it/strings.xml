@@ -10,7 +10,7 @@
     <string name="search_enable_earpiece_title">Utilizza il ricevitore per riprodurre audio</string>
     <string name="search_quliaty_title">Qualità di registrazione</string>
     <string name="keywords_search_record_list">Registratore;Trascrizione;Trascrizioni;Registra;Condividi registrazione;Condividi registrazioni;Registrazione;Registrazioni</string>
-    <string name="keywords_search_record">Nuova registrazione;Aggiungi registrazione;Registrazione;Registrazioni;Trascrizione;Trascrivere;Registratore;Registratore vocale;Registratore di suoni;App registratore;App registrazione;Come posso registrare;Come registrare un suono;Dov'è il registratore;Registratore MIUI</string>
+    <string name="keywords_search_record">"Nuova registrazione;Aggiungi registrazione;Registrazione;Registrazioni;Trascrizione;Trascrivere;Registratore;Registratore vocale;Registratore di suoni;App registratore;App registrazione;Come posso registrare;Come registrare un suono;Dov'è il registratore;Registratore MIUI"</string>
     <string name="keywords_search_call_record">Registra chiamate;Registra chiamata;Registrazione chiamata;Registrazione chiamate</string>
     <string name="app_name">Registratore</string>
     <string name="record">Registra</string>

@@ -61,9 +61,9 @@
     <string name="activate_popup_desc_new_sim_card_downlink">"Sembra che tu abbia sostituito la SIM card. Immetti il numero di telefono corrente per attivare %s."</string>
     <string name="activate_popup_desc_voip_privacy_prefix">"Servizio VoIP supportato da Weihui. Accedi a Weihui"</string>
     <string name="activate_popup_desc_voip_privacy">Privacy Policy</string>
-    <string name="activate_popup_title_register_account">Crea Account Mi</string>
-    <string name="activate_popup_desc_register_account">Il tuo operatore potrebbe addebitarti il costo per il SMS generato per attivare l'Account MI.</string>
-    <string name="activate_popup_desc_register_account_intl">Il tuo operatore potrebbe addebitarti il costo per il SMS internazionale generato per attivare l'Account MI.</string>
+    <string name="activate_popup_title_register_account">Crea Mi Account</string>
+    <string name="activate_popup_desc_register_account">Il tuo operatore potrebbe addebitarti il costo per il SMS generato per attivare il tuo Mi Account.</string>
+    <string name="activate_popup_desc_register_account_intl">Il tuo operatore potrebbe addebitarti il costo per il SMS internazionale generato per attivare il tuo Mi Account.</string>
     <string name="activate_popup_desc_register_account_downlink">Inserisci il tuo numero di telefono</string>
     <string name="activate_popup_title_failed_send_sms">Impossibile inviare il messaggio di testo</string>
     <string name="activate_popup_desc_failed_send_sms">Impossibile inviare il messaggio di attivazione. Assicurati che la tua SIM sia stata attivata.</string>
