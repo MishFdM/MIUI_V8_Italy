@@ -1061,7 +1061,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="reject_all">Nega a tutte</string>
     <string name="confirm_reject_all_permission">"Impedire a tutte le app l'utilizzo di questa funzione?"</string>
     <string name="show_system_app">Mostra app di sistema</string>
-    <string name="hide_system_app">NAscondi app di sistema</string>
+    <string name="hide_system_app">Nascondi app di sistema</string>
     <string name="about_autostart">Info su avvio automatico</string>
     <string name="permission_group_title_others">Altri</string>
     <string name="permission_action_accept">Accetta</string>
