@@ -799,7 +799,7 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="top_videos">Condividi classifiche</string>
     <string name="no_daren_tip">Ancora niente</string>
     <string name="upload_popup">Carica video per vincere premi</string>
-    <string name="top_mark">CIMA</string>
+    <string name="top_mark">TOP</string>
     <string name="tab_explore">Scopri</string>
     <string name="hot_topic_str">Argomenti popolari</string>
     <string name="hot_video_title">Video popolari</string>
@@ -811,7 +811,7 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="full_gems">Scambia le tue gemme</string>
     <string name="prize_result_tip">Scambio</string>
     <string name="prize_result_tip2">Gemme aggiunte al tuo tesoro</string>
-    <string name="black_list">"Sei stato bloccato. Invia il tuo feedback su MIUI Forum per conoscere i motivi."</string>
+    <string name="black_list">Sei stato bloccato. Invia il tuo feedback su MIUI Forum per conoscere i motivi.</string>
     <string name="gender_choose_tip">Scegli il tuo genere</string>
     <string name="handsome_boy">Maschio</string>
     <string name="pretty_girl">Femmina</string>
@@ -829,7 +829,7 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="add_follow">Segui</string>
     <string name="video_publish_watchable_limit">Puoi fare questo due volte al giorno</string>
     <string name="select_interest_str">Seleziona gli argomenti di tuo gradimento</string>
-    <string name="select_interest_tip">C'è ancora molto da scoprire!</string>
+    <string name="select_interest_tip">"C'è ancora molto da scoprire!"</string>
     <string name="finish_str">Fatto</string>
     <string name="tab_msg">Messaggi</string>
     <string name="recommend_users">%1$s+</string>
