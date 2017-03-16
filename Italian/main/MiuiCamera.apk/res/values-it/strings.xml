@@ -309,7 +309,7 @@
     <string name="accessibility_video_capture_button">Pulsante cattura</string>
     <string name="accessibility_seek_bar_line">SeekBarLine</string>
     <string name="accessibility_setting_button">Pulsante impostazioni aggiuntive</string>
-    <string name="accessibility_mode_dismiss_button">Pulsante di selezione ravvicinat</string>
+    <string name="accessibility_mode_dismiss_button">Pulsante di selezione ravvicinata</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
     <string name="pref_camera_ubifocus_title">UFocus</string>
     <string name="simple_mode_button_text_ubifocus">Disattiva UFocus</string>
