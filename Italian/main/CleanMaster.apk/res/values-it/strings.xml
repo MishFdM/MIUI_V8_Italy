@@ -462,7 +462,7 @@
     <string name="wechat_chat_data_type_normal_desc">"La loro eliminazione non influirà sul tuo utilizzo."</string>
     <string name="wechat_chat_data_type_normal_clean_tips">"Questi sono file tecnici. La loro eliminazione non influirà sul tuo utilizzo."</string>
     <string name="wechat_chat_data_type_cache">Cache WeChat</string>
-    <string name="wechat_chat_data_type_cache_desc">"Sarai in grado di rispristinare questi file dopo che ti sarai connesso ad Internet."</string>
+    <string name="wechat_chat_data_type_cache_desc">"Sarai in grado di ripristinare questi file dopo che ti sarai connesso ad Internet."</string>
     <string name="wechat_chat_data_type_chat">Cronologia chat</string>
     <string name="wechat_chat_data_type_chat_desc">"Non sei in grado di ripristinare la cronologia della chat."</string>
     <string name="wechat_chat_data_type_other">Altro</string>
