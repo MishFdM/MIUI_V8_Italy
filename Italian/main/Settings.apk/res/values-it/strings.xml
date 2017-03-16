@@ -1877,7 +1877,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="power_phone">Chiamate vocali</string>
     <string name="power_idle">Dispositivo inattivo</string>
     <string name="power_unaccounted">Varie</string>
-    <string name="power_overcounted">Over-counted</string>
+    <string name="power_overcounted">Carica sovracalcolata</string>
     <string name="usage_type_cpu">Totale CPU</string>
     <string name="usage_type_cpu_foreground">CPU in primo piano</string>
     <string name="usage_type_wake_lock">Mantieni attivo</string>
