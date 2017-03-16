@@ -9,9 +9,9 @@
     <string name="search_silent_mode">Silenzia suoneria durante registrazione</string>
     <string name="search_enable_earpiece_title">Utilizza il ricevitore per riprodurre audio</string>
     <string name="search_quliaty_title">Qualità di registrazione</string>
-    <string name="keywords_search_record_list">Registratore;Transcript;Transcripts;Record;Share recording;Share recordings;Recording;Recordings</string>
-    <string name="keywords_search_record">New recording;Add recording;Recording;Recordings;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>
-    <string name="keywords_search_call_record">Record calls;Record call;Call recording;Call recordings</string>
+    <string name="keywords_search_record_list">Registratore;Trascrizione;Trascrizioni;Registra;Condividi registrazione;Condividi registrazioni;Registrazione;Registrazioni</string>
+    <string name="keywords_search_record">Nuova registrazione;Aggiungi registrazione;Registrazione;Registrazioni;Trascrizione;Trascrivere;Registratore;Registratore vocale;Registratore di suoni;App registratore;App registrazione;Come posso registrare;Come registrare un suono;Dov'è il registratore;Registratore MIUI</string>
+    <string name="keywords_search_call_record">Registra chiamate;Registra chiamata;Registrazione chiamata;Registrazione chiamate</string>
     <string name="app_name">Registratore</string>
     <string name="record">Registra</string>
     <string name="recording">Registrazione</string>
@@ -73,7 +73,7 @@
     <string name="message_file_size_error">La registrazione ha raggiunto la lunghezza massima per %s</string>
     <string name="pause">Pausa</string>
     <string name="back">Indietro</string>
-    <string name="toast_uninstall_fileexplorer">FileExplorer non è installato!</string>
+    <string name="toast_uninstall_fileexplorer">File Explorer non è installato!</string>
     <string name="record_download">Scarica da Mi Cloud</string>
     <string name="record_download_msg">Le registrazioni possono essere riprodotte solo dopo che sono state completamente scaricate.</string>
     <string name="record_download_msg_reload">Questa registrazione non esiste</string>
