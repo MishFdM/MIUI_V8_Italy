@@ -397,7 +397,7 @@
     <string name="pref_error_no_ringtone_select">Nessuna selezione</string>
     <string name="alarm_label">OK</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrazione</string>
-    <string name="pref_reminder_time">Reminder time</string>
+    <string name="pref_reminder_time">Orario promemoria</string>
     <string name="local_calendar_display_name">Calendario locale</string>
     <string name="birthday_calendar_display_name">Promemoria compleanno</string>
     <string name="xiaomi_calendar_display_name">Calendario Mi</string>
