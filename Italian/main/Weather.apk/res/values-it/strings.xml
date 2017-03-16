@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="search_weather">Meteo</string>
-    <string name="search_weather_keywords">Temperatura;Previsionmi del tempo;Previsioni;Qualità dell'aria;Grado di inquinamento;Umidità</string>
+    <string name="search_weather_keywords">"Temperatura;Previsionmi del tempo;Previsioni;Qualità dell'aria;Grado di inquinamento;Umidità"</string>
     <string name="temperature_unit">%1$s°</string>
     <string name="app_name">Meteo</string>
     <string name="location_management">Località</string>
