@@ -469,7 +469,7 @@
     <string name="wechat_chat_data_type_other_desc">Fai attenzione, potresti non essere in grado di ripristinare questi file dopo la loro eliminazione.</string>
     <string name="wechat_copy_to_gallery">Esporta sulla Galleria</string>
     <string name="wechat_copying_video">Esportazione…</string>
-    <string name="wechat_copy_video_failed_dialog_title">"Impossible esportare"</string>
+    <string name="wechat_copy_video_failed_dialog_title">Impossible esportare</string>
     <string name="wechat_copying_video_success">Esportazione riuscita</string>
     <string name="wechat_copying_video_dialog_title">Esporta sulla Galleria</string>
     <string name="wechat_copying_video_dialog_msg">I file verranno salvati in questa cartella: /DCIM/WeChat</string>
