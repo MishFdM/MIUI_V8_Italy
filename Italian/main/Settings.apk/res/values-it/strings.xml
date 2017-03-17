@@ -1357,7 +1357,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="copyright_title">Copyright</string>
     <string name="license_title">Licenza</string>
     <string name="terms_title">Termini e condizioni</string>
-    <string name="webview_license_title">System WebView License</string>
+    <string name="webview_license_title">Licenza WebView di sistema</string>
     <string name="wallpaper_attributions">Sfondi</string>
     <string name="wallpaper_attributions_values">"Immagini satellitari fornite da:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
@@ -4688,5 +4688,4 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="standard_configuration_version_rear_camera">1300 CMOS</string>
     <string name="standard_configuration_version_screen_size">5 pollici</string>
     <string name="standard_configuration_version_screen_resolution">1920 × 1080 pixel</string>
-    <string name="webview_license_title">Licenza WebView di sistema</string>
 </resources>
