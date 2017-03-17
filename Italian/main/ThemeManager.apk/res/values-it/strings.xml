@@ -417,7 +417,7 @@
     <string name="is_setting_wallpaper_message">Impostazione sfondo...</string>
     <string name="ad_app_download_start">Avvio download...</string>
     <string name="ad_app_is_downloading">Download in corso...</string>
-    <string name="wallpaper_settings_page_title">sfondo</string>
+    <string name="wallpaper_settings_page_title">Sfondo</string>
     <string name="wallpaper_auto_change_title">Schermata di blocco</string>
     <string name="wallpaper_settings_lockscreen_text">Schermata di blocco</string>
     <string name="wallpaper_settings_desktop_text">Home</string>
