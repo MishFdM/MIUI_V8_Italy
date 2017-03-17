@@ -1538,6 +1538,8 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="storageuse_settings_summary">Visualizza la memoria utilizzata dalle applicazioni</string>
     <string name="runningservices_settings_title">Servizi in esecuzione</string>
     <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente in esecuzione</string>
+    <string name="enable_webview_multiprocess">Abilita WebView multiprocesso</string>
+    <string name="enable_webview_multiprocess_desc">Esegui il rendering WebView separatamente</string>
     <string name="service_restarting">In fase di riavvio</string>
     <string name="cached">Processo in background memorizzato nella cache</string>
     <string name="no_running_services">Niente in esecuzione.</string>
@@ -1673,7 +1675,7 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="debug_networking_category">Rete</string>
     <string name="wifi_display_certification">Certificazione display wireless</string>
     <string name="wifi_verbose_logging">Abilita Logging verbose Wi-Fi</string>
-    <string name="wifi_aggressive_handover">Aggressivo handover Wi-Fi a rete cellulare</string>
+    <string name="wifi_aggressive_handover">Handover Wi-Fi aggressivo su rete cellulare</string>
     <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi-Fi Roam Scans</string>
     <string name="legacy_dhcp_client">Utilizza il client DHCP ereditato</string>
     <string name="mobile_data_always_on">Dati rete mobile sempre attivi</string>
@@ -3731,6 +3733,9 @@ ed esegui il software."</string>
     <string name="vpn_settings_summary">Proteggi le impostazioni VPN con la password della Schermata di blocco</string>
     <string name="vpn_no_selected">Seleziona VPN</string>
     <string name="vpn_safe">Sicurezza</string>
+    <string name="select_webview_provider_dialog_title">Modifica l'implementazione WebView</string>
+    <string name="select_webview_provider_title">Implementazione WebView</string>
+    <string name="select_webview_provider_toast_text">Selezione non valida. Riprova.</string>
     <string name="vpn_configure">Configurazione</string>
     <string name="vpn_enable">VPN</string>
     <string name="sync_wifi_label">Wi-Fi</string>
@@ -4677,4 +4682,5 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="standard_configuration_version_rear_camera">1300 CMOS</string>
     <string name="standard_configuration_version_screen_size">5 pollici</string>
     <string name="standard_configuration_version_screen_resolution">1920 × 1080 pixel</string>
+    <string name="webview_license_title">Licenza WebView di sistema</string>
 </resources>
