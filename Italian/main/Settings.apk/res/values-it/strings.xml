@@ -1708,13 +1708,13 @@ Alcune app potrebbero non funzionare correttamente es non aggiornate dai rispett
     <string name="enable_terminal_summary">"Abilita l'app Terminale che offre l'accesso alla shell locale"</string>
     <string name="gadget_picker_title">Scegli gadget</string>
     <string name="widget_picker_title">Scegli widget</string>
-    <string name="force_allow_on_external">Applicazioni riallocabili su memoria esterna</string>
-    <string name="force_allow_on_external_summary">Seleziona una applicazione da installare su memoria esterna, indipendentemente dai valori di manifest</string>
+    <string name="force_allow_on_external">Forza riallocazione su memoria esterna</string>
+    <string name="force_allow_on_external_summary">"Forza l'installazione di una applicazione su memoria esterna, indipendentemente dai valori di manifest"</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">"Creare il widget e consentire l'accesso?"</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Dopo che avrai creato il widget, %1$s potrà accedere a tutti i relativi dati.</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Consenti sempre a %1$s di creare widget e accedere ai relativi dati</string>
-    <string name="force_resizable_activities">Rendi le attivitá ridimensionabili</string>
-    <string name="force_resizable_activities_summary">Rendi tutte le attività multi-finestra ridimensionabili, indipendentemente dai valori di manifest</string>
+    <string name="force_resizable_activities">Forza ridimensionabilità attività</string>
+    <string name="force_resizable_activities_summary">Forza la ridimensionabilità di tutte le attività multi-finestra, indipendentemente dai valori di manifest</string>
     <string name="battery_history_days">%1$d g %2$d o %3$d m %4$d s</string>
     <string name="battery_history_hours">%1$d o %2$d m %3$d s</string>
     <string name="battery_history_minutes">%1$d m %2$d s</string>
