@@ -559,6 +559,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="power_consume_rank_title">Utilizzo batteria</string>
     <string name="power_consume_rank_software">Applicazioni</string>
     <string name="power_consume_rank_hardware">Hardware</string>
+    <string name="power_consume_total_software">Applicazioni: %s</string>
+    <string name="power_consume_total_hardware">Hardware: %s</string>
     <string name="power_consume_other">Altro</string>
     <string name="battery_desc_other_apps">Batteria utilizzata da altre app</string>
     <string name="power_settings_title">Impostazioni</string>
