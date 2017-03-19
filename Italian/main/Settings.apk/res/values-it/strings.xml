@@ -3967,7 +3967,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="show_wifi_master_key_title">Rileva reti Wi-Fi condivise</string>
     <string name="show_wifi_master_key_summary">Connetti alle reti Wi-Fi condivise utilizzando Master Key</string>
     <string name="wifi_master_key_service_dialog_title">Reti Wi-Fi condivise</string>
-    <string name="wifi_master_key_service_dialog_content">WLAN Master Key è un servizio grstuito che fornisce password per condividere reti Wi-Fi. WLAN Master Key non condividerà la tua password di rete.</string>
+    <string name="wifi_master_key_service_dialog_content">Wi-Fi Master Key è un servizio gratuito che fornisce password per condividere reti Wi-Fi. WLAN Master Key non condividerà la tua password di rete.</string>
     <string name="enable_wifi_master_key_service">Attiva Master Key Wi-Fi</string>
     <string name="disable_wifi_master_key_service">Disattiva</string>
     <string name="enable_wifi_master_key_service_first">Attiva</string>
