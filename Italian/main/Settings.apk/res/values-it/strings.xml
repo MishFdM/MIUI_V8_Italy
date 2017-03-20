@@ -3739,7 +3739,7 @@ ed esegui il software."</string>
     <string name="vpn_settings_summary">Proteggi le impostazioni VPN con la password della Schermata di blocco</string>
     <string name="vpn_no_selected">Seleziona VPN</string>
     <string name="vpn_safe">Sicurezza</string>
-    <string name="select_webview_provider_dialog_title">Modifica l'implementazione WebView</string>
+    <string name="select_webview_provider_dialog_title">"Imposta l'implementazione di WebView"</string>
     <string name="select_webview_provider_title">Implementazione WebView</string>
     <string name="select_webview_provider_toast_text">Selezione non valida. Riprova.</string>
     <string name="vpn_configure">Configurazione</string>
