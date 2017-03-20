@@ -246,7 +246,7 @@
     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
     <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
     <string name="select_webview_provider_title">WebView implementation</string>
-    <string name="select_webview_provider_dialog_title">Set WebView implementation</string>
+    <string name="select_webview_provider_dialog_title">"Imposta l'implementazione di WebView"</string>
     <string name="select_webview_provider_toast_text">This choice is no longer valid. Try again.</string>
     <string name="convert_to_file_encryption">Convert to file encryption</string>
     <string name="convert_to_file_encryption_enabled">Convert…</string>
