@@ -5,7 +5,7 @@
     <string name="app_notification_title">Registrazione schermo</string>
     <string name="screen_record_params">Parametri di registrazione</string>
     <string name="resolution">Risoluzione</string>
-    <string name="resolution_summary">Video con una risoluzione maggiore rende le immagini più nitide</string>
+    <string name="resolution_summary">Più alta la risoluzione migliori saranno le immagini</string>
     <string name="bit_rate">Qualità video</string>
     <string name="bit_rate_summary">Più alta la qualità maggiore sarà la dimensione occupata</string>
     <string name="frames">Frame rate</string>
