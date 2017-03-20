@@ -19,7 +19,7 @@
     <string name="account_security_title">Sicurezza dispositivo</string>
     <string name="account_set_up_change_type_note">"Se vuoi modificare la tipologia di tra POP3 e IMAP, devi prima eliminare l'account e configurare di nuovo i dati di accesso."</string>
     <string name="account_setting">Account</string>
-    <string name="account_setting_keywords">Accounts;mail accounts</string>
+    <string name="account_setting_keywords">Account;account mail</string>
     <string name="account_setting_message_body_load_complete">Messaggio completo</string>
     <string name="account_setting_message_body_load_head_abstract">Indice email</string>
     <string name="account_setting_message_body_load_head_only">Solo intestazione</string>
@@ -93,7 +93,7 @@
     <string name="account_setup_failed_dlg_server_message_fmt">"Impossibile connettersi al server.
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">Impossibile completare</string>
-    <string name="account_setup_failed_dlg_todo1">"Imposa l'account come mostrato sotto o prova ad accedere con EXCHANGE."</string>
+    <string name="account_setup_failed_dlg_todo1">"Imposta l'account come mostrato sotto o prova ad accedere con EXCHANGE."</string>
     <string name="account_setup_failed_dlg_todo2">"Imposta l'account come mostrato sotto"</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Errore sconosciuto.</string>
     <string name="account_setup_failed_ioerror">Impossibile stabilire la connessione al server.</string>
@@ -124,7 +124,7 @@
     <string name="account_setup_options_mail_check_frequency_4hour">Ogni 4 ore</string>
     <string name="account_setup_options_mail_check_frequency_imap_push">Automatico (Push, se il server lo supporta)</string>
     <string name="account_setup_options_mail_check_frequency_never">Mai</string>
-    <string name="account_setup_options_mail_check_frequency_push">Automatic (Push)</string>
+    <string name="account_setup_options_mail_check_frequency_push">Automatico (Push)</string>
     <string name="account_setup_options_mail_window_1day">Ultimo giorno</string>
     <string name="account_setup_options_mail_window_1month">Ultimo mese</string>
     <string name="account_setup_options_mail_window_1quarter">Ultimo trimestre</string>
@@ -219,9 +219,9 @@
     <string name="bcc">Ccn</string>
     <string name="bcc_heading">"Ccn: "</string>
     <string name="blank_feedback_toast">Il feedback è vuoto, inserisci un feedback.</string>
-    <string name="body_forward_email_text">[Forward]</string>
+    <string name="body_forward_email_text">[Inoltra]</string>
     <string name="body_hint">Scrivi email</string>
-    <string name="body_inline_pic_text">[Picture]</string>
+    <string name="body_inline_pic_text">[Immagine]</string>
     <string name="bottom_bar_more_quickreply">Risposta veloce</string>
     <string name="bottom_bar_more_share">Condividi</string>
     <string name="bottom_bar_no_quickreply_toast">Nessuna risposta veloce</string>
@@ -246,7 +246,7 @@
     <string name="clear_display_images_whitelist_dialog_message">Non visualizza più le immagini in linea nei messaggi da mittenti precedentemente approvati.</string>
     <string name="clear_display_images_whitelist_dialog_title">Vuoi revocare i consensi immagini?</string>
     <string name="clear_display_images_whitelist_title">Revoca consenso immagini</string>
-    <string name="click_download_all_content">[ Tocca per scaricare ]</string>
+    <string name="click_download_all_content">[Tocca per scaricare]</string>
     <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
     <string name="colon">:</string>
@@ -261,9 +261,9 @@
     <string name="config_retry">Riprova</string>
     <string name="confirm">OK</string>
     <string name="confirm_before_delete">Conferma prima di eliminare</string>
-    <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
+    <string name="confirm_before_delete_keywords">conferma prima di eliminare;conferma eliminazione</string>
     <string name="confirm_before_send">Conferma prima di inviare</string>
-    <string name="confirm_before_send_keywords">confirm before sending;send confirm</string>
+    <string name="confirm_before_send_keywords">conferma prima di inviare;invia conferma</string>
     <string name="confirm_delete_conversation_title">Elimina</string>
     <string name="confirm_discard_text">Eliminare questo messaggio?</string>
     <string name="confirm_response">Invio risposta…</string>
@@ -313,7 +313,7 @@
     <string name="conversation_quick_button_disapprove">Non approvo</string>
     <string name="conversation_quick_button_received">Ricevuto</string>
     <string name="conversation_view">Mostra conversazione</string>
-    <string name="conversation_view_keywords">conversation view;mail conversation</string>
+    <string name="conversation_view_keywords">visualizza conversazione;conversazione mail</string>
     <string name="copied">Copiato</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>
@@ -328,7 +328,7 @@
     <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
     <string name="delete">Elimina</string>
     <string name="delete_message_flow">Elimina flusso messaggio</string>
-    <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
+    <string name="delete_message_flow_keywords">elimina flusso messaggio;elimina reindirizzamento</string>
     <string name="deleted">Eliminata</string>
     <string name="device_activity_btn_str">Invio per attivare</string>
     <string name="device_activity_lint_str">"Attiva completamento dell'aggiornamento per il servizio di posta e attiva la funzione di sicurezza"</string>
@@ -341,7 +341,7 @@
     <string name="dialog_change_sync_lookback">La mail ricevuta %s verrà eliminata automaticamente. Tocca per modificare.</string>
     <string name="dialog_gmail_proxy_server_is_error">Errore del server proxy Gmail.</string>
     <string name="dialog_insufficient_space_on_external">"Impossibile scaricare allegato. Spazio insufficiente sulla memoria esterna."</string>
-    <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna on sufficiente</string>
+    <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna non sufficiente</string>
     <string name="disable_admin_warning">"AVVISO. La disattivazione dell'autorità dell'applicazione Email per l'amministrazione del dispositivo comporterà l'eliminazione di tutti gli account email che la richiedono, compresi i relativi messaggi email, contatti, eventi di calendario e altri dati."</string>
     <string name="discard">Elimina</string>
     <string name="discard_drafts">Elimina bozze</string>
@@ -379,7 +379,7 @@
     <string name="email_package_name">com.android.email</string>
     <string name="email_qq">QQ Mail</string>
     <string name="email_setting">Impostazioni Email</string>
-    <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
+    <string name="email_setting_keywords">Account;Aggiungi account;account mail;aggiungi account mail;conferma prima di eliminare;conferma eliminazione;conferma prima di inviare;invia conferma;elimina flusso messaggi;elimina reindirizzamento;visualizza conversazione;conversazione mail;risparmio batteria;batteria mail;invia feedback;invia log</string>
     <string name="email_sina">Sina Mail</string>
     <string name="empty_account_tip">"Impossibile trovare l'account"</string>
     <string name="empty_email_tip">Impossibile inviare email vuota</string>
@@ -419,15 +419,15 @@
     <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
     <string name="folder_drafts_name_en0">Bozze</string>
     <string name="folder_drafts_name_en1">Bozza</string>
-    <string name="folder_drafts_name_en2">[Gmail]/Drafts</string>
+    <string name="folder_drafts_name_en2">[Gmail]/Bozze</string>
     <string name="folder_junk_name_cn0">垃圾邮件</string>
     <string name="folder_junk_name_cn1">垃圾箱</string>
     <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
     <string name="folder_junk_name_en0">Spam</string>
-    <string name="folder_junk_name_en1">Bulk Mail</string>
-    <string name="folder_junk_name_en2">Junk Mail</string>
-    <string name="folder_junk_name_en3">Junk E-Mail</string>
-    <string name="folder_junk_name_en4">Junk</string>
+    <string name="folder_junk_name_en1">Quantità Mail</string>
+    <string name="folder_junk_name_en2">Mail Rifiuto</string>
+    <string name="folder_junk_name_en3">E-Mail Rifiuto</string>
+    <string name="folder_junk_name_en4">Rifiuto</string>
     <string name="folder_list_display_all">Mostra tutte le cartelle</string>
     <string name="folder_list_display_only_import">Mostra solo le cartelle importanti</string>
     <string name="folder_picker_title">Scegli cartelle</string>
@@ -805,11 +805,11 @@
     <string name="report_phishing">Segnala come phishing</string>
     <string name="report_spam">Segnala come spam</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
-    <string name="request_permission_activity">Permission Request</string>
+    <string name="request_permission_activity">Richiesta Permissi</string>
     <string name="respond_inline">Risposta incorporata</string>
     <string name="save_action">Salva</string>
     <string name="save_attachment">Salva</string>
-    <string name="save_draft_failed">Save draft failed</string>
+    <string name="save_draft_failed">Salvataggio bozza fallito</string>
     <string name="save_power_summary">"Risparmio batteria nell'orario preimpostato"</string>
     <string name="save_power_title">Risparmio batteria</string>
     <string name="saved">Salvato, %s</string>
@@ -833,8 +833,8 @@
     <string name="select_no_file">Nessun allegato selezionato per la condivisione.</string>
     <string name="send">Invia</string>
     <string name="send_failed">"Il messaggio non è stato inviato."</string>
-    <string name="send_feed_back">Send feedback</string>
-    <string name="send_feed_back_keywords">send feedback</string>
+    <string name="send_feed_back">Invia feedback</string>
+    <string name="send_feed_back_keywords">invia feedback</string>
     <string name="send_mail">Invia</string>
     <string name="sender_whitelist_cleared">Le immagini non verranno mostrate automaticamente.</string>
     <string name="senders_elided">..</string>
