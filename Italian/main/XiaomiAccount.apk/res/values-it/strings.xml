@@ -156,7 +156,7 @@ Per attivare il tuo account, segui il
     <string name="passport_barcode_add_account_prompt">"Per collegarti ad un account, scansiona il codice QR di nuovo dopo aver effettuato l'accesso."</string>
     <string name="search_app_name">Mi Account</string>
     <string name="search_mi_account">Mi Account</string>
-    <string name="search_mi_account_key_words">Mi Account,Sign in,create account,Mi Cloud,Mi Credit,Mi Wallet,Mi Pass,Mi Insurance,Impostazioni Account,Account Management</string>
+    <string name="search_mi_account_key_words">Mi Account,Sign in,Crea account,Mi Cloud,Mi Credit,Mi Wallet,Mi Pass,Mi Insurance,Impostazioni Account,Account Management</string>
     <string name="search_mi_account_desc">Mi Account</string>
     <string name="search_mi_account_path">Mi Account,Impostazioni/Mi Account</string>
     <string name="search_user_detail">Informazioni personali</string>

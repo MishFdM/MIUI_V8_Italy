@@ -3,7 +3,7 @@
     <string-array name="enabled_for_pad_entries">
         <item>Disattivato</item>
         <item>Attivato</item>
-        <item>Temporary showing in landscape mode</item>
+        <item>Mostra temporaneamente in modalità orizzontale</item>
     </string-array>
     <string-array name="motion_behavior_entries">
         <item>Scorrimento</item>

@@ -47,7 +47,7 @@
     <string name="auth_username_summary">"Nome utente usato per l'autenticazione"</string>
     <string name="default_preference_summary">Non impostato</string>
     <string name="display_name_summary">Come il nome utente</string>
-    <string name="optional_summary">Opzionale</string>>
+    <string name="optional_summary">Opzionale</string>
     <string name="advanced_settings_show">▷ Tocca per vedere tutto</string>
     <string name="advanced_settings_hide">▽ Tocca per nascondere tutto</string>
     <string name="empty_alert">"%s è richiesto e non può essere lasciato vuoto."</string>
@@ -971,7 +971,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="preference_dial_pad_touch_tone_off">Off</string>
     <string name="preference_telocation_summary_countrycode_off">Non comporre automaticamente il prefisso internazionale</string>
     <string name="telephony_setting">Chiamate</string>
-    <string name="msim_setting_screen_title">SIM e rete mobile</string>
+    <string name="msim_setting_screen_title">SIM e reti mobili</string>
     <string name="msim_setting_categery_title">Impostazioni SIM</string>
     <string name="msim_general_setting">Impostazioni comuni</string>
     <string name="msim_default_setting">Impostazioni predefinite</string>

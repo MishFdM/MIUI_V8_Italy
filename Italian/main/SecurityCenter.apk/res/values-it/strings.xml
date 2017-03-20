@@ -7,6 +7,11 @@
     <string name="cta_button_text_cancel">Annulla</string>
     <string name="cta_button_text_agree">Sì</string>
     <string name="cta_settings">"Consenti l'utilizzo della rete dati"</string>
+    <string name="lucky_assistant_description">"Sviluppo ufficiale Xiaomi
+Weixin/QQ/Mi Talk utilizzano l'assistente busta rossa.
+Queste app non supportano i promemoria nei gruppi bloccati, e le impostazioni DND."</string>
+    <string name="accessibility_service_description">"Grazie a questa funzione puoi utilizzare l'aasistente busta rossa nei gruppi QQ.
+Nota： l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente, in rispetto delle norme sulla privacy."</string>
     <string name="app_name_na">Utilizzo dati</string>
     <string name="list_empty_text">Vuoto</string>
     <string name="dialog_title_attention">Attenzione</string>
@@ -323,6 +328,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="privacy_prompt_traffic_purchase_message">"Il tuo numero di telefono e le informazioni sul tuo operatore verranno crittografate e caricate sui server Xiaomi per avere maggiori informazioni sull'acquisto di traffico dati."</string>
     <string name="privacy_prompt_tc_sms_report_message">Il tuo numero di telefono e le informazioni sul tuo operatore verranno crittografate e caricate sui server Xiaomi per aggiornare le informazioni sul tuo utilizzo del traffico dati.</string>
     <string name="international_roaming_setting">Roaming dati</string>
+    <string name="domestic_roaming_setting">Roaming nazionale</string>
     <string name="pref_roaming_setting_gategory">Impostazioni</string>
     <string name="pref_allow_connect_network_title">Roaming dati estero</string>
     <string name="pref_allow_connect_network_whitelist_title">Consenti alle eccezioni di utilizzare dati in roaming</string>
@@ -553,8 +559,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="power_consume_rank_title">Utilizzo batteria</string>
     <string name="power_consume_rank_software">Applicazioni</string>
     <string name="power_consume_rank_hardware">Hardware</string>
-    <string name="power_consume_total_software">Applicazioni: %1$d%%</string>
-    <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
+    <string name="power_consume_total_software">Applicazioni: %s</string>
+    <string name="power_consume_total_hardware">Hardware: %s</string>
     <string name="power_consume_other">Altro</string>
     <string name="battery_desc_other_apps">Batteria utilizzata da altre app</string>
     <string name="power_settings_title">Impostazioni</string>
@@ -1047,6 +1053,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="pm_root_success_notification_infomation">Conferma di aver capito i rischi legati ai permessi di root</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
     <string name="hints_auto_start_warning_info">"Non riceverai le notifiche per le app a cui è stato negato l'avvio automatico"</string>
+    <string name="virus_ad_icon_text">Ad</string>
     <string name="activity_title_apps_manager">App</string>
     <string name="activity_title_permissions_manager">Permessi</string>
     <string name="dialog_title_auto_start_declare">"Info sull'avvio automatico"</string>
@@ -1055,6 +1062,9 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="empty_title_perm_apps">Vuoto</string>
     <string name="reject_all">Nega a tutte</string>
     <string name="confirm_reject_all_permission">"Impedire a tutte le app l'utilizzo di questa funzione?"</string>
+    <string name="show_system_app">Mostra app di sistema</string>
+    <string name="hide_system_app">Nascondi app di sistema</string>
+    <string name="about_autostart">Info su avvio automatico</string>
     <string name="permission_group_title_others">Altri</string>
     <string name="permission_action_accept">Accetta</string>
     <string name="permission_action_prompt">Chiedi sempre</string>
@@ -1405,6 +1415,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="lockpattern_confirm_button_text">OK</string>
     <string name="modifypassword">Cambia password</string>
     <string name="showpattern">Mostra sequenza</string>
+    <string name="notification_mask_title">Nascondi contenuto</string>
+    <string name="notification_mask_summary">Non mostrare il contenuto delle notifiche sulla schermata di blocco e nel pannello delle notifiche</string>
     <string name="convenient_mode">Sblocca tutte le app in una volta</string>
     <string name="convenient_summary">"Non richiedere la password dopo che un'app è stata sbloccata"</string>
     <string name="suggest_app_tolock">Suggerimenti</string>

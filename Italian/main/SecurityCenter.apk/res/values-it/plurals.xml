@@ -133,6 +133,10 @@
         <item quantity="other">%d​ pericoli rilevati, correggi adesso</item>
         <item quantity="one">%d pericolo trovato, correggi adesso</item>
     </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">Sembra tutto OK</item>
+        <item quantity="one">Sembra tutto OK</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d app contengono minacce per la privacy</item>
         <item quantity="one">%d app contiene minacce per la privacy</item>

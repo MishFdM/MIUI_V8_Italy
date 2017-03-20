@@ -211,7 +211,7 @@
     <string name="resource_download_notification_title_one">Temi scaricati</string>
     <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
     <string name="resource_tab_to_view">Tocca per vedere.</string>
-    <string name="search_hint_header_text">Hot words</string>
+    <string name="search_hint_header_text">Parole più ricercate</string>
     <string name="resource_search_color_hint_red">Rosso</string>
     <string name="resource_search_color_hint_blue">Blu</string>
     <string name="resource_search_color_hint_green">Verde</string>
@@ -413,11 +413,11 @@
     <string name="home_apply_failured">Impossibile applicare lo sfondo Home</string>
     <string name="lockscreen_apply_success_but_home_apply_failured">Sfondo schermata di blocco applicato ma non è stato possibile applicare lo sfondo della Home</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Sfondo Home applicato ma non è stato possibile applicare lo sfondo della schermata di blocco</string>
-    <string name="the_picture_is_too_small">"L'iimagine è troppo piccola"</string>
+    <string name="the_picture_is_too_small">"L'immagine è troppo piccola"</string>
     <string name="is_setting_wallpaper_message">Impostazione sfondo...</string>
     <string name="ad_app_download_start">Avvio download...</string>
     <string name="ad_app_is_downloading">Download in corso...</string>
-    <string name="wallpaper_settings_page_title">sfondo</string>
+    <string name="wallpaper_settings_page_title">Sfondo</string>
     <string name="wallpaper_auto_change_title">Schermata di blocco</string>
     <string name="wallpaper_settings_lockscreen_text">Schermata di blocco</string>
     <string name="wallpaper_settings_desktop_text">Home</string>
