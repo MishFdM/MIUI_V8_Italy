@@ -1932,7 +1932,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_desc_users">"Batteria utilizzata dall'utente"</string>
     <string name="battery_desc_unaccounted">Consumo energetico Varie</string>
     <string name="battery_msg_unaccounted">"Il consumo della batteria è una stima del consumo energetico e non include tutte le fonti che influiscono sul suo consumo. Indica la differenza tra la stima del consumo energetico e il consumo reale della batteria."</string>
-    <string name="battery_desc_overcounted">Consumo energetico Over-counted</string>
+    <string name="battery_desc_overcounted">Carica sovracalcolata</string>
     <string name="mah">%d mAh</string>
     <string name="menu_stats_unplugged">%1$s dallo scollegamento</string>
     <string name="menu_stats_last_unplugged">Durante ultimo scollegamento per %1$s</string>
