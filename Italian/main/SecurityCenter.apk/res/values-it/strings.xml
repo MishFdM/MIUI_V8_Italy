@@ -10,8 +10,8 @@
     <string name="lucky_assistant_description">"Sviluppo ufficiale Xiaomi
 Weixin/QQ/Mi Talk utilizzano l'assistente busta rossa.
 Queste app non supportano i promemoria nei gruppi bloccati, e le impostazioni DND."</string>
-    <string name="accessibility_service_description">"Grazie a questa funzione puoi utilizzare l'aasistente busta rossa nei gruppi QQ.
-Nota： l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente, in rispetto delle norme sulla privacy."</string>
+    <string name="accessibility_service_description">"Grazie a questa funzione puoi utilizzare l'assistente busta rossa nei gruppi QQ.
+Nota：l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente, in rispetto delle norme sulla privacy."</string>
     <string name="app_name_na">Utilizzo dati</string>
     <string name="list_empty_text">Vuoto</string>
     <string name="dialog_title_attention">Attenzione</string>
