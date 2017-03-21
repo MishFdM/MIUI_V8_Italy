@@ -349,8 +349,8 @@
     <string name="disturb_switch">Non disturbare</string>
     <string name="done">Fatto</string>
     <string name="done_action">Fine</string>
-    <string name="donot_disturb_endtime_title">A</string>
-    <string name="donot_disturb_starttime_title">Da</string>
+    <string name="donot_disturb_endtime_title">Alle</string>
+    <string name="donot_disturb_starttime_title">Dalle</string>
     <string name="donot_disturb_summary">"Il tuo telefono non riceverà e non notificherà nuove email nell'orario impostato"</string>
     <string name="donot_disturb_title">Non disturbare di notte</string>
     <string name="downlaod_cancel_confirm_download">Annulla download</string>
