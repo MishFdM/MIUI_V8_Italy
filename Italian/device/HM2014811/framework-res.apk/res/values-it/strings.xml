@@ -734,7 +734,7 @@
     <string name="keyguard_password_wrong_pin_code">Codice PIN errato.</string>
     <string name="keyguard_label_text">Per sbloccare, premi Menu, poi 0.</string>
     <string name="emergency_call_dialog_number_for_display">Numero di emergenza</string>
-    <string name="lockscreen_carrier_default">Nessun servizio.</string>
+    <string name="lockscreen_carrier_default">Nessun servizio</string>
     <string name="lockscreen_screen_locked">Schermo bloccato.</string>
     <string name="lockscreen_instructions_when_pattern_enabled">Premi Menu per sbloccare o effettuare chiamate di emergenza.</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Premi Menu per sbloccare.</string>
