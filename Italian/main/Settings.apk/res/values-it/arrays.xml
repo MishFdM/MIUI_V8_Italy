@@ -249,7 +249,7 @@
         <item>finestra toast</item>
         <item>media project</item>
         <item>attiva VPN</item>
-        <item>cambia wlan</item>
+        <item>cambia wi-fi</item>
         <item>cambia bluetooth</item>
     </string-array>
     <string-array name="app_ops_labels">
