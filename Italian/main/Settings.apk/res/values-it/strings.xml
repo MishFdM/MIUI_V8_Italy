@@ -4186,7 +4186,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="whetstone_level_reboot">Questa impostazione avrà effetto dopo il riavvio del dispositivo</string>
     <string name="whetstone_level_reboot_OK">Riavvia</string>
     <string name="alpha_build">" | Alpha"</string>
-    <string name="developer_build">" | Developer"</string>
+    <string name="developer_build">" | Sviluppatore"</string>
     <string name="stable_build">" | Stabile"</string>
     <string name="location_agps_params_settings_title">Impostazioni A-GPS</string>
     <string name="location_agps_supl_settings">Impostazioni SUPL</string>
