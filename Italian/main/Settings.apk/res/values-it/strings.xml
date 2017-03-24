@@ -4096,7 +4096,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="status_bar_screen_button_key_can_hide">I tasti virtuali possono essere nascosti</string>
     <string name="status_bar_screen_button_desc">Scorri per nascondere i tasti virtuali</string>
     <string name="switch_screen_button_order">"Modifica l'ordine dei tasti virtuali"</string>
-    <string name="switch_screen_button_order_desc">"Dopo l'apertura , scorri verso il basso per nascondere il tasto virtuale"</string>
+    <string name="switch_screen_button_order_desc">"Dopo l'apertura, scorri verso il basso per nascondere il tasto virtuale"</string>
     <string name="suspension_ball_enable">"Cambia l'Assistente Touch"</string>
     <string name="suspension_ball_enable_desc">"Dopo l'attivazione, puoi aprire rapidamente l'Assistente Touch"</string>
     <string name="launching_pho">Caricamento informazioni dispositivo, attendere\u2026</string>
