@@ -2,9 +2,11 @@
 <resources>
     <plurals name="group_move_success_toast">
         <item quantity="other">%1$d contatti spostati</item>
+        <item quantity="one">%1$d contatto spostato</item>
     </plurals>
     <plurals name="group_copy_success_toast">
         <item quantity="other">%1$d contatti copiati</item>
+        <item quantity="one">%1$d contatto copiato</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contatti con numeri di telefono</item>

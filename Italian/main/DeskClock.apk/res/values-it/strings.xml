@@ -7,6 +7,10 @@
     <string name="stat_repeat_weekdays">Lun - Ven</string>
     <string name="stat_repeat_weekends">Weekend</string>
     <string name="stat_repeat_self_define">Personalizzato</string>
+    <string name="search_alarm_clock_keywords">Sveglia;Sveglia;</string>
+    <string name="search_worldclock_keywords">Orario;Fuso orario;Orologio</string>
+    <string name="search_stopwatch_keywords">Cronometro</string>
+    <string name="search_timer_keywords">Timer</string>
     <string name="slider_text">Scorri per silenziare</string>
     <string name="snooze_confirm_cancel">Annulla sospensione</string>
     <string name="timer_alarm_cancel_pad">Tocca per interrompere la suoneria</string>
@@ -92,7 +96,8 @@
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>
     <string name="oneshot_alarm">Elimina dopo che ha suonato</string>
-    <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>    <string name="system_time_settings_category_title">Time settings</string>
+    <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>
+    <string name="system_time_settings_category_title">Impostazioni sveglia</string>
     <string name="alarm_settings_category_title">Impostazioni sveglia</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="temperature_unit">%1$s°</string>
