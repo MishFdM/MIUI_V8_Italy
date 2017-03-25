@@ -626,7 +626,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="shutdown_cancel_reminder_detail">Il dispositivo non si è spento perché era in corso una chiamata</string>
     <string name="shutdown_cancel_reminder_detail2">Sembra che tu stia giocando adesso. Lo spegnimento programmatto è stato annullato.</string>
     <string name="legal_workday_invalidate">Dati scaduti (Attualmente attivo da Lunedì a Venerdì)</string>
-    <string name="legal_workday_invalidate_message">(Dati scaduti,premi per aggiornare interconnessioni)</string>
+    <string name="legal_workday_invalidate_message">(Dati scaduti, Premi per aggiornare interconnessioni)</string>
     <string name="legal_workday_message">\u0020(Salta le festività)</string>
     <string name="boot_time_day">Accensione tra %1$d giorni, alle %2$s</string>
     <string name="boot_time_day_tomorrow">Accensione domani alle %1$s</string>
@@ -826,15 +826,15 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="resource_auto_restart">Gestione avvio automatico</string>
     <string name="keywords_auto_restart">Avvio automatico; Permessi;Avvio automatico;Avvio automatico; Gestione avvio automatico; Avvio automatico MIUI; Avvio automatico app; Avvio automatico app;Avvio catena;Avvio concatenato;Avvio innescato</string>
     <string name="path_auto_restart">App di sistema/Sicurezza/Permessi/Gestione avvio automatico</string>
-    <string name="resource_usb_install">Installa tramiteUSB</string>
+    <string name="resource_usb_install">Installa tramite USB</string>
     <string name="keywords_usb_install">Installazione USB;Installa da computer;Installa tramite ADB</string>
     <string name="path_usb_install">App di sistema/Sicurezza/Permessi/Installa tramite USB</string>
     <string name="resource_app_permissions">Permessi app</string>
-    <string name="keywords_app_permissions">Permissions;Location;Access contacts;Permissions;App permissions</string>
-    <string name="path_app_permissions">System apps/Security/Permissions/App permissions</string>
-    <string name="resource_buy_flow">Buy mobile data</string>
-    <string name="keywords_buy_flow">data;mobile data;buy data;buy mobile data;topup data;data plan</string>
-    <string name="path_buy_flow">System apps/Security/Data usage/Buy mobile data</string>
+    <string name="keywords_app_permissions">Permessi; Posizione;Accesso contatti;Permessi;Permessi app</string>
+    <string name="path_app_permissions">Applicazioni di sistema/Sicurezza/Permessi/Permessi app</string>
+    <string name="resource_buy_flow">Acquista credito mobile</string>
+    <string name="keywords_buy_flow">dati;dati mobili;acquista credito;acquista credito mobile;riempimento dati;piano dati</string>
+    <string name="path_buy_flow">Applicazioni di sistema/Sicurezza/Utilizzo dati/Acquista credito mobile</string>
     <string name="resource_antispam">Blacklist</string>
     <string name="keywords_antispam">Blacklist;Blocco;Blocco intelligente;Truffa;Vendite;Agenti</string>
     <string name="path_antispam">Applicazioni di sistema/Sicurezza/Blacklist</string>
@@ -844,7 +844,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="resource_networkassistant_2">Calibra piano dati</string>
     <string name="keywords_networkassistant_2">Dati;Calibra</string>
     <string name="path_networkassistant_2">Applicazioni di sistema/Sicurezza/Assistente di rete</string>
-    <string name="resource_networkassistant_4">Test network</string>
+    <string name="resource_networkassistant_4">Test di rete</string>
     <string name="keywords_networkassistant_4">Connessione;Internet;Test</string>
     <string name="path_networkassistant_4">Applicazioni di sistema/Sicurezza/Assistente di rete/Test di rete</string>
     <string name="resource_powercenter_powerrank">Batteria e prestazioni</string>
@@ -1369,7 +1369,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_monthreport_action">Visualizza</string>
     <string name="card_main_speeddetail_title">Velocità di connessione</string>
     <string name="card_main_speeddetailt_summary">Visualizza la velocità di connessione per singola app.</string>
-
     <string name="card_main_netcheck_title">Test di rete</string>
     <string name="card_main_netcheck_summary">Verifica la connessione per risolvere i problemi di rete</string>
     <string name="card_main_netcheck_action">Verifica</string>
