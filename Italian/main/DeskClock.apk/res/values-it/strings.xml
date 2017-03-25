@@ -92,7 +92,8 @@
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>
     <string name="oneshot_alarm">Elimina dopo che ha suonato</string>
-    <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>    <string name="system_time_settings_category_title">Time settings</string>
+    <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>
+    <string name="system_time_settings_category_title">Impostazioni ora</string>
     <string name="alarm_settings_category_title">Impostazioni sveglia</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="temperature_unit">%1$s°</string>
