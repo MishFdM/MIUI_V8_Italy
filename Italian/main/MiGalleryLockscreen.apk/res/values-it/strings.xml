@@ -50,7 +50,7 @@
     <string name="sst_sti_title">Frequenza aggiornamento</string>
     <string name="sst_subscribe_title">Mie categorie</string>
     <string name="sst_wifi_only_desc">Disattiva questa funzione per non consumare dati mobili</string>
-    <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando i dati mobili</string>
+    <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando il Wi-Fi</string>
     <string name="summary">"Utilizzando questa funzione, tu sei d'accordo con &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. Questa funzione necessita di una connessione internet per funzionare normalmente."</string>
     <string name="summary_international">"Utilizzando questa funzione, tu sei d'accordo con &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Accordo utenti&lt;/a> e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. Questa funzione necessita di una connessione internet per funzionare normalmente."</string>
     <string name="theme_apply_failured">Impossibile applicare, si prega di riprovare più tardi</string>
