@@ -34,9 +34,6 @@ Nota：l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente
 	<string name="main_primary_message_traffic_remain">Dati mobili</string>
     <string name="main_button_normal_traffic">Picco</string>
     <string name="main_button_idel_traffic">Fuori-picco</string>
-    <string name="main_toolbar_firewall">Limita utilizzo dati</string>
-    <string name="main_toolbar_statistic">Statistiche utilizzo dati</string>
-    <string name="main_toolbar_purchase">Ricarica</string>
     <string name="main_traffic_used">%s usati</string>
     <string name="main_traffic_used_text">usati</string>
     <string name="main_traffic_remian_text">rimanenti</string>
