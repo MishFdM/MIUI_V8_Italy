@@ -175,5 +175,5 @@
     <string name="recognition_error_download_data_msg">Scarica il motore di riconoscimento per scansionare le schede. La sua dimensione è di circa 15MB. Vuoi utilizzare la rete dati mobile per scaricarlo?</string>
     <string name="recognition_error_download_success">Scaricato correttamente</string>
     <string name="recognition_error_download_fail">Impossibile scaricare il motore di riconoscimento</string>
-    <string name="low_version_tip">"Lo scanner non può funzionare su questo sistema, aggiorna all'ultima MIUI"</string>
+    <string name="low_version_tip">"Lo scanner non può funzionare su questo sistema, Aggiorna all'ultima MIUI"</string>
 </resources>
