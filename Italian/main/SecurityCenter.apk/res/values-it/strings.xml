@@ -31,6 +31,7 @@ Nota：l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente
     <string name="main_button_usage_package_setting">Imposta limite utilizzo dati</string>
     <string name="main_alert_message_no_mobile_package">Imposta limite dati</string>
     <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
+	<string name="main_primary_message_traffic_remain">Dati mobili</string>
     <string name="main_button_normal_traffic">Picco</string>
     <string name="main_button_idel_traffic">Fuori-picco</string>
     <string name="main_toolbar_firewall">Limita utilizzo dati</string>
@@ -63,6 +64,8 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="main_alert_message_month_limit_error">Limite dati non corretto</string>
     <string name="main_alert_message_open_traffic_ctrl">"Consigliamo di limitare l'utilizzo dei dati su rete mobile"</string>
     <string name="main_open_traffic_ctrl_button">Limita utilizzo dati</string>
+	<string name="main_today_used">Usati oggi</string>
+    <string name="main_month_used">Usati questo mese</string>
     <string name="firewall_activity_lable">"Limita l'utilizzo dati per app"</string>
     <string name="firewall_applist">App</string>
     <string name="firewall_rule_group_title_mobile">Mobile</string>

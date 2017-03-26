@@ -404,6 +404,8 @@
     <string name="preference_follow_wechat_summary">MIUI</string>
     <string name="preference_follow_weibo_summary">\@MIUI</string>
     <string name="preference_follow_web_summary">www.miui.com</string>
+	<string name="preference_check_update_summary_current_version">Aggiornamento attuale: %s</string>
+    <string name="preference_check_update_summary_new_version">Aggiornamento disponibile: %s</string>
     <string name="xiaomi_update_dialog_title">%1$s aggiornamento!</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Dimensione: %2$s"</string>
