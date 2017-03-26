@@ -27,7 +27,7 @@
     <string name="dlg_shortcut_ok">Sì</string>
     <string name="dlg_shortcut_silent">Non chiedere più</string>
     <string name="dlg_shortcut_title">Crea collegamento</string>
-    <string name="fail_message">"Impossibile scaricare l'app, controlla lo stato della rete"</string>
+    <string name="fail_message">"Impossibile scaricare l'app, Controlla lo stato della rete"</string>
     <string name="js_exception_button_continue">Continua</string>
     <string name="js_exception_button_quit">Esci</string>
     <string name="js_exception_title">Eccezioni JS</string>
