@@ -89,7 +89,7 @@
     <string name="common_name_suffixes"/>
     <string name="common_last_name_prefixes"/>
     <string name="common_name_conjunctions"/>
-    <string name="lock_pattern_view_aspect">quadrato</string>
+    <string name="lock_pattern_view_aspect">square</string>
     <string name="icu_abbrev_wday_month_day_no_year">eeeMMMMd</string>
     <string name="font_family_display_4_material">sans-serif-light</string>
     <string name="font_family_display_3_material">sans-serif</string>
@@ -1338,7 +1338,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="mediasize_iso_c9">ISO C9</string>
     <string name="mediasize_iso_c10">ISO C10</string>
     <string name="mediasize_na_letter">Lettera</string>
-    <string name="mediasize_na_gvrnmt_letter">Lettera overnativa</string>
+    <string name="mediasize_na_gvrnmt_letter">Lettera governativa</string>
     <string name="mediasize_na_legal">Legale</string>
     <string name="mediasize_na_junior_legal">Legale \"junior\"</string>
     <string name="mediasize_na_ledger">Ledger</string>
