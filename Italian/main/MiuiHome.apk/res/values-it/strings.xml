@@ -160,7 +160,7 @@
     <string name="gadget_power_clear_button_label">Super Cleaner</string>
     <string name="gadget_clock_label">Orologio</string>
     <string name="gadget_clock_12_label">Orologio 1x2</string>
-    <string name="gadget_clock_22_label">Orologio 2x2</string>
+    <string name="gadget_clock_14_label">Orologio 4x1</string>
     <string name="gadget_clock_24_label">Orologio 2x4</string>
     <string name="gadget_photo_label">Cornice</string>
     <string name="gadget_photo_44_label">Cornice 4x4</string>
