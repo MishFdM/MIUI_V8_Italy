@@ -25,7 +25,7 @@
     <string name="VideoView_error_text_invalid_progressive_playback">Questo video non è valido per lo streaming su questo dispositivo.</string>
     <string name="selectTextMode">Seleziona testo</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="fingerprint_icon_content_description">Fingerprint icon</string>
+    <string name="fingerprint_icon_content_description">Icona lettore di impronte</string>
     <string name="config_ethernet_iface_regex">eth\\d</string>
     <string name="config_mobile_hotspot_provision_app_no_ui"/>
     <string name="config_mobile_hotspot_provision_response"/>
@@ -197,13 +197,13 @@
     <string name="roamingText11">Banner roaming attivato</string>
     <string name="roamingText12">Banner roaming disattivato</string>
     <string name="roamingTextSearching">Ricerca servizio</string>
-    <string name="wfcRegErrorTitle">WLAN Calling</string>
+    <string name="wfcRegErrorTitle">Chiamata Wi-Fi</string>
     <string name="wfcSpnFormat">%s</string>
     <string name="wfcDataSpnFormat">%s</string>
     <string name="wifi_calling_off_summary">Disattivato</string>
-    <string name="wfc_mode_wifi_preferred_summary">WLAN preferred</string>
-    <string name="wfc_mode_cellular_preferred_summary">Cellular preferred</string>
-    <string name="wfc_mode_wifi_only_summary">WLAN only</string>
+    <string name="wfc_mode_wifi_preferred_summary">Wi-Fi preferito</string>
+    <string name="wfc_mode_cellular_preferred_summary">Rete cellulare preferita</string>
+    <string name="wfc_mode_wifi_only_summary">Solo Wi-Fi</string>
     <string name="cfTemplateNotForwarded">{0}: inoltro non effettuato</string>
     <string name="cfTemplateForwarded">{0}: {1}</string>
     <string name="cfTemplateForwardedTime">{0}{1} dopo {2} secondi</string>
@@ -676,9 +676,9 @@ Visita "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
     <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
-    <string name="lockscreen_access_pattern_cell_added_verbose">Cell %1$s added</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">%1$s celle aggiunte</string>
     <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
-    <string name="lockscreen_access_pattern_area">Pattern area.</string>
+    <string name="lockscreen_access_pattern_area">Area pattern.</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d di %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Aggiungi widget.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Vuoto</string>
@@ -1338,7 +1338,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="mediasize_iso_c9">ISO C9</string>
     <string name="mediasize_iso_c10">ISO C10</string>
     <string name="mediasize_na_letter">Lettera</string>
-    <string name="mediasize_na_gvrnmt_letter">Government letter</string>
+    <string name="mediasize_na_gvrnmt_letter">Lettera governativa</string>
     <string name="mediasize_na_legal">Legale</string>
     <string name="mediasize_na_junior_legal">Legale \"junior\"</string>
     <string name="mediasize_na_ledger">Ledger</string>
