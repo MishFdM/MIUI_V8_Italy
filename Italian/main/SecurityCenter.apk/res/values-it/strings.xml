@@ -288,7 +288,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="none_mi_service_app_detail">Vuoto</string>
     <string name="label_mi_stats">Statistiche Mi</string>
     <string name="show_traffic_dialog_title">Mostra utilizzo nel pannello delle notifiche</string>
-    <string name="show_traffic_dialog_message">"Le informazioni di utilizzo dato verranno mostrate nel pannello delle notifiche.
+    <string name="show_traffic_dialog_message">"Le informazioni di utilizzo dati verranno mostrate nel pannello delle notifiche.
 Puoi attivare o disattivare questa funzione in Utilizzo dati > Impostazioni"</string>
     <string name="tc_sms_report_title">Segnala bug utilizzo dati</string>
     <string name="tc_sms_report_title_bill">"Segnala bug sull'utilizzo dei dati"</string>
