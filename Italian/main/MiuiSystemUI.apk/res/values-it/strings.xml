@@ -100,8 +100,6 @@
     <string name="tts_engine_settings_button">Impostazioni motore di lancio</string>
     <string name="tts_engine_preference_section_title">Motore predefinito</string>
     <string name="tts_general_section_title">Generale</string>
-    <string name="tts_reset_speech_pitch_title">Azzera picco vocale</string>
-    <string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
     <string name="choose_profile">Scegli profilo</string>
     <string name="category_personal">Personale</string>
     <string name="category_work">Lavoro</string>

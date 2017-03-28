@@ -149,6 +149,8 @@
     <string name="phoneIconLabel">Telefono</string>
     <string name="fdnListLabel">Lista NSF</string>
     <string name="unknown">Sconosciuto</string>
+	<string name="tts_reset_speech_pitch_title">Ripristino punto discorso</string>
+	<string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
     <string name="private_num">Numero privato</string>
     <string name="payphone">Cabina telefonica</string>
     <string name="onHold">In attesa</string>
