@@ -14,4 +14,8 @@
 <string name="keyboard_shortcuts_helper">Assistente per collegamenti tastiera</string>
 <string name="keyboard_shortcuts_helper_summary">Mostra collegamenti disponibili</string>
 <string name="accessibility_autoclick_delay_preference_title">Ritardo prima del click</string>
+<string name="tts_reset_speech_pitch_title">Ripristino punto discorso</string>
+<string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
+<string name="tts_reset_speech_rate_title">Ripristino velocità discorso</string>
+<string name="tts_reset_speech_rate_summary">"Ripristina l'intonazione del testo alla velocità normale."</string>
 </resources>
