@@ -48,7 +48,7 @@
     <string name="michat_cant_join_artifical">Impossibile collegarsi a causa di un errore di rete</string>
     <string name="michat_lose_artifical">Si è verificato un errore di rete, hai lasciato al chat</string>
     <string name="michat_transfer_message">In attesa di un operatore che possa aiutarti...</string>
-    <string name="michat_queue_pos_update">CI sono %1$d persone prima di te, attendere prego...</string>
+    <string name="michat_queue_pos_update">Ci sono %1$d persone prima di te, attendere prego...</string>
     <string name="michat_in_artifical_customer_state">Operazione impossibile durante il servizio di assistenza</string>
     <string name="michat_pull_to_refresh_pull_label">Trascina in basso per vedere la cronologia</string>
     <string name="michat_pull_to_refresh_release_label">Rilascia per vedere la cronologia</string>

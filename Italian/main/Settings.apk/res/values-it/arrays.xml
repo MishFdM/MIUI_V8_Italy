@@ -249,7 +249,7 @@
         <item>finestra toast</item>
         <item>media project</item>
         <item>attiva VPN</item>
-        <item>cambia wlan</item>
+        <item>cambia wi-fi</item>
         <item>cambia bluetooth</item>
     </string-array>
     <string-array name="app_ops_labels">
@@ -717,6 +717,7 @@
         <item>1 minuto</item>
         <item>2 minuti</item>
         <item>5 minuti</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Nascondi animazioni di sistema</item>
@@ -784,7 +785,11 @@
         <item>Foto</item>
         <item>File</item>
         <item>Note</item>
-        <item>Modalità Genitore</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Ritardo più breve</item>
+        <item>Normale</item>
+        <item>Qualità migliore</item>
     </string-array>
 </resources>
 

@@ -275,6 +275,10 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="HIPS_Perm_show_when_locked_Desc">Apparire sulla Schermata di blocco</string>
     <string name="HIPS_Perm_background_start_activity">Avvio in background</string>
     <string name="HIPS_Perm_background_start_activity_Desc">Venire avviata in background</string>
+    <string name="HIPS_Perm_get_installed_apps">Ottieni informazioni sulle app installate</string>
+    <string name="HIPS_Perm_get_installed_apps_Desc">Ottieni informazioni sulle app installate sul dispositivo</string>
+    <string name="HIPS_Perm_service_foreground">service_foreground</string>
+    <string name="HIPS_Perm_service_foreground_Desc">service_foreground</string>
     <string name="permission_group_title_charges_related">Costi</string>
     <string name="permission_group_title_privacy_related">Privacy</string>
     <string name="permission_group_title_media_related">Multimedia</string>

@@ -149,6 +149,8 @@
     <string name="phoneIconLabel">Telefono</string>
     <string name="fdnListLabel">Lista NSF</string>
     <string name="unknown">Sconosciuto</string>
+	<string name="tts_reset_speech_pitch_title">Ripristino punto discorso</string>
+	<string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
     <string name="private_num">Numero privato</string>
     <string name="payphone">Cabina telefonica</string>
     <string name="onHold">In attesa</string>
@@ -872,8 +874,8 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="turnover_mute_summary">Quando il dispositivo è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
     <string name="handon_ringer_summary">Il dispositivo non vibrerà quando hai una chiamata in arrivo</string>
     <string name="handon_ringer_title">Non vibrare</string>
-    <string name="crescendo_ringer_title">Increasing ringtone volume</string>
-    <string name="crescendo_ringer_summary">Ringtone volume will gradually grow to the level you set</string>
+    <string name="crescendo_ringer_title">Volume suoneria crescente</string>
+    <string name="crescendo_ringer_summary">La suoneria salirà gradualmente fino al livello impostato</string>
     <string name="flash_when_ring_summary">Notifica lampeggiante per le chiamate in arrivo</string>
     <string name="flash_when_ring_title">Lampeggia su chiamata</string>
     <string name="enable_proximity_summary">Spegni schermo durante le chiamate</string>

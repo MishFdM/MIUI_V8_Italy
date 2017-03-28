@@ -4,6 +4,8 @@
     <string name="telecommAppLabel">Telefono</string>
     <string name="userCallActivityLabel">Telefono</string>
     <string name="unknown">Sconosciuto</string>
+	<string name="tts_reset_speech_pitch_title">Ripristino punto discorso</string>
+	<string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
     <string name="notification_missedCallTitle">Chiamata persa</string>
     <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedCallsMsg">%s chiamate perse</string>

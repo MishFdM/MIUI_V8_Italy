@@ -1932,7 +1932,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_desc_users">"Batteria utilizzata dall'utente"</string>
     <string name="battery_desc_unaccounted">Consumo energetico Varie</string>
     <string name="battery_msg_unaccounted">"Il consumo della batteria è una stima del consumo energetico e non include tutte le fonti che influiscono sul suo consumo. Indica la differenza tra la stima del consumo energetico e il consumo reale della batteria."</string>
-    <string name="battery_desc_overcounted">Consumo energetico Over-counted</string>
+    <string name="battery_desc_overcounted">Carica sovracalcolata</string>
     <string name="mah">%d mAh</string>
     <string name="menu_stats_unplugged">%1$s dallo scollegamento</string>
     <string name="menu_stats_last_unplugged">Durante ultimo scollegamento per %1$s</string>
@@ -4096,7 +4096,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="status_bar_screen_button_key_can_hide">I tasti virtuali possono essere nascosti</string>
     <string name="status_bar_screen_button_desc">Scorri per nascondere i tasti virtuali</string>
     <string name="switch_screen_button_order">"Modifica l'ordine dei tasti virtuali"</string>
-    <string name="switch_screen_button_order_desc">"Dopo l'apertura , scorri verso il basso per nascondere il tasto virtuale"</string>
+    <string name="switch_screen_button_order_desc">"Dopo l'apertura, scorri verso il basso per nascondere il tasto virtuale"</string>
     <string name="suspension_ball_enable">"Cambia l'Assistente Touch"</string>
     <string name="suspension_ball_enable_desc">"Dopo l'attivazione, puoi aprire rapidamente l'Assistente Touch"</string>
     <string name="launching_pho">Caricamento informazioni dispositivo, attendere\u2026</string>
@@ -4186,7 +4186,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="whetstone_level_reboot">Questa impostazione avrà effetto dopo il riavvio del dispositivo</string>
     <string name="whetstone_level_reboot_OK">Riavvia</string>
     <string name="alpha_build">" | Alpha"</string>
-    <string name="developer_build">" | Developer"</string>
+    <string name="developer_build">" | Sviluppatore"</string>
     <string name="stable_build">" | Stabile"</string>
     <string name="location_agps_params_settings_title">Impostazioni A-GPS</string>
     <string name="location_agps_supl_settings">Impostazioni SUPL</string>

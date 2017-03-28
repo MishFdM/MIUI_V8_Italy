@@ -1255,6 +1255,9 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Tocca per impostare.</string>
   <string name="tethered_notification_title">Tethering oppure hotspot attivo</string>
+  <string name="tethered_notification_no_device_message">Nessun dispositivo connesso</string>
+  <string name="tethered_notification_one_device_message">%1$s dispositivo connesso</string>
+  <string name="tethered_notification_multi_device_message">%1$s dispositivi conessi</string>
   <string name="textSelectionCABTitle">Selezione testo</string>
   <string name="text_copied">Testo copiato negli appunti.</string>
   <string name="time_of_day" formatted="false">%H:%M:%S</string>

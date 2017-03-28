@@ -10,8 +10,8 @@
     <string name="lucky_assistant_description">"Sviluppo ufficiale Xiaomi
 Weixin/QQ/Mi Talk utilizzano l'assistente busta rossa.
 Queste app non supportano i promemoria nei gruppi bloccati, e le impostazioni DND."</string>
-    <string name="accessibility_service_description">"Grazie a questa funzione puoi utilizzare l'aasistente busta rossa nei gruppi QQ.
-Nota： l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente, in rispetto delle norme sulla privacy."</string>
+    <string name="accessibility_service_description">"Grazie a questa funzione puoi utilizzare l'assistente busta rossa nei gruppi QQ.
+Nota：l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente, in rispetto delle norme sulla privacy."</string>
     <string name="app_name_na">Utilizzo dati</string>
     <string name="list_empty_text">Vuoto</string>
     <string name="dialog_title_attention">Attenzione</string>
@@ -21,8 +21,7 @@ Nota： l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utent
     <string name="megabyteShort">MB</string> 
     <string name="kilobyteShort">KB</string>
     <string name="byteShort">B</string>
-    <string name="main_button_normal_traffic">Picco</string>
-    <string name="main_button_idel_traffic">Fuori-picco</string>
+    <string name="button_look_up">Tocca per vedere</string>
     <string name="main_toolbar_firewall">Limita utilizzo dati</string>
     <string name="main_toolbar_statistic">Statistiche utilizzo dati</string>
     <string name="main_toolbar_purchase">Ricarica</string>
@@ -30,14 +29,17 @@ Nota： l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utent
     <string name="main_button_usage_adjusting">Carica in corso…</string>
     <string name="main_button_usage_adjust_manual">Imposta limite utilizzo dati</string>
     <string name="main_button_usage_package_setting">Imposta limite utilizzo dati</string>
+    <string name="main_alert_message_no_mobile_package">Imposta limite dati</string>
+    <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
+	<string name="main_primary_message_traffic_remain">Dati mobili</string>
+    <string name="main_button_normal_traffic">Picco</string>
+    <string name="main_button_idel_traffic">Fuori-picco</string>
     <string name="main_traffic_used">%s usati</string>
     <string name="main_traffic_used_text">usati</string>
     <string name="main_traffic_remian_text">rimanenti</string>
     <string name="main_traffic_overlimit_text">oltre soglia</string>
     <string name="main_traffic_used_only">%s usati</string>
-    <string name="main_alert_message_no_mobile_package">Imposta limite dati</string>
     <string name="main_message_no_package_by_dual">Imposta limite dati per %s</string>
-    <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
     <string name="main_primary_message_traffic_enough">Sotto il limite di utilizzo dati</string>
     <string name="main_primary_message_traffic_warning">Vicino al limite di utilizzo dati</string>
     <string name="main_primary_message_traffic_overlimit">Limite di utilizzo dati superato</string>
@@ -59,6 +61,8 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="main_alert_message_month_limit_error">Limite dati non corretto</string>
     <string name="main_alert_message_open_traffic_ctrl">"Consigliamo di limitare l'utilizzo dei dati su rete mobile"</string>
     <string name="main_open_traffic_ctrl_button">Limita utilizzo dati</string>
+	<string name="main_today_used">Usati oggi</string>
+    <string name="main_month_used">Usati questo mese</string>
     <string name="firewall_activity_lable">"Limita l'utilizzo dati per app"</string>
     <string name="firewall_applist">App</string>
     <string name="firewall_rule_group_title_mobile">Mobile</string>
@@ -284,7 +288,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="none_mi_service_app_detail">Vuoto</string>
     <string name="label_mi_stats">Statistiche Mi</string>
     <string name="show_traffic_dialog_title">Mostra utilizzo nel pannello delle notifiche</string>
-    <string name="show_traffic_dialog_message">Le informazioni di utilizzo dato verranno mostrate nel pannello delle notifiche. Puoi attivare o disattivare questa funzione in Utilizzo dati > Impostazioni</string>
+    <string name="show_traffic_dialog_message">"Le informazioni di utilizzo dati verranno mostrate nel pannello delle notifiche.
+Puoi attivare o disattivare questa funzione in Utilizzo dati > Impostazioni"</string>
     <string name="tc_sms_report_title">Segnala bug utilizzo dati</string>
     <string name="tc_sms_report_title_bill">"Segnala bug sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_title_calltime">"Segnala bug sull'utilizzo dei dati"</string>
@@ -301,7 +306,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_sms_report_geting_sms">Recupero info SMS…</string>
     <string name="tc_sms_report_get_sms_again">Aggiorna SMS</string>
     <string name="tc_sms_report_do_report">Invia</string>
-    <string name="tc_sms_report_get_success">"Ricevuto SMS con rapporto sull'utilizzo dati dall'operatore. Accertati che i dati siano esatti ed inviacelo."</string>
+    <string name="tc_sms_report_get_success">"Ricevuto SMS con rapporto sull'utilizzo dati dall'operatore. Accertati che i dati siano esatti ed
+ inviacelo."</string>
     <string name="tc_sms_report_get_success_notify_title">SMS con rapporto utilizzo dati ricevuto</string>
     <string name="tc_sms_report_get_success_notify_body">Accertati che i dati siano esatti ed invialo a MIUI.</string>
     <string name="tc_sms_report_upload_success">Rapporto utilizzo dati SMS inviato. Lo riceveremo a breve!</string>
@@ -311,7 +317,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_sms_report_notify_get_failure_title">"Impossibile ricevere SMS con informazioni sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_notify_correction_failure_title">"Impossibile aggiornare le informazioni sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_notify_correction_body">"Vai nell'app Utilizzo dati nel centro Sicurezza e riprova manualmente."</string>
-    <string name="tc_sms_report_notify_get_failure_body">Impossibile inviare rapporto utilizzo dati. Assicurati di essere connesso ad una rete dati.</string>
+    <string name="tc_sms_report_notify_get_failure_body">"Impossibile inviare rapporto utilizzo dati. Assicurati di 
+essere connesso ad una rete dati."</string>
     <string name="tc_sms_report_tips_dialog_title">"SMS sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_tips_dialog_message">"Utilizzo dati si serve di un SMS con particolare formattazione per recuperare i dati aggiornati dal tuo operatore. Se questa opzione non funziona normalmente, prova ad aggiornare il formato dell'SMS per l'utilizzo dei dati. Il nuovo formato verrà in seguito caricato sui nostri server."</string>
     <string name="tc_sms_report_get_sms_failure">Impossibile recuperare SMS con il formato di utilizzo dei dati</string>
@@ -499,6 +506,11 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_onekey_repair_botton">Correggi</string>
     <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
     <string name="tc_diagnostic_upload_button">Riporta</string>
+    <string name="tc_diagnostic_fragment_default">"Informazioni sulla dagnostica
+1. Il dispositivo si collegherà alla rete
+        dell'operatore, inviando un messaggio gratuito, in attesa della risposta dell'operatore. Potrebbe richiedere fino a 5 minuti.
+2. Puoi
+        lasciare questa pagina durante la diagnostica, questa continuerà in background."</string>
     <string name="sim_location_diagnostic">Diagnostica posizione</string>
     <string name="operator_diagnostic">Diagnostica operatore</string>
     <string name="brand_diagnostic">Diagnostica nome operatore</string>
@@ -626,7 +638,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="shutdown_cancel_reminder_detail">Il dispositivo non si è spento perché era in corso una chiamata</string>
     <string name="shutdown_cancel_reminder_detail2">Sembra che tu stia giocando adesso. Lo spegnimento programmatto è stato annullato.</string>
     <string name="legal_workday_invalidate">Dati scaduti (Attualmente attivo da Lunedì a Venerdì)</string>
-    <string name="legal_workday_invalidate_message">(Dati scaduti,premi per aggiornare interconnessioni)</string>
+    <string name="legal_workday_invalidate_message">(Dati scaduti, Premi per aggiornare interconnessioni)</string>
     <string name="legal_workday_message">\u0020(Salta le festività)</string>
     <string name="boot_time_day">Accensione tra %1$d giorni, alle %2$s</string>
     <string name="boot_time_day_tomorrow">Accensione domani alle %1$s</string>
@@ -798,6 +810,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="auto_task_notify_task_canceled_title">Azione annullata</string>
     <string name="auto_task_notify_task_canceled_summary">Puoi effettuare e ricevere chiamate</string>
     <string name="auto_task_notify_task_canceled_summary2">Sembra che tu stia giocando in questo momento.</string>
+    <string name="auto_task_notify_task_canceled_summary3">Annullato da spazio Secondario</string>
+    <string name="auto_task_notify_task_canceled_summary4">Annullato da spazio Primario</string>
     <string name="auto_task_notify_task_continue_do">Avvia operazione</string>
     <string name="auto_task_notify_task_count_down">"L'operazione automatica inizierà tra 5 secondi"</string>
     <string name="auto_task_notify_task_cancel_count_down">"L'operazione automatica verrà annullata tra 5 secondi"</string>
@@ -826,15 +840,15 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="resource_auto_restart">Gestione avvio automatico</string>
     <string name="keywords_auto_restart">Avvio automatico; Permessi;Avvio automatico;Avvio automatico; Gestione avvio automatico; Avvio automatico MIUI; Avvio automatico app; Avvio automatico app;Avvio catena;Avvio concatenato;Avvio innescato</string>
     <string name="path_auto_restart">App di sistema/Sicurezza/Permessi/Gestione avvio automatico</string>
-    <string name="resource_usb_install">Installa tramiteUSB</string>
+    <string name="resource_usb_install">Installa tramite USB</string>
     <string name="keywords_usb_install">Installazione USB;Installa da computer;Installa tramite ADB</string>
     <string name="path_usb_install">App di sistema/Sicurezza/Permessi/Installa tramite USB</string>
     <string name="resource_app_permissions">Permessi app</string>
-    <string name="keywords_app_permissions">Permissions;Location;Access contacts;Permissions;App permissions</string>
-    <string name="path_app_permissions">System apps/Security/Permissions/App permissions</string>
-    <string name="resource_buy_flow">Buy mobile data</string>
-    <string name="keywords_buy_flow">data;mobile data;buy data;buy mobile data;topup data;data plan</string>
-    <string name="path_buy_flow">System apps/Security/Data usage/Buy mobile data</string>
+    <string name="keywords_app_permissions">Permessi;Posizione;Accesso contatti;Permessi;Permessi app</string>
+    <string name="path_app_permissions">Applicazioni di sistema/Sicurezza/Permessi/Permessi app</string>
+    <string name="resource_buy_flow">Acquista credito mobile</string>
+    <string name="keywords_buy_flow">dati;dati mobili;acquista credito;acquista credito mobile;riempimento dati;piano dati</string>
+    <string name="path_buy_flow">Applicazioni di sistema/Sicurezza/Utilizzo dati/Acquista credito mobile</string>
     <string name="resource_antispam">Blacklist</string>
     <string name="keywords_antispam">Blacklist;Blocco;Blocco intelligente;Truffa;Vendite;Agenti</string>
     <string name="path_antispam">Applicazioni di sistema/Sicurezza/Blacklist</string>
@@ -844,7 +858,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="resource_networkassistant_2">Calibra piano dati</string>
     <string name="keywords_networkassistant_2">Dati;Calibra</string>
     <string name="path_networkassistant_2">Applicazioni di sistema/Sicurezza/Assistente di rete</string>
-    <string name="resource_networkassistant_4">Test network</string>
+    <string name="resource_networkassistant_4">Test di rete</string>
     <string name="keywords_networkassistant_4">Connessione;Internet;Test</string>
     <string name="path_networkassistant_4">Applicazioni di sistema/Sicurezza/Assistente di rete/Test di rete</string>
     <string name="resource_powercenter_powerrank">Batteria e prestazioni</string>
@@ -1369,7 +1383,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_monthreport_action">Visualizza</string>
     <string name="card_main_speeddetail_title">Velocità di connessione</string>
     <string name="card_main_speeddetailt_summary">Visualizza la velocità di connessione per singola app.</string>
-
     <string name="card_main_netcheck_title">Test di rete</string>
     <string name="card_main_netcheck_summary">Verifica la connessione per risolvere i problemi di rete</string>
     <string name="card_main_netcheck_action">Verifica</string>

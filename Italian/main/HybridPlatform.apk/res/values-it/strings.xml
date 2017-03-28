@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Naviga nella Home</string>
+    <string name="abc_action_bar_up_description">Naviga in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fatto</string>
+    <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Ricerca...</string>
+    <string name="abc_searchview_description_clear">Cancella campo</string>
+    <string name="abc_searchview_description_query">Cerca termine</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia ricerca</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_toolbar_collapse_description">Chiudi</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">HybridPlatform</string>
+    <string name="dlg_permission_accept">Accetta</string>
+    <string name="dlg_permission_reject">Rifiuta</string>
+    <string name="dlg_shortcut_cancel">No</string>
+    <string name="dlg_shortcut_message">Vuoi creare un collegamento per %1$s?</string>
+    <string name="dlg_shortcut_ok">Sì</string>
+    <string name="dlg_shortcut_silent">Non chiedere più</string>
+    <string name="dlg_shortcut_title">Crea collegamento</string>
+    <string name="fail_message">"Impossibile scaricare l'app, controlla lo stato della rete"</string>
+    <string name="js_exception_button_continue">Continua</string>
+    <string name="js_exception_button_quit">Esci</string>
+    <string name="js_exception_title">Eccezioni JS</string>
+    <string name="loading_message">App in caricamento</string>
+    <string name="loading_slogan">Nessuna installazione | Utilizzo dati minore | Servizio diretto</string>
+    <string name="permission_desc_location">"utilizza la posizione del tuo dispositivo"</string>
+    <string name="permission_desc_read_phone_state">leggi lo stato del telefono</string>
+    <string name="permission_desc_record_audio">registra audio</string>
+    <string name="permission_dialog_allow">CONSENTI</string>
+    <string name="permission_dialog_block">BLOCCA</string>
+    <string name="permission_dialog_message">%1$s vuole %2$s.</string>
+    <string name="pick_name">Scegli</string>
+</resources>

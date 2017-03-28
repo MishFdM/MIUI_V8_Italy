@@ -18,7 +18,6 @@ Leggi questo documento per la tastiera: "</string>
     <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
     <string name="other_settings_user_experience">Programma Esperienza Utente</string>
     <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
-    <string name="other_settings_user_experience_summary1">(Vedi privacy)</string>
     <string name="other_settings_upload_debug_log_title">Invia automaticamente i dati per la diagnosi</string>
     <string name="other_settings_upload_debug_log_summary">"I dati per la diagnosi possono includere informazioni sull'utilizzo dell'hardware, sistema e app. I dati verranno utilizzati per individuare e analizzare i problemi nel sistema, non verranno mai utilizzati per rilevare la tua identità."</string>
     <string name="other_settings_auto_update">Aggiorna automaticamente</string>
@@ -62,6 +61,10 @@ Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di uti
     <string name="content_description_miui_version">MIUI 8</string>
     <string name="content_description_complete">Completato</string>
     <string name="content_description_language_picker">Seleziona la lingua</string>
-    <string name="language_picker_popular_languages_title">Lingue più utilizzate</string>
     <string name="language_picker_other_languages_title">Altre lingue</string>
+    <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
+    <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
+    <string name="cm_terms_title">Regolamento Operatore Rete Mobile</string>
+    <string name="cm_terms_content">Per migliorare i servizi forniti, il tuo gestore potrebbe caricare i tuoi dati personali e informazioni su questo dispositivo sui suoi server tramite rete Wi-Fi o connessione dati mobile. Queste informazioni verranno usati solo per scopi statistici al fine di migliorare la qualità dei servizi e fornire altri contenuti personalizzati. Queste informazioni non verranno utilizzate per identificarti e non verranno divulgate a terze parti"</string>
 </resources>
