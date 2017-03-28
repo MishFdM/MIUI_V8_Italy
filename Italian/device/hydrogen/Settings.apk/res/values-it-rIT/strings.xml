@@ -13,4 +13,5 @@
 <string name="show_ime_summary">Lascia sullo schermo mentre la tastiera fisica è attiva</string>
 <string name="keyboard_shortcuts_helper">Assistente per collegamenti tastiera</string>
 <string name="keyboard_shortcuts_helper_summary">Mostra collegamenti disponibili</string>
+<string name="accessibility_autoclick_delay_preference_title">Ritardo prima del click</string>
 </resources>
