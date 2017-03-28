@@ -68,7 +68,7 @@
     <string name="resource_detail_jump_to_same_author_title">Stesso autore</string>
     <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_description_pic_text">%1$d icone totali</string>
-    <string name="local_resouce_creator_name">Sviluppator: %1$s</string>
+    <string name="local_resouce_creator_name">Sviluppatore: %1$s</string>
     <string name="resource_share_title">Condividi</string>
     <string name="resource_share_subject">Condividi tema: %1$s</string>
     <string name="resource_share_text">Ecco un tema che potrebbe piacerti: %1$s. Link: %2$s</string>
