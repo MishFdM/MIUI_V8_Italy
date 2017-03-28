@@ -35,7 +35,7 @@
     <string name="resource_title">Dettagli</string>
     <string name="resource_download">Download</string>
     <string name="resource_downloading">Download in corso</string>
-    <string name="resource_waiting_pause">Pause</string>
+    <string name="resource_waiting_pause">Pausa</string>
     <string name="resource_waiting_download">In attesa del download…</string>
     <string name="resource_import_successful">Download completato.</string>
     <string name="resource_import_failed">Impossibile importare</string>
@@ -68,7 +68,7 @@
     <string name="resource_detail_jump_to_same_author_title">Stesso autore</string>
     <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_description_pic_text">%1$d icone totali</string>
-    <string name="local_resouce_creator_name">Developer: %1$s</string>
+    <string name="local_resouce_creator_name">Sviluppator: %1$s</string>
     <string name="resource_share_title">Condividi</string>
     <string name="resource_share_subject">Condividi tema: %1$s</string>
     <string name="resource_share_text">Ecco un tema che potrebbe piacerti: %1$s. Link: %2$s</string>
@@ -96,7 +96,7 @@
     <string name="resource_purchase_getting_order">Recupero informazioni ordine…</string>
     <string name="resource_purchase_waiting_payment">In attesa delle informazioni di pagamento…</string>
     <string name="resource_purchase_verifying_payment">Verifica informazioni di pagamento…</string>
-    <string name="resource_purchase_continue_to_pay">Continu pagando %s</string>
+    <string name="resource_purchase_continue_to_pay">Continua pagamento %s</string>
     <string name="resource_purchase_vip_pay_failed">Impossibile pagare come vip.</string>
     <string name="resource_purchase_common_error">Operazione fallita. Prova di nuovo.</string>
     <string name="resource_download_trial">Prova gratis</string>
