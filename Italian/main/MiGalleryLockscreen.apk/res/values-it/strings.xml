@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Sfondo Carousel</string>
+    <string name="app_name">Carosello sfondi</string>
     <string name="apply">Applica</string>
     <string name="at_least_one">Scegli almeno una categoria</string>
     <string name="auto_interval">Automatico</string>
@@ -10,17 +10,17 @@
     <string name="change_time">Cambia sfondi</string>
     <string name="day">Una volta al giorno</string>
     <string name="declaration">Ottieni gratuitamente ogni giorno nuovi sfondi direttamente sulla schermata di blocco.</string>
-    <string name="declaration_lockscreen_title">Sfondo Carousel</string>
+    <string name="declaration_lockscreen_title">Carosello sfondi</string>
     <string name="declaration_title">Termini e condizioni</string>
     <string name="dislike">Elimina</string>
-    <string name="from_migallerylockscreen">Da sfondo Carousel</string>
+    <string name="from_migallerylockscreen">Da carosello sfondi</string>
     <string name="hour_1">Ogni ora</string>
     <string name="hour_3">Ogni 3 ore</string>
     <string name="like">Piace</string>
     <string name="liked">piaciuti</string>
     <string name="lockscreen_magazine_summary">Categorie</string>
     <string name="lockscreen_magazine_system_title">Locali</string>
-    <string name="lockscreen_magazine_title">Sfondo Carousel</string>
+    <string name="lockscreen_magazine_title">Carosello sfondi</string>
     <string name="lockscreen_wallpaper_changed">sfondo cambiato</string>
     <string name="minutes_15">15 minuti</string>
     <string name="no_long_show">Non mostrare di nuovo</string>
@@ -43,8 +43,8 @@
     <string name="sst_grid_view_select_all">Seleziona tutti</string>
     <string name="sst_grid_view_unselect_all">Deseleziona tutti</string>
     <string name="sst_no_favor_wallpaper_hint">Nessuno sfondo nei preferiti</string>
-    <string name="sst_prov_enable_desc">Attiva Sfondo Carousel sulla schermata di blocco</string>
-    <string name="sst_prov_enable_title">Attiva Sfondo Carousel</string>
+    <string name="sst_prov_enable_desc">Attiva carosello sfondi sulla schermata di blocco</string>
+    <string name="sst_prov_enable_title">Attiva carosello sfondi</string>
     <string name="sst_require_one_category_hint">Seleziona almeno 1 categoria</string>
     <string name="sst_sti_desc">Imposta frequenza aggiornamento sfondo</string>
     <string name="sst_sti_title">Frequenza aggiornamento</string>
