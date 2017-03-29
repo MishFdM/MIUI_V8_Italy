@@ -63,9 +63,12 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="main_open_traffic_ctrl_button">Limita utilizzo dati</string>
 	<string name="main_today_used">Usati oggi</string>
     <string name="main_month_used">Usati questo mese</string>
+	<string name="main_leisure_remained">Dati rimanenti</string>
+    <string name="main_bill_remained">Bilancio</string>
+    <string name="main_no_info">Nessun dato</string>
     <string name="firewall_activity_lable">"Limita l'utilizzo dati per app"</string>
     <string name="firewall_applist">App</string>
-    <string name="firewall_rule_group_title_mobile">Mobile</string>
+    <string name="firewall_rule_group_title_mobile">Mobili</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_fragment_tab_title_nonsys">Scaricate</string>
     <string name="firewall_fragment_tab_title_sys">Di sistema</string>
