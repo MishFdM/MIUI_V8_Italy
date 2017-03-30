@@ -188,7 +188,6 @@ to respond"</string>
     <string name="input_aviable_traffic">Imposta limite utilizzo dati</string>
     <string name="pkg_traffic">Imposta limite utilizzo dati</string>
     <string name="datausage_ignore_app_list_count">Utilizzo dati ignorato per %d app</string>
-    <string name="traffic_setting_app_count">%d apps</string>
     <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
     <string name="free_time_traffic">Limite dati fuori soglia</string>
     <string name="power_save_on_time_default_time_na">00:00</string>
