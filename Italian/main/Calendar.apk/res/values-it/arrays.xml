@@ -334,14 +334,14 @@
         <item>Feb</item>
         <item>Mar</item>
         <item>Apr</item>
-        <item>Mar</item>
+        <item>Mag</item>
         <item>Giu</item>
         <item>Lug</item>
         <item>Ago</item>
         <item>Set</item>
         <item>Ott</item>
         <item>Nov</item>
-        <item>Dec</item>
+        <item>Dic</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>primo</item>
