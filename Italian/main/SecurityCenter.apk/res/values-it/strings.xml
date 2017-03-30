@@ -34,27 +34,27 @@ Nota：l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente
     <string name="main_primary_message_traffic_remain">Dati mobili</string>
     <string name="main_primary_message_traffic_warning">Vicino al limite di utilizzo dati</string>
     <string name="main_primary_message_traffic_overlimit">Limite di utilizzo dati superato</string>
-    <string name="main_primary_message_leisure_remain">Off-peak data</string>
-    <string name="main_primary_message_leisure_alert">Off-peak data warning</string>
-    <string name="main_primary_message_leisure_overlimit">Went over off-peak data limit</string>
-    <string name="main_alert_message_month_limit_error">Data limit incorrect</string>
-    <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
-    <string name="main_open_traffic_ctrl_button">Restrict data usage</string>
-    <string name="main_today_used">Used today</string>
-    <string name="main_month_used">Used this month</string>
-    <string name="main_leisure_remained">Off-peak data remaining</string>
-    <string name="main_bill_remained">Phone balance</string>
+    <string name="main_primary_message_leisure_remain">Dati off-peak</string>
+    <string name="main_primary_message_leisure_alert">Avviso dati off-peak</string>
+    <string name="main_primary_message_leisure_overlimit">Limite dati off-peak superato</string>
+    <string name="main_alert_message_month_limit_error">Limite dati non corretto</string>
+    <string name="main_alert_message_open_traffic_ctrl">uso di restrizione dei dati</string>
+    <string name="main_open_traffic_ctrl_button">Restrizione utilizzo dati</string>
+    <string name="main_today_used">Oggi</string>
+    <string name="main_month_used">Questo mese</string>
+    <string name="main_leisure_remained">Dati off-peak rimanenti</string>
+    <string name="main_bill_remained">Saldo telefono</string>
     <string name="main_used_bill">%s CNY</string>
-    <string name="main_no_info">No data</string>
-    <string name="guide_quck_open">Turn on</string>
-    <string name="guide_wait_setting">Not now</string>
-    <string name="guide_primary_text">"Turn on Network assistant
-to manage your mobile data usage"</string>
-    <string name="guide_operator_text">"Your current carrier: "</string>
-    <string name="guide_second_text">"After you set your carrier, MIUI will monitor your mobile data usage daily by sending free carrier SMS. When MIUI detects you've gone over your data limit, it will disconnect from the network and notify you."</string>
-    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Wrong carrier?&lt;/U>&lt;/font>"</string>
-    <string name="card_tc_failed">"Couldn't calibrate"</string>
-    <string name="card_tc_failed_content">"Possible reasons:
+    <string name="main_no_info">Nessun dato</string>
+    <string name="guide_quck_open">Attiva</string>
+    <string name="guide_wait_setting">Non adesso</string>
+    <string name="guide_primary_text">"Attiva Assistente di rete
+per gestire il tuo utilizzo dei dati"</string>
+    <string name="guide_operator_text">"Il tuo operatore: "</string>
+    <string name="guide_second_text">"Dopo aver impostato il tuo operatore, MIUI monitorerà il tuo utilizzo dei dati ogni giorno inviando SMS gratuiti all'operatore. Quando MIUI rilev il superamento del limite dati, il dispositivo si disconnetterà dalla rete a ti avviserà."</string>
+    <string name="guide_get_operator_error">"Operatore sbagliato?"</string>
+    <string name="card_tc_failed">Impossibile calibrare</string>
+    <string name="card_tc_failed_content">"Ragioni possibili:
  1. Carriers respond slower at the beginning and at the end of a month. Try again in a couple of days.
  2. A network request template is required when you calibrate for the first time. Connect to the network and try again.
  3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
@@ -66,9 +66,9 @@ to manage your mobile data usage"</string>
 to calibrate"</string>
     <string name="main_tc_wait_result">"Waiting for the carrier
 to respond"</string>
-    <string name="main_tc_over">Calibrated successfully</string>
-    <string name="main_purchase_tips">Promotion</string>
-    <string name="main_month_total_used">Used this month</string>
+    <string name="main_tc_over">Calibrato correttamente</string>
+    <string name="main_purchase_tips">Promozione</string>
+    <string name="main_month_total_used">Usati questo mese</string>
     <string name="firewall_activity_lable">"Limita l'utilizzo dati per app"</string>
     <string name="firewall_applist">App</string>
     <string name="firewall_rule_group_title_mobile">Mobili</string>
@@ -83,9 +83,9 @@ to respond"</string>
     <string name="firewall_network_restrict_notify_message">Tocca per modificare le impostazioni.</string>
     <string name="firewall_restrict_android_dialog_title">Attenzione</string>
     <string name="firewall_restrict_android_dialog_content">Per essere sicuro che il dispositivo funzioni correttamente, alcune applicazioni di sistema Android rimarranno connesse ad internet. Queste app utilizzeranno la connessione dati.</string>
-    <string name="firewall_allow_network">Allowed</string>
-    <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
-    <string name="search_result_text">"Couldn't find any apps"</string>
+    <string name="firewall_allow_network">Consentito</string>
+    <string name="firewall_network_allow">Consentito a %1$s di usare connessione %2$s</string>
+    <string name="search_result_text">Nessuna app trovata</string>
     <string name="usage_sorted_activity_lable">Utilizzo dati</string>
     <string name="usage_sorted_loading_text">Solo un attimo…</string>
     <string name="usage_sorted_empty_text">Vuoto</string>
