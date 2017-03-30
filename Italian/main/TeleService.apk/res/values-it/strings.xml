@@ -149,8 +149,6 @@
     <string name="phoneIconLabel">Telefono</string>
     <string name="fdnListLabel">Lista NSF</string>
     <string name="unknown">Sconosciuto</string>
-	<string name="tts_reset_speech_pitch_title">Ripristino punto discorso</string>
-	<string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
     <string name="private_num">Numero privato</string>
     <string name="payphone">Cabina telefonica</string>
     <string name="onHold">In attesa</string>
@@ -1080,7 +1078,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="confirm_pin2_label">Conferma il nuovo PIN2</string>
     <string name="bad_puk2">Il PUK2 che hai digitato non è corretto. Riprova.</string>
     <string name="bad_pin2">Il vecchio PIN2 che hai digitato non è corretto. Riprova.</string>
-    <string name="bad_pin2_old">The old PIN2 you entered is incorrect.</string>
+    <string name="bad_pin2_old">Il vecchio PIN2 inserito non è corretto.</string>
     <string name="mismatch_pin2">I PIN2 che hai digitato non corrispondono. Riprova.</string>
     <string name="invalid_pin2">Digita un PIN2 che sia composto da 4 a 8 cifre.</string>
     <string name="invalid_puk2">Digita un PUK2 di 8 cifre.</string>
@@ -1138,4 +1136,7 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="call_forward_option">Trasferimento di chiamata</string>
     <string name="labelCFVoice">Voce</string>
     <string name="labelCFVideo">Video</string>
+    <string name="volte_provision_notification_activate">Attiva</string>
+    <string name="volte_provision_title">Povision VoLTE</string>
+    <string name="volte_provision_text">Rileva VoLTE se non supportato dalla tua SIM, attivare adesso?</string>
 </resources>

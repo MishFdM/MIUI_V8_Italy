@@ -31,41 +31,44 @@ Nota：l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente
     <string name="main_button_usage_package_setting">Imposta limite utilizzo dati</string>
     <string name="main_alert_message_no_mobile_package">Imposta limite dati</string>
     <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
-	<string name="main_primary_message_traffic_remain">Dati mobili</string>
-    <string name="main_button_normal_traffic">Picco</string>
-    <string name="main_button_idel_traffic">Fuori-picco</string>
-    <string name="main_traffic_used">%s usati</string>
-    <string name="main_traffic_used_text">usati</string>
-    <string name="main_traffic_remian_text">rimanenti</string>
-    <string name="main_traffic_overlimit_text">oltre soglia</string>
-    <string name="main_traffic_used_only">%s usati</string>
-    <string name="main_message_no_package_by_dual">Imposta limite dati per %s</string>
-    <string name="main_primary_message_traffic_enough">Sotto il limite di utilizzo dati</string>
+    <string name="main_primary_message_traffic_remain">Dati mobili</string>
     <string name="main_primary_message_traffic_warning">Vicino al limite di utilizzo dati</string>
     <string name="main_primary_message_traffic_overlimit">Limite di utilizzo dati superato</string>
-    <string name="main_primary_message_traffic_overlimit_purchase">Devi ricaricare</string>
-    <string name="main_primary_message_traffic_purchase">Devi ricaricare</string>
-    <string name="main_primary_message_traffic_cur_normal">Sotto il livello minimo dati</string>
-    <string name="main_primary_message_traffic_cur_normal_warning">Avviso utilizzo dati</string>
-    <string name="main_primary_message_traffic_cur_normal_overlimit">Limite dati superato</string>
-    <string name="main_primary_message_traffic_cur_leisure">Utilizzo dati oltre soglia</string>
-    <string name="main_secondary_message_traffic_used_normal">%s dati soglia usati</string>
-    <string name="main_secondary_message_traffic_used_leisure">%s dati usati oltre soglia</string>
-    <string name="main_secondary_message_traffic_remain">"rimanenti "</string>
-    <string name="main_secondary_message_traffic_over">"oltre "</string>
-    <string name="main_secondary_message_traffic_detail_normal">"
-Soglia: %1$s%2$s | %3$s usati"</string>
-    <string name="main_secondary_message_traffic_detail_leisure">"
-Sotto soglia: %1$s | %2$s usati"</string>
-    <string name="main_secondary_message_traffic_used_noleisure">%s soglia dati usati | traffico soglia esaurito</string>
-    <string name="main_alert_message_month_limit_error">Limite dati non corretto</string>
-    <string name="main_alert_message_open_traffic_ctrl">"Consigliamo di limitare l'utilizzo dei dati su rete mobile"</string>
-    <string name="main_open_traffic_ctrl_button">Limita utilizzo dati</string>
-	<string name="main_today_used">Usati oggi</string>
-    <string name="main_month_used">Usati questo mese</string>
-	<string name="main_leisure_remained">Dati rimanenti</string>
-    <string name="main_bill_remained">Bilancio</string>
-    <string name="main_no_info">Nessun dato</string>
+    <string name="main_primary_message_leisure_remain">Off-peak data</string>
+    <string name="main_primary_message_leisure_alert">Off-peak data warning</string>
+    <string name="main_primary_message_leisure_overlimit">Went over off-peak data limit</string>
+    <string name="main_alert_message_month_limit_error">Data limit incorrect</string>
+    <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
+    <string name="main_open_traffic_ctrl_button">Restrict data usage</string>
+    <string name="main_today_used">Used today</string>
+    <string name="main_month_used">Used this month</string>
+    <string name="main_leisure_remained">Off-peak data remaining</string>
+    <string name="main_bill_remained">Phone balance</string>
+    <string name="main_used_bill">%s CNY</string>
+    <string name="main_no_info">No data</string>
+    <string name="guide_quck_open">Turn on</string>
+    <string name="guide_wait_setting">Not now</string>
+    <string name="guide_primary_text">"Turn on Network assistant
+to manage your mobile data usage"</string>
+    <string name="guide_operator_text">"Your current carrier: "</string>
+    <string name="guide_second_text">"After you set your carrier, MIUI will monitor your mobile data usage daily by sending free carrier SMS. When MIUI detects you've gone over your data limit, it will disconnect from the network and notify you."</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Wrong carrier?&lt;/U>&lt;/font>"</string>
+    <string name="card_tc_failed">"Couldn't calibrate"</string>
+    <string name="card_tc_failed_content">"Possible reasons:
+ 1. Carriers respond slower at the beginning and at the end of a month. Try again in a couple of days.
+ 2. A network request template is required when you calibrate for the first time. Connect to the network and try again.
+ 3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
+ 4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
+ 5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
+    <string name="card_sms_report">Report via SMS</string>
+    <string name="main_normal_data_usage">Used mobile data</string>
+    <string name="main_tc_send_sms">"Send SMS
+to calibrate"</string>
+    <string name="main_tc_wait_result">"Waiting for the carrier
+to respond"</string>
+    <string name="main_tc_over">Calibrated successfully</string>
+    <string name="main_purchase_tips">Promotion</string>
+    <string name="main_month_total_used">Used this month</string>
     <string name="firewall_activity_lable">"Limita l'utilizzo dati per app"</string>
     <string name="firewall_applist">App</string>
     <string name="firewall_rule_group_title_mobile">Mobili</string>
@@ -80,6 +83,9 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="firewall_network_restrict_notify_message">Tocca per modificare le impostazioni.</string>
     <string name="firewall_restrict_android_dialog_title">Attenzione</string>
     <string name="firewall_restrict_android_dialog_content">Per essere sicuro che il dispositivo funzioni correttamente, alcune applicazioni di sistema Android rimarranno connesse ad internet. Queste app utilizzeranno la connessione dati.</string>
+    <string name="firewall_allow_network">Allowed</string>
+    <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
+    <string name="search_result_text">"Couldn't find any apps"</string>
     <string name="usage_sorted_activity_lable">Utilizzo dati</string>
     <string name="usage_sorted_loading_text">Solo un attimo…</string>
     <string name="usage_sorted_empty_text">Vuoto</string>
@@ -87,12 +93,10 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="system_app">App di sistema</string>
     <string name="deleted_apps">App eliminate</string>
     <string name="root">Accesso Root</string>
-    <string name="sorted_button">Ordina per</string>
     <string name="app_detail">Dettagli</string>
     <string name="app_version">Versione</string>
     <string name="app_mobile">Mobili</string>
     <string name="app_wifi">Wi-Fi</string>
-    <string name="spinner_title">%1$s - Dati mobili: %2$s</string>
     <string name="traffic_none">Nessuno</string>
     <string name="sorted_dialog_title">Ordina per</string>
     <string name="cancel_button">Annulla</string>
@@ -101,13 +105,14 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="network_control">Mostra impostazioni app</string>
     <string name="foreground_traffic">Primo piano %s</string>
     <string name="background_traffic">Background %s</string>
-    <string name="stop_app_button">Interrompi</string>
     <string name="detail_app_button">Info app</string>
     <string name="pref_about_traffic_title">Impostazioni utilizzo dati</string>
     <string name="pref_traffic_manage_title">Utilizzo piano dati</string>
     <string name="pref_package_traffic_normal">Soglia: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Aggiuntivo: %2$s</string>
-    <string name="pref_package_traffic_leisure">%1$s | Fuori soglia: %2$s</string>
+    <string name="pref_package_traffic_leisure">"%1$s
+ | Fuori soglia: %2$s</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Limite dati mobili</string>
     <string name="pref_adjust_traffic_data">Imposta consumo dati mobili</string>
     <string name="pref_app_traffic_managent">"Limita l'utilizzo dati per app"</string>
@@ -143,6 +148,13 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="pref_auto_adjust_traffic">Sincronizza automaticamente le statistiche di utilizzo dati</string>
     <string name="pref_auto_adjust_settings">Impostazioni di sincronizzazione automatica di utilizzo dei dati</string>
     <string name="pref_adjust_data_usage">Modello messaggio operatore</string>
+    <string name="pref_adjust_data_usage_summary">After you changed the calibration template, MIUI will use it to get data usage stats from your carrier</string>
+    <string name="pref_adjust_data_usage_value">Changed</string>
+    <string name="pref_confirm_operator_setting">Make sure the info you entered is correct</string>
+    <string name="pref_correction_setting">Calibration template settings</string>
+    <string name="pref_correction_setting_switch">Use custom calibration template</string>
+    <string name="pref_correction_sms_number">Send calibration SMS to</string>
+    <string name="pref_correction_sms_content">Calibration template</string>
     <string name="pref_setting_operators_message">Modifica il messaggio che il dispositivo invia per sincronizzare le statistiche di utilizzo</string>
     <string name="adjust_traffic_carrier_summary_today">Aggiornato oggi alle %s</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Aggiornato ieri alle %s</string>
@@ -155,7 +167,9 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="right_precent">100%</string>
     <string name="pref_avaible_traffic">Piano dati</string>
     <string name="pref_daily_traffic">Soglia dati</string>
+    <string name="pref_special_package_setting">Custom data plan</string>
     <string name="pref_data_usage_not_set">Imposta limite utilizzo dati</string>
+    <string name="pref_operator_not_set">"Carrier isn't set"</string>
     <string name="pref_warning_values">Livello per avviso utilizzo dati</string>
     <string name="pref_pkg_begin_date">Data azzeramento dati</string>
     <string name="pref_month_first_day">1</string>
@@ -174,8 +188,10 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="input_aviable_traffic">Imposta limite utilizzo dati</string>
     <string name="pkg_traffic">Imposta limite utilizzo dati</string>
     <string name="datausage_ignore_app_list_count">Utilizzo dati ignorato per %d app</string>
+    <string name="traffic_setting_app_count">%d apps</string>
     <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
     <string name="free_time_traffic">Limite dati fuori soglia</string>
+    <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_start_time_summary_na">Da</string>
     <string name="power_save_on_time_end_time_summary_na">A</string>
     <string name="manual_input_traffic">Imposta utilizzo dati</string>
@@ -188,6 +204,17 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="adjust_traffic_data">Imposta utilizzo dati</string>
     <string name="per_month_pkg_traffic_settings">Imposta limite dati</string>
     <string name="free_time_traffic_settings">Limite dati fuori soglia</string>
+    <string name="pref_category_extra_package_tile">Top-up package</string>
+    <string name="pref_key_extra_package_switch">Monthly top-up package</string>
+    <string name="pref_key_extra_package_value">Package size</string>
+    <string name="pref_category_half_year_package_tile">Half-year data package</string>
+    <string name="pref_key_half_year_package_switch">Half-year data package</string>
+    <string name="pref_key_half_year_package_value">Package size</string>
+    <string name="pref_key_half_year_package_start">Starting date</string>
+    <string name="pref_category_daily_package_tile">Daily data plan</string>
+    <string name="pref_key_daily_package_switch">Daily data plan</string>
+    <string name="pref_key_daily_package_value">Daily data plan</string>
+    <string name="pref_key_direction_traffic">Designated mobile data</string>
     <string name="traffic_setting_fragment_title">Richiesta utilizzo dati</string>
     <string name="traffic_setting_fragment_button1_text">Annulla</string>
     <string name="traffic_setting_fragment_button2_text">Salva</string>
@@ -205,11 +232,13 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="traffic_setting_fragment_sms_content_tips">Scrivi qui il tuo messaggio</string>
     <string name="traffic_setting_fragment_null">Vuoto</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
+    <string name="traffic_setting_fragment_find_brand">Non conosci il brand?</string>
     <string name="data_usage_warning_title">Avviso utilizzo dati</string>
     <string name="data_usage_warning_body">Tocca per mostrare i dettagli di utilizzo dati.</string>
     <string name="data_usage_mobile_limit_title">\u0020Limite utilizzo dati raggiunto</string>
     <string name="data_usage_limit_body">Tocca per attivare i dati mobili.</string>
-    <string name="data_usage_disabled_dialog">"Hai raggiunto il limite previsto dal tuo piano dati. Superato questo limite l'operatore potrebbe addebitartene i costi."</string>
+    <string name="data_usage_disabled_dialog">"Hai raggiunto il limite previsto dal tuo piano dati. Superato questo limite
+ l'operatore potrebbe addebitartene i costi."</string>
     <string name="data_usage_disabled_dialog_enable">Attiva i dati</string>
     <string name="data_usage_mobile_limit_snoozed_title">Soglia dati superata</string>
     <string name="data_usage_limit_snoozed_body">Limite dati superato per questo mese.</string>
@@ -224,6 +253,12 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="data_usage_no_total_package_body_dual">Nessun limite impostato per %s</string>
     <string name="network_assistant_upgraded_title">Aggiornato</string>
     <string name="network_assistant_upgraded_body">Tocca per vedere i dettagli.</string>
+    <string name="data_usage_warning_title_notify">You went over your data limit</string>
+    <string name="data_usage_warning_body_notify">Tap to view details</string>
+    <string name="leisure_usage_dialog_title">You went over your off-peak data limit, data connection is off</string>
+    <string name="leisure_usage_dialog_message">"You've reached your off-peak data limit.
+
+Carrier may charge you additional fees if you use mobile data connection again."</string>
     <string name="lock_screen_traffic_warn_title">Notifiche Schermata di blocco</string>
     <string name="lock_screen_traffic_notify_body">Bloccate per %2$s alle %1$s, dati utilizzati %3$s</string>
     <string name="timeshow_h_m">%1$d h %2$d m</string>
@@ -1678,7 +1713,71 @@ Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo 
     <string name="sys_app_prot_cracked_login">Accedi al tuo Mi Account</string>
     <string name="confirmSecondSpacePassword">Conferma password Spazio Secondario</string>
     <string name="sponsored_sec_fb">Sponsorizzato</string>
-    <string name="dialog_remove_luckymoney">"Questa versione MIUI supporta l'Assistente Bust Rossa come app di sistema, disinstallare ed utilizzare la nuova app per ricevere le buste più velocemente?"</string>
-    <string name="dialog_remobe_luckymoney_ok">OK</string>
-    <string name="dialog_remobe_luckymoney_cancle">Usa la versione singola</string>
+    <string name="add_game_notification_summary">Tap to launch &amp; boost speed</string>
+    <string name="app_manager_title">Manage apps</string>
+    <string name="app_manager_my_app">My apps</string>
+    <string name="app_manager_app_lock">App lock</string>
+    <string name="app_manager_bipartition">Dual apps</string>
+    <string name="app_manager_power">Permissions</string>
+    <string name="app_manager_apps_generatioin">Updates</string>
+    <string name="app_manager_apps_generation_summary">Update to use the latest features</string>
+    <string name="app_manager_permission">Privacy related permissions (last 7 days)</string>
+    <string name="app_manager_details_storage_title">Storage</string>
+    <string name="app_manager_details_traffic_title">Mobile data usage</string>
+    <string name="app_manager_details_electric_title">Battery</string>
+    <string name="app_manager_card_permission_title">Permissions</string>
+    <string name="app_manager_permission_startself_title">Autostart</string>
+    <string name="app_manager_permission_startself_summary">Apps which start automatically occupy RAM and drain battery faster</string>
+    <string name="app_manager_permission_manager_title">Permissions</string>
+    <string name="app_manager_permission_notify_title">Notifications</string>
+    <string name="app_manager_permission_notify_summary">Badges, floating, and Lock screen notifications</string>
+    <string name="app_manager_permission_power_saving_title">Battery saver</string>
+    <string name="app_manager_permission_power_saving_summary">MIUI Battery saver</string>
+    <string name="app_manager_default_open">Open by default</string>
+    <string name="app_manager_default_open_title">Clear defaults</string>
+    <string name="app_manager_default_close_summary">No defaults set.</string>
+    <string name="app_manager_default_open_summary">You’ve chosen to launch this app by default for some actions.</string>
+    <string name="app_manager_app_version_name">Version:</string>
+    <string name="app_manager_unstall_application">Uninstall</string>
+    <string name="app_manager_force_stop_dlg_title">Force stop?</string>
+    <string name="app_manager_force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
+    <string name="app_manager_dlg_ok">OK</string>
+    <string name="app_manager_dlg_cancel">Cancel</string>
+    <string name="app_manager_wake_path_card_title">Chain start history (2 days)</string>
+    <string name="app_manager_show_detail_infos">View all</string>
+    <string name="app_manager_wakepath_dialog_title">About chain start</string>
+    <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. MIUI would normally block chain start.</string>
+    <string name="app_manager_wakepath_dialog_buttontext">Got it</string>
+    <string name="app_manager_stop_wakepath_dialog_title">Restrict chain start</string>
+    <string name="app_manager_stop_wakepath_dialog_summary">Uninstall %s to restrict chain start?</string>
+    <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">卸载后可杜绝该应用发起的所有链式启动，同时卸载关联的双开应用，确认卸载%s？</string>
+    <string name="app_manager_stop_wp_dialog_cancel">Cancel</string>
+    <string name="app_manager_stop_wp_dialog_uninstall">Uninstall</string>
+    <string name="app_manager_reduce_wakepath_dialog">Minimize chain start</string>
+    <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
+    <string name="app_manager_rebide_wakepath">Restrict</string>
+    <string name="app_manager_stop_wakepath_success">Restricted successfully</string>
+    <string name="app_maanger_app_uninstalled_toast">This app is uninstalled</string>
+    <string name="app_manager_start_by">Started by %s</string>
+    <string name="app_manager_not_record">No items here</string>
+    <string name="app_manager_perm_monitor_read_contacts">Read your contacts</string>
+    <string name="app_manager_perm_monitor_read_call_history">Read call history</string>
+    <string name="app_manager_perm_monitor_read_sms">Read SMS messages</string>
+    <string name="app_manager_perm_monitor_send_sms">Send SMS messages</string>
+    <string name="app_manager_perm_monitor_make_calls">Make phone calls</string>
+    <string name="app_manager_more_times">Accessed 100000+ times</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_msg">Uninstalling dual app will remove all app data.</string>
+    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_title">Uninstall dual app?</string>
+    <string name="app_manager_permission_read_contact_over">Accessed contacts 100000+ times</string>
+    <string name="app_manager_permission_call_phone_over">Made calls 100000+ times</string>
+    <string name="app_manager_permission_send_mms_over">Send SMS 100000+ times</string>
+    <string name="app_manager_permission_read_mms_over">Read SMS 100000+ times</string>
+    <string name="app_manager_permission_read_record_over">Read call history 100000+ times</string>
+    <string name="app_manager_reject_count_over">Blocked 100000+ times</string>
+    <string name="app_manager_start_count_over">100000+ times</string>
+    <string name="app_manager_loading_data">Loading data…</string>
+    <string name="app_manager_appupdate_remind">Notify about updates</string>
+    <string name="app_manager_update_label_text">New</string>
+    <string name="ad_btn_default_text">Learn more</string>
 </resources>

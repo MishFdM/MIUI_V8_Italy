@@ -227,6 +227,7 @@ Per attivare il tuo account, segui il
     <string name="account_user_name_dialog_title">Inserisci nome utente</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
     <string name="account_error_all_space_user_name">Il nome non può essere composto solo da spazi</string>
+    <string name="account_error_invalid_user_name">"Il nome non può contenere &lt;, >, /"</string>
     <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
     <string name="account_error_longer_user_name">Il nome non può superare i 20 caratteri</string>
     <string name="account_error_user_birthday">La data di compleanno indicata non è valida</string>
@@ -366,6 +367,8 @@ Assicurati di ricordare le risposte."</string>
     <string name="find_device_error_password_not_confirmed">Impossibile disattivare Trova Dispositivo. Inserisci il tuo Mi Account.</string>
     <string name="find_device_operation_failed_error_unknown">Si è verificato un errore, riprova più tardi</string>
     <string name="find_device_remote_exception">Errore RPC</string>
+    <string name="io_error_title">Conferma la tua rete</string>
+    <string name="login_check_find_device_failed_title">"Impossibile verificare le informazioni di sicurezza del dispositivo"</string>
     <string name="multi_user_not_show_sync_activity_title">Non attivare la sincronizzazione con Mi Cloud</string>
     <string name="multi_user_not_show_sync_activity_message_1">Sembra che tu stia utilizzando il tuo spazio Mi Account predefinito.</string>
     <string name="multi_user_not_show_sync_activity_message_2">In questo caso, tutti i dati verranno sincronizzati con il tuo spazio secondario. Per evitare questo non attivare la sincronizzazione con Mi Cloud.</string>
@@ -397,12 +400,8 @@ Assicurati di ricordare le risposte."</string>
 · Se hai dimenticato la password, vai su id.mi.com per ripristinarla.
 · Se non puoi sbloccare il dispositivo, vai su i.mi.com per disattivare Trova Telefono
 · Comunica questo numero di sblocco al servizio clienti: %s"</string>
-    <string name="io_error_title">Conferma la rete</string>
     <string name="find_device_display_id">Numero sblocco: %s</string>
-    <string name="login_check_find_device_failed_title">Impossibile verificare lo stato di Trova Dispositivo</string>
-    <string name="login_find_device_bind">Questo dispositivo è associato con un ID Mi Account esistente (%s).</string>
-    <string name="miui_provision_find_status_text">"Questo dispositivo è associato con un Mi Account esistente (%1$s), inserisci la password per verificare il dispositivo.
-(Numero sblocco: %2$s)"</string>
+    <string name="login_find_device_bind">Questo account è già associato ad un ID Mi Account (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s,telefono associato:%s</string>
     <string name="find_device_locked_account_email" formatted="false">%s,email associata:%s</string>
     <string name="oauth_title">Accedi con il Mi Account</string>

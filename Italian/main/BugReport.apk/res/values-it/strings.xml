@@ -162,7 +162,6 @@
     <string name="cta_not_show_again">Non chiedere più</string>
     <string name="cta_cancel">Annulla</string>
     <string name="cta_confirm">OK</string>
-    <string name="bugreport_feedback_from">Da: %s</string>
     <string name="submit_dialog_title">Invia rapporto a Xiaomi</string>
     <string name="submit_dialog_content">Il tuo feedback, insieme al log di errore e alle immagini allegate, verrà inviato ai server Xiaomi.</string>
     <string name="submit_dialog_cancel">Annulla</string>
@@ -224,6 +223,8 @@
     <string name="feedback_description_bugreport_hint">In alcuni casi () il telefono da problemi ().</string>
     <string name="toast_title_required">Descrivi il tuo problema</string>
     <string name="toast_problem_class_required">Seleziona categoria</string>
+    <string name="feedback_third_packagename_hint">Quale app di terze parti causa problemi?</string>
+    <string name="toast_third_packagename_required">Inserisci nome app</string>
     <string name="feedback_status_commit_succ_title">Inviato</string>
     <string name="feedback_status_commit_uploading_title">Invio incorso...</string>
     <string name="feedback_status_commit_failed_title">Impossibile inviare report</string>
