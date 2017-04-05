@@ -60,12 +60,12 @@ per gestire il tuo utilizzo dei dati"</string>
  3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
  4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
  5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
-    <string name="card_sms_report">Report via SMS</string>
-    <string name="main_normal_data_usage">Used mobile data</string>
-    <string name="main_tc_send_sms">"Send SMS
-to calibrate"</string>
-    <string name="main_tc_wait_result">"Waiting for the carrier
-to respond"</string>
+    <string name="card_sms_report">Rapporto SMS</string>
+    <string name="main_normal_data_usage">Dati mobili utilizzati</string>
+    <string name="main_tc_send_sms">"Invia SMS
+per calibrare"</string>
+    <string name="main_tc_wait_result">"In attesa di risposta
+dall'operatore"</string>
     <string name="main_tc_over">Calibrato correttamente</string>
     <string name="main_purchase_tips">Promozione</string>
     <string name="main_month_total_used">Usati questo mese</string>
@@ -153,8 +153,8 @@ to respond"</string>
     <string name="pref_confirm_operator_setting">Make sure the info you entered is correct</string>
     <string name="pref_correction_setting">Calibration template settings</string>
     <string name="pref_correction_setting_switch">Use custom calibration template</string>
-    <string name="pref_correction_sms_number">Send calibration SMS to</string>
-    <string name="pref_correction_sms_content">Calibration template</string>
+    <string name="pref_correction_sms_number">Invio SMS di calibrazione a</string>
+    <string name="pref_correction_sms_content">Modello di calibrazione</string>
     <string name="pref_setting_operators_message">Modifica il messaggio che il dispositivo invia per sincronizzare le statistiche di utilizzo</string>
     <string name="adjust_traffic_carrier_summary_today">Aggiornato oggi alle %s</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Aggiornato ieri alle %s</string>
@@ -167,9 +167,9 @@ to respond"</string>
     <string name="right_precent">100%</string>
     <string name="pref_avaible_traffic">Piano dati</string>
     <string name="pref_daily_traffic">Soglia dati</string>
-    <string name="pref_special_package_setting">Custom data plan</string>
+    <string name="pref_special_package_setting">Piano dati presonalizzato</string>
     <string name="pref_data_usage_not_set">Imposta limite utilizzo dati</string>
-    <string name="pref_operator_not_set">"Carrier isn't set"</string>
+    <string name="pref_operator_not_set">Operatore non impostato</string>
     <string name="pref_warning_values">Livello per avviso utilizzo dati</string>
     <string name="pref_pkg_begin_date">Data azzeramento dati</string>
     <string name="pref_month_first_day">1</string>
