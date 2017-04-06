@@ -114,7 +114,7 @@
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">Non è stato eseguito il backup di %d foto e video</item>
-        <item quantity="one">Non è stato eseguito il backup di %d foto o video"</item>
+        <item quantity="one">Non è stato eseguito il backup di %d foto o video</item>
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d elementi</item>
