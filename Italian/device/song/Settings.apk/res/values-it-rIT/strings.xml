@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="accessibility_autoclick_preference_title">Fai click dopo che il puntatore si è fermato</string>
+<string name="accessibility_toggle_large_pointer_icon_title">Puntatore mouse grande</string>
+<string name="accessibility_toggle_master_mono_summary">Unire i canali audio durante la riproduzione</string>
+<string name="keyboard_and_input_methods_category">Tastiera e metodi di input</string>
+<string name="virtual_keyboard_category">Tastiera virtuale</string>
+<string name="available_virtual_keyboard_category">Disponibile tastiera virtuale</string>
+<string name="add_virtual_keyboard">Gestisci tastiere</string>
+<string name="keyboard_assistance_category">Assistente tastiera</string>
+<string name="physical_keyboard_title">Tastiera fisica</string>
+<string name="show_ime">Mostra tastiera virtuale</string>
+<string name="show_ime_summary">Lascia sullo schermo mentre la tastiera fisica è attiva</string>
+<string name="keyboard_shortcuts_helper">Assistente per collegamenti tastiera</string>
+<string name="keyboard_shortcuts_helper_summary">Mostra collegamenti disponibili</string>
+<string name="accessibility_autoclick_delay_preference_title">Ritardo prima del click</string>
+<string name="tts_reset_speech_pitch_title">Ripristino punto discorso</string>
+<string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
+<string name="tts_reset_speech_rate_title">Ripristino velocità discorso</string>
+<string name="tts_reset_speech_rate_summary">"Ripristina l'intonazione del testo alla velocità normale."</string>
+</resources>
