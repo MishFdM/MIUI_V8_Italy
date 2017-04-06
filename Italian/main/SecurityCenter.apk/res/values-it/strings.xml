@@ -188,7 +188,6 @@ dall'operatore"</string>
     <string name="input_aviable_traffic">Imposta limite utilizzo dati</string>
     <string name="pkg_traffic">Imposta limite utilizzo dati</string>
     <string name="datausage_ignore_app_list_count">Utilizzo dati ignorato per %d app</string>
-    <string name="traffic_setting_app_count">%d app</string>
     <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
     <string name="free_time_traffic">Limite dati fuori soglia</string>
     <string name="power_save_on_time_default_time_na">00:00</string>
@@ -860,9 +859,6 @@ essere connesso ad una rete dati."</string>
     <string name="auto_task_edit_step1">1.</string>
     <string name="auto_task_edit_step2">2.</string>
     <string name="pc_battery_history_show_imei">IMEI:</string>
-    <string name="resource_securitycenter_settings">Sicurezza</string>
-    <string name="keywords_securitycenter_settings">Utilizzo batteria;Gestione avvio automatico;Install via USB;App permissions;Buy mobile data;Blocklist;Data usage;Calibrate data plan;Test network; Save battery;Heating;Turn on;Turn off;Battery;Draining;Battery issues;Energy;Battery saver;Energy saver;Energy saving;Battery saving; Autostart;Permissions;Auto start;MIUI autostart; App autostart; autostart apps;Chain start;chained start;triggered start; USB install;install from computer;ADB install; Location;Access contacts; data;mobile data;buy data;topup data;data plan; Block;Black list;Smart blocklist;Fraud;Sales;Agents;Call blocklist;Message blocklist;Messaging blocklist;SMS blocklist;blacklist;black list;blocklist;block list;fraud;block contact;block contacts; Traffic; Calibrate; Connection;Internet;Test; Battery use</string>
-    <string name="path_securitycenter_settings">App di sistema/Sicurezza/string>
     <string name="resource_securitycenter_settings">Sicurezza</string>
     <string name="keywords_securitycenter_settings">Risparmio batteria;Permessi;Lista blocco;Utilizzo dati;Calibra piano dati;Test di rete;Blocco app;Risparmio batteria;Riscaldamento;Attiva;Disattiva;Batteria;Consumo;Avvio automatico;Root;Localizzazione;Accesso ai contatti;Blocco;Blacklist;Lista blocco smart;Truffa;Vendite;Agenti;Dati;Traffico;Calibrazione;Connessione;Internet;Test;Password;Privacy;Accesso;Protezione</string>
     <string name="path_securitycenter_settings">Applicazioni di sistema/Sicurezza</string>
