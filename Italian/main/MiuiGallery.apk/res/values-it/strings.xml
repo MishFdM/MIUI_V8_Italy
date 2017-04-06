@@ -742,6 +742,10 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="loading_fail_sync_off">Attiva sincronizzazione con Mi Cloud per scaricare</string>
     <string name="loading_fail">Download fallito</string>
     <string name="image_download_item_title">Download immagine (%s)</string>
+    <string name="loading_fail_syncing">Attendi finchè i metadata non sono completaemnte scaricati e prova di nuovo</string>
+    <string name="loading_fail_sync_without_network">Collegati alla rete per scaricare i metadata</string>
+    <string name="loading_video_fail_syncing">Attendi fino a che i metadati non sono completamente scaricati e prova di nuovo</string>
+    <string name="loading_video_fail_sync_without_network">Collegati alla rete per scaricare i metadata</string>
     <string name="download_without_wifi_title">Avviso utilizzo dati</string>
     <string name="download_without_wifi_msg">Utilizzando la connessione dati cellulare per il download delle foto consumerai molti dati. Superando il limite previsto dal tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi.</string>
     <string name="confirm_download_video_title">Scarica video</string>

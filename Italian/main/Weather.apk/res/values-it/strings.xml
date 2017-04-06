@@ -160,6 +160,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="activity_alert_detail_title" />
     <string name="install">Installa</string>
     <string name="open">Apri</string>
+    <string name="open_now">Apri adesso</string>
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="aqi_publish_source">Aggiornato a %1$s di CNEMC</string>
     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
@@ -184,6 +185,11 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="edit_alert_city_title">Gestisci avvisi</string>
     <string name="aqi_detail_unit">Unità: µg/m3 (CO:mg/m3)</string>
     <string name="index_item_install_now">Installa adesso</string>
+    <string name="index_item_experience_now">Installaadesso</string>
+    <string name="index_item_installing">Installazione</string>
+    <string name="index_item_install_dialog" />
+    <string name="index_item_install_dialog_cancel" />
+    <string name="index_item_install_dialog_open" />
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
     <string name="set_land_mile">" mp/h"</string>
@@ -195,8 +201,11 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="unit_temperature">Unità temperatura</string>
     <string name="unit_wind">Unità forza vento</string>
     <string name="set">Impostazioni</string>
+    <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="common_loading_text">Solo un attimo...</string>
     <string name="change_alert">Controlla la connessione di rete e prova di nuovo</string>
+    <string name="card_vote_item_vs">VS</string>
+    <string name="total_voted_num_text">"%1$ persone hanno votato"</string>
     <string name="yes_vote_ratio">Per %1$s%%</string>
     <string name="yes_vote_num"> | %1$s persone</string>
     <string name="no_vote_ratio">Contro %1$s%%</string>

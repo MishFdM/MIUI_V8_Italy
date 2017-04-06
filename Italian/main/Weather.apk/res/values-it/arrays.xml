@@ -52,19 +52,40 @@
         <item>O</item>
         <item>NO</item>
     </string-array>
-    <string-array name="wind_power">
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
+    <string-array name="aqi_value">
+        <item>Buono</item>
+        <item>Soddisfacente</item>
+        <item>Moderatamente inquinato</item>
+        <item>Scarso</item>
+        <item>Molto scarso</item>
+        <item>Pessimo</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Scala Beaufort</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Force 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Scala Beaufort</item>
+        <item>Chilometri orari (km/h)</item>
+        <item>Metri al secondo (m/s)</item>
+        <item>"Miglia all'ora (mph)"</item>
+        <item>Nodi (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Forza %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
     </string-array>
 </resources>
