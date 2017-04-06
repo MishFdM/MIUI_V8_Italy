@@ -211,8 +211,8 @@ dall'operatore"</string>
     <string name="pref_key_half_year_package_value">Dimensione pacchetto</string>
     <string name="pref_key_half_year_package_start">Data di inizio</string>
     <string name="pref_category_daily_package_tile">Piano dati giornaliero</string>
-    <string name="pref_key_daily_package_switch">Daily data plan</string>
-    <string name="pref_key_daily_package_value">Daily data plan</string>
+    <string name="pref_key_daily_package_switch">Piano dati giornaliero</string>
+    <string name="pref_key_daily_package_value">Piano dati giornaliero</string>
     <string name="pref_key_direction_traffic">Designated mobile data</string>
     <string name="traffic_setting_fragment_title">Richiesta utilizzo dati</string>
     <string name="traffic_setting_fragment_button1_text">Annulla</string>
