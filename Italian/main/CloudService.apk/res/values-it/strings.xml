@@ -447,6 +447,8 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_notif_content_clipboard_push">Puoi incollarlo ovunque.</string>
     <string name="micloud_notif_title_multi_user_error">Impossibile sincronizzare con Mi Cloud</string>
     <string name="micloud_notif_content_multi_user_error">"Hai effettuato l'accesso con lo stesso account dello spazio originario."</string>
+	<string name="micloud_notif_title_dirty_data">Non hai sincronizzato degli elementi</string>
+    <string name="micloud_notif_content_dirty_data">Dettagli</string>
     <string name="micloud_find_device_guide_title">"Accedi a %s per localizzare, bloccare o formattare il tuo dispositivo."</string>
     <string name="micloud_find_device_guide_content">Quando cambi SIM, verrà inviato automaticamente un SMS per riattivare questa funzione.</string>
     <string name="micloud_find_device_guide_button">Attiva Trova Dispositivo</string>
