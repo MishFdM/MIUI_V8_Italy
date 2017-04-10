@@ -18,4 +18,12 @@
 <string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
 <string name="tts_reset_speech_rate_title">Ripristino velocità discorso</string>
 <string name="tts_reset_speech_rate_summary">"Ripristina l'intonazione del testo alla velocità normale."</string>
+<string name="bluetooth_disable_absolute_volume">Disattiva volume assoluto</string>
+<string name="bluetooth_disable_absolute_volume_summary">Disattiva la funzione di volume assoluto Bluetooth in caso di problemi come il volume eccessivo o mancanza di controllo.</string>
+<string name="enable_webview_multiprocess">Abilita WebView multiprocesso</string>
+<string name="enable_webview_multiprocess_desc">Esegui il rendering WebView separatamente</string>
+<string name="force_allow_on_external">Forza riallocazione su memoria esterna</string>
+<string name="force_allow_on_external_summary">"Rendi l'installazione di una applicazione esterna, indipendentemente dai suoi valori"</string>
+<string name="force_resizable_activities">Forza ridimensionamento attività</string>
+<string name="force_resizable_activities_summary">Forza il ridimensionamento delle attività per il multi-window, indipendentemente dai suoi valori</string>
 </resources>
