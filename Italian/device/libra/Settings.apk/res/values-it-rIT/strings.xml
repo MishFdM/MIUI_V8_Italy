@@ -26,4 +26,8 @@
 <string name="force_allow_on_external_summary">"Rendi l'installazione di una applicazione esterna, indipendentemente dai suoi valori"</string>
 <string name="force_resizable_activities">Forza ridimensionamento attività</string>
 <string name="force_resizable_activities_summary">Forza il ridimensionamento delle attività per il multi-window, indipendentemente dai suoi valori</string>
+<string name="mqsas_settings_category">MQSAS</string>
+<string name="record_anr_in_background">Registra casi ANR in background</string>
+<string name="anr_record_interval_title">Registra intervalli ANR</string>
+<string name="open_anr_debug">Attiva debug ANR</string>
 </resources>
