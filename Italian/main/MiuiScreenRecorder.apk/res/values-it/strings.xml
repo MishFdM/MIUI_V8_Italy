@@ -9,7 +9,7 @@
     <string name="bit_rate">Qualità video</string>
     <string name="bit_rate_summary">Più alta la qualità maggiore sarà la dimensione occupata</string>
     <string name="frames">Frame rate</string>
-    <string name="frames_summary">"Più alto il frame rate maggiore sarà la riduzione dell'effetto blur"</string>
+    <string name="frames_summary">Più alto il frame rate maggiore sarà la riduzione della sfocatura</string>
     <string name="screen_orientation">Orientamento</string>
     <string name="screen_orientation_summary">Orientamento registrazione schermo</string>
     <string name="sound_source">Suoni</string>
@@ -19,12 +19,12 @@
     <string name="show_screen_touch_summary">Visualizza i tocchi attraverso un punto bianco</string>
     <string name="show_hard_key">Visualizza tasti di navigazione</string>
     <string name="show_hard_key_summary">Come da istruzioni premi i tasti Home, Menu, e Indietro</string>
-    <string name="stop_record_while_locking">Blocco schermo per terminare</string>
-    <string name="stop_record_while_locking_summary">Terminare la registrazione e salvare il video quando il terminale è bloccato</string>
+    <string name="stop_record_while_locking">Terminare quando bloccato</string>
+    <string name="stop_record_while_locking_summary">Termina e salva la registrazione quando il dispositivo è bloccato</string>
     <string name="gleam_led_while_recording">Flash LED durante la registrazione</string>
     <string name="quit_recording">Uscito da Registrazione schermo</string>
     <string name="no_recorder_info">Nessun video</string>
-    <string name="no_recorder_info2">Tocca sul + per aggiungere una registrazione dello schermo.​</string>
+    <string name="no_recorder_info2">"Tocca sull'icona per iniziare una registrazione."​</string>
     <string name="cancel_edit">Annulla</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="deselect_all">Deseleziona tutto</string>
