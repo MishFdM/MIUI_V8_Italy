@@ -587,6 +587,7 @@
     <string name="qq_login_btn_str">QQ</string>
     <string name="weibo_login_btn_str">Weibo</string>
     <string name="user_id_tip">ID: </string>
+    <string name="user_desc_default_tip">Accedi per raccogliere punti e vincere premi.</string>
     <string name="click_login_str">Accedi</string>
     <string name="you_liao_god_str">Uomo</string>
     <string name="you_liao_goddess_str">Donna</string>
@@ -595,6 +596,7 @@
     <string name="you_liao_xunlei_desc">Sottoscrivi un contratto per ricevere lo status di Ospite</string>
     <string name="you_liao_god_desc">Carica video regolarmente ed espandi il gruppo dei tuoi fan per ottenere lo status di Uomo</string>
     <string name="you_liao_goddess_desc">Carica video regolarmente ed espandi il gruppo dei tuoi fan per ottenere lo status di Donna​</string>
+    <string name="default_user_desc">Questa persona non ha ancora aggiunto una descrizione</string>
     <string name="recommend">Consigliati</string>
     <string name="topic_message">%1$s: %2$s</string>
     <string name="message_my_received_praise">Mi piace ricevuti</string>
@@ -645,12 +647,7 @@
     <string name="download">Scarica</string>
     <string name="open_app">Apri</string>
     <string name="recent_show">Recenti</string>
-    <string name="zero">0</string>
-    <string name="youliao_dialog_title">Nessun video di tuo interesse?</string>
-    <string name="update">Aggiorna</string>
     <string name="youliao_ad_title">I migliori video sono stati aggiornati alla versione integrale!</string>
-    <string name="youliao_dialog_msg">" migliori video sono stati aggiornati su \"Youliao\", 
-adesso aggiornati alla versione APP integrale, vedi altro."</string>
     <string name="youliao_ad_msg">"Adesso aggiornati alla verrsione APP integrale, buon divertimento!
 Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="youliao_ad_update">Aggiorna</string>
@@ -809,6 +806,7 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="open_chest">Apri per ricevere un premio</string>
     <string name="count_down">Contoalla rovescia: %1$s</string>
     <string name="full_gems">Scambia le tue gemme</string>
+    <string name="default_prize_text">Questo va dritto con i miei tesori!</string>
     <string name="prize_result_tip">Scambio</string>
     <string name="prize_result_tip2">Gemme aggiunte al tuo tesoro</string>
     <string name="black_list">Sei stato bloccato. Invia il tuo feedback su MIUI Forum per conoscere i motivi.</string>
@@ -832,6 +830,31 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="select_interest_tip">"C'è ancora molto da scoprire!"</string>
     <string name="finish_str">Fatto</string>
     <string name="tab_msg">Messaggi</string>
+    <string name="msg_page_video_default_title">Ho caricato un video, dai uno sguardo!</string>
     <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">Seguito correttamente</string>
+    <string name="comment_fail">Impossibile pubblicare commento, prova di nuovo"</string>
+    <string name="comment_fail_banned_temporary">Sei stato bannato temporaneamente per commenti inadeguati</string>
+    <string name="comment_fail_banned_forever">Sei stato bannato in modo permanente per commenti inadeguati. Contatta il nostro gruppo QQ (374463568) per maggiori informazioni.</string>
+    <string name="comment_fail_banned_forever_positive">Ho capito</string>
+    <string name="no_search_content">Nessun risultato</string>
+    <string name="user">Utenti</string>
+    <string name="topic_title">Argomenti</string>
+    <string name="see_more_user">Altri utenti/string>
+    <string name="see_more_topic">Altri argomenti</string>
+    <string name="search_topic">Cerca argomenti</string>
+    <string name="search_user">Cerca persone</string>
+    <string name="search_popup_tip">Puoi cercare persone e argomenti</string>
+    <string name="save">Salva</string>
+    <string name="save_name_success">Cambiato correttamente</string>
+    <string name="save_desc_success">Cambiato correttamente</string>
+    <string name="save_failed">Impossibile salvare, grazie di nuovo</string>
+    <string name="save_failed_for_length">Fima troppo lunga, prova con una più breve</string>
+    <string name="contain_sensitive_words">Rimuovi le parole inappropriate e prova di nuovo</string>
+    <string name="daily_clockin">Controlla</string>
+    <string name="clockin_failed">Impossibile controllare, prova di nuovo</string>
+    <string name="clockin_success">Controllo eseguito</string>
+    <string name="clockin_use">Ricevi un premio</string>
+    <string name="search_history">Cronologia di ricerca</string>
+    <string name="clear_record">Cancella cronologia</string>
 </resources>

@@ -89,6 +89,7 @@
     <string name="i_know">Lo so</string>
     <string name="dialog_text">"Verrà creata un'icona sulla home per l'avvio rapido"</string>
     <string name="anim_gamebooster_text">Solo un attimo…</string>
+    <string name="intro_skip">Salta</string>
     <string name="game_booster_total">Velocità aumentata di %1$s volte, aggiunti %2$s di durata di gioco</string>
     <string name="application_item_disable">Limitate</string>
     <string name="application_item_already_permission">Consentite</string>

@@ -13,6 +13,7 @@
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
     <string name="network_unavailable">Impossibile connettersi alla rete.</string>
     <string name="connect_fail">Anomalia nella connessione di rete. Prova di nuovo più tardi.</string>
+    <string name="act_find_city_hot_city_title">Città popolari</string>
     <string name="act_find_city_hot_title">Aggiungi</string>
     <string name="act_find_city_hint">Inserisci località</string>
     <string name="act_set_city_find_side">Localizzazione in corso…</string>
@@ -145,6 +146,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
     <string name="aqi_detail_24_hours">Previsioni orarie</string>
     <string name="aqi_sub_desc">IQA</string>
     <string name="menu_add_city">Aggiungi/elimina città</string>
+    <string name="menu_speeker">Trasmissione vocale</string>
     <string name="button_add_city">Aggiungi città</string>
     <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
@@ -205,11 +207,8 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="common_loading_text">Solo un attimo...</string>
     <string name="change_alert">Controlla la connessione di rete e prova di nuovo</string>
     <string name="card_vote_item_vs">VS</string>
-    <string name="total_voted_num_text">"%1$ persone hanno votato"</string>
     <string name="yes_vote_ratio">Per %1$s%%</string>
-    <string name="yes_vote_num"> | %1$s persone</string>
     <string name="no_vote_ratio">Contro %1$s%%</string>
-    <string name="no_vote_num">%1$s persone | </string>
     <string name="already_voted">Votato</string>
     <string name="already_voted_toast">Hai già votato per oggi</string>
 </resources>

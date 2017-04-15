@@ -152,4 +152,5 @@
     <string name="head_set_tip_dialog_title">Usa microfono interno</string>
     <string name="head_set_tip_dialog_msg">Disconnetti le cuffie per poter registrare il suono con impostazioni specifiche (es., Musica, Voice).</string>
     <string name="head_set_tip_dialog_ok">Ho capito</string>
+    <string name="rename_fail_tip">Impossibile rinominare. Esiste già un elemento con questo nome.</string>
 </resources>

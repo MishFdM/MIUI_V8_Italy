@@ -930,9 +930,9 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="auto_brightness_summary">Ottimizza il livello di luminosità secondo la luce disponibile</string>
     <string name="night_mode_title">Theme</string>
     <string name="night_mode_summary">%s</string>
-    <string name="night_mode_no">Light</string>
-    <string name="night_mode_yes">Dark</string>
-    <string name="night_mode_auto">Automatic</string>
+    <string name="night_mode_no">Chiaro</string>
+    <string name="night_mode_yes">Scuro</string>
+    <string name="night_mode_auto">Automatico</string>
     <string name="screen_timeout">Sospensione</string>
     <string name="screen_timeout_title">Disattivazione schermo</string>
     <string name="screen_timeout_summary">Dopo %1$s di inattività</string>
@@ -1533,7 +1533,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="app_ops_settings">Op. app</string>
     <string name="app_ops_running">In corso</string>
     <string name="app_ops_never_used">(Mai utilizzata)</string>
-    <string name="no_default_apps">No default Apps.</string>
+    <string name="no_default_apps">Nessuna app predefinita.</string>
     <string name="storageuse_settings_title">Utilizzo memoria</string>
     <string name="storageuse_settings_summary">Visualizza la memoria utilizzata dalle applicazioni</string>
     <string name="runningservices_settings_title">Servizi in esecuzione</string>

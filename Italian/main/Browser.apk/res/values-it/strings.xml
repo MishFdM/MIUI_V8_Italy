@@ -112,6 +112,7 @@
     <string name="bookmark_title_lable">Titolo</string>
     <string name="bookmark_url">URL</string>
     <string name="bookmark_url_already_exisit">Hai già salvato questo URL</string>
+    <string name="bookmark_url_can_not_null">Inserisci URL.</string>
     <string name="bookmark_url_lable">URL</string>
     <string name="bookmark_url_not_valid">Questo URL non è valido.</string>
     <string name="bookmarks_content_is_null">Nessun segnalibro</string>
@@ -161,6 +162,7 @@
     <string name="color_picker_dialog_title">Seleziona colore</string>
     <string name="color_picker_hue">Colore</string>
     <string name="color_picker_saturation">Saturazione</string>
+    <string name="color_picker_value">Valore</string>
     <string name="comment_app_menu">commenti</string>
     <string name="comment_hint">Commenti</string>
     <string name="comment_menu">commenti</string>
@@ -275,6 +277,7 @@ finestra riservata​"</string>
     <string name="edit">Modifica</string>
     <string name="edit_bookmark">Modifica segnalibro</string>
     <string name="edit_quicklink">Modifica</string>
+    <string name="empty_app_name">Altra app</string>
     <string name="empty_bookmark">Nessuno</string>
     <string name="empty_history_hint">Vuoto</string>
     <string name="empty_snapshot_hint">Vuoto</string>
@@ -468,6 +471,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="notif_install_successful">Download completato</string>
     <string name="ok">OK</string>
     <string name="older">Più vecchi</string>
+    <string name="open_app_confirm_message">Consentire a questa pagina di aprire %s?</string>
     <string name="open_file_explorer_failed">Impossibile aprire File Explorer"</string>
     <string name="opening_file_error">Impossibile aprire il file selezionato</string>
     <string name="page_info">Info pagina</string>

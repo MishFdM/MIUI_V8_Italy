@@ -66,6 +66,7 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="left_action_default_hint_text">Mi Remote</string>
     <string name="click_to_enter_text">Tocca per sbloccare</string>
     <string name="fingerprint_try_again_text">Prova di nuovo</string>
+    <string name="fingerprint_try_again_msg">"Impossibile verificare l'impronta, prova di nuovo."</string>
     <string name="fingerprint_not_identified_title">Impossibile leggere le impronte digitali</string>
     <string name="fingerprint_not_identified_msg">Inserisci la password per sbloccare il dispositivo.</string>
     <string name="fingerprint_add_title">Aggiungi impronta</string>
@@ -83,4 +84,5 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="custom_lock_wallpaper_enter">Inserisci</string>
     <string name="fingerprint_enter_second_psw_title">Inserisci password Spazio Secondario</string>
     <string name="fingerprint_enter_second_psw_msg">Inserisci la password dello Spazio Secondario dopo aver riavviato il dispositivo per utilizzare il lettore di impronte</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">Impossibile accedere allo spazio Secondario in modalità semplificata</string>
 </resources>

@@ -413,4 +413,21 @@ Assicurati di ricordare le risposte."</string>
     <string name="push_notification_content">Premi per ricevere ilcodice di verifica</string>
     <string name="push_notify_dialog_title">Verifica di Sicurezza Accesso</string>
     <string name="push_notify_dialog_message">Un nuovo dispositivo sta cercando di accedere al tuo Mi Account. Inserisci il codice di verifica sul tuo nuovo dispositivo per completare la verifica di sicurezza. Se non lo hai richiesto tu, modifica la password del tuo Mi Account.</string>
+    <string name="account_secure_info_pref_title">Info account</string>
+    <string name="account_user_email">Email</string>
+    <string name="account_user_phone">Telefono</string>
+    <string name="account_user_recovery_phone">Ripristina telefono</string>
+    <string name="account_security_info_pref_title">Info sicurezza</string>
+    <string name="account_bind_settings">Account</string>
+    <string name="account_bind_devices">Dispositivi</string>
+    <string name="account_protection">Protezione account</string>
+    <string name="account_protection_on">On</string>
+    <string name="account_protection_off">Off</string>
+    <string name="logout_account">Esci</string>
+    <string name="mipay">Paga</string>
+    <string name="mipay_bank_card">Carta bancaria</string>
+    <string name="mipay_transit_card">Carta trasporti</string>
+    <string name="mipay_balance">Saldo</string>
+    <string name="mipay_others">Altro</string>
+    <string name="mipay_identity">Identità</string>
 </resources>
