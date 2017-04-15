@@ -427,7 +427,6 @@ essere connesso ad una rete dati."</string>
     <string name="traffic_setting_extra_traffic_title">Impostazioni aggiuntive</string>
     <string name="traffic_setting_step_num">Impostazioni piano dati</string>
     <string name="traffic_setting_open">Attivato</string>
-    <string name="traffic_setting_app_count">%d app</string>
     <string name="traffic_warning_purchase_title">Avviso utilizzo dati mobili</string>
     <string name="traffic_purchase_body">Tocca per ricaricare.</string>
     <string name="traffic_purchse_suggestion">Ricarica dati rete mobile</string>

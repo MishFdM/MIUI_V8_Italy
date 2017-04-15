@@ -841,8 +841,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="webview_find_on_page">Trova nella pagina</string>
     <string name="webviewchromium_private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="week_picker_dialog_title">Imposta settimana</string>
-    <string name="empty_app_name">altra app</string>
-    <string name="open_app_confirm_message">Consentire a questa pagina di aprire %s?</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
