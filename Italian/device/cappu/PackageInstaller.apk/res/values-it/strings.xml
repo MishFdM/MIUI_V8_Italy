@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sostituirà la versione attualmente installata (%3$s). I tuoi dati utente saranno salvati.
+Installare questa versione?"</string>
+    <string name="uninstall_confirm_question">Disinstallare questa applicazione?</string>
+    <string name="uninstall_failed_retained_app_msg">Non puoi disinstallare questa applicazione</string>
+    <string name="safe_relative">Permessi di sicurezza</string>
+    <string name="privacy_relative">Permessi privacy</string>
+    <string name="other_relative">Altri permessi</string>
+    <string name="perm_action_accept">Consenti</string>
+    <string name="perm_action_prompt">Chiedi</string>
+    <string name="perm_action_reject">Nega</string>
+    <string name="main_title">Installa applicazione</string>
+    <string name="installer_name">Fonte: %1$s</string>
+    <string name="warn_title">App sembra sospetta</string>
+    <string name="warn_message">"I dati personali del telefono sono più vulnerabili agli attacchi di applicazioni da fonti sconosciute.L'utente accetta di essere l'unico responsabile per eventuali danni o perdita di dati che possono derivare dall'uso di questa applicazione."</string>
+    <string name="progress_verifying">Verifica…</string>
+    <string name="update_title">%1$s è aggiornato.</string>
+    <string name="update_time">%4$s rilasciato il %2$s/%3$s/%1$s.</string>
+    <string name="update_log_default">Nessun changelog.</string>
+    <string name="permission_warn_title">Questa app proviene da fonti sconosciute.</string>
+    <string name="permission_warn_hint">Questa app avrà accesso a:</string>
+    <string name="button_continue_install">Continua</string>
+    <string name="button_install_lastest">Installa</string>
+    <string name="button_install_official">Installa</string>
+    <string name="button_cancel">Annulla</string>
+    <string name="button_next">Avanti</string>
+    <string name="button_continue">Continua</string>
+    <string name="button_remove">Elimina</string>
+    <string name="virus_scan_install"><u>Installare in ogni caso</u></string>
+    <string name="virus_scan_is_virus">Questa app conviene virus.</string>
+    <string name="virus_scan_is_risk">Questa app rappresenta un rischio per la sicurezza del dispositivo.</string>
+    <string name="virus_scan_clear">Rimuovi</string>
+    <string name="unknown_apps_dlg_title">Blocca installazioni</string>
+    <string name="app_name">Installazione pacchetti</string>
+    <string name="install">Installa</string>
+    <string name="done">Fine</string>
+    <string name="cancel">Annulla</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="installing">Installazione…</string>
+    <string name="install_done">Applicazione installata.</string>
+    <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
+    <string name="install_failed">Applicazione non installata.</string>
+    <string name="install_failed_invalid_apk">Il pacchetto potrebbe essere danneggiato.</string>
+    <string name="install_failed_inconsistent_certificates">È già installato un pacchetto con lo stesso nome e con una firma in conflitto.</string>
+    <string name="install_failed_older_sdk">Il pacchetto funziona soltanto su versioni più recenti di Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">Questa applicazione non è compatibile con la CPU di questo dispositivo.</string>
+    <string name="install_failed_msg">Impossibile installare %1$s sul dispositivo.</string>
+    <string name="launch">Apri</string>
+    <string name="unknown_apps_dlg_text">Per motivi di sicurezza, il dispositivo è impostato per bloccare le applicazioni non provenienti dal Google Play Store. Rimuovendo questa restrizione potrai installare applicazioni provenienti da altre fonti ma il dispositivo ed i tuoi dati potrebbero essere a rischio. Procedendo dichiari di essere a conoscenza dei rischi. Puoi modificare queste impostazioni in Impostazioni > Sicurezza > Origini sconosciute.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Impostazioni</string>
+    <string name="manage_applications">Gestisci applicazioni</string>
+    <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione.
+
+Tutti i dati utente precedenti verranno salvati."</string>
+    <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema.
+
+Tutti i dati utente precedenti verranno salvati."</string>
+    <string name="out_of_space_dlg_text">"Impossibile installare %1$s. Libera un po' di spazio e riprova."</string>
+    <string name="app_not_found_dlg_text">"Impossibile trovare l'applicazione nell'elenco delle applicazioni installate."</string>
+    <string name="uninstall_application_title">Disinstallare questa applicazione?</string>
+    <string name="uninstall_update_title">Disinstalla aggiornamento</string>
+    <string name="uninstall_activity_text">"%1$s fa parte della seguente applicazione: "</string>
+    <string name="uninstall_application_text">Questa applicazione sarà disinstallata.</string>
+    <string name="uninstall_update_text">Vuoi sostituire questa applicazione con la versione iniziale?</string>
+    <string name="uninstalling">Disinstallazione…</string>
+    <string name="uninstall_done">Disinstallazione completata.</string>
+    <string name="uninstall_failed">Disinstallazione non riuscita.</string>
+    <string name="uninstall_failed_device_policy_manager">Impossibile disinstallare: il pacchetto è un amministratore dispositivo attivo.</string>
+    <string name="manage_device_administrators">Gestisci amministratori dispositivo</string>
+    <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
+    <string name="security_settings_desc">"Consenti all'applicazione: "</string>
+    <string name="install_failed_file_not_found">"Il pacchetto specificato è stato eliminato prima del completamento dell'installazione."</string>
+    <string name="install_failed_verify_failed">Il pacchetto non ha superato la verifica e non può essere installato.</string>
+    <string name="install_failed_verify_timeout">Timeout durante la verifica di questo pacchetto. Riprova più tardi.</string>
+    <string name="allow_source_dlg_title">Consentire applicazioni da altre fonti?</string>
+    <string name="allow_source_dlg_text">"%1$s può installare altre applicazioni. 
+
+Consentire d'ora in avanti?"</string>
+    <string name="dlg_app_replacement_title">Sostituisci applicazione</string>
+    <string name="out_of_space_dlg_title">Spazio esaurito</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Applicazione non trovata</string>
+    <string name="uninstall_failed_msg">Impossibile disinstallare %1$s.</string>
+    <string name="Parse_error_dlg_title">Errore di analisi</string>
+    <string name="all">Tutti i permessi</string>
+    <string name="activity_package_delete_confirm_title">Avviso di sicurezza</string>
+    <string name="button_text_cancel">Annulla</string>
+    <string name="button_text_delete">Elimina</string>
+    <string name="button_text_next_step_timer">Avanti (%d)</string>
+    <string name="button_text_next_step">Avanti</string>
+    <string name="button_text_delete_timer">Elimina (%d)</string>
+    <string name="package_delete_confirm_step_1">Eliminare %s?</string>
+    <string name="package_delete_confirm_step_2">"L'eliminazione di questa app può causare instabilità del sistema."</string>
+    <string name="package_delete_confirm_step_3">Non sarai in grado di aprire questa app dopo averla eliminata.</string>
+</resources>
