@@ -3349,6 +3349,10 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="xiaomi_account">Mi Account</string>
     <string name="sync_settings">Sincronizzazione</string>
     <string name="google_title">Google</string>
+	<string name="account_other">Altro</string>
+    <string name="xiaomi_cloud_service_disabled">Disattivato</string>
+    <string name="xiaomi_cloud_service_unknown">Sconosciuto</string>
+    <string name="xiaomi_cloud_service_description">Mi Cloud sincronizza i contatti,le foto ed esegue il backup delle tue applicazioni,impostazioni aiutandoti a trovare il tuo dispositivo con la funzione Trova dispositivo.</string>
     <string name="sms_received_sound_title">Messaggio ricevuto</string>
     <string name="sms_delivered_sound_title">Messaggio inviato</string>
     <string name="sms_received_sound_dialog_title">Scegli suono di messaggio ricevuto</string>

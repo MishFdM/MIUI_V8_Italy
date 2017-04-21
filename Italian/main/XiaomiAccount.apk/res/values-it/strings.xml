@@ -291,6 +291,8 @@ Per attivare il tuo account, segui il
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="update_email_address_dialog_title">Aggiorna Email</string>
     <string name="update_email_address_dialog_message">Devi verificare la tua identità prima di aggiornare la tua email.</string>
+	<string name="account_user_info">Informazioni utente</string>
+	<string name="account_security">Sicurezza account</string>
     <string name="security_question_notice_title">Collega telefono</string>
     <string name="security_question_notice_message">Imposta le domande di sicurezza dopo aver collegato il telefono per poter ripristinare le stesse nel caso in cui le dimenticassi</string>
     <string name="ignore">Non adesso</string>
