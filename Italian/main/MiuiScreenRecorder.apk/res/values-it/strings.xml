@@ -24,7 +24,7 @@
     <string name="gleam_led_while_recording">Flash LED durante la registrazione</string>
     <string name="quit_recording">Uscito da Registrazione schermo</string>
     <string name="no_recorder_info">Nessun video</string>
-    <string name="no_recorder_info2">"Tocca l'icona per avviare una registrazione."​</string>
+    <string name="no_recorder_info2">Tocca l\'icona per avviare una registrazione.​</string>
     <string name="cancel_edit">Annulla</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="deselect_all">Deseleziona tutto</string>
