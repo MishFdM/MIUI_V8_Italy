@@ -4629,7 +4629,6 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="fingerprint_apply_to_privacy_password">Password di protezione privacy</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">La password di Protezione Privacy tiene al sicuro i tuoi messaggi, foto, file, note e app.</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Non sarai in grado di sbloccare il dispositivo con la tua impronta dopo aver disattivato la password per la Schermata di blocco</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Non sarai in grado di sbloccare il dispositivo con la tua impronta digitale dopo aver disattivato la password per la Schermata di blocco.</string>
     <string name="turn_off_keyguard_password_alert_title">Disattiva</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">Aggiungi impronta</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Aggiungi la tua impronta digitale per sbloccare il telefono con essa.</string>
