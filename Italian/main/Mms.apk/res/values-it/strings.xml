@@ -621,6 +621,7 @@
     <string name="networking_allow_desc_without_mx">I messaggi smart ti permettono di riconoscere numeri sconosciuti, filtrare lo spam, etc. Utilizzando questo servizio accetti %1$s e %2$s di Xiaomi. Devi attivare le Pagine Gialle e collegarti ad internet per utilizzare questo servizio.</string>
     <string name="networking_allow_continue">OK</string>
     <string name="mx_activate_allow_notice">Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato per attivare i servizi di messaggi e chiamate gratuiti.</string>
+    <string name="mx_activate_network_allow_notice">"Questo servizio richiede l'accesso alla rete dati mobile per funzionare correttamente"</string>
     <string name="mx_b2c_message_resend_not_online">Impossibile leggere il messaggio. Mi Message è offline.</string>
     <string name="msg_type_hint_mx_b2c">Notifica di rete</string>
     <string name="msg_type_hint_mx_b2c_omit">Notifica di rete</string>

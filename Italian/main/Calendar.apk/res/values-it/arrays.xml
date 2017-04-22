@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>Notifica</item>
-        <item>Email</item>
-        <item>SMS</item>
-        <item>Allarme</item>
-    </string-array>
     <integer-array name="reminder_minutes_values">
-        <item>-1</item>
         <item>0</item>
         <item>5</item>
         <item>10</item>
@@ -18,20 +11,7 @@
         <item>2880</item>
         <item>10080</item>
     </integer-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Mai</item>
-        <item>0 minuti</item>
-        <item>5 minuti</item>
-        <item>10 minuti</item>
-        <item>15 minuti</item>
-        <item>30 minuti</item>
-        <item>1 ora</item>
-        <item>1 giorno</item>
-        <item>2 giorni</item>
-        <item>1 settimana</item>
-    </string-array>
     <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
         <item>0</item>
         <item>5</item>
         <item>10</item>
@@ -41,12 +21,6 @@
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Predefinita</item>
-        <item>Sabato</item>
-        <item>Domenica</item>
-        <item>Lunedì</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Marshall Islands</item>
@@ -133,16 +107,6 @@
         <item>Auckland</item>
         <item>Fiji</item>
         <item>Tonga</item>
-    </string-array>
-    <string-array name="availability">
-        <item>Occupato</item>
-        <item>Disponibile</item>
-        <item>Incerto</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>Default</item>
-        <item>Privato</item>
-        <item>Pubblico</item>
     </string-array>
     <string-array name="ordinal_labels">
         <item>primo</item>
@@ -239,34 +203,10 @@
         <item>2 giorni prima</item>
         <item>1 settimana prima</item>
     </string-array>
-    <string-array name="miui_reminder_minutes_labels">
-        <item>Nessun avviso</item>
-        <item>0 minuti</item>
-        <item>5 minuti</item>
-        <item>10 minuti</item>
-        <item>15 minuti</item>
-        <item>30 minuti</item>
-        <item>1 ora</item>
-        <item>1 giorno</item>
-        <item>2 giorni</item>
-        <item>1 settimana</item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
         <item>Solo quando silenzioso</item>
         <item>Mai</item>
-    </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>Nessun avviso</item>
-        <item>0 minuti</item>
-        <item>5 minuti</item>
-        <item>10 minuti</item>
-        <item>15 minuti</item>
-        <item>30 minuti</item>
-        <item>1 ora</item>
-        <item>1 giorno</item>
-        <item>2 giorni</item>
-        <item>1 settimana</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 ore</item>
@@ -364,5 +304,9 @@
         <item>Mai</item>
         <item>Mensile</item>
         <item>Annuale</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Avanti</item>
+        <item>Indietro</item>
     </string-array>
 </resources>

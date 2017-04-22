@@ -329,8 +329,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="show_traffic_dialog_message">"Le informazioni di utilizzo dati verranno mostrate nel pannello delle notifiche.
 Puoi attivare o disattivare questa funzione in Utilizzo dati > Impostazioni"</string>
     <string name="tc_sms_report_title">Segnala bug utilizzo dati</string>
-    <string name="tc_sms_report_title_bill">"Segnala bug sull'utilizzo dei dati"</string>
-    <string name="tc_sms_report_title_calltime">"Segnala bug sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_summary">Aiutaci a migliorare questa funzione inviandoci un rapporto quando le informazioni sul tuo traffico dati non sono corrette o non si aggiornano</string>
     <string name="tc_sms_report_direction">Codice richiesta SMS</string>
     <string name="tc_sms_report_send_num">Numero operatore #</string>

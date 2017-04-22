@@ -404,6 +404,9 @@
     <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Non mostrare più</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Ho capito</string>
+    <string name="uid_change_dialog_title">Riavvia dispositivo</string>
+    <string name="uid_change_dialog_message">Hai eliminato gli aggiornamenti. Riavvia il dispositivo per poter utilizzare i temi.</string>
+    <string name="uid_change_dialog_ok">Ho capito</string>
     <string name="wallpaper_scroll_type_tips">Scorrimento sfondo</string>
     <string name="both_all_apply_success">Sfondo applicato</string>
     <string name="both_all_apply_failured">Impossibile impostare sfondo</string>
@@ -414,6 +417,7 @@
     <string name="lockscreen_apply_success_but_home_apply_failured">Sfondo schermata di blocco applicato ma non è stato possibile applicare lo sfondo della Home</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Sfondo Home applicato ma non è stato possibile applicare lo sfondo della schermata di blocco</string>
     <string name="the_picture_is_too_small">"L'immagine è troppo piccola"</string>
+    <string name="the_picture_is_not_support">"L'immagine non è supportata</string>
     <string name="is_setting_wallpaper_message">Impostazione sfondo...</string>
     <string name="ad_app_download_start">Avvio download...</string>
     <string name="ad_app_is_downloading">Download in corso...</string>

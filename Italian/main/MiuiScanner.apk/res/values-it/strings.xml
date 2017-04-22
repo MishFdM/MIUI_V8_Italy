@@ -68,6 +68,7 @@
     <string name="recognize_fail">Impossibile leggere il codice</string>
     <string name="place_barcode_into_rectangle">Posiziona il codice nel riquadro</string>
     <string name="barcode_into_rectangle">Posiziona il codice nel riquadro</string>
+    <string name="drag_barcode_into_frame">Sposta il quadrato per centrare il codice</string>
     <string name="scan_fail">Impossibile scansionare il codice</string>
     <string name="scan_result">Risultato</string>
     <string name="url_is_safety">Questo sito web è sicuro</string>

@@ -1138,6 +1138,12 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="search_title_others">Ttti i risultati</string>
     <string name="search_people_jump_failed">Attendi fino a che le foto con persone non sono state sincronizzate con Mi Cloud e prova di nuovo</string>
     <string name="search_album_jump_failed">Attendi fino a che gli album non sono stati sincronizzati con Mi Cloud e prova di nuovo</string>
+    <string name="grant_permission_title">Consenti accesso</string>
+    <string name="grant_permission_text">"La galleria necessita dell'accesso a 
+%s
+ per funzionare corrrettamente, tocca Imposta per vedere i permessi."</string>
+    <string name="grant_permission_item">\"%s\"</string>
+    <string name="grant_permission_go_and_set">Imposta</string>
     <string name="storage_no_space">Spazio insufficiente</string>
     <string name="share_album">Condividi album</string>
     <string name="all_video_album_display_name">Tutti i video</string>

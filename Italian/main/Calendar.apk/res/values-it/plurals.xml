@@ -27,14 +27,6 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">%d eventi</item>
-        <item quantity="one">1 evento</item>
-    </plurals>
-    <plurals name="N_remaining_events">
-        <item quantity="other">+%d eventi</item>
-        <item quantity="one">+1 evento</item>
-    </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d giorni fa alle %2$s</item>
         <item quantity="one">%1$d giorno fa alle %2$s</item>
@@ -66,5 +58,25 @@
     <plurals name="countdown_day">
         <item quantity="other">giorni dopo</item>
         <item quantity="one">giorno dopo</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d giorni lavorativi</item>
+        <item quantity="one">%d giorno lavorativo</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$d giorni prima</item>
+        <item quantity="one">%1$d giorno prima</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d giorni dopo</item>
+        <item quantity="one">%1$d giorno dopo</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d giorni prima</item>
+        <item quantity="one">%1$d giorno prima</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d giorni dopo</item>
+        <item quantity="one">%1$d giorno dopo</item>
     </plurals>
 </resources>
