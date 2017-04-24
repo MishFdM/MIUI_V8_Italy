@@ -15,4 +15,12 @@
     <string name="power_charging_duration_wireless">%1$d%% - %2$s fino alla carica completa su Wireless</string>
     <string name="power_discharge_remaining">%1$s rimanenti</string>
     <string name="power_discharging_duration">%1$d%% - circa %2$s rimanenti</string>
+	<string name="media_format_title">Formatta Scheda SD</string>
+    <string name="media_format_summary">Eliminerai tutti i dati della Scheda SD</string>
+    <string name="media_format_desc">Formattare la Scheda SD? Perderai <b>tutti</b> i dati sulla scheda</string>
+    <string name="media_format_button_text">Formatta Scheda SD</string>
+    <string name="media_format_final_desc">Formattare la Scheda SD eliminando tutti i file memorizzati? Questa azione non è reversibile!</string>
+    <string name="media_format_final_button_text">Elimina tutto</string>
+    <string name="media_format_gesture_prompt">Sequenza di sblocco</string>
+    <string name="media_format_gesture_explanation">Hai bisogno di eseguire la sequenza di sblocco per confermare la formattazione della Scheda SD.</string>
 </resources>
