@@ -323,7 +323,7 @@ Tocca [I'm a recipient] per creare un Codice QR"</string>
 2. Apri l'app e seleziona [Sono il mittente]
 3. Scansiona il Codice QR con il vecchio dispositivo"</string>
     <string name="trans_operate_old_phone_tips2">"Vai in Impostazioni > Impostazioni aggiuntive > Trasferimento e tocca [Sono il mittente]"</string>
-    <string name="trans_wait_trans_data">"Collegato al vecchio dispostivo.
+    <string name="trans_wait_trans_data">"Collegato al vecchio dispositivo.
 In attesa del trasferimento…"</string>
     <string name="trans_select_data">Scegli i file</string>
     <string name="trans_select_data_tips">"Seleziona i file da trasferire
