@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AntiSpam</string>
     <string name="fw_blocked">Blacklist</string>
     <string name="fw_blocked_count">"Bloccati "</string>
     <string name="fw_blocked_join">" e "</string>
