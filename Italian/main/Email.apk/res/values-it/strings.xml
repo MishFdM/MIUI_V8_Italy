@@ -777,7 +777,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="protocol_imap">imap</string>
     <string name="protocol_legacy_imap">imap</string>
     <string name="protocol_pop3">pop3</string>
-    <string name="protocol_setting_toast">"Tocca l'amgolo in alto a destra per entrare nelle impostazioni dopo aver accettato"</string>
+    <string name="protocol_setting_toast">"Tocca l'angolo in alto a destra per entrare nelle impostazioni dopo aver accettato"</string>
     <string name="pull_to_refresh">Trascina per aggiornare</string>
     <string name="push_wps_better_confirm_download">Scarica</string>
     <string name="push_wps_better_confirm_exit">Altre app da aprire</string>
