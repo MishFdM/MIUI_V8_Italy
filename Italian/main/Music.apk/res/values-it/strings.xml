@@ -794,7 +794,6 @@ attendere o selezionare Musica Online."</string>
     <string name="download_traffic_dialog_msg_serious">Ti restano solo %s di traffico dati. Utilizzare la rete dati mobile per scaricare i brani?</string>
     <string name="download_traffic_dialog_msg_beyond">"Hai già superato il tuo limite dati di %s. Utilizzare comunque la rete dati per scaricare i brani?"</string>
     <string name="download_traffic_dialog_position_button">Scarica</string>
-    <string name="download_traffic_dialog_position_button">Scarica uno alla volta</string>
     <string name="download_traffic_dialog_negative_button">Scarica con Wi-Fi</string>
     <string name="download_traffic_dialog_buy_package">Acquista un piano dati per la musica</string>
    <string name="download_toast">Utilizza la rete mobile per scaricare i brani</string>
