@@ -569,7 +569,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
     <string name="timeshow_h">%.1f h</string>
     <string name="timeshow_h_int">%d h</string>
     <string name="lock_screen_traffic_guide_notification_title">"Tocca per gestire l'utilizzo dati."</string>
-    <string name="lock_screen_traffic_guide_notification_summary">%s utilizzati nella Schermata di blocco</string>
+    <string name="lock_screen_traffic_guide_notification_summary">%s utilizzati</string>
     <string name="lock_screen_traffic_purchase_textview">Compra dati mobili</string>
     <string name="free_time_traffic_title">Inserisci limite dati fuori soglia</string>
     <string name="free_time_traffic_hint">Inserisci limite dati fuori soglia</string>
