@@ -73,6 +73,7 @@ Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
     <string name="switch_mms">Messaggi</string>
     <string name="switch_contacts">Contatti</string>
     <string name="switch_setting">Impostazioni</string>
+    <string name="switch_email">E-mail</string>
     <string name="recent_function">Funzioni</string>
     <string name="recent_filter_functions">Funzioni disattivate</string>
     <string name="update_title">Aggiornamento disponibile</string>
@@ -85,9 +86,19 @@ Puoi modificare in Impostazioni > Applicazioni installate > Ricerca"</string>
     <string name="app_loaction">Trova sulla Home</string>
     <string name="local_app">App</string>
     <string name="local_setting">Impostazioni</string>
+    <string name="mina_name">App dirette</string>
     <string name="pull_to_input">Trascina in basso per visualizzare la barra di ricerca</string>
     <string name="release_to_input">Rilascia per visualizzare la barra di ricerca</string>
     <string name="choose_search_engine">Seleziona il motore di ricerca predefinito</string>
+    <string name="setting_other">Altro</string>
+    <string name="setting_version">Versione app</string>
+    <string name="setting_version_title">Versione app</string>
+    <string name="barcode_uninstalled">Scanner non installato</string>
+    <string name="barcode_to_install">Installa Scanner per continuare</string>
+    <string name="barcode_install_cancel">Annulla</string>
+    <string name="barcode_install_confirm">Installa</string>
+    <string name="barcode_system_unmatch">Aggiorna MIUI prima di installare lo Scanner</string>
+    <string name="barcode_install_back">Indietro</string>
     <string name="apps_search_activity" />
     <string name="xiaomi_suggest_base">" "</string>
     <string name="xiaomi_homepage_suggest">" "</string>

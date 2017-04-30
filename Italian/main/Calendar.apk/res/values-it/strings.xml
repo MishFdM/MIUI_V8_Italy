@@ -21,6 +21,7 @@
     <string name="homepage_nowadays">questi giorni</string>
     <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
     <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
+    <string name="horoscope_card_set_bazi">点击设置星座运势</string>
     <string name="horoscope_card_comprehensive">综合运势：</string>
     <string name="horoscope_card_love">爱情运势：</string>
     <string name="horoscope_card_financial">财富运势：</string>
@@ -375,12 +376,10 @@
     <string name="xiaomi_calendar_display_name">Calendario Mi</string>
     <string name="local_owner_account_name">Account locale</string>
     <string name="birthday_term">Compleanno</string>
-    <string name="birthday_metric"/>
     <string name="birthday_notification_title_today">%3$s di %1$s</string>
     <string name="birthday_notification_text_today">Non dimenticare di fare gli auguri.</string>
     <string name="birthday_notification_title_days_later">Si avvicina il %2$s di %1$s</string>
     <string name="birthday_notification_text_days_later">%1$s giorni a %4$s (%5$s)</string>
-    <string name="birthday_notification_age_term"/>
     <string name="birthday_notification_type_term_lunar"/>
     <string name="birthday_event_description_default">%2$s%3$s%4$s di %1$s</string>
     <string name="birthday_event_description_special">%1$s è %3$s%4$s%5$s di %2$s</string>
@@ -414,8 +413,10 @@
     <string name="repeat_label_frequency">Frequenza</string>
     <string name="repeat_label_interval">Ogni</string>
     <string name="repeat_interval_dialog_title">Ogni %1$s</string>
-    <string name="repeat_interval_frequency_single">%1$s</string>
-    <string name="repeat_interval_frequency">%1$d %2$s</string>
+    <string name="repeat_interval_frequency_day_single">giorno</string>
+    <string name="repeat_interval_frequency_week_single">settimana</string>
+    <string name="repeat_interval_frequency_month_single">mese</string>
+    <string name="repeat_interval_frequency_year_single">anno</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeat_custom_prompt_daily">ogni %1$s</string>
     <string name="repeat_custom_prompt">ogni %1$s alle %2$s</string>
@@ -490,6 +491,7 @@
     <string name="deleting_calendar">Annullamento</string>
     <string name="action_text_card_manager">Canale</string>
     <string name="horoscope_select_activity_label">Seleziona il segno zodiacale</string>
+    <string name="match_select_activity_label">Seleziona Affinità</string>
     <string name="card_title_change">Altro</string>
     <string name="card_manager">Gestisci sottoscrizioni</string>
     <string name="card_detail_title">Dettagli</string>
@@ -550,6 +552,8 @@ Check network settings and try again."</string>
     <string name="lunar_to_solar" />
     <string name="date_calculate_today">0 giorni</string>
     <string name="lunar_day" />
+    <string name="global_cricket_no_match">"Nessuna gara prevista per oggi, puoi vedere la sintesi delle gare passate o provare con un altra partita. Fantastico evento, valeva l'attesa!"</string>
+    <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>

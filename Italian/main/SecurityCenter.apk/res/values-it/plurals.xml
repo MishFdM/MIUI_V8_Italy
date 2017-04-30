@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d chiamate</item>
+        <item quantity="one">1 chiamata</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d SMS</item>
+        <item quantity="one">1 SMS</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">"Nessun dato sull'utilizzo dati per %d app"</item>
         <item quantity="one">"Nessun dato sull'utilizzo dati per %d app"</item>
@@ -213,5 +221,49 @@
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d punti</item>
         <item quantity="one">+%d punto</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">%d giochi aggiunti</item>
+        <item quantity="one">%d gioco aggiunto</item>
+    </plurals>
+    <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">Sono disponibili aggiornamenti per %d app</item>
+        <item quantity="one">Sono disponibili aggiornamenti per %d app</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">Contatti letti %d volte</item>
+        <item quantity="one">Contatti letti %d volta</item>
+    </plurals>
+    <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">%d chiamate effettuate</item>
+        <item quantity="one">%d chiamata effettuata</item>
+    </plurals>
+    <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">%d SMS inviati</item>
+        <item quantity="one">%d SMS inviato</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">SMS letti %d volte</item>
+        <item quantity="one">SMS letti %d volta</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_record">
+        <item quantity="other">Registro chiamate letto %d volte</item>
+        <item quantity="one">Registro chiamate letto %d volta</item>
+    </plurals>
+    <plurals name="app_manager_permission_read">
+        <item quantity="other">Accesso eseguito %d volte</item>
+        <item quantity="one">Accesso eseguito %d volta</item>
+    </plurals>
+    <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">Concessi %d permessi</item>
+        <item quantity="one">Concesso %d permesso</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d volte</item>
+        <item quantity="one">%d volta</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">Bloccato %d volte</item>
+        <item quantity="one">Bloccato %d volta</item>
     </plurals>
 </resources>

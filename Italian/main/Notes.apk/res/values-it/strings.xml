@@ -65,6 +65,7 @@
     <string name="alert_message_restore">Impossibile aprire questa nota. Ripristina per modificarne il contenuto.</string>
     <string name="note_sort_way">Ordinamento note</string>
     <string name="trash_folder_reminder">Le note eliminate verranno cancellate permanentemente tra 30 giorni.</string>
+    <string name="cta_reminder">Questa app necessita di collegarsi alla rete per eseguir eil backup delle note su Mi Cloud, oltre che per leggere i tuoi contati per etichettare le note che prendi durante le chiamate.</string>
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>

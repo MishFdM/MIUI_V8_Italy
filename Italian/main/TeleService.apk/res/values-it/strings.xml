@@ -892,6 +892,8 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="missed_call_notify_thrice">3 volte</string>
     <string name="missed_call_notify_five_times">5 volte</string>
     <string name="missed_call_notify_ten_times">10 volte</string>
+    <string name="title_cfu_enabled">Inoltyro di chiamata attivo</string>
+    <string name="sum_cfu_enabled_indicator_by_sim">Tutte le chiamate verso la SIM %s verranno inoltrate</string>
     <string name="call_forwarding_number_hint">Inserisci il numero a cui inoltrare le chiamate in arrivo</string>
     <string name="cfu_title">Inoltra tutte le chiamate</string>
     <string name="cfb_title">Inoltra se sei in conversazione</string>

@@ -235,6 +235,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="feature_title_call_log">Registro chiamate</string>
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_account">Account</string>
+    <string name="feature_title_antispam">AntiSpam</string>
     <string name="summary_err_backup_encrypting">Accedi al tuo Mi Account.</string>
     <string name="summary_err_restore_encrypting">Impossibile ripristinare. Assicurati che questo backup sia stato eseguito con il tuo Mi Account.</string>
     <string name="summary_err_backup_no_network">Impossibile collegarsi alla rete</string>

@@ -12,6 +12,10 @@
     <string name="privacy_appdata_chrome_history_des">Siti visitati</string>
     <string name="search_history">Cronologia di ricerca</string>
     <string name="sms">SMS/MMS</string>
+    <string name="menu_clear">Cancella</string>
+    <string name="menu_view">Mostra nella cartella</string>
+    <string name="menu_install">Installa con questa app</string>
+    <string name="menu_add_to_white_list">Aggiungi alle eccezioni</string>
     <string name="text_optimizer">Carica i nomi delle cartelle</string>
     <string name="summary_optimizer">Questa funzione carica i nomi delle cartelle nei database online di Cheeta Mobile</string>
     <string name="button_optimizer">OK</string>
@@ -477,6 +481,9 @@
     <string name="wechat_copying_video_empty">Nessun video da esportare</string>
     <string name="wechat_content_empty">Nessun file da esportare</string>
     <string name="wechat_content_bad_pic_file">File corrotto</string>
+    <string name="main_title_filesize">%1$s spazzatura</string>
     <string name="file_not_found">File non trovato</string>
     <string name="wechat_add_to_cleanlist">Pulito correttamente</string>
+    <string name="app_usage_never">Non usato di recente</string>
+    <string name="app_usage_recently">Usato di recente</string>
 </resources>

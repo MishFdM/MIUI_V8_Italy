@@ -12,7 +12,6 @@
     <string name="no_applications">Vuoto</string>
     <string name="add_applications">Scegli applicazioni</string>
     <string name="add_apps_title">App</string>
-    <string name="select_items">%d selezionato/i</string>
     <string name="settings_safetylegal_activity_loading">Solo un attimo…</string>
     <string name="power_chooser_user_define_title">Nuova modalità</string>
     <string name="power_event_user_define_title">Nuovi eventi</string>
@@ -113,7 +112,6 @@
     <string name="power_config_apps">Risparmio energia in background</string>
     <string name="app_list_title">Scegli applicazioni</string>
     <string name="power_hide_mode_app_list_summary">Impostazioni app</string>
-    <string name="app_list_total">%d app</string>
     <string name="power_config_mode_title">Modalità di risparmio</string>
     <string name="power_config_disable_title">Disattivato</string>
     <string name="power_config_disable_description">MIUI non limiterà le attività in background</string>

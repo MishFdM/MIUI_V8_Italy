@@ -90,8 +90,6 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>
     <string name="dialog_confirm_delete_downloads_message">Eliminare %d processi?</string>
-    <string name="dialog_confirm_delete_the_download_item_message">Cancella queste operazioni</string>
-    <string name="dialog_confirm_delete_checkbox_message">Cancella anche i file locali</string>
     <string name="download_when_network_connected">Scarica utilizzando la rete dati cellulare</string>
     <string name="show_more">Mostra altri %s</string>
     <string name="download_paused">Download in pausa</string>
@@ -99,7 +97,6 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="download_wait_connect">In attesa di connessione</string>
     <string name="download_filesize_unknown">Sconosciuto</string>
     <string name="download_info_start_deleted_tasks">Elimina download</string>
-    <string name="download_info_count_deleted_tasks">%s download rimossi</string>
     <string name="menu_preferences">Impostazioni download</string>
     <string name="menu_all_task_pause">Tutto in pausa</string>
     <string name="menu_all_task_start">Avvia tutto</string>
@@ -117,8 +114,6 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="paused_waiting_to_retry">In attesa di nuovo tentativo</string>
     <string name="paused_unknown">In pausa</string>
     <string name="paused_in_power_save_mode">In pausa in modalità risparmio energetico</string>
-    <string name="confirm_delete_downloads_message">%d download verranno eliminati.</string>
-    <string name="confirm_delete_the_download_item_message">Cancellare questi download?</string>
     <string name="delete_the_downloaded_file">I file scaricati verranno eliminati.</string>
     <string name="downloads_operating">In corso…</string>
     <string name="select_operation_items">Scegli elementi</string>
@@ -305,6 +300,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="track_list_control_edit_delete_playlist">Elimina</string>
     <string name="track_list_control_edit_rename_playlist">Rinomina</string>
     <string name="search_hint">Artista, brano o album</string>
+    <string name="search_hint_not_support_online">Ricerca per artisti, brani e album</string>
     <string name="tab_track_list">Brani</string>
     <string name="tab_artist_list">Artisti</string>
     <string name="tab_album_list">Album</string>
@@ -401,6 +397,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="ultra_high_quality">Migliore</string>
     <string name="normal_quality">Normale</string>
     <string name="download_completed">Scaricati</string>
+    <string name="change_download_quality">Modifica qualità download</string>
     <string name="data_usage_warning">Utilizzo dati</string>
     <string name="data_usage_warning_summary">Lo streaming in alta qualità tramite rete cellulare può aumentare il traffico dati.</string>
     <string name="payment_success">Pagamento completato</string>
@@ -439,10 +436,11 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="search_title_song">Brano</string>
     <string name="metered_alert">Avviso utilizzo dati</string>
     <string name="metered_alert_msg">Lo streaming tramite rete dati cellulare può aumentare il traffico dati.</string>
-    <string name="metered_alert_msg_with_data">You have %s of mobile data left. Use mobile data to play songs?</string>
+    <string name="metered_alert_msg_with_data">Rimangono %s di dati. Vuoi usare comunque i dati su rete mobile per ascoltare i brani?</string>
     <string name="metered_allow">Attiva</string>
     <string name="metered_disallow">Non adesso</string>
     <string name="metered_serious_alert">Dati rete mobile insufficienti</string>
+    <string name="metered_beyond_alert">Utilizzo dati superato</string>
     <string name="metered_serious_alert_msg_with_data">Ti rimangono %s di dati su retemobile. Utilizzare i dati di rete mobile per riprodurre i brani?</string>
     <string name="metered_serious_alert_msg_with_beyond_data">Hai già superato la soglia dei dati di rete mobile di %s. Utilizzare i dati di rete mobile per riprodurre i brani?</string>
     <string name="metered_serious_allow">Riproduci comunque</string>
@@ -788,11 +786,22 @@ attendere o selezionare Musica Online."</string>
     <string name="ad_close">Chiudi</string>
     <string name="ad_mark">AD</string>
     <string name="news_mark">NEWS</string>
+    <string name="download_traffic_dialog_title">Avviso utilizzo dati</string>
+    <string name="download_traffic_dialog_title_serious">Dati rimanenti non sufficienti</string>
+    <string name="download_traffic_dialog_title_beyond">Utilizzo dati </string>
+    <string name="download_traffic_dialog_msg_without_data">Stai utilizzando il traffico dati mobile per scaricare i brani. Scaricare comunque?</string>
     <string name="download_traffic_dialog_msg">"L'utilizzo della rete dati cellulare per il download della musica aumenta il consumo dei dati e potrebbe aumentare anche i costi</string>
+    <string name="download_traffic_dialog_msg_serious">Ti restano solo %s di traffico dati. Utilizzare la rete dati mobile per scaricare i brani?</string>
+    <string name="download_traffic_dialog_msg_beyond">"Hai già superato il tuo limite dati di %s. Utilizzare comunque la rete dati per scaricare i brani?"</string>
+    <string name="download_traffic_dialog_position_button">Scarica</string>
     <string name="download_traffic_dialog_position_button">Scarica uno alla volta</string>
     <string name="download_traffic_dialog_negative_button">Scarica con Wi-Fi</string>
     <string name="download_traffic_dialog_buy_package">Acquista un piano dati per la musica</string>
-    <string name="desktop_lyric_color">Colore</string>
+   <string name="download_toast">Utilizza la rete mobile per scaricare i brani</string>
+    <string name="download_toast_with_data">Utilizzo in corso della rete dati mobile per il download dei brani, %s rimanenti</string>
+    <string name="download_toast_with_beyond_data">Rete dati mobile in uso per il download dei brani. Limite suerato di %s</string>
+    <string name="download_added_to_list">Aggiunto alla lista download</string> 
+   <string name="desktop_lyric_color">Colore</string>
     <string name="desktop_lyric_textsize">Testo</string>
     <string name="desktop_lyric_button_lock">Blocca</string>
     <string name="desktop_lyric_button_close">Chiudi</string>
@@ -815,7 +824,7 @@ attendere o selezionare Musica Online."</string>
     <string name="followed">Stai seguendo</string>
     <string name="artist_favor">In evidenza</string>
     <string name="artist_album">Album</string>
-    <string name="artist_news">News</string>
+    <string name="artist_news">Novità</string>
     <string name="download_start_btn">Download gratis</string>
     <string name="already_download_btn">Download…</string>
     <string name="download_complete_btn">Scaricati</string>
@@ -904,5 +913,6 @@ attendere o selezionare Musica Online."</string>
     <string name="artist_gender_female">Femmina</string>
     <string name="artist_gender_group">Gruppo</string>
     <string name="text_separator">|</string>
+    <string name="artist_home_search_hint">Cerca artisti</string>
     <string name="hot_icon_in_fast_indexer">H</string>
 </resources>

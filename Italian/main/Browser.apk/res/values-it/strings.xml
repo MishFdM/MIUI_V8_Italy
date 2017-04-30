@@ -68,6 +68,7 @@
     <string name="add_shortcut_success">Collegamento aggiunto</string>
     <string name="add_to_bookmark">Aggiungi ai segnalibri</string>
     <string name="add_to_desk">Aggiungi alla Home</string>
+    <string name="add_to_desk_lite_mode_toast">Impossibile aggiungere all Home in modalità semplificata</string>
     <string name="add_to_desk_success">Aggiungi alla Home</string>
     <string name="add_to_quicklink">Aggiungi alla pagina iniziale</string>
     <string name="added_to_bookmarks">Aggiunto ai segnalibri.</string>
@@ -92,6 +93,7 @@
     <string name="autologin_bar_login_text">Accedi</string>
     <string name="autologin_bar_text">Accesso eseguito come</string>
     <string name="back_button_label">Indietro</string>
+    <string name="back_description">Indietro</string>
     <string name="block">Blocca</string>
     <string name="block_ads_choice_block">Blcca</string>
     <string name="block_ads_choice_continue">Continua</string>
@@ -162,7 +164,9 @@
     <string name="color_picker_dialog_title">Seleziona colore</string>
     <string name="color_picker_hue">Colore</string>
     <string name="color_picker_saturation">Saturazione</string>
+    <string name="color_picker_value">Valore</string>
     <string name="comment_app_menu">commenti</string>
+    <string name="comment_description">Commento</string>
     <string name="comment_hint">Commenti</string>
     <string name="comment_menu">commenti</string>
     <string name="common_use_phrase_bottom_bar_text_next">Avanti</string>
@@ -304,6 +308,7 @@ finestra riservata​"</string>
     <string name="force_quick_search_title">Cerca</string>
     <string name="force_touch_bookmark_history_title">Segnalibri e cronologia</string>
     <string name="force_touch_infoflow_title">Notizie Quotidiane</string>
+    <string name="forward_description">Avanti</string>
     <string name="geolocation_permissions_prompt_dont_share">Rifiuta</string>
     <string name="geolocation_permissions_prompt_message">%s vuole conoscere la tua posizione</string>
     <string name="geolocation_permissions_prompt_remember">Ricorda la preferenza</string>
@@ -323,6 +328,7 @@ finestra riservata​"</string>
     <string name="have_sent_bookmark_to_home_screen">Posizionato in home</string>
     <string name="hint">Hint</string>
     <string name="history_saved_webpage">Salva pagina</string>
+    <string name="home_description">Home</string>
     <string name="homepage_delete_card_menu">Elimina</string>
     <string name="homepage_get_location">Trova posizione</string>
     <string name="homepage_get_location_failed">Impossibile recuperare le informazioni, seleziona una città</string>
@@ -445,6 +451,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">La memoria USB è richiesta per modificare questo percorso</string>
     <string name="month_picker_dialog_title">Imposta mese</string>
+    <string name="more_description">Menu</string>
     <string name="more_option">Altre opzioni</string>
     <string name="nav_bottom_bar_back">Indietro</string>
     <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
@@ -713,6 +720,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="ssl_warnings_header">Problemi con il certificato di sicurezza del sito.</string>
     <string name="start_save_page_capture">Salvataggio screenshot…</string>
     <string name="storage_internal">Memoria interna</string>
+    <string name="storage_permission_request_toast">Download richiede permessi di archiviazione, si prega di concederli</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Memoria USB</string>
     <string name="suggest_access_appstore">Mi App Store</string>
@@ -733,6 +741,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="tab_hotpage">Tendenza</string>
     <string name="tab_quicklinks">Utilità</string>
     <string name="tab_yellowpage">In evidenza</string>
+    <string name="tabs_description">Tab</string>
     <string name="time_picker_dialog_am">AM</string>
     <string name="time_picker_dialog_hour_minute_separator">:</string>
     <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -840,6 +849,14 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="webview_find_on_page">Trova nella pagina</string>
     <string name="webviewchromium_private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="week_picker_dialog_title">Imposta settimana</string>
+    <string name="autoSwithcingSearchEngineTips">Il motore di ricerca è stato cambiato in base alle tue abitudini</string>
+    <string name="firstUsingSearchEngineTips">Modifica della ricerca</string>
+    <string name="pref_automatic_matching_searchengines_title">Utilizza automaticamente il motore di ricerca in base alle abitudini di utilizzo</string>
+    <string name="quicklink_cannot_save_url">Questo URL non può essere aggiunto.</string>
+    <string name="quicklink_folder_text">App Top</string>
+    <string name="switchText">SI</string>
+    <string name="unSwitchText">NO</string>
+    <string name="undo">Annulla</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
