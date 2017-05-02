@@ -790,7 +790,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="push_wps_confirm_title">Si consiglia WPS Office</string>
     <string name="push_wps_no_response_app">"Nessuna risposta dall'app"</string>
     <string name="qq_bar_open_imap">Aiuto</string>
-    <string name="qq_bar_send_message">Invia SMS</string>zzzzzn
+    <string name="qq_bar_send_message">Invia SMS</string>
     <string name="qq_login_basecode">Accedi alla  QQ Mail da web. Enter independent password.</string>
     <string name="qq_login_get_auth">"Turn on password protection if you can't receive SMS"</string>
     <string name="qq_login_open_imap">Tap \"Help\" to turn on IMAP/SMTP</string>
