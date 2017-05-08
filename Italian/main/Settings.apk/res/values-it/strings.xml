@@ -3800,7 +3800,7 @@ ed esegui il software."</string>
     <string name="paper_mode_start_time_title">Inizio</string>
     <string name="paper_mode_end_time_title">Fine</string>
     <string name="paper_mode_get_location_dlg_title">Imposta posizione</string>
-    <string name="paper_mode_get_location_dlg_msg">Per ottenere un'indicazione precisa di alba e tramonto è necessario, whether open locationg settings?</string>
+    <string name="paper_mode_get_location_dlg_msg">"Per ottenere un'indicazione precisa di alba e tramonto è necessario impostare una posizione?"</string>
     <string name="paper_mode_get_location_dlg_positive_btn_text">Impostazioni</string>
     <string name="paper_mode_get_location_dlg_negative_btn_text">Annulla</string>
     <string name="screen_paper_mode_turn_on">Attivata</string>
