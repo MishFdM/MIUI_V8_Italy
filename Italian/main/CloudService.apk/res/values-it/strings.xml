@@ -142,7 +142,7 @@ Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="start_micloud">Avvia Mi Cloud</string>
     <string name="micloud_single_dspt">Utilizza Mi Cloud per sincronizzare i dati, posizionare il tuo telefono e condividere file con gli amici.</string>
     <string name="micloud_proceed">Continua</string>
-    <string name="master_alert_notif_title">Ultima sincronizzazione: %s giorni fa</string>
+    <string name="master_alert_notif_title">Attiva la sincronizzazione con Mi Cloud</string>
     <string name="master_alert_notif_content">Impossibile sincronizzare</string>
     <string name="sub_alert_notif_title">Sincronizzazione disabilitata</string>
     <string name="sub_alert_notif_content">Attiva Mi Cloud</string>
