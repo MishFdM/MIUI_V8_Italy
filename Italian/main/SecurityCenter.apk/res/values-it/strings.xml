@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name_antispam">Blocchi</string>
     <string name="fw_blocked">Blacklist</string>
     <string name="fw_blocked_count">"Bloccati "</string>
     <string name="fw_blocked_join">" e "</string>
@@ -554,12 +555,12 @@ Se attivi nuovamente i dati su rete mobile, il tuo operatore potrebbe addebitart
     <string name="data_usage_no_total_package_body_dual">Nessun limite impostato per %s</string>
     <string name="network_assistant_upgraded_title">Aggiornato</string>
     <string name="network_assistant_upgraded_body">Tocca per vedere i dettagli.</string>
-    <string name="data_usage_warning_title_notify">You went over your data limit</string>
-    <string name="data_usage_warning_body_notify">Tap to view details</string>
-    <string name="leisure_usage_dialog_title">You went over your off-peak data limit, data connection is off</string>
-    <string name="leisure_usage_dialog_message">"You've reached your off-peak data limit.
+    <string name="data_usage_warning_title_notify">Hai superato il limite dati</string>
+    <string name="data_usage_warning_body_notify">Tocca per i dettagli</string>
+    <string name="leisure_usage_dialog_title">Hai superato la soglia del traffico dati, la connessione dati è disattivata</string>
+    <string name="leisure_usage_dialog_message">"Hai raggiunto la soglia per il traffico dati.
 
-Carrier may charge you additional fees if you use mobile data connection again."</string>
+L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la connessione dati."</string>
     <string name="lock_screen_traffic_warn_title">Notifiche Schermata di blocco</string>
     <string name="lock_screen_traffic_notify_body">Bloccate per %2$s alle %1$s, dati utilizzati %3$s</string>
     <string name="timeshow_h_m">%1$d h %2$d m</string>
@@ -1823,6 +1824,16 @@ o inserisci la password"</string>
     <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
     <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
+    <string name="applock_add_account_setting">Account e privacy</string>
+    <string name="applock_add_account_info">"Aggiungi Mi Account per poter ripristinare la tua password
+se se dimenticata"</string>
+    <string name="applock_exit_account_info">"L'account verrà rimosso automaticamente quando esegui il logout"</string>
+    <string name="applock_login_and_add_account">Accedi e aggiungi</string>
+    <string name="applock_not_add_account">Non adesso</string>
+    <string name="applock_add_account">Aggiungi</string>
+    <string name="applock_not_login_account">"Non hai eseguito l'accesso"</string>
+    <string name="applock_close_dialog_title">Disattivare App lock?</string>
+    <string name="applock_close_dialog_summary">Le app non saranno piùprotette e la tua password verrà elimintata dopo la disattivazione di App lock.</string>
     <string name="activity_title_safepay">Sicurezza pagamenti</string>
     <string name="suffix_pay_risk_count_top">Rischi</string>
     <string name="suffix_pay_risk_count_bottom">pagamento</string>

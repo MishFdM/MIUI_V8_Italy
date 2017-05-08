@@ -315,14 +315,6 @@
     <string name="downloading">In download</string>
     <string name="installing">Installazione</string>
     <string name="start_install">Avvia installazione</string>
-    <string name="safety_check_detail">%1$d volte, guadagnati %2$d punti</string>
-    <string name="garbage_cleanup_detail">%1$d volte, pulito %2$s</string>
-    <string name="net_assistant_detail">Utilizzato %1$s, salvato %2$s</string>
-    <string name="harass_detail">Bloccati %1$d SMS e %2$d chiamate</string>
-    <string name="authorize_detail">%d bloccati</string>
-    <string name="safety_rank">Migliore al %d%% rispetto alla media degli utenti MIUI in termini di sicurezza</string>
-    <string name="net_assistant_title">Utilizzati %s di dati cellulare questo mese</string>
-    <string name="traffic_top">5 app con maggiore consumo</string>
     <string name="empty">" "</string>
     <string name="open_browser">Apri nel browser</string>
     <string name="title_share_link">Condividi URL</string>
@@ -432,12 +424,11 @@
     <string name="low_memory_warning_dialog_msg">Spazio insufficiente sui dispositivi, devi prima liberare spazio</string>
     <string name="low_memory_warning_dialog_ok_button">Avvia la pulizia</string>
     <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
-    <string name="deep_clean_normal_clean_progress_desc">%1$s file eliminati</string>
-    <string name="deep_clean_data_path_clean_title">Memoria interna liberata</string>
+    <string name="deep_clean_data_path_clean_title">Cancella cache</string>
     <string name="btn_text_quick_cleanup_appdata">Elimina i dati selezionati %1$s</string>
     <string name="btn_text_quick_cleanup_large_file">Elimina i file selezionati %1$s</string>
     <string name="btn_text_quick_cleanup_video">Elimina i video selezionati %1$s</string>
-    <string name="btn_text_quick_cleanup_apk">Elimina i pacchetti %1$s</string>
+    <string name="btn_text_quick_cleanup_apk">Elimina gli APK selezionati %1$s</string>
     <string name="deepclean_install_info_desc2">Elimina le applicazioni per liberare spazio</string>
     <string name="ad_install_success_dialog_title">%1$s installazioni completate. Aprire adesso?</string>
     <string name="ad_install_success_dialog_lunch">Apri</string>
@@ -483,7 +474,8 @@
     <string name="wechat_content_bad_pic_file">File corrotto</string>
     <string name="main_title_filesize">%1$s spazzatura</string>
     <string name="file_not_found">File non trovato</string>
-    <string name="wechat_add_to_cleanlist">Pulito correttamente</string>
     <string name="app_usage_never">Non usato di recente</string>
     <string name="app_usage_recently">Usato di recente</string>
+    <string name="resutl_function_deep_clean_summary">" altri %1$s file posso essere eliminati. Libera altro spazio. "</string>
+    <string name="resutl_function_wechat_clean_summary">" %1$s di cache WeChat. Libera altro spazio. "</string>
 </resources>

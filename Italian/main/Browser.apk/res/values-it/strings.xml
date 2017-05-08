@@ -86,6 +86,7 @@
     <string name="aqi_quality_index_moderate">IQA %1$s</string>
     <string name="aqi_quality_index_pure">IQA %1$s</string>
     <string name="aqi_quality_index_unhealthy">IQA %1$s</string>
+    <string name="autoSwithcingSearchEngineTips">Ha modificato il motore di ricerca in base alle tue abitudini</string>
     <string name="autofill_keyboard_accessory_content_description">Suggerimento disponibile</string>
     <string name="autofill_popup_content_description">Mostra popup riempimento automatico</string>
     <string name="autologin_bar_error">Accesso non riuscito.</string>
@@ -304,6 +305,7 @@ finestra riservata​"</string>
     <string name="find_on_page_next">Avanti</string>
     <string name="find_on_page_prev">Indietro</string>
     <string name="find_previous">Trova il precedente</string>
+    <string name="firstUsingSearchEngineTips">Se modificare la ricerca</string>
     <string name="fling_on_border_gesture_hint">"Puoi selezionare l'azione per questa gesture nelle Impostazioni"</string>
     <string name="force_quick_search_title">Cerca</string>
     <string name="force_touch_bookmark_history_title">Segnalibri e cronologia</string>
@@ -503,6 +505,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_adblock_counts">%d bloccati</string>
     <string name="pref_adblock_title">Ad blocker</string>
     <string name="pref_auto_update_under_wifi">Aggiorna automaticamente con Wi-Fi</string>
+    <string name="pref_automatic_matching_searchengines_title">Modifica automatica del motore di ricerca in base alle abitudini</string>
     <string name="pref_category_hint">Categoria</string>
     <string name="pref_check_security_url_summary">Invia ai server Xiaomi per verificarne la sicurezza</string>
     <string name="pref_check_security_url_title">Verifica sicurezza URL</string>
@@ -604,6 +607,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
     <string name="qr_code_title">Codice QR</string>
     <string name="quicklink_bookmark_save">Salva in</string>
+    <string name="quicklink_cannot_save_url">Questo URL non può essere aggiunto.</string>
+    <string name="quicklink_folder_text">App top</string>
     <string name="quicklink_not_saved">Impossibile aggiungerlo alla pagina iniziale</string>
     <string name="quicklink_saved">Aggiunto alla pagina iniziale</string>
     <string name="quicklink_saved_before">Sito aggiunto alla pagina iniziale</string>
@@ -706,6 +711,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="skip_current_version">Salta questa versione</string>
     <string name="snapshot_failed">Salvataggio per lettura offline non riuscito.</string>
     <string name="snapshot_successed">Salvataggio per lettura offline riuscito.</string>
+    <string name="ssl_bad_clock_date_settings">Impostazioni data</string>
+    <string name="ssl_bad_clock_warning" formatted="false">On può essere stabilita una connessione privata con %s1 perché data e orario (%s2) del tuo dispositivo non sono corrette.</string>
     <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="ssl_continue">Continua</string>
@@ -736,6 +743,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="suggest_access_music">Mi Music</string>
     <string name="suggest_item_delete_text">Elimina</string>
     <string name="suggest_open_app_failed">Nonè stato possibile aprire questa app</string>
+    <string name="switchText">SI</string>
     <string name="switch_proxy_dialog_msg">"Rilevato tentativo di deviazione di rete. Utilizza l'app Sicurezza di MIUI o segnala al tuo operatore."</string>
     <string name="switch_proxy_dialog_title">Deviazione di rete</string>
     <string name="tab_hotpage">Tendenza</string>
@@ -751,6 +759,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="title_bar_loading">Caricamento…</string>
     <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>
     <string name="too_many_windows_dialog_title">Limite schede raggiunto</string>
+    <string name="unSwitchText">NO</string>
+    <string name="undo">Annulla</string>
     <string name="unknown_title">Sconosciuto</string>
     <string name="unsecurity_url_toast">Questo sito non è sicuro</string>
     <string name="up_to_loading_tips">Rilascia per aggiornare</string>

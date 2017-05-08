@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="resource_xspace">App clonate</string>
-    <string name="keywords_xspace">App clonata;App clonate;Clona app;Clona app;Clona app;Clona app;Clona app;App clonate;Doppi account;2 account</string>
-    <string name="path_xspace">Impostazioni/App clonate</string>
-    <string name="resource_sspace">Spazio secondario</string>
-    <string name="keywords_sspace">Spazio secondario;Due spazi;2 spazi;Nascondi app;Nascondi file;Nascondi foto;Schermaa di blocco;Passwrodschermata di blocco;Privacy;Modalità privacy;Modalità privata;Privato;Modalità ospite;Sessione ospite;Accesso ospite;Account ospite;Ospite</string>
-    <string name="path_sspace">Impostazioni/Spazio Secondario</string>
     <string name="app_name">Componente di Sicurezza di Sistema</string>
     <string name="switch_data_settings">Sposta dati</string>
     <string name="switch_in_contacts">Importa contatti</string>
@@ -18,6 +12,7 @@
     <string name="normal_app">Spazio Primario</string>
     <string name="hidden_app">Spazio Secondario</string>
     <string name="public_app">Entrambi gli spazi</string>
+    <string name="current_space">Current Space</string>
     <string name="switch_in_hidden_space">Importa nello Spazio Secondario</string>
     <string name="summary_switch_apps_settings">Selezionale app utilizzate nello Spazio Secondario</string>
     <string name="switch_out_hidden_space">Esporta dati dallo Spazio Secondario</string>
@@ -253,7 +248,7 @@ per accedere dalla schermata di blocco"</string>
     <string name="scanner_fingerprint">Scansione impronta…</string>
     <string name="scanner_fingerprint_enter_second">"Scansiona l'impronta dello spazio Secondario
 per accedervi dalla schermata di blocco"</string>
-   <string name="xspace_guide_title">Crea appclonata per %s</string>
+    <string name="xspace_guide_title">Crea appclonata per %s</string>
     <string name="xspace_guide_des">Utilizza 2 account senza cambiare</string>
     <string name="xpsace_guide_button">Crea</string>
     <string name="space_name_default">Spazio di lavoro</string>
@@ -280,4 +275,6 @@ per accedervi dalla schermata di blocco"</string>
     <string name="not_support_air_space">Questa funzione non è supportata sul tuo telefono</string>
     <string name="loading">Solo un attimo...</string>
     <string name="contact_us">Contattaci</string>
+    <string name="space_deleted">Questo spazio è stato eliminato</string>
+    <string name="function_not_support">Non supportato in questo spazio</string>
 </resources>

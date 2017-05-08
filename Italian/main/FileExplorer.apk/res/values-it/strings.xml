@@ -384,9 +384,7 @@
     <string name="choose_report_reason">Perché stai segnalando?</string>
     <string name="input_memo_hint">Inserisci motivi aggiuntivi (opzionale)</string>
     <string name="network_dialog_checkbox_tip">Non mostrare più</string>
-    <string name="activity_rule">Regole</string>
     <string name="video_tag">\# %s #</string>
-    <string name="topic_winners">Vincitori passati</string>
     <string name="remote_video_report_success">Grazie per il tuo feedback! Controlleremo appena possibile.</string>
     <string name="video_status_review">In fase di verifica</string>
     <string name="video_status_reject">Rifiutato</string>
@@ -563,9 +561,6 @@
     <string name="user_follow_title">Persone che seguo</string>
     <string name="user_follow_me_title">Chi mi segue</string>
     <string name="user_recommend_follow">Profili consigliati</string>
-    <string name="user_message_text">Messaggi</string>
-    <string name="user_like_text">Like</string>
-    <string name="user_upload_text">Upload</string>
     <string name="user_no_fans_tip">Non ti segue ancora nessuno</string>
     <string name="user_no_follow_user">Non stai seguendo nessuno.</string>
     <string name="user_no_follow_topic">Non segui alcun tema.</string>
@@ -600,7 +595,6 @@
     <string name="recommend">Consigliati</string>
     <string name="topic_message">%1$s: %2$s</string>
     <string name="message_my_received_praise">Mi piace ricevuti</string>
-    <string name="message_title">Messaggi</string>
     <string name="message_my_received_praise_count">+%1$s</string>
     <string name="message_comment_prefix">Commento:</string>
     <string name="message_reply_prefix">Rispondi</string>
@@ -613,7 +607,6 @@
     <string name="message_praise_comment">Ti piace questo commento</string>
     <string name="get_user_info_err">Impossibile recuperare informazioni utente</string>
     <string name="choose_report_comment_reason">Perché segnali questo commento?</string>
-    <string name="send_error">Errore nella risposta</string>
     <string name="add_one">+1</string>
     <string name="no_comment">Nessun commento</string>
     <string name="no_topic">Nessun argomento</string>
@@ -685,18 +678,10 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="upload_avatar_loading">Caricamento…</string>
     <string name="upload_avatar_failed">Impossibile caricare, riprova</string>
     <string name="user_info_setting">Modifica informazioni</string>
-    <string name="other_user_video_tab">Caricamenti</string>
-    <string name="other_user_liked_video_tab">Preferiti</string>
-    <string name="other_user_topic_tab">Argomenti</string>
     <string name="other_user_follow_tab">Chi segui</string>
-    <string name="other_user_fans_tab">Fan</string>
     <string name="rlv_pull_to_close">Trascina per chiudere</string>
     <string name="rlv_release_to_close">Rilasci aper chiudere</string>
-    <string name="rlv_closing">Chiusura…</string>
-    <string name="share_youliao1">Aggiorna per vedere altri episodi.</string>
-    <string name="share_youliao2">Aggiorna per vedere altri episodi.</string>
-    <string name="share_youliao3">Aggiorna per vedere altri episodi.</string>
-    <string name="share_youliao4">Aggiorna per vedere altri episodi.</string>
+    <string name="rlv_closing">Chiusura...</string>
     <string name="popup_msg_wx">Condividi questo video con i tuoi amici su WeChat.</string>
     <string name="popup_msg_qq">Condividi questo video con i tuoi amici su QQ.</string>
     <string name="video_uploaded">Caricati</string>
@@ -719,9 +704,6 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="share_tip_2">Grazie per la condivisione, seguimi per vedere altri video</string>
     <string name="share_success">Condiviso correttamente</string>
     <string name="follow_fail">Impossibile seguire, riprova più tardi</string>
-    <string name="welcome_to_my_page">Benvenuto nella homepage</string>
-    <string name="welcome_to_my_page_1">Seguimi!</string>
-    <string name="welcome_to_my_page_2">Seguimi!</string>
     <string name="swap_tip_1">Scorre a destra o sinistra</string>
     <string name="swap_tip_2">pervedere altri video</string>
     <string name="sort_size_desc">Dal più grande al più piccolo</string>
@@ -857,4 +839,6 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="clockin_use">Ricevi un premio</string>
     <string name="search_history">Cronologia di ricerca</string>
     <string name="clear_record">Cancella cronologia</string>
+    <string name="overwrite_msg">\"%s\" è giàesistente. Tocca per sostituirlo con il nuovo file.</string>
+    <string name="skip_file">Salta</string>
 </resources>

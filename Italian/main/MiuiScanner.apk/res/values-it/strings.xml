@@ -103,6 +103,8 @@
     <string name="choose_picture">Seleziona immagine codice QR</string>
     <string name="payment_weixin">WeChat</string>
     <string name="payment_zhifubao">AliPay</string>
+    <string name="weixin_code_tip">Utilizza WeChat per leggere questo codice QR</string>
+    <string name="back">Indietro</string>
     <string name="shopping_title">Scatta una foto del prodotto</string>
     <string name="shopping_searching">Ricerca prodotti…</string>
     <string name="shopping_vendor_info">Supporto tecnico offerto da Taobao</string>

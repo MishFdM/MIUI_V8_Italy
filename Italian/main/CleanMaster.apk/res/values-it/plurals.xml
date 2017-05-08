@@ -101,4 +101,7 @@
         <item quantity="other">Non utilizzato per %d anni</item>
         <item quantity="one">Non utilizzato per %d anno</item>
     </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">%d app non sono state utilizzate per lungo tempo, dai uno sguardo.</item>
+    </plurals>
 </resources>
