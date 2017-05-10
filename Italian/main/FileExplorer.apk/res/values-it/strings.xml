@@ -4,7 +4,7 @@
     <string name="delete_folders">\u0020Eliminare %1$d cartelle?</string>
     <string name="delete_file">Eliminare questo file?</string>
     <string name="delete_files">Eliminare %1$d file?</string>
-    <string name="path_recent_file">Gestisci i file sul tuodispositivo</string>
+    <string name="path_recent_file">Gestisci i file sul tuo dispositivo</string>
     <string name="path_download">Gestisci i tuoi download</string>
     <string name="path_hot_video">Guarda gratuitamente brevi video popolari</string>
     <string name="path_hot_sticker">Adesivi popolari</string>
@@ -25,7 +25,7 @@
     <string name="operation_create_folder">Nuova cartella</string>
     <string name="menu_item_sort">Ordina</string>
     <string name="menu_item_sort_name">Nome</string>
-    <string name="menu_item_sort_size">Dimensione</string>
+    <string name="menu_item_sort_date">Ultima modifica</string>
     <string name="menu_item_sort_type">Tipo</string>
     <string name="operation_favorite">Aggiungi ai Preferiti</string>
     <string name="operation_unfavorite">Rimuovi dai Preferiti</string>
@@ -432,7 +432,7 @@
     <string name="has_installed">Installate</string>
     <string name="connecting">Connessione in corso…</string>
     <string name="ad_downloading">Caricamento…</string>
-    <string name="install_fail">Impossibile instllare</string>
+    <string name="install_fail">Impossibile installare</string>
     <string name="download_fail">Impossibile scaricare</string>
     <string name="installing">Installazione…</string>
     <string name="video_ad_download">Installa</string>
@@ -546,10 +546,10 @@
     <string name="user_setting_new_liked_tip">Riceverai un notifica quando qualcuno premerà \"Mi piace\" su un tuo video o commento</string>
     <string name="user_setting_topic_new_msg">Nuovo avviso dinamico argomento hot</string>
     <string name="user_setting_topic_new_msg_tip">Riceverai una notifica quando un video di un argomento di tuo interesse verrà pubblicato</string>
-    <string name="user_setting_follow_new_msg">Notifiche dalle personeche segui</string>
+    <string name="user_setting_follow_new_msg">Notifiche dalle persone che segui</string>
     <string name="user_setting_follow_new_msg_tip">Ricevi notifiche per i nuovi video</string>
     <string name="user_setting_followed_msg">Notifiche da chi ti segue</string>
-    <string name="user_setting_followed_msg_tip">Ricevi notifiche quanto altre personeiniziano a seguirti</string>
+    <string name="user_setting_followed_msg_tip">Ricevi notifiche quanto altre persone iniziano a seguirti</string>
     <string name="user_setting_play_num">Notifiche sulle visite</string>
     <string name="user_setting_play_num_tip">Ricevi notifiche sul numero di visitatori per i tuoi video</string>
     <string name="user_setting_hot_comment">Notifiche sui commenti in evidenza</string>
@@ -557,7 +557,7 @@
     <string name="user_setting_video_has_hot_comment">Notifiche per commenti popolari</string>
     <string name="user_setting_video_has_hot_comment_tip">Ricevi notifiche quanto i tuoi video hanno commenti popolari</string>
     <string name="other_user_liked_topic_tip">Nessuna uscita di tuo interesse</string>
-    <string name="user_liked_video_title">Video che mi piaciono</string>
+    <string name="user_liked_video_title">Video che mi piacciono</string>
     <string name="user_follow_title">Persone che seguo</string>
     <string name="user_follow_me_title">Chi mi segue</string>
     <string name="user_recommend_follow">Profili consigliati</string>
@@ -587,7 +587,7 @@
     <string name="you_liao_god_str">Uomo</string>
     <string name="you_liao_goddess_str">Donna</string>
     <string name="you_liao_xunlei_str">Ospite Xunlei</string>
-    <string name="original_user_desc">Carica regolarmente video orginali per conquistare lo status di Creatore</string>
+    <string name="original_user_desc">Carica regolarmente video originali per conquistare lo status di Creatore</string>
     <string name="you_liao_xunlei_desc">Sottoscrivi un contratto per ricevere lo status di Ospite</string>
     <string name="you_liao_god_desc">Carica video regolarmente ed espandi il gruppo dei tuoi fan per ottenere lo status di Uomo</string>
     <string name="you_liao_goddess_desc">Carica video regolarmente ed espandi il gruppo dei tuoi fan per ottenere lo status di Donna​</string>
@@ -641,8 +641,8 @@
     <string name="open_app">Apri</string>
     <string name="recent_show">Recenti</string>
     <string name="youliao_ad_title">I migliori video sono stati aggiornati alla versione integrale!</string>
-    <string name="youliao_ad_msg">"Adesso aggiornati alla verrsione APP integrale, buon divertimento!
-Guarda con altri 170 mililoni di Mi fans."</string>
+    <string name="youliao_ad_msg">"Adesso aggiornati alla versione APP integrale, buon divertimento!
+Guarda con altri 170 milioni di Mi fans."</string>
     <string name="youliao_ad_update">Aggiorna</string>
     <string name="setting_message_notify">Notifiche</string>
     <string name="setting_account_bind">Aggiungi account</string>
@@ -674,13 +674,13 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="upload_avatar_camera">Fotocamera</string>
     <string name="upload_user_photo">Carica</string>
     <string name="update_loading">Salvataggio...</string>
-    <string name="update_failed">Impossibile slavare, riprova</string>
+    <string name="update_failed">Impossibile salvare, riprova</string>
     <string name="upload_avatar_loading">Caricamento…</string>
     <string name="upload_avatar_failed">Impossibile caricare, riprova</string>
     <string name="user_info_setting">Modifica informazioni</string>
     <string name="other_user_follow_tab">Chi segui</string>
     <string name="rlv_pull_to_close">Trascina per chiudere</string>
-    <string name="rlv_release_to_close">Rilasci aper chiudere</string>
+    <string name="rlv_release_to_close">Rilascia per chiudere</string>
     <string name="rlv_closing">Chiusura...</string>
     <string name="popup_msg_wx">Condividi questo video con i tuoi amici su WeChat.</string>
     <string name="popup_msg_qq">Condividi questo video con i tuoi amici su QQ.</string>
@@ -689,7 +689,7 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="video_upload_kuaishou_hint">Carica video KuaiShou per avere più fan.</string>
     <string name="video_upload_wechat_hint">Carica video WeChat per avere più fan.</string>
     <string name="upload_video_failed_progress">Impossibile caricare, riprovare più tardi</string>
-    <string name="upload_video_failed_external_progress">Impossibile caricare, provarecon un altro video</string>
+    <string name="upload_video_failed_external_progress">Impossibile caricare, prova con un altro video</string>
     <string name="upload_video_success_progress">Caricato correttamente</string>
     <string name="upload_video_failed">Impossibile caricare</string>
     <string name="upload_video_success">Caricato correttamente</string>
@@ -705,7 +705,7 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="share_success">Condiviso correttamente</string>
     <string name="follow_fail">Impossibile seguire, riprova più tardi</string>
     <string name="swap_tip_1">Scorre a destra o sinistra</string>
-    <string name="swap_tip_2">pervedere altri video</string>
+    <string name="swap_tip_2">per vedere altri video</string>
     <string name="sort_size_desc">Dal più grande al più piccolo</string>
     <string name="sort_size_asc">Dal più piccolo al più grande</string>
     <string name="tab_homepage">Home</string>
@@ -721,8 +721,8 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="claim_video_locking">Richiesta in corso…</string>
     <string name="claim_no_video">Nessun video da richiedere</string>
     <string name="claim_video_already_locked">Richiesto</string>
-    <string name="claim_video_already_claimed">Questovideo è stato già richiesto, dovrai essere più veloce la prossima volta!</string>
-    <string name="claim_video_over">Troppe richiesteperoggi, riprova domani!</string>
+    <string name="claim_video_already_claimed">Questo video è stato già richiesto, dovrai essere più veloce la prossima volta!</string>
+    <string name="claim_video_over">Troppe richieste per oggi, riprova domani!</string>
     <string name="claim_operation_too_frequently">Troppi tentativi! Riprova più tardi.</string>
     <string name="claim_video_success">Richiesto correttamente</string>
     <string name="claim_video_failure">Impossibile richiedere, riprova più tardi</string>
@@ -730,10 +730,10 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="claim_remind_dialog_message">Non potrai richiedere questo video se ritorni</string>
     <string name="claim_remind_dialog_confirm">Rimani</string>
     <string name="claim_remind_dialog_cancel">Vedi altri video</string>
-    <string name="claim_video_unlogin">Accedi per richiederevideo</string>
+    <string name="claim_video_unlogin">Accedi per richiedere video</string>
     <string name="video_encrypt_login_text">Accedi per riprodurre questo video</string>
     <string name="video_encrypt_login_btn">Accedi</string>
-    <string name="video_encrypt_fans_text">Soloi fan possono vedere questo video</string>
+    <string name="video_encrypt_fans_text">Solo i fan possono vedere questo video</string>
     <string name="video_encrypt_fans_btn">Diventa un fan</string>
     <string name="video_encrypt_follow_success">%s seguito</string>
     <string name="video_encrypt_follow_fail">Impossibile seguire</string>
@@ -754,9 +754,9 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="setting_shortcut">Aggiungi un collegamento sulla Home</string>
     <string name="auto_play_recommend">Riproduci automaticamente</string>
     <string name="auto_play_recommend_tips">Avvia automaticamente la riproduzione dei video</string>
-    <string name="deleted_video_msg">"Sei un po' in ritardo. Questovideo è stato eliminato."</string>
+    <string name="deleted_video_msg">"Sei un po' in ritardo. Questo video è stato eliminato."</string>
     <string name="is_playing">Riproduzione…</string>
-    <string name="video_publish_origin_tag">Tag orginale</string>
+    <string name="video_publish_origin_tag">Tag originale</string>
     <string name="video_publish_watchable_tag">Seguimi per vedere questo video</string>
     <string name="shortcut_exists">Collegamento già presente</string>
     <string name="share_title_01">"%1$s Guarda questo bellissimo video! %2$s"</string>
@@ -786,7 +786,7 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="no_content">Apri Explorer di nuovo per vedere i video popolari</string>
     <string name="open_chest_failed">Impossibile aprire, controlla le tue impostazioni di rete e riprova</string>
     <string name="open_chest">Apri per ricevere un premio</string>
-    <string name="count_down">Contoalla rovescia: %1$s</string>
+    <string name="count_down">Conto alla rovescia: %1$s</string>
     <string name="full_gems">Scambia le tue gemme</string>
     <string name="default_prize_text">Questo va dritto con i miei tesori!</string>
     <string name="prize_result_tip">Scambio</string>
@@ -831,7 +831,7 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="save_name_success">Cambiato correttamente</string>
     <string name="save_desc_success">Cambiato correttamente</string>
     <string name="save_failed">Impossibile salvare, grazie di nuovo</string>
-    <string name="save_failed_for_length">Fima troppo lunga, prova con una più breve</string>
+    <string name="save_failed_for_length">Firma troppo lunga, prova con una più breve</string>
     <string name="contain_sensitive_words">Rimuovi le parole inappropriate e prova di nuovo</string>
     <string name="daily_clockin">Controlla</string>
     <string name="clockin_failed">Impossibile controllare, prova di nuovo</string>
@@ -839,6 +839,6 @@ Guarda con altri 170 mililoni di Mi fans."</string>
     <string name="clockin_use">Ricevi un premio</string>
     <string name="search_history">Cronologia di ricerca</string>
     <string name="clear_record">Cancella cronologia</string>
-    <string name="overwrite_msg">\"%s\" è giàesistente. Tocca per sostituirlo con il nuovo file.</string>
+    <string name="overwrite_msg">\"%s\" è già esistente. Tocca per sostituirlo con il nuovo file.</string>
     <string name="skip_file">Salta</string>
 </resources>

@@ -32,14 +32,6 @@
         <item quantity="few">%1$d selezionati</item>
         <item quantity="many">%1$d selezionati</item>
     </plurals>
-    <plurals name="items_file">
-        <item quantity="other"> (%1$d elementi)</item>
-        <item quantity="zero"> (%1$d elementi)</item>
-        <item quantity="one"> (%1$d elemento)</item>
-        <item quantity="two"> (%1$d elementi)</item>
-        <item quantity="few"> (%1$d elementi)</item>
-        <item quantity="many"> (%1$d elementi)</item>
-    </plurals>
     <plurals name="items_picture">
         <item quantity="other"> (%1$d elementi)</item>
         <item quantity="zero"> (%1$d elementi)</item>
@@ -216,35 +208,11 @@
         <item quantity="few">%1$s visualizzazioni</item>
         <item quantity="many">%1$s visualizzazioni</item>
     </plurals>
-    <plurals name="video_num">
-        <item quantity="other">%1$s video</item>
-        <item quantity="zero">%1$s video</item>
-        <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s video</item>
-        <item quantity="few">%1$s video</item>
-        <item quantity="many">%1$s video</item>
-    </plurals>
-    <plurals name="follower_num">
-        <item quantity="other">follower</item>
-        <item quantity="zero">follower</item>
-        <item quantity="one">follower</item>
-        <item quantity="two">follower</item>
-        <item quantity="few">follower</item>
-        <item quantity="many">follower</item>
-    </plurals>
-    <plurals name="user_upload_items">
-        <item quantity="other">video</item>
-        <item quantity="zero">video</item>
-        <item quantity="one">video</item>
-        <item quantity="two">video</item>
-        <item quantity="few">video</item>
-        <item quantity="many">video</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">"%d video"</item>
         <item quantity="one">"%d video"</item>
     </plurals>
-   <plurals name="number_of_comment_flow">
+    <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s commenti</item>
         <item quantity="one">%1$s commento</item>
     </plurals>
@@ -295,5 +263,25 @@
     <plurals name="more_gems">
         <item quantity="other">"Raccogli altre %d gemme per partecipare all'estrazione"</item>
         <item quantity="one">"Raccogli altre %d gemme per partecipare all'estrazione"</item>
+    </plurals>
+    <plurals name="clockin_days">
+        <item quantity="other">Controllato per %1$s giorni consecutivi</item>
+        <item quantity="one">Controllato per %1$s giorno</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">Hai ottenuto %d punti</item>
+        <item quantity="one">Hai ottenuto %d punto</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">Controllato per %1$s giorni consecutivi, continua così!</item>
+        <item quantity="one">Controllato per %1$s un giorno, continua così!</item>
+    </plurals>
+    <plurals name="total_topic_num">
+        <item quantity="other">%1$s argomenti</item>
+        <item quantity="one">%1$s argomento</item>
+    </plurals>
+    <plurals name="total_user_num">
+        <item quantity="other">%1$s persone</item>
+        <item quantity="one">%1$s persona</item>
     </plurals>
 </resources>
