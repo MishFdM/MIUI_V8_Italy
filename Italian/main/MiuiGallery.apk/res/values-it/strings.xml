@@ -560,7 +560,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="remove_from_current_album">Rimuovi da questo album</string>
     <string name="remove_to_other_album">Unisci con una persona diversa</string>
     <string name="remove_from_album_title">Rimuovi da questo album</string>
-    <string name="remove_from_album_message">Questa fotonon verrà più mostrata qui</string>
+    <string name="remove_from_album_message">Questa foto non verrà più mostrata qui</string>
     <string name="remove_to_album_title">Unisci con</string>
     <string name="finish_create_baby_album_toast">Album creato su Mi Cloud per \"%s\"</string>
     <string name="creating_baby_album">Creazione album…</string>
@@ -1180,7 +1180,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="doodle_mosaic">Mosaico</string>
     <string name="image_not_found">"Impossibile trovare l'immagine"</string>
     <string name="image_decode_failed">"Impossibile decodificare l'immagine"</string>
-    <string name="image_invalid_path">Percorso nonvalido</string>
+    <string name="image_invalid_path">Percorso non valido</string>
     <string name="main_save_error_msg">Impossibile salvare le modifiche a causa di un errore</string>
     <string name="main_discard_confirm_message">Non hai salvato le modifiche</string>
     <string name="main_discard_positive_btn">Salva ed esci</string>
