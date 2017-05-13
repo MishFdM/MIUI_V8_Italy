@@ -8,6 +8,10 @@
         <item quantity="other">%d SMS</item>
         <item quantity="one">1 SMS</item>
     </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d other users marked it as</item>
+        <item quantity="one">%d other user marked it as</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">"Nessun dato sull'utilizzo dati per %d app"</item>
         <item quantity="one">"Nessun dato sull'utilizzo dati per %d app"</item>
@@ -15,6 +19,22 @@
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">"Dati sull'utilizzo dati per %d app"</item>
         <item quantity="one">"Dati sull'utilizzo dati per %d app"</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">Hai già utilizzato %s limiti dati giornalieri.</item>
+        <item quantity="one">Hai già utilizzato %s limite dati giornaliero.</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">Hai già utilizzato %s limiti dati giornalieri.
+
+Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti costi aggiuntivi."</item>
+        <item quantity="one">"Hai già utilizzato %s limite giornaliero.
+
+Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti costi aggiuntivi."</item>
     </plurals>
     <plurals name="hints_install_apps_interval">
         <item quantity="other">Utilizzata %d giorni fa</item>
@@ -149,29 +169,9 @@
         <item quantity="other">%d app contengono minacce per la privacy</item>
         <item quantity="one">%d app contiene minacce per la privacy</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">La password dovrebbe contenere almeno %d lettere.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 lettera."</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">La password dovrebbe contenere almeno %d lettere minuscole.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 lettera minuscola."</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">La password dovrebbe contenere almeno %d lettere maiuscole.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 lettera maiuscola."</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">La password dovrebbe contenere almeno %d numeri.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 numero."</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">La password dovrebbe contenere almeno %d simboli speciali.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 simbolo speciale."</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">La password dovrebbe contenere almeno %d caratteri diversi da lettere.</item>
-        <item quantity="one">"La password dovrebbe contenere almeno 1 carattere diverso da lettere."</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Attendi %d secondi e prova di nuovo. "</item>
+        <item quantity="one">"Attendi %d secondo e prova di nuovo. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d app bloccate</item>
@@ -265,5 +265,17 @@
     <plurals name="app_manager_reject_count">
         <item quantity="other">Bloccato %d volte</item>
         <item quantity="one">Bloccato %d volta</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">"Non utilizzato da %d giorni"</item>
+        <item quantity="one">"Non utilizzato da %d giorno"</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">"Non utilizzato da %d mesi"</item>
+        <item quantity="one">"Non utilizzato da %d mese"</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">"Non utilizzato da %d anni"</item>
+        <item quantity="one">"NOn utilizzato da %d anno"</item>
     </plurals>
 </resources>

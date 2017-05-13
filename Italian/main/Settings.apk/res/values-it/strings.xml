@@ -11,6 +11,8 @@
     <string name="open_personal_assistant_dialog_desc">Non potrai utilizzare Assistente Smart e ricevere i suoi aggiornamenti. Disattivare adesso?. Turn off now?"</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Annulla</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Chiudi</string>
+    <string name="recents_config_title">Impostazioni pannello app recenti</string>
+    <string name="show_mem_info_title">Mostra info memoria</string>
     <string name="status_bar_and_notification_bar">Barra notifiche e barra di stato</string>
     <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
     <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
@@ -4556,6 +4558,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="keyboard_and_input_methods_category">Tastiera e metodi di inserimento</string>
     <string name="virtual_keyboard_category">Tastiera virtuale</string>
     <string name="physical_keyboard_title">Tastiera fisica</string>
+    <string name="user_settings_forbidden">Impossibile cambiare impostazioni di amministratore dallo spazio corrente. Torna allo spazio Primario.</string>
     <string name="keyguard_shortcut_title">Collegamenti</string>
     <string name="keyguard_shortcut_summary">Imposta i collegamenti per 2 app sulla Schermata di blocco</string>
     <string name="keyguard_left_function_title">Sinistro</string>

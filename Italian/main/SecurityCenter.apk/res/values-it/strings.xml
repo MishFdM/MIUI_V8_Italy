@@ -23,7 +23,6 @@
     <string name="two_address_choose_hint">%1$s, %2$s2 elementi</string>
     <string name="one_address_choose_hint">%s1 posizione</string>
     <string name="marked_by_user">"lo hai segnalato come "</string>
-    <string name="marked_by_others">"%d persone lo hanno segnalato come "</string>
     <string name="dlg_black_antispam_message">Aggiungere questo messaggio alla blacklist?</string>
     <string name="dlg_white_antispam_message">Aggiungere questo messaggio alle eccezioni?</string>
     <string name="dlg_black_address_antispam_message">Aggiungere questo elemento alla blacklist?</string>
@@ -40,8 +39,6 @@
     <string name="dlg_no_block_ok">Non bloccare</string>
     <string name="dlg_add_blacklist_title">Aggiungi alla blacklist</string>
     <string name="dlg_add_blacklist">Aggiungere numero alla blacklist?</string>
-    <string name="dlg_add_blacklist_warn_conflict_title">Attenzione</string>
-    <string name="dlg_add_blacklist_warn_conflict_content">%1$s ed altri %2$s contatti sono già tra le tue eccezioni.</string>
     <string name="dlg_remove_blacklist">Rimuovere questo numero dalla blacklist?</string>
     <string name="dlg_remove_whitelist_title">Rimuovi</string>
     <string name="dlg_remove_whitelist_content">Rimuovere questi numeri dalle eccezioni?</string>
@@ -332,7 +329,6 @@ Nota：l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente
     <string name="main_primary_message_leisure_remain">Dati off-peak</string>
     <string name="main_primary_message_leisure_alert">Avviso dati off-peak</string>
     <string name="main_primary_message_leisure_overlimit">Limite dati off-peak superato</string>
-    <string name="main_alert_message_month_limit_error">Limite dati non corretto</string>
     <string name="main_alert_message_open_traffic_ctrl">uso di restrizione dei dati</string>
     <string name="main_open_traffic_ctrl_button">Restrizione utilizzo dati</string>
     <string name="main_today_used">Oggi</string>
@@ -420,8 +416,6 @@ dall'operatore"</string>
     <string name="pref_special_traffic_limit_warn">Imposta un avviso di utilizzo dati</string>
     <string name="pref_connect_settings_enable_background">Consenti dati in background</string>
     <string name="pref_connect_settings_enable_background_hint">Consenti alle app in background di utilizzare la rete dati mobile</string>
-    <string name="pref_title_network_diagnostics">Test di rete</string>
-    <string name="pref_check_network_diagnostics">Esegui un test della connessione internet</string>
     <string name="pref_category_title_other">Impostazioni aggiuntive</string>
     <string name="pref_title_update_notification">Mostra utilizzo dati tra le notifiche</string>
     <string name="pref_title_diagnostics_show_float_notification">Notifiche flottanti</string>
@@ -429,10 +423,6 @@ dall'operatore"</string>
     <string name="pref_show_mobile_traffic">Mostra le statistiche di utilizzo dei dati dopo lo sblocco, quando il dispositivo è stato bloccato per più di 5 minuti</string>
     <string name="pref_title_mobile_traffic">Mostra utilizzo dati quando bloccato</string>
     <string name="pref_title_declaration">Avviso importante</string>
-    <string name="pref_about">Informazioni</string>
-    <string name="pref_version">Versione %s</string>
-    <string name="pref_leisure_no_overlay">Attivato</string>
-    <string name="pref_leisure_not_opened">Disattivato</string>
     <string name="pref_new_installed_preconfig_title">Impostazioni predefinite per le nuove app</string>
     <string name="pref_mi_sim_settings">Impostazioni Mi SIM</string>
     <string name="pref_manual_adjust">Imposta utilizzo dati manualmente</string>
@@ -470,8 +460,7 @@ dall'operatore"</string>
     <string name="pref_warning_values">Livello per avviso utilizzo dati</string>
     <string name="pref_pkg_begin_date">Data azzeramento dati</string>
     <string name="pref_month_first_day">1</string>
-    <string name="pref_month_begin_date">Data azzeramento dati</string>
-    <string name="pref_more_traffic_settings">Impostazioni aggiuntive</string>
+    <string name="pref_more_settings">Impostazioni aggiuntive</string>
     <string name="pref_add_traffic_pkg">Dati aggiuntivi acquistati</string>
     <string name="pref_free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
     <string name="pref_data_usage_ignore_settings">Ignora utilizzo dati</string>
@@ -484,8 +473,6 @@ dall'operatore"</string>
     <string name="daily_pkg_traffic">limite soglia dati</string>
     <string name="input_aviable_traffic">Imposta limite utilizzo dati</string>
     <string name="pkg_traffic">Imposta limite utilizzo dati</string>
-    <string name="datausage_ignore_app_list_count">Utilizzo dati ignorato per %d app</string>
-    <string name="traffic_setting_app_count">%d app</string>
     <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
     <string name="free_time_traffic">Limite dati fuori soglia</string>
     <string name="power_save_on_time_default_time_na">00:00</string>
@@ -502,10 +489,9 @@ dall'operatore"</string>
     <string name="per_month_pkg_traffic_settings">Imposta limite dati</string>
     <string name="free_time_traffic_settings">Limite dati fuori soglia</string>
     <string name="pref_category_extra_package_tile">Ricarica pacchetto</string>
-    <string name="pref_key_extra_package_switch">Monthly top-up package</string>
     <string name="pref_key_extra_package_value">Dimensione pacchetto</string>
-    <string name="pref_category_half_year_package_tile">Half-year data package</string>
-    <string name="pref_key_half_year_package_switch">Half-year data package</string>
+    <string name="pref_category_half_year_package_tile">Pacchetto dati metà anno</string>
+    <string name="pref_key_half_year_package_switch">Pacchetto dati metà anno</string>
     <string name="pref_key_half_year_package_value">Dimensione pacchetto</string>
     <string name="pref_key_half_year_package_start">Data di inizio</string>
     <string name="pref_category_daily_package_tile">Piano dati giornaliero</string>
@@ -513,10 +499,6 @@ dall'operatore"</string>
     <string name="pref_key_daily_package_value">Piano dati giornaliero</string>
     <string name="pref_key_direction_traffic">Designated mobile data</string>
     <string name="pref_key_daily_package_summary">Attiva per ripristinare il piano dati giornaliero</string>
-    <string name="daily_sim_over_limit_notify_title">Hai già utilizzato %s oltre il limite giornaliero.</string>
-    <string name="daily_sim_over_limit_dialog_message">"Hai già utilizzato  %s oltre il limite giornaliero.
-
-Se attivi nuovamente i dati su rete mobile, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
     <string name="traffic_setting_fragment_title">Richiesta utilizzo dati</string>
     <string name="traffic_setting_fragment_button1_text">Annulla</string>
     <string name="traffic_setting_fragment_button2_text">Salva</string>
@@ -542,8 +524,6 @@ Se attivi nuovamente i dati su rete mobile, il tuo operatore potrebbe addebitart
     <string name="data_usage_disabled_dialog">"Hai raggiunto il limite previsto dal tuo piano dati. Superato questo limite
  l'operatore potrebbe addebitartene i costi."</string>
     <string name="data_usage_disabled_dialog_enable">Attiva i dati</string>
-    <string name="data_usage_mobile_limit_snoozed_title">Soglia dati superata</string>
-    <string name="data_usage_limit_snoozed_body">Limite dati superato per questo mese.</string>
     <string name="data_usage_restricted_title">Dati in background limitati</string>
     <string name="data_usage_restricted_body">Tocca per attivare i dati in background.</string>
     <string name="data_usage_leisure_warning_title">Limite utilizzo dati oltre soglia</string>
@@ -553,8 +533,6 @@ Se attivi nuovamente i dati su rete mobile, il tuo operatore potrebbe addebitart
     <string name="data_usage_no_total_package_title">Imposta limite utilizzo dati</string>
     <string name="data_usage_no_total_package_body">Tocca per impostare limite dati</string>
     <string name="data_usage_no_total_package_body_dual">Nessun limite impostato per %s</string>
-    <string name="network_assistant_upgraded_title">Aggiornato</string>
-    <string name="network_assistant_upgraded_body">Tocca per vedere i dettagli.</string>
     <string name="data_usage_warning_title_notify">Hai superato il limite dati</string>
     <string name="data_usage_warning_body_notify">Tocca per i dettagli</string>
     <string name="leisure_usage_dialog_title">Hai superato la soglia del traffico dati, la connessione dati è disattivata</string>
@@ -1775,7 +1753,6 @@ essere connesso ad una rete dati."</string>
     <string name="forget_password_button_text"><u>Password dimenticata</u></string>
     <string name="lockpattern_need_to_unlock">Conferma la sequenza</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi errati!</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Attendi %d secondi e riprova.</string>
     <string name="lockpassword_confirm_your_pattern_header">Conferma sequenza</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_submit_button">Accedi</string>
@@ -2090,6 +2067,11 @@ Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo 
     <string name="app_manager_loading_data">Caricamento dati…</string>
     <string name="app_manager_appupdate_remind">Notifica aggiornamenti</string>
     <string name="app_manager_update_label_text">Novità</string>
+    <string name="app_manager_usage_record_title">Utilizzo app</string>
+    <string name="app_manager_go_to_manger_app">Gestisci</string>
+    <string name="app_usage_never">Non utilizzati di recente</string>
+    <string name="app_usage_recently">Utilizzati di recente</string>
+    <string name="app_manager_have_not_consume">No</string>
     <string name="ad_btn_default_text">Scopri di più</string>
     <string name="open_activity_err">Applicazione non trovata</string>
 </resources>

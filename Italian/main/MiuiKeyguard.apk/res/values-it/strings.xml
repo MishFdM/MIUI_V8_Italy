@@ -69,6 +69,7 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="fingerprint_try_again_msg">"Impossibile verificare l'impronta, prova di nuovo."</string>
     <string name="fingerprint_not_identified_title">Impossibile leggere le impronte digitali</string>
     <string name="fingerprint_not_identified_msg">Inserisci la password per sbloccare il dispositivo.</string>
+    <string name="fingerprint_again_identified_msg">La tua impronta adesso è attiva. Utilizzala per sbloccare il dispositivo o utilizza la password.</string>
     <string name="fingerprint_add_title">Aggiungi impronta</string>
     <string name="fingerprint_add_text">"L'interfaccia impronta è stata aggiornata. Aggiunngi di nuovo la tua impronta"</string>
     <string name="invalid_sim_pin_hint">Digita un PIN tra 4 e 8 numeri</string>
@@ -77,7 +78,6 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
     <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Devi accedere allo spazio Primario dopo il riavvio del dispositivo</string>
-    <string name="fingerprint_lockout_msg">"Aspetta un minuto e riprova a sbloccare con l'impronta"</string>
     <string name="accessibility_enter_lock_wallpaper">Tocca lo sfondo della schermata di blocco</string>
     <string name="lock_wallpaper_learn_more">Leggi di più ></string>
     <string name="lock_wallpaper_enter">Inserisci</string>
