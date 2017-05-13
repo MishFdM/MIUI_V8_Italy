@@ -203,6 +203,12 @@
         <item>2 giorni prima</item>
         <item>1 settimana prima</item>
     </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Definito dalla regione</item>
+        <item>Sabato</item>
+        <item>Domenica</item>
+        <item>Lunedì</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
         <item>Solo quando silenzioso</item>
