@@ -27,7 +27,7 @@
     <string name="account_setting_message_body_load_text">Solo corpo</string>
     <string name="account_settings_action">Impostazioni account</string>
     <string name="account_settings_background_attachments_label">Scarica allegati</string>
-    <string name="account_settings_background_attachments_summary">Scarica automaticamente gli allegati solo tramite Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary">Scarica allegati tramite Wi-Fi</string>
     <string name="account_settings_data_usage">Utilizzo dati</string>
     <string name="account_settings_description_label">Nome account</string>
     <string name="account_settings_edit_quick_responses_label">Risposte rapide</string>
