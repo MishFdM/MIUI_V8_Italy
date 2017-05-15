@@ -10,15 +10,15 @@
     </plurals>
     <plurals name="Nminutes">
         <item quantity="other">%d minuti</item>
-        <item quantity="one">1 minuto</item>
+        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d ore</item>
-        <item quantity="one">1 ora</item>
+        <item quantity="one">%d  ora</item>
     </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d giorni</item>
-        <item quantity="one">1 giorno</item>
+        <item quantity="one">%d  giorno</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">Settimana %d</item>
@@ -37,7 +37,7 @@
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d settimane fa</item>
-        <item quantity="one">1 settimana fa</item>
+        <item quantity="one">%d settimana fa</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Anniversario: %2$d anni da %1$s</item>
@@ -48,8 +48,8 @@
         <item quantity="one">Anniversary: %2$d anno da %1$s tra 3 giorni</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
-        <item quantity="other">%1$ anni</item>
-        <item quantity="one">%1$ anni</item>
+        <item quantity="other">%1$s anni fa</item>
+        <item quantity="one">%1$s anno fa</item>
     </plurals>
     <plurals name="repeat_interval_frequency_day_multiple">
         <item quantity="other">%1$d giorni</item>
@@ -68,16 +68,16 @@
         <item quantity="one">%1$d anno</item>
     </plurals>
     <plurals name="anniversary_year">
-        <item quantity="other">anni</item>
-        <item quantity="one">anno</item>
+        <item quantity="other">%1$s anni</item>
+        <item quantity="one">%1$s anno</item>
     </plurals>
     <plurals name="anniversary_day">
-        <item quantity="other">giorni</item>
-        <item quantity="one">giorno</item>
+        <item quantity="other">%1$s giorni</item>
+        <item quantity="one">%1$s giorno</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">giorni dopo</item>
-        <item quantity="one">giorno dopo</item>
+        <item quantity="other">%1$s giorni dopo</item>
+        <item quantity="one">%1$s giorno dopo</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d giorni lavorativi</item>

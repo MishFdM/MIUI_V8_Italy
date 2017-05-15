@@ -131,7 +131,6 @@
     <string name="shift_detail_desc_not_start">每轮倒班周期为%1$d天，开始日为：%2$s</string>
     <string name="weather_card_humidity_desc">湿度%1$s%%</string>
     <string name="weather_card_no_data_hint">点击获取天气数据</string>
-    <string name="holiday_detail_read_more">更多</string>
     <string name="ad_card_install">立即安装</string>
     <string name="ad_card_try">立即体验</string>
     <string name="ad_card_spread">广告</string>
@@ -329,6 +328,7 @@
     <string name="import_birthday">Importa compleanno</string>
     <string name="imported">Importato</string>
     <string name="birthday_card_title">Il compleanno è oggi</string>
+    <string name="birthday_card_other_day_title">Compleanno</string>
     <string name="edit_event_anniversary_name_hint">Evento</string>
     <string name="edit_event_anniversary_name_empty_hint">Inserisci nome evento</string>
     <string name="anniversary_event_title">Anniversario: %1$s</string>
@@ -382,8 +382,8 @@
     <string name="birthday_notification_title_days_later">Si avvicina il %2$s di %1$s</string>
     <string name="birthday_notification_text_days_later">%1$s giorni a %4$s (%5$s)</string>
     <string name="birthday_notification_type_term_lunar"/>
-    <string name="birthday_event_description_default">%2$s%3$s%4$s di %1$s</string>
-    <string name="birthday_event_description_special">%1$s è %3$s%4$s%5$s di %2$s</string>
+    <string name="birthday_event_description_default">%1$s %2$s %3$s %4$s</string>
+    <string name="birthday_event_description_special">"%1$s %2$s's %3$s %4$s %5$s"</string>
     <string name="birthday_event_description_today">Oggi</string>
     <string name="birthday_event_description_tomorrow">Domani</string>
     <string name="birthday_event_description_day_after_tomorrow">Dopodomani</string>
@@ -474,6 +474,7 @@
     <string name="anniversary_card_title">Anniversario</string>
     <string name="countdown_card_title">Conto alla rovescia</string>
     <string name="countdown_today">Oggi</string>
+    <string name="holiday_detail_read_more">Altro</string>
     <string name="repeat_lunar_yearly"/>
     <string name="network_not_available">Impossibile collegarsi alla rete</string>
     <string name="no_network_btn">Riprova</string>
