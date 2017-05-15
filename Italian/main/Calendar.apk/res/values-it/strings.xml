@@ -376,14 +376,14 @@
     <string name="birthday_calendar_display_name">Promemoria compleanno</string>
     <string name="xiaomi_calendar_display_name">Calendario Mi</string>
     <string name="local_owner_account_name">Account locale</string>
-    <string name="birthday_term">Compleanno</string>
+    <string name="birthday_term">compleanno</string>
     <string name="birthday_notification_title_today">%3$s di %1$s</string>
     <string name="birthday_notification_text_today">Non dimenticare di fare gli auguri.</string>
     <string name="birthday_notification_title_days_later">Si avvicina il %2$s di %1$s</string>
     <string name="birthday_notification_text_days_later">%1$s giorni a %4$s (%5$s)</string>
     <string name="birthday_notification_type_term_lunar"/>
     <string name="birthday_event_description_default">%1$s %2$s %3$s %4$s</string>
-    <string name="birthday_event_description_special">"%1$s %2$s's %3$s %4$s %5$s"</string>
+    <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
     <string name="birthday_event_description_today">Oggi</string>
     <string name="birthday_event_description_tomorrow">Domani</string>
     <string name="birthday_event_description_day_after_tomorrow">Dopodomani</string>
