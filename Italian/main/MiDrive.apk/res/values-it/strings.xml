@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Drive</string>
-    <string name="wangpan_root_path">IL mio disco</string>
+    <string name="wangpan_root_path">Il mio disco</string>
     <string name="file_loading">Solo un attimo…</string>
     <string name="load_err">Impossibile caricare</string>
     <string name="confirm">OK</string>
