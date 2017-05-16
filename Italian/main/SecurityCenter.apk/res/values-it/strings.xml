@@ -698,7 +698,7 @@ essere connesso ad una rete dati."</string>
     <string name="lock_screen_warning_switch_title">Mostra avvisi sulla schermata di blocco</string>
     <string name="lock_screen_warning_switch_summary">Mostra avvisi sulla schermata di blocco quando i dati superano una certa soglia</string>
     <string name="lock_screen_warning_value">Avviso utilizzo dati</string>
-	<string name="pref_normal_traffic_limit">Dati giornalieri</string>
+	<string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
     <string name="traffic_setting_completed">OK</string>
     <string name="traffic_setting_extra_pkg_title">Impostazioni aggiuntive</string>
     <string name="traffic_setting_extra_pkg_summary">Regola il tuo piano dati e limiti di utilizzo</string>
