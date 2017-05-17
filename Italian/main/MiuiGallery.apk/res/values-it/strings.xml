@@ -465,6 +465,9 @@
     <string name="and">" e "</string>
     <string name="home_page_empty">Vuoto</string>
     <string name="people_page_label">Volto</string>
+    <string name="ignore_faces_title">Ignorato</string>
+    <string name="see_ignore_faces">Mostra le persone ignorate</string>
+    <string name="no_ignore_faces">Nessuno</string>
     <string name="people_page_unname">Senza nome</string>
     <string name="face_album_rename_hint">Inserisci il nome</string>
     <string name="face_album_use_tip">Ordina automaticamente in base alle persone ritratte.</string>
@@ -513,6 +516,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="create_new_face">Nuovo volto</string>
     <string name="preparing_data">Preparazione…</string>
     <string name="ignore_face">Ignora questo volto</string>
+    <string name="change_to_visible">Ripristinare questa persona?</string>
     <string name="who_is_this">Chi è?</string>
     <string name="view_face_album">Mostra album</string>
     <string name="face_album_new_name_hint">Nuovo nome</string>
@@ -562,6 +566,10 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="remove_from_album_title">Rimuovi da questo album</string>
     <string name="remove_from_album_message">Questa foto non verrà più mostrata qui</string>
     <string name="remove_to_album_title">Unisci con</string>
+    <string name="recovery_merge_or_rename">Unisci album</string>
+    <string name="recovery_merge_or_rename_message">Esiste già un album con questo nome. Unire adesso?</string>
+    <string name="recovery_merge">Unisci</string>
+    <string name="recovery_rename">Rinomina</string>
     <string name="finish_create_baby_album_toast">Album creato su Mi Cloud per \"%s\"</string>
     <string name="creating_baby_album">Creazione album…</string>
     <string name="create_baby_album">Crea un Album bambino</string>
@@ -707,6 +715,8 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="operation_enter_delete_local">Elimina i backup di foto e video dal dispositivo</string>
     <string name="auto_upload_enable_toast_long_press_menu">"Backup automatico attivato, vai alla pagina dell'album per vedere"</string>
     <string name="auto_upload_disable_toast_long_press_menu">Backup automatico disattivato，aggiunto ad un altro album</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Spostato correttamente, vai negli Album per vedere</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Spostato correttamente, vai in Altri Album per vedere</string>
     <string name="enable_auto_upload_title">Attiva sincronizzazione con Mi Cloud</string>
     <string name="disable_auto_upload_title">Disattiva sincronizzazione con Mi Cloud</string>
     <string name="enable_auto_upload_tip">"Questo album verrà rimosso da \"Altri album\" dopo l'attivazione."</string>
@@ -818,6 +828,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="delete_from_all_devices">da tutti i dispositivi</string>
     <string name="delete_from_all_devices_and_cloud">da tutti i dispositivi e Mi Cloud</string>
     <string name="delete_from_this_album_and_cloud">da questo album e da Mi Cloud</string>
+    <string name="delete_from_local_and_cloud">da questo dispositivo e da Mi Cloud</string>
     <string name="delete_from_album">"dall'album \"%s\" da tutti i dispositivi"</string>
     <string name="delete_from_album_no_account">"dall'album \"%s\" "</string>
     <string name="delete_album_msg_format">Eliminare album \"%2$s\" %1$s%3$s?</string>
@@ -1084,6 +1095,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="delete_from_devices_album">Tutti i dispositivi che hanno sincronizzato questo album</string>
     <string name="delete_to_trash_tips">Puoi vedere le foto eliminate di recente nelle impostazioni del cestino</string>
     <string name="delete_from_cloud">"Elimina elementi dall'album cloud"</string>
+    <string name="delete_unsynced">Elimina gli elementi di cui non hai eseguito il backup</string>
     <string name="download_title">Preparazione file…</string>
     <string name="download_retry_title">Impossibile scaricare il file</string>
     <string name="download_retry_message">Impossibile scaricare i file, verifica la connessione di rete e riprova</string>
@@ -1127,6 +1139,15 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="search_error_and_retry">Si è verificato un errore, tocca per provare di nuovo</string>
     <string name="search_image_result_title">Risultati</string>
     <string name="search_result_empty">Nessun risultato</string>
+    <string name="search_title_recommend">Consigliati</string>
+    <string name="search_title_people">Persone</string>
+    <string name="search_title_tag">Oggetti</string>
+    <string name="search_title_location">Posizioni</string>
+    <string name="search_title_others">Tutti i risultati</string>
+    <string name="search_title_history">Cronologia di ricerca</string>
+    <string name="search_people_jump_failed">Attendi che le foto con le persone siano sincronizzate con Mi Cloud e prova di nuovo</string>
+    <string name="search_album_jump_failed">Attendi che gli album siano sincronizzati con Mi Cloud e prova di nuovo</string>
+    <string name="search_clear_histories">Clear</string>
     <string name="search_loading">Solo un attimo</string>
     <string name="search_loading_dots">Solo un attimo...</string>
     <string name="search_load_failed">Impossibile caricare le informazioni, tocca per provare di nuovo</string>

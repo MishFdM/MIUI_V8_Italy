@@ -170,7 +170,9 @@
     <string name="savingContact">Salvataggio contatto…</string>
     <string name="savingDisplayGroups">Salvataggio opzioni di visualizzazione…</string>
     <string name="contactSavedToast">Contatto salvato.</string>
+    <string name="profileSavedToast">Il mio profilo è salvato</string>
     <string name="contactSavedErrorToast">Salvataggio delle modifiche ai contatti non riuscito.</string>
+    <string name="profileSavedErrorToast">Impossibile salvare le modifiche del mio profilo</string>
     <string name="groupSavedToast">Gruppo salvato.</string>
     <string name="groupSavedErrorToast">Salvataggio delle modifiche ai gruppi non riuscito.</string>
     <string name="listTotalPhoneContactsZero">Nessun contatto con numeri di telefono</string>
@@ -808,6 +810,7 @@ Le schede contatti sono disattivate"</string>
     <string name="callrecordview_menu_voip">VoIP</string>
     <string name="callrecordview_menu_livetalk">Ricarica pacchetto</string>
     <string name="callrecordview_menu_ip">Automatico IP</string>
+    <string name="callrecordview_menu_misim">Mi SIM</string>
     <string name="callrecordview_menu_blocklist">Blocchi</string>
     <string name="callrecordview_menu_settings">Impostazioni</string>
     <string name="callrecordview_menu_show">Filtro</string>
@@ -837,6 +840,7 @@ Le schede contatti sono disattivate"</string>
     <string name="calllog_menu_send_sms">Invia un messaggio</string>
     <string name="call_sim1_menu_title">Chiama con SIM 1</string>
     <string name="call_sim2_menu_title">Chiama con SIM 2</string>
+    <string name="call_sim_menu_title_suffix">(Primaria)</string>
     <string name="menu_call_ip_number">Effettua chiamata IP (al numero %s)</string>
     <string name="menu_dial_ip_number">Effettua una chiamata IP</string>
     <string name="delete_contact_calllog_title">Cancellare il registro chiamate?</string>
@@ -976,7 +980,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="custom_nickname_hint">Inserisci soprannome</string>
     <string name="open_contact">Mostra contatto</string>
     <string name="send_contact_shortcut_todesktop_success">Aggiunto alla schermata Home</string>
-    <string name="date_picker_label">Ricordamelo 3 giorni prima e anche nel giorno di</string>
     <string name="today">Oggi</string>
     <string name="next_birthday">Prossimo compleanno: %s</string>
     <string name="ringLabelsGroup">Suoneria</string>
@@ -1056,8 +1059,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="contact_detail_calllog_empty">Nessuna chiamata</string>
     <string name="import_from_onekey_migrate">Importa con Transfer</string>
     <string name="import_from_other_phone">Importa da un altro dispositivo</string>
-    <string name="device_brand_title">Scegli una marca</string>
-    <string name="device_version_title">Scegli un modello</string>
     <string name="device_list_title">Scegli un dispositivo</string>
     <string name="next">Avanti</string>
     <string name="previous">Indietro</string>
@@ -1170,6 +1171,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="clear_copy_number_description">Cancella numero copiato</string>
     <string name="select_groups">Seleziona gruppi</string>
     <string name="sim_capacity_content" formatted="false">Capacità totale %d | %d usata</string>
+    <string name="sim_unloaded">SIM non installata</string>
     <string name="sim_error_generic_failure">Si è verificato un errore</string>
     <string name="sim_error_storage_full">Memoria piena</string>
     <string name="sim_error_text_too_long">Nome troppo lungo</string>
@@ -1194,8 +1196,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="pull_to_refresh_release_label">Rilascia per aggiornare</string>
     <string name="pull_to_refresh_refreshing_label">Solo un attimo...</string>
     <string name="yellowpage_navigation_no_content">Nessun risultato dalla ricerca</string>
-    <string name="yellowpage_navigation_search_history">Cronologia</string>
     <string name="yellowpage_navigation_clear_search_history">Cancella cronologia</string>
+    <string name="yellowpage_navigation_search_history">Cronologia</string>
     <string name="yellowpage_navigation_search_offline_hint">Nessun accesso ad internet</string>
     <string name="yellowpage_navigation_search_city_name_hint">Città</string>
     <string name="yellowpage_navigation_search_select_city">Prego selezionare una città</string>
@@ -1213,6 +1215,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="yellowpage_navigation_more_items">Altro</string>
     <string name="yellowpage_navigation_more_items_title">Altri servizi</string>
     <string name="yellowpage_navigation_ad_hint">Ad</string>
+    <string name="yellowpage_mi_family">Mi Family</string>
     <string name="yellowpage_search_the_yellowpage">Cerca nella cartella</string>
     <string name="convenient_service">Servizi</string>
     <string name="useful_numbers">Numeri utili</string>

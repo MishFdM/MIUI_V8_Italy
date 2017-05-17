@@ -86,6 +86,7 @@
     <string name="aqi_quality_index_moderate">IQA %1$s</string>
     <string name="aqi_quality_index_pure">IQA %1$s</string>
     <string name="aqi_quality_index_unhealthy">IQA %1$s</string>
+    <string name="autoSwithcingSearchEngineTips">Passaggio al motore di ricerca più utilizzato</string>
     <string name="autofill_keyboard_accessory_content_description">Suggerimento disponibile</string>
     <string name="autofill_popup_content_description">Mostra popup riempimento automatico</string>
     <string name="autologin_bar_error">Accesso non riuscito.</string>
@@ -130,6 +131,8 @@
     <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
     <string name="cancel">Annulla</string>
     <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
+    <string name="check_permission_of_current_location">Informazioni posizione attuale</string>
+    <string name="check_permission_of_current_url">URLs delle pagine che hai visitato</string>
     <string name="choosertitle_sharevia">Condividi tramite</string>
     <string name="clear_history">Cancella cronologia</string>
     <string name="clear_most_visited">Mantieni cronologia</string>
@@ -185,6 +188,7 @@
     <string name="contextmenu_savelink">Salva link</string>
     <string name="contextmenu_send_mail">Invia email</string>
     <string name="contextmenu_set_wallpaper">Imposta come sfondo</string>
+    <string name="contextmenu_share_image">Modifica immagine</string>
     <string name="contextmenu_sharelink">Condividi link</string>
     <string name="contextmenu_view_image">Visualizza immagine</string>
     <string name="contextmenu_webpage_capture">Salva come screenshot</string>
@@ -303,6 +307,7 @@ finestra riservata​"</string>
     <string name="find_on_page_next">Avanti</string>
     <string name="find_on_page_prev">Indietro</string>
     <string name="find_previous">Trova il precedente</string>
+    <string name="firstUsingSearchEngineTips">Cambiaremotore di ricerca?</string>
     <string name="fling_on_border_gesture_hint">"Puoi selezionare l'azione per questa gesture nelle Impostazioni"</string>
     <string name="force_quick_search_title">Cerca</string>
     <string name="force_touch_bookmark_history_title">Segnalibri e cronologia</string>
@@ -478,6 +483,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="older">Più vecchi</string>
     <string name="open_app_confirm_message">Consentire a questa pagina di aprire %s?</string>
     <string name="open_file_explorer_failed">Impossibile aprire File Explorer"</string>
+   <string name="open_voice_permission">Apertura permessi rete voce</string>
     <string name="opening_file_error">Impossibile aprire il file selezionato</string>
     <string name="page_info">Info pagina</string>
     <string name="page_info_address">Indirizzo:</string>
@@ -502,9 +508,12 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_adblock_counts">%d bloccati</string>
     <string name="pref_adblock_title">Ad blocker</string>
     <string name="pref_auto_update_under_wifi">Aggiorna automaticamente con Wi-Fi</string>
+    <string name="pref_automatic_matching_searchengines_title">Passaggio al motore di ricerca più utilizzato</string>
     <string name="pref_category_hint">Categoria</string>
     <string name="pref_check_security_url_summary">Invia ai server Xiaomi per verificarne la sicurezza</string>
+    <string name="pref_check_security_url_summary_international">Per fornire un servizio migliore, consenti al browser di accedere ai tuoi URL</string>
     <string name="pref_check_security_url_title">Verifica sicurezza URL</string>
+    <string name="pref_check_security_url_title_international">Ottieni gli URL</string>+
     <string name="pref_clear_adblock_statistics">Svuota cronologia Ad blocker</string>
     <string name="pref_clear_adblock_statistics_dlg">Azzerare il conteggio pubblicità bloccate?</string>
     <string name="pref_clear_all_data_dlg">Cancellare tutti i dati di navigazione?</string>
@@ -591,8 +600,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pref_ua_string">Stringa user agent</string>
     <string name="pref_version_info">Info versione</string>
     <string name="pref_volume_key_action">Scorri con i tasti volume</string>
-    <string name="pref_weather_location_summary">Utilizzato dal plugin meteo del browser</string>
-    <string name="pref_weather_location_title">Posizione meteo</string>
     <string name="private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="profiler_error_toast">Impossibile avviare profilo</string>
     <string name="profiler_no_storage_toast">Profilo non avviato perché la memoria esterna non è pronta.</string>
@@ -603,6 +610,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
     <string name="qr_code_title">Codice QR</string>
     <string name="quicklink_bookmark_save">Salva in</string>
+    <string name="quicklink_cannot_save_url">Questo URL non può essere aggiunto.</string>
+    <string name="quicklink_folder_text">App Top</string>
     <string name="quicklink_not_saved">Impossibile aggiungerlo alla pagina iniziale</string>
     <string name="quicklink_saved">Aggiunto alla pagina iniziale</string>
     <string name="quicklink_saved_before">Sito aggiunto alla pagina iniziale</string>
@@ -663,6 +672,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="save_to_camera">Salva in Fotocamera</string>
     <string name="save_to_camera_failed">"Impossibile salvare l'immagine"</string>
     <string name="save_to_camera_success">Salvato in Fotocamera</string>
+    <string name="scanner_uninstalled_text">Continua ad utilizzare, installa lo scanner</string>
+    <string name="scanner_uninstalled_title">Lo scanner è stato disinstallato</string>
     <string name="sdcard_error">Verifica la tua scheda SD</string>
     <string name="search">Cerca</string>
     <string name="search_baidu">Baidu</string>
@@ -696,8 +707,10 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="send_comment_title">commenti</string>
     <string name="senddesktop">Home</string>
     <string name="sendstartpage">Pagina iniziale</string>
-    <string name="share_page_text">"Mi sto godendo 【%1$s】 | %2$s"</string>
+    <string name="share_image_text">Sto guardando una foto bellissima</string>
+    <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
     <string name="show_check_security_url_check_tip_dialog_description">"L'indirizzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzione nelle Impostazioni."</string>
+    <string name="show_check_security_url_check_tip_dialog_description_international">Per ricevere suggerimenti mirati, consenti al Browser di accedere a questi elementi:</string>
     <string name="show_security_tip_dialog_title">Termini del Servizio</string>
     <string name="show_weather_location_getter_tip_dialog_description">I servizi Meteo hanno bisogno delle informazioni sulla tua posizione per fornire dati aggiornati nel browser. Puoi disattivare questa funzione nelle Impostazioni.</string>
     <string name="sign_in_to" formatted="false">Accedi a %s1 \"%s2\"</string>
@@ -737,6 +750,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="suggest_access_music">Mi Music</string>
     <string name="suggest_item_delete_text">Elimina</string>
     <string name="suggest_open_app_failed">Nonè stato possibile aprire questa app</string>
+    <string name="switchText">SI</string>
     <string name="switch_proxy_dialog_msg">"Rilevato tentativo di deviazione di rete. Utilizza l'app Sicurezza di MIUI o segnala al tuo operatore."</string>
     <string name="switch_proxy_dialog_title">Deviazione di rete</string>
     <string name="tab_hotpage">Tendenza</string>
@@ -752,6 +766,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="title_bar_loading">Caricamento…</string>
     <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>
     <string name="too_many_windows_dialog_title">Limite schede raggiunto</string>
+    <string name="unSwitchText">NO</string>
+    <string name="undo">Annulla</string>
     <string name="unknown_title">Sconosciuto</string>
     <string name="unsecurity_url_toast">Questo sito non è sicuro</string>
     <string name="up_to_loading_tips">Rilascia per aggiornare</string>
@@ -837,6 +853,11 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="video_unknown_duration">Durata sconosciuta</string>
     <string name="view_certificate">Visualizza certificato</string>
     <string name="view_document_downloaded_files">Accedi ai file scaricati del Gestore download</string>
+    <string name="voice_check_network">Controlla la rete e prova di nuovo</string>
+    <string name="voice_connect_network">Impossibile connettersi alla rete</string>
+    <string name="voice_network_connection">"L'utilizzo della ricerca vocale richiede la connessione di rete, devi autorizzare la connessione"</string>
+    <string name="voice_search_permission">La ricerca vocale richiede i permessi adeguati, vai nelle impostazioni del Browser per aprire i permessi vocali</string>
+    <string name="voice_semantic_analysis">Analisi semantica dopo la connessione</string>
     <string name="voice_sub_title">"Non sai cosa dire? Prova Apri mi.com!"</string>
     <string name="voice_title">Pronuncia il tuo comando…</string>
     <string name="voice_title_distinguish">Elaborazione…</string>

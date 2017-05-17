@@ -28,6 +28,7 @@
     <string name="account_settings_action">Impostazioni account</string>
     <string name="account_settings_background_attachments_label">Scarica allegati</string>
     <string name="account_settings_background_attachments_summary">Scarica allegati tramite Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary_inter">Scarica allegati tramite Wi-Fi</string>
     <string name="account_settings_data_usage">Utilizzo dati</string>
     <string name="account_settings_description_label">Nome account</string>
     <string name="account_settings_edit_quick_responses_label">Risposte rapide</string>
@@ -383,7 +384,7 @@
     <string name="download_message_failed_for_too_large">Messaggio troppo grande per essere scaricato.</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">Resoconto bancario</string>
-    <string name="drawer_bill_title">Bollette</string>
+    <string name="drawer_classification">Classificazione intelligente</string>
     <string name="drawer_close">Chiudi pannello di navigazione</string>
     <string name="drawer_contacts">Contatti</string>
     <string name="drawer_open">Apri pannello di navigazione</string>
@@ -652,6 +653,8 @@ Prova a passare ad un diverso account email."</string>
     <string name="no_filtrable_email_account">Nessun account da filtrare</string>
     <string name="no_mails">Nessuna mail</string>
     <string name="no_matched_attachment">Nessun allegato corrispondente.</string>
+    <string name="no_recognize_describe">"Impossibile trovare email contenenti biglietti o prenotazioni.
+Prova con una diverso account."</string>
     <string name="no_remind">Non ricordare</string>
     <string name="not_subject">(Nessun oggetto)</string>
     <string name="not_synced_title">Account non sincronizzato</string>
@@ -700,6 +703,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="overlays_title">Apri le finestre dei permessi</string>
     <string name="parase_setup_data">Recupero dati di configurazione…</string>
     <string name="parse_bill_discribe">Bollette con carta di credito …</string>
+    <string name="parse_recognize_describe">Analisi email…</string>
     <string name="password_expire_warning_content_title">Password blocco schermo in scadenza</string>
     <string name="password_expire_warning_dialog_content_fmt">Devi modificare il PIN o la password di blocco dello schermo a breve altrimenti i dati relativi a %s verranno cancellati. Continuare?</string>
     <string name="password_expire_warning_dialog_title">Password blocco schermo in scadenza</string>
@@ -732,7 +736,10 @@ Prova a passare ad un diverso account email."</string>
     <string name="photo_load_failed">"Non è stato possibile caricare l'immagine"</string>
     <string name="photo_view_count" formatted="false">%d di %d</string>
     <string name="please_fill_in_your_mailbox_information2">Inserisci i dati del tuo account</string>
+    <string name="pls_parse_bill_discribe">"Analizza ricevute e viaggi nelle tue email
+perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="policy_app_blacklist">Revoca permessi app specifiche</string>
+    <string name="policy_app_blacklist">Non consentire app specifiche</string>
     <string name="policy_app_whitelist">Consenti app specifiche</string>
     <string name="policy_bluetooth_restricted">Limita utilizzo Bluetooth</string>
     <string name="policy_calendar_age">Limita numero di eventi calendario sincronizzati</string>
@@ -749,6 +756,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="policy_dont_allow_unsigned_apps">Non consentire applicazioni non firmate</string>
     <string name="policy_dont_allow_unsigned_installers">Non consentire installatori non firmati</string>
     <string name="policy_dont_allow_wifi">Non consentire Wi-Fi</string>
+    <string name="policy_dont_allow_wifi_inter">Non consentire Wi-Fi</string>
     <string name="policy_email_age">Limita numero di email sincronizzate</string>
     <string name="policy_html_truncation">Restringi dimensione email HTML</string>
     <string name="policy_password_expiration">Richiedi scadenza password</string>
@@ -845,6 +853,32 @@ Prova a passare ad un diverso account email."</string>
     <string name="read_string">Conversazione letta</string>
     <string name="recipient_needed">Aggiungi almeno un destinatario.</string>
     <string name="recipient_needed_title">Avviso</string>
+    <string name="recognize_hotel_check_in_date">Orario check-in</string>
+    <string name="recognize_hotel_hotel_money">Prezzo %1$s</string>
+    <string name="recognize_hotel_notification_content">Goditi il soggiorno!</string>
+    <string name="recognize_hotel_notification_title">Hai prenotato una camera a %1$s starting from %2$s/%3$s. Double check your booking before arriving there.</string>
+    <string name="recognize_hotel_order_money">Totale</string>
+    <string name="recognize_hotel_other_money">Altre spese %1$s</string>
+    <string name="recognize_hotel_reverse_date">Check in entro %1$s:%2$s %3$s</string>
+    <string name="recognize_hotel_room_type">Camera</string>
+    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+    <string name="recognize_hotel_title">Prenotazione hotel</string>
+    <string name="recognize_hotel_user_names">Ospite</string>
+    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+    <string name="recognize_setting_title">Impostazioni di viaggio</string>
+    <string name="recognize_ticket_air_notification_content">Goditi il volo!</string>
+    <string name="recognize_ticket_air_notification_title">Volo %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
+    <string name="recognize_ticket_air_state_stopover">Scalo</string>
+    <string name="recognize_ticket_air_state_transfer">Trasferimento</string>
+    <string name="recognize_ticket_air_user_name">Passeggero:</string>
+    <string name="recognize_ticket_title">Biglietti aereo e treno</string>
+    <string name="recognize_ticket_train_alter">Modificato</string>
+    <string name="recognize_ticket_train_depart_date">Partenza alle %3$s:%4$s il %1$s/%2$s</string>
+    <string name="recognize_ticket_train_notification_content">Buon Viaggio!</string>
+    <string name="recognize_ticket_train_notification_title">Il treno %3$s (%1$s/%2$s) partirà presto. Controlla il tuo biglietto.</string>
+    <string name="recognize_ticket_train_return">Ritornato</string>
+    <string name="recognize_ticket_train_user_name">Passeggero: %1$s</string>
+    <string name="recognize_title">Informazioni di viaggio</string>
     <string name="reduce_the_receiving_frequencye_summary">"Frequenza di sincronizzazione e-mail più bassa nell'orario preimpostato"</string>
     <string name="reduce_the_receiving_frequencye_title">Frequenza sincronizzazione ridotta</string>
     <string name="refresh">Aggiorna</string>
@@ -860,6 +894,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
+    <string name="reply_subject_label">R:</string>
     <string name="report_phishing">Segnala come phishing</string>
     <string name="report_spam">Segnala come spam</string>
     <string name="request_entity_large">File richiesto troppo grande!</string>
