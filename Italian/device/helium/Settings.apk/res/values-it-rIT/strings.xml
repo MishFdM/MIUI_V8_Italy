@@ -30,4 +30,6 @@
 <string name="record_anr_in_background">Registra casi ANR in background</string>
 <string name="anr_record_interval_title">Registra intervalli ANR</string>
 <string name="open_anr_debug">Attiva debug ANR</string>
+<string name="select_webview_provider_title">Implementazione WebView</string>
+<string name="select_webview_provider_dialog_title">Imposta WebView</string>
 </resources>
