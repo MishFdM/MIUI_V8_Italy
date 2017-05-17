@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d nuovi messaggi</item>
+        <item quantity="one">%1$d nuovo</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archiviare %1$d conversazioni?</item>
+        <item quantity="one">Archiviare %1$d conversazione?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Eliminare %1$d conversazioni?</item>
+        <item quantity="one">Eliminare %1$d conversazione?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Queste conversazioni contengono elementi uniti, sicuro di volerle eliminare?</item>
+        <item quantity="one">Questa conversazione contiene elementi uniti, sicuro di volerla eliminare?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d selezionati</item>
+        <item quantity="one">%d selezionato</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">%1$d archiviate.</item>
+        <item quantity="one">%1$d archiviata.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">%1$d eliminata.</item>
+        <item quantity="one">%1$d eliminata.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Cartelle modificate.</item>
+        <item quantity="one">Cartella modificata.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">%1$d silenziose.</item>
+        <item quantity="one">%1$d silenziosa.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">%1$d segnate come non importanti.</item>
+        <item quantity="one">%1$d segnata come non importante.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">%1$d non segnate come spam</item>
+        <item quantity="one">%1$d non segnata come spam</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">%1$d segnalate come spam</item>
+        <item quantity="one">%1$d segnalata come spam</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">%1$d segnate come spam</item>
+        <item quantity="one">%1$d segnata come spam</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Bozze</item>
+        <item quantity="one">Bozza</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d messaggi verranno eliminati definitivamente</item>
+        <item quantity="one">%1$d messaggio verrà eliminato definitivamente</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Sposta %1$d conversazioni</item>
+        <item quantity="one">Sposta %1$d conversazione</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d nuovi messaggi</item>
+        <item quantity="one">%1$d nuovo messaggio</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d selezionati</item>
+        <item quantity="one">%d selezionato</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d vecchi messaggi</item>
+        <item quantity="one">%1$d vecchio messaggio</item>
+    </plurals>
+</resources>
