@@ -22,11 +22,6 @@
         <item>Solo questa istanza</item>
         <item>Tutti gli eventi della serie</item>
     </string-array>
-    <string-array name="prefValues_alerts_vibrateWhen">
-        <item>sempre</item>
-        <item>silenzioso</item>
-        <item>mai</item>
-    </string-array>
     <string-array name="widget_style_list">
         <item>Nero trasparente</item>
         <item>Sfondo bianco</item>

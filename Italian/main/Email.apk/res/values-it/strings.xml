@@ -739,7 +739,6 @@ Prova con una diverso account."</string>
     <string name="pls_parse_bill_discribe">"Analizza ricevute e viaggi nelle tue email
 perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="policy_app_blacklist">Revoca permessi app specifiche</string>
-    <string name="policy_app_blacklist">Non consentire app specifiche</string>
     <string name="policy_app_whitelist">Consenti app specifiche</string>
     <string name="policy_bluetooth_restricted">Limita utilizzo Bluetooth</string>
     <string name="policy_calendar_age">Limita numero di eventi calendario sincronizzati</string>
@@ -861,10 +860,8 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="recognize_hotel_other_money">Altre spese %1$s</string>
     <string name="recognize_hotel_reverse_date">Check in entro %1$s:%2$s %3$s</string>
     <string name="recognize_hotel_room_type">Camera</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
     <string name="recognize_hotel_title">Prenotazione hotel</string>
     <string name="recognize_hotel_user_names">Ospite</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">Impostazioni di viaggio</string>
     <string name="recognize_ticket_air_notification_content">Goditi il volo!</string>
     <string name="recognize_ticket_air_notification_title">Volo %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>

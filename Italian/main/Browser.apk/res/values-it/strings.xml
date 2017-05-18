@@ -871,14 +871,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="webview_find_on_page">Trova nella pagina</string>
     <string name="webviewchromium_private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="week_picker_dialog_title">Imposta settimana</string>
-    <string name="autoSwithcingSearchEngineTips">Il motore di ricerca è stato cambiato in base alle tue abitudini</string>
-    <string name="firstUsingSearchEngineTips">Modifica della ricerca</string>
-    <string name="pref_automatic_matching_searchengines_title">Utilizza automaticamente il motore di ricerca in base alle abitudini di utilizzo</string>
-    <string name="quicklink_cannot_save_url">Questo URL non può essere aggiunto.</string>
-    <string name="quicklink_folder_text">App Top</string>
-    <string name="switchText">SI</string>
-    <string name="unSwitchText">NO</string>
-    <string name="undo">Annulla</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
