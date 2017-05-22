@@ -30,6 +30,7 @@
     <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Test da Microfono post. ad Altoparlante</string>
+	<string name="cit_audio_lb_frontmic_to_speaker_title">Test da Microfono anteriore</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Test da Microfono princ. a Ricevitore</string>
     <string name="cit_x5_audio_lb_topmic_to_speaker_title">Test Microfono superiore</string>
     <string name="cit_audio_lb_phonecall_title">Test Simulazione chiamata</string>
@@ -103,6 +104,9 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
     <string name="cit_audio_lb_summary_backmic_to_speaker">"Test feedback da microfono posteriore all'altoparlante.
 
 Gira il dispositivo e parla al microfono posteriore: dovresti sentire la tua voce nell'altoparlante."</string>
+    <string name="cit_audio_lb_summary_frontmic_to_speaker">"Test feedback da microfono anteriore all'altoparlante. 
+
+Parla al microfono anteriore, dovresti sentire la tua voce nell'altoparlante."</string>
     <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Test del microfono superiore. Avvicina il dispositivo e parla al microfono superiore: dovresti sentire la tua voce nell'altoparlante."</string>
     <string name="cit_audio_lb_summary_phonecall">"Test di simulazione telefonata.
 
