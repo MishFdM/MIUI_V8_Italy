@@ -61,7 +61,7 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="fingerprint_not_identified_msg">Inserisci la password per sbloccare il dispositivo.</string>
     <string name="fingerprint_again_identified_msg">La tua impronta adesso è attiva. Utilizzala per sbloccare il dispositivo o utilizza la password.</string>
     <string name="fingerprint_add_title">Aggiungi impronta</string>
-    <string name="fingerprint_add_text">"L'interfaccia impronta è stata aggiornata. Aggiunngi di nuovo la tua impronta"</string>
+    <string name="fingerprint_add_text">"L'interfaccia impronta è stata aggiornata. Aggiungi di nuovo la tua impronta"</string>
     <string name="invalid_sim_pin_hint">Digita un PIN tra 4 e 8 numeri</string>
     <string name="invalid_sim_puk_hint">Il codice PUK dovrebbe essere di 8 o più numeri</string>
     <string name="input_password_hint_text">Inserisci password</string>
@@ -82,7 +82,7 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="keyguard_charging_info_charging_text">In carica</string>
     <string name="keyguard_charging_info_charging_full_need_min_time__text">Carica completa tra circa %d min​</string>
     <string name="keyguard_charging_info_charging_full_need_hour_time__text">Carica completa tra circa %d ore</string>
-    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">arica completa tra circa %d ore e %d min</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Carica completa tra circa %d ore e %d min</string>
     <string name="keyguard_charging_info_could_use_min_time_text">Circa %d min rimanenti</string>
     <string name="keyguard_charging_info_could_use_hour_time_text">Circa %d ore rimanenti</string>
     <string name="keyguard_charging_info_could_use_time_text" formatted="false">Circa %d ore %d min rimanenti</string>
@@ -100,9 +100,9 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="keyguard_charging_info_drained_power_percent_text">Consumato</string>
     <string name="keyguard_charging_info_tip_text1">Tieni il dispositivo con carica almeno al 10% per prolungare la vita della batteria.</string>
     <string name="keyguard_charging_info_tip_text2">Non sovraccaricare i l dispositivo. Molte sessioni di carica brevi sono migliori di un lungo periodo di ricarica.</string>
-    <string name="keyguard_charging_info_tip_text3">Evita di caricare il tuo dispositivo quando la temperatura dell'ambiente è sotto i 0 °C.</string>
+    <string name="keyguard_charging_info_tip_text3">"Evita di caricare il tuo dispositivo quando la temperatura dell'ambiente è sotto i 0 °C."</string>
     <string name="keyguard_charging_info_tip_text4">Non utilizzare intensamente il dispositivo quando in carica per evitare il surriscaldamento.</string>
-    <string name="keyguard_charging_info_tip_text5">La carica della batteriaè più lunga quando si scaldano più del solito.</string>
+    <string name="keyguard_charging_info_tip_text5">La carica della batteria è più lunga quando si scaldano più del solito.</string>
     <string name="keyguard_charging_info_tip_text6">Disattiva lo schermo e riponi il dispositivo per raffreddarlo.</string>
     <string name="keyguard_charging_info_data_ma">%smA</string>
     <string name="keyguard_charging_info_data_v">%sV</string>
