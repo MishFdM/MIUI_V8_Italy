@@ -30,7 +30,6 @@
     <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Test da Microfono post. ad Altoparlante</string>
-	<string name="cit_audio_lb_frontmic_to_speaker_title">Test da Microfono anteriore</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Test da Microfono princ. a Ricevitore</string>
     <string name="cit_x5_audio_lb_topmic_to_speaker_title">Test Microfono superiore</string>
     <string name="cit_audio_lb_phonecall_title">Test Simulazione chiamata</string>
@@ -71,6 +70,7 @@
     <string name="cit_version_check_summary">Di seguito trovi la versione del SO. Verifica che le informazioni evidenziate in verde sono corrette.</string>
     <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità (posizionato in cima al dispositivo, vicino al ricevitore) con una mano, quindi sposta la mano. A questo punto, il valore dovrebbe aumentare.
 Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
+    <string name="cit_fpc_sensor_check_summary">Test sensore FPC, premi ed attendi che appaiano le informazioni corrette di colore verde.</string>
     <string name="cit_magnetic_sensor_check_summary">I valori delle coordinate X, Y, Z dovrebbero comparire di seguito</string>
     <string name="cit_light_sensor_check_summary">Il valore DAC dovrebbe comparire di seguito</string>
     <string name="cit_gyroscope_sensor_check_summary">I valori delle coordinate X, Y, Z dovrebbero comparire di seguito</string>
@@ -150,6 +150,10 @@ Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'alto
     <string name="cit_audio_cali_playing">Premi il pulsante per iniziare la calibrazione</string>
     <string name="cit_audio_cali_file_existed">File musicale inesistente, la calibrazione non può essere effettuata!</string>
     <string name="cit_audio_cali_done">Calibrazione eseguita</string>
+    <string name="cit_audio_cali_valueR">Ref_diff:</string>
+    <string name="cit_audio_cali_valueT">Temp_acc:</string>
+    <string name="cit_audio_cali_valueF0">F0:</string>
+    <string name="cit_audio_cali_valueC">Counter:</string>
     <string name="cit_audio_cali_failed">Calibrazione fallita. Riprova.</string>
     <string name="cit_aud_spkcal">Calibra</string>
     <string name="cit_audio_calibrating">Calibrazione in corso…</string>
@@ -333,4 +337,6 @@ Tocca lo schermo per attivare il GPS"</string>
     <string name="cit_tool_wifi_rxn_test_bw">banda:</string>
     <string name="cit_tool_wifi_tx_n_bandwidth">banda:</string>
     <string name="cit_tool_wifi_tx_st_chan">canale:</string>
+    <string name="cit_fpc_selftest">SELF-TEST</string>
+    <string name="cit_fpc_checkerboard_test">TEST A SCACCHIERA</string>
 </resources>

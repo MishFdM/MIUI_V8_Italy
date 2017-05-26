@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="remove_numbers_confirm">
-        <item quantity="other">%d numeri verranno eliminati.</item>
-        <item quantity="one">%d numero verrà eliminato.</item>
-    </plurals>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Connessione dati assente per %s minuti</item>
         <item quantity="one">Connessione dati assente per %s minuto</item>
@@ -15,5 +11,9 @@
     <plurals name="alert_dialog_not_avaialble_in_ecm">
         <item quantity="other">"L'azione selezionata non è disponibile in modalità Solo chiamate di emergenza. Il telefono rimarrà in questa modalità per %s minuti. Desideri uscire ora?"</item>
         <item quantity="one">"L'azione selezionata non è disponibile in modalità Solo chiamate di emergenza. Il telefono rimarrà in questa modalità per %s minuto. Desideri uscire ora?"</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Puoi aggiungere fino a %s persone, selezionadi nuovo.</item>
+        <item quantity="one">Puoi aggiungere %s persona, seleziona di nuovo.</item>
     </plurals>
 </resources>
