@@ -21,20 +21,11 @@
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_checking_password">Verifica in corso…</string>
     <string name="login_website_in_case_forget_password">Per resettare la tua password, va su i.xiaomi.com.</string>
-    <string name="experimental_validate_thanks">Grazie!</string>
-    <string name="experimental_validate_warning">"Grazie per l'aiuto a rendere migliore MIUI!"</string>
-    <string name="experimental_validate">Validazione</string>
-    <string name="experimental_try_string">Prova</string>
-    <string name="experimental_validate_username">Nome utente</string>
-    <string name="experimental_validate_password">Password</string>
-    <string name="experimental_validate_progress">Accesso in corso…</string>
-    <string name="experimental_validate_fail">Accesso fallito</string>
     <string name="lockscreen_glogin_invalid_input">Nome utente o password non validi.</string>
     <string name="find_device_turn_off_flight_mode">Disattiva modalità Aereo</string>
     <string name="phone_locked_string">Il telefono è bloccato</string>
     <string name="phone_locked_timeout_seconds_string">Prego riprovare tra %s secondi</string>
     <string name="phone_locked_timeout_minutes_string">Prego riprovare tra %s minuti</string>
-    <string name="unlock_sim_string">Sblocca SIM</string>
     <string name="lockscreen_glogin_submit_button">Accesso</string>
     <string name="phone_locked_foget_password">Password dimenticata?</string>
     <string name="phone_locked_foget_password_header">Cosa devo fare se dimentico la password?</string>
@@ -55,7 +46,6 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Hai eseguito %d tentativi errati di sbloccare il telefono. Dopo altri %d tentativi errati, il telefono sarà ripristinato alle impostazioni di fabbrica e tutti i dati utente andranno persi."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Hai eseguito %d tentativi errati di sbloccare il telefono. Il telefono sarà ripristinato alle impostazioni di fabbrica.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato con dispositivo Bluetooth</string>
-    <string name="missed_call_text">%d chiamate perse</string>
     <string name="wrong_password">Password non corretta</string>
     <string name="keyguard_torch_cover_text">Premi a lungo il tasto accensione per tenere accesa la Torcia</string>
     <string name="confirm_pin_msg">Inserisci di nuovo PIN</string>
@@ -85,4 +75,37 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi W
     <string name="fingerprint_enter_second_psw_title">Inserisci password Spazio Secondario</string>
     <string name="fingerprint_enter_second_psw_msg">Inserisci la password dello Spazio Secondario dopo aver riavviato il dispositivo per utilizzare il lettore di impronte</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Impossibile accedere allo spazio Secondario in modalità semplificata</string>
+    <string name="keyguard_charging_info_click_to_detail">Dettagli</string>
+    <string name="keyguard_quick_charging_info_click_to_detail">Info carica rapida, tocca per leggere</string>
+    <string name="keyguard_quickly_charging_info_charging_text">Carica rapida</string>
+    <string name="keyguard_charging_info_finished_charging_text">Carica completa</string>
+    <string name="keyguard_charging_info_charging_text">In carica</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">Carica completa tra circa %d min​</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">Carica completa tra circa %d ore</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">arica completa tra circa %d ore e %d min</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">Circa %d min rimanenti</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">Circa %d ore rimanenti</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">Circa %d ore %d min rimanenti</string>
+    <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
+    <string name="keyguard_charging_info_last_charge_yesterday_time">Ieri %s</string>
+    <string name="keyguard_charging_info_last_charge_time">M/g H:mm</string>
+    <string name="keyguard_charging_info_drained_hour_time_format">%d ore</string>
+    <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%dore e %d min</string>
+    <string name="keyguard_charging_info_current_now_text">Controllo in tempo reale</string>
+    <string name="keyguard_charging_info_charging_voltage_text">Voltaggio</string>
+    <string name="keyguard_charging_info_battery_temperature_text">Temperatura batteria</string>
+    <string name="keyguard_charging_info_last_charged_time_text">Ultima carica</string>
+    <string name="keyguard_charging_info_battery_used_time_text">Utilizzata</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">Consumato</string>
+    <string name="keyguard_charging_info_tip_text1">Tieni il dispositivo con carica almeno al 10% per prolungare la vita della batteria.</string>
+    <string name="keyguard_charging_info_tip_text2">Non sovraccaricare i l dispositivo. Molte sessioni di carica brevi sono migliori di un lungo periodo di ricarica.</string>
+    <string name="keyguard_charging_info_tip_text3">Evita di caricare il tuo dispositivo quando la temperatura dell'ambiente è sotto i 0 °C.</string>
+    <string name="keyguard_charging_info_tip_text4">Non utilizzare intensamente il dispositivo quando in carica per evitare il surriscaldamento.</string>
+    <string name="keyguard_charging_info_tip_text5">La carica della batteriaè più lunga quando si scaldano più del solito.</string>
+    <string name="keyguard_charging_info_tip_text6">Disattiva lo schermo e riponi il dispositivo per raffreddarlo.</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
 </resources>

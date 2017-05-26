@@ -244,7 +244,7 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
 Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_sync_pending">In attesa di sincronizzazione</string>
     <string name="micloud_main_sync_need_charge">Carica il dispositivo</string>
-	<string name="micloud_main_sync_need_charge_or_sleep">Carica il dispositivo e spegni lo schermo</string>
+    <string name="micloud_main_sync_need_charge_or_sleep">Carica il dispositivo e spegni lo schermo</string>
     <string name="micloud_main_detail">Mostra dettagli</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
     <string name="micloud_main_sync_init">Recupero informazioni</string>

@@ -158,6 +158,8 @@
     <string name="setting_title_recommend_card_display">显示功能订阅推荐</string>
     <string name="setting_title_debug">导出日志</string>
     <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
+    <string name="install_weather_app_loading">加载中...</string>
+    <string name="install_weather_app_error">应用加载失败.</string>
     <string name="search_calendar">Calendario;Agenda;Promemoria</string>
     <string name="search_calendar_edit_event">Riunione;Promemoria;Agenda</string>
     <string name="search_calendar_subscribe_group"/>
@@ -556,6 +558,7 @@ Controlla le impostazioni di rete pe prova di nuovo."</string>
     <string name="lunar_day" />
     <string name="global_cricket_no_match">"Nessuna gara prevista per oggi, puoi vedere la sintesi delle gare passate o provare con un altra partita. Fantastico evento, valeva l'attesa!"</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="missing_required_permission">Hai disattivato un permesso richiesto.</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>

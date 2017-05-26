@@ -94,7 +94,7 @@
     <string name="st_block_private_call_button">Blocca numeri privati in entrata</string>
     <string name="st_filter_sms_button">Filtra messaggi spam</string>
     <string name="st_filter_keywords_setting_title">Imposta filtro parole</string>
-    <string name="st_filter_keywords_title">Filtro parole chiave</string>
+    <string name="st_filter_keywords_setting_summary1">I messaggi dai numeri sconosciuti che contengono le parole in lista verranno bloccati.</string>
     <string name="st_filter_keywords_setting_summary2">"
 (Usa la virgola per separare le parole)."</string>
     <string name="st_advanced_setting_group">Impostazioni avanzate</string>
@@ -102,12 +102,9 @@
     <string name="st_block_unknown_sms">Blocca messaggi da sconosciuti</string>
     <string name="st_other_setting_group">Altre impostazioni</string>
     <string name="st_show_block_notification">Mostra notifiche bloccate</string>
-    <string name="st_show_num_keyword">" parole"</string>
-    <string name="st_show_num_number">" numeri"</string>
     <string name="label_callwait">Chiamata in attesa</string>
     <string name="open_callwait">Attiva</string>
     <string name="close_callwait">Disattiva</string>
-    <string name="cancle">Annulla</string>
     <string name="st_hint_add_phonenumber">Inserisci numero di telefono</string>
     <string name="st_hint_add_head_number">Aggiungi prefisso</string>
     <string name="st_message_SMSpass">Consenti messaggi</string>
@@ -402,8 +399,6 @@ dall'operatore"</string>
     <string name="pref_traffic_manage_title">Utilizzo piano dati</string>
     <string name="pref_package_traffic_normal">Soglia: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Aggiuntivo: %2$s</string>
-    <string name="pref_package_traffic_leisure">"%1$s
- | Fuori soglia: %2$s</string>
     <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Limite dati mobili</string>
     <string name="pref_adjust_traffic_data">Imposta consumo dati mobili</string>
@@ -425,6 +420,8 @@ dall'operatore"</string>
     <string name="pref_title_declaration">Avviso importante</string>
     <string name="pref_new_installed_preconfig_title">Impostazioni predefinite per le nuove app</string>
     <string name="pref_mi_sim_settings">Impostazioni Mi SIM</string>
+    <string name="pref_title_upload_data_usage">Segnala statisitche utilizzo dati</string>
+    <string name="pref_summary_upload_data_usage">Segnalaci le tue statistiche di utilizzo dati per migliorare MIUI. La segnalazione viene eseguita in conformità con le nostre Condizioni della Privacy.</string>
     <string name="pref_manual_adjust">Imposta utilizzo dati manualmente</string>
     <string name="pref_daily_adjust">Imposta limite soglia dati</string>
     <string name="pref_free_adjust">Imposta disattivazione limite dati</string>
@@ -541,8 +538,6 @@ dall'operatore"</string>
 L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la connessione dati."</string>
     <string name="lock_screen_traffic_warn_title">Notifiche Schermata di blocco</string>
     <string name="lock_screen_traffic_notify_body">Bloccate per %2$s alle %1$s, dati utilizzati %3$s</string>
-    <string name="timeshow_h_m">%1$d h %2$d m</string>
-    <string name="timeshow_m_s">%1$d m %2$d s</string>
     <string name="timeshow_s">%d s</string>
     <string name="timeshow_m">%d m</string>
     <string name="timeshow_h">%.1f h</string>
@@ -672,9 +667,6 @@ essere connesso ad una rete dati."</string>
     <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di \"MIUI services framework\" alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Limite dati giornaliero</string>
     <string name="pref_roaming_daily_limit_setting">Imposta limite dati giornaliero in roaming</string>
-    <string name="dialog_roaming_apps_sorted_title">Ordina per</string>
-    <string name="hints_install_apps_new">Mai usato</string>
-    <string name="hints_install_apps_today">Utilizzato oggi</string>
     <string name="mian_page_primary_txt">Roaming estero</string>
     <string name="hints_input_roaming_daily_limit">Inserisci limite utilizzo dati</string>
     <string name="roaming_limit_notification_title">Limite giornaliero di dati roaming raggiunto</string>
@@ -694,18 +686,13 @@ essere connesso ad una rete dati."</string>
     <string name="three_percent_total_pkg">%s (3%% di dati mensili)</string>
     <string name="five_percent_total_pkg">%s (5%% di dati mensili)</string>
     <string name="ten_percent_total_pkg">%s (10%% di dati mensili)</string>
+    <string name="customize_limit_pkg">%s (personalizzato)</string>
     <string name="lock_screen_warning_category">Notifiche schermata di blocco</string>
     <string name="lock_screen_warning_switch_title">Mostra avvisi sulla schermata di blocco</string>
     <string name="lock_screen_warning_switch_summary">Mostra avvisi sulla schermata di blocco quando i dati superano una certa soglia</string>
     <string name="lock_screen_warning_value">Avviso utilizzo dati</string>
-	<string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
-    <string name="traffic_setting_completed">OK</string>
-    <string name="traffic_setting_extra_pkg_title">Impostazioni aggiuntive</string>
-    <string name="traffic_setting_extra_pkg_summary">Regola il tuo piano dati e limiti di utilizzo</string>
-    <string name="traffic_setting_extra_pkg_oversea_summary">Regola il tuo piano dati e limiti di utilizzo</string>
-    <string name="traffic_setting_extra_traffic_title">Impostazioni aggiuntive</string>
-    <string name="traffic_setting_step_num">Impostazioni piano dati</string>
-    <string name="traffic_setting_open">Attivato</string>
+    <string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
+    <string name="pref_over_traffic_limit">Quando superi il limite del tuo piano dati</string>
     <string name="traffic_warning_purchase_title">Avviso utilizzo dati mobili</string>
     <string name="traffic_purchase_body">Tocca per ricaricare.</string>
     <string name="traffic_purchse_suggestion">Ricarica dati rete mobile</string>
@@ -1430,6 +1417,7 @@ essere connesso ad una rete dati."</string>
     <string name="toast_virus_in_cloud_scanning">Impossibile interrompere la scansione del cloud</string>
     <string name="menu_item_app_permissions_control">Gestione permessi</string>
     <string name="menu_item_control_app_permissions">Chiedi il permesso prima di consentire alle applicazioni di leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse.</string>
+    <string name="menu_item_install_debug_package">installa pacchetto debug</string>
     <string name="permission_close_permission_control_dialog_title">Disattivare Gestione Permessi?</string>
     <string name="permission_close_permission_control_dialog_msg">Quando la Gestione dei Permessi è disattivata, le applicazioni non chiederanno il permesso per leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gestione Permessi disattivato</string>
@@ -2073,6 +2061,24 @@ Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo 
     <string name="app_usage_never">Non utilizzati di recente</string>
     <string name="app_usage_recently">Utilizzati di recente</string>
     <string name="app_manager_have_not_consume">No</string>
+    <string name="app_manager_menu_clear_data">Cancella dati</string>
+    <string name="app_manager_clear_data_dlg_title">Eliminare i dati app?</string>
+    <string name="app_manager_clear_data_dlg_message">Tutti i dati app verranno eliminati definitivamente. Questo include tuttii file, le impostazioni, account, databases, etc.</string>
+    <string name="app_manager_clear_failed_dlg_title">Cancelal dati</string>
+    <string name="app_manager_clear_failed_dlg_message">Impossibile cancellare i dati app.</string>
+    <string name="app_manager_manage_space">Gestisci spazio</string>
+    <string name="app_manager_permission_summary_reject">Limita tutto</string>
+    <string name="app_manager_powerkeeper_no_restrict">Nessuna limitazione</string>
+    <string name="app_manager_powerkeeper_miui_auto">Risparmio batteria MIUI</string>
+    <string name="app_manager_powerkeeper_restrict_bg">Limita le app in background</string>
+    <string name="app_manager_powerkeeper_no_bg">Limita le attività in background</string>
     <string name="ad_btn_default_text">Scopri di più</string>
     <string name="open_activity_err">Applicazione non trovata</string>
+    <string name="low_memory_clean_dialog_title">Spazio non sufficiente</string>
+    <string name="low_memory_clean_dialog_msg">Libera almeno 100 MB</string>
+    <string name="low_memory_clean_dialog_ok_button">OK</string>
+    <string name="low_memory_warning_dialog_title">Spazio insufficiente</string>
+    <string name="low_memory_warning_dialog_msg">Libera spazio sul tuo dispositivo per continuare</string>
+    <string name="low_memory_warning_dialog_ok_button">Cancella</string>
+    <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
 </resources>
