@@ -13,7 +13,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
     <string name="network_unavailable">Impossibile connettersi alla rete.</string>
     <string name="connect_fail">Anomalia nella connessione di rete. Prova di nuovo più tardi.</string>
     <string name="act_find_city_hot_city_title">Città popolari</string>
-    <string name="act_find_city_hot_title">Aggiungi</string>
     <string name="act_find_city_hint">Inserisci località</string>
     <string name="act_set_city_find_side">Localizzazione in corso…</string>
     <string name="act_set_city_find_side_error">Impossibile trovare la località.</string>
@@ -44,6 +43,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
     <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
     <string name="data_source_timezone">GMT%1$s</string>
     <string name="activity_main_time_format">E</string>
+    <string name="aqi_fifteen_dates_time_format">d/M</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="first_start_network_msg">Per aggiornare le informazioni meteo devi connetterti ad internet.</string>
     <string name="first_start_network_title">Avviso di connessione</string>
@@ -63,7 +63,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
     <string name="sunset">Tramonto</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s dopo.</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_drawer_on_top">Mostra altri giorni</string>
+    <string name="daily_forcast_drawer_on_top">%1$s altri giorni</string>
     <string name="daily_forcast_drawer_on_bottom">Nascondi</string>
     <string name="daily_forcast_temperature_connect" />
     <string name="daily_forcast_wind_connect">%1$s %2$s</string>
@@ -91,7 +91,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
     <string name="daily_forcast_whirl_wind">Forte</string>
     <string name="daily_forcast_no_stable_direction">Assente</string>
     <string name="title_share_link">Condividi URL</string>
-    <string name="network_not_available">"Impossibile collegarsi alla rete"</string>
+    <string name="network_not_available">Impossibile collegarsi alla rete</string>
     <string name="no_network_btn">Riprova</string>
     <string name="share">Condividi</string>
     <string name="open_browser">Apri nel browser</string>
@@ -165,8 +165,8 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="install">Installa</string>
     <string name="open">Apri</string>
     <string name="open_now">Apri adesso</string>
-    <string name="daily_forecast_detail_date">g/M</string>
-    <string name="hourly_forecast_date">M/g</string>
+    <string name="daily_forecast_detail_date">d/M</string>
+    <string name="hourly_forecast_date">d/M</string>
     <string name="aqi_publish_source">Aggiornato a %1$s di CNEMC</string>
     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">Fornito da Caiyun Weather</string>
@@ -227,7 +227,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="minute_rain_progress_indicator_original_time">- -</string>
     <string name="some_where_on_earth">In qualche luogo nel mondo</string>
     <string name="minute_rain_no_data">Nessun dato</string>
-    <string name="minute_rain_feedback_title">"Il meteo non sembra attendibile.."</string>
+    <string name="minute_rain_feedback_title">Il meteo non sembra attendibile..</string>
     <string name="minute_rain_feedback_subtitle">Dicci che tempo fa</string>
     <string name="minute_rain_feedback_text">Feedback</string>
     <string name="feedback_sunny">Sole</string>

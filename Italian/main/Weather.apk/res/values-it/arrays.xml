@@ -59,6 +59,7 @@
         <item>Scarso</item>
         <item>Molto scarso</item>
         <item>Pessimo</item>
+        <item>Beyond index</item>
     </string-array>
     <string-array name="wind_unit_simple">
         <item>Scala Beaufort</item>
@@ -68,7 +69,7 @@
         <item>kn</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;Force 2</item>
+        <item>&lt;Forza 2</item>
         <item>&lt;6.0km/h</item>
         <item>&lt;1.7m/s</item>
         <item>&lt;3.7mph</item>
