@@ -33,7 +33,7 @@
 
 Non sarai in grado di farlo a meno che tu non abbia eseguito l'accesso al tuo Mi Account su questo dispositivo. In alternativa dovrai formattare di nuovo il dispositivo."</string>
     <string name="phone_locked_foget_password_footer">"Passaggi:
-Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi Wipe device."</string>
+Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi “Wipe device”."</string>
     <string name="phone_locked_foget_password_ok">Ho capito</string>
     <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
     <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>
