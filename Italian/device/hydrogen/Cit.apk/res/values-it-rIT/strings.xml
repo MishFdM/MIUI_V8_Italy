@@ -13,4 +13,5 @@ Usati:"</string>
     <string name="sd_remained">"
 Rimasti:"</string>
 <string name="cit_external_sd_check_title">Test Scheda SD</string>
+<string name="cit_torch_modify">Intensità LED</string>
 </resources>

@@ -244,8 +244,8 @@ Tocca lo schermo per attivare il GPS"</string>
     <string name="cit_batterylight_blue">Blu</string>
     <string name="cit_torch_on">Attiva Flash</string>
     <string name="cit_torch_off">Disattiva Flash</string>
-    <string name="cit_blue_torch_on">Accendi il LED blu del flash</string>
-    <string name="cit_yellow_torch_on">Accendi il LED giallo del flash</string>
+    <string name="cit_blue_torch_on">LED blu del flash</string>
+    <string name="cit_yellow_torch_on">LED giallo del flash</string>
     <string name="cit_button_light_on">Luce tasti accesa</string>
     <string name="cit_button_light_off">Luce tasti spenta</string>
     <string name="cit_notificationlight">LED Notifica</string>

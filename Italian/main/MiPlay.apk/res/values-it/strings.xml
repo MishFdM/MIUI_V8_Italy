@@ -16,7 +16,7 @@
     <string name="wifi_display_no_devices_found">Nessun dispositivo vicino rilevato.</string>
     <string name="wifi_display_status_connecting">Connessione</string>
     <string name="wifi_display_status_connected">Connesso</string>
-    <string name="wifi_display_status_in_use">In use</string>
+    <string name="wifi_display_status_in_use">In uso</string>
     <string name="wifi_display_status_not_available">Non disponibile</string>
     <string name="wifi_display_details">Impostazioni schermo</string>
     <string name="wifi_display_options_title">Opzioni display wireless</string>
