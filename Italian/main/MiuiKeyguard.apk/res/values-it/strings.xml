@@ -94,7 +94,7 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi �
     <string name="keyguard_charging_info_drained_time_format" formatted="false">%d ore e %d min</string>
     <string name="keyguard_charging_info_current_now_text">Tempo reale</string>
     <string name="keyguard_charging_info_charging_voltage_text">Voltaggio</string>
-    <string name="keyguard_charging_info_battery_temperature_text">Temperatura batteria</string>
+    <string name="keyguard_charging_info_battery_temperature_text">Temperatura</string>
     <string name="keyguard_charging_info_last_charged_time_text">Ultima carica</string>
     <string name="keyguard_charging_info_battery_used_time_text">Utilizzata</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Consumato</string>
