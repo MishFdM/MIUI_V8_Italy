@@ -420,7 +420,7 @@ dall'operatore"</string>
     <string name="pref_title_declaration">Avviso importante</string>
     <string name="pref_new_installed_preconfig_title">Impostazioni predefinite per le nuove app</string>
     <string name="pref_mi_sim_settings">Impostazioni Mi SIM</string>
-    <string name="pref_title_upload_data_usage">Segnala statisitche utilizzo dati</string>
+    <string name="pref_title_upload_data_usage">Segnala statistiche utilizzo dati</string>
     <string name="pref_summary_upload_data_usage">Segnalaci le tue statistiche di utilizzo dati per migliorare MIUI. La segnalazione viene eseguita in conformità con le nostre Condizioni della Privacy.</string>
     <string name="pref_manual_adjust">Imposta utilizzo dati manualmente</string>
     <string name="pref_daily_adjust">Imposta limite soglia dati</string>
@@ -2063,7 +2063,7 @@ Se non hai modificato MIUI in alcun modo, Accertati della provenienza di questo 
     <string name="app_manager_have_not_consume">No</string>
     <string name="app_manager_menu_clear_data">Cancella dati</string>
     <string name="app_manager_clear_data_dlg_title">Eliminare i dati app?</string>
-    <string name="app_manager_clear_data_dlg_message">Tutti i dati app verranno eliminati definitivamente. Questo include tuttii file, le impostazioni, account, databases, etc.</string>
+    <string name="app_manager_clear_data_dlg_message">Tutti i dati app verranno eliminati definitivamente. Questo include tutti i file, le impostazioni, account, databases, etc.</string>
     <string name="app_manager_clear_failed_dlg_title">Cancelal dati</string>
     <string name="app_manager_clear_failed_dlg_message">Impossibile cancellare i dati app.</string>
     <string name="app_manager_manage_space">Gestisci spazio</string>
