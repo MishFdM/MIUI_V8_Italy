@@ -88,7 +88,7 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi �
     <string name="keyguard_charging_info_could_use_time_text" formatted="false">Circa %d ore %d min rimanenti</string>
     <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ieri %s</string>
-    <string name="keyguard_charging_info_last_charge_time">M/g H:mm</string>
+    <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_drained_hour_time_format">%d ore</string>
     <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
     <string name="keyguard_charging_info_drained_time_format" formatted="false">%d ore e %d min</string>
