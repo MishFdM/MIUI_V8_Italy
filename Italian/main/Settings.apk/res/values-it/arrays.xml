@@ -401,17 +401,17 @@
         <item>Richiamo su glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>Disattivato</item>
         <item>Area ritaglio non rettangolare blu</item>
         <item>Evidenzia comandi di disegno test in verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
+        <item>Disattivato</item>
         <item>Su schermo sotto forma di barre</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>Disattivato</item>
         <item>Visualizza le zone di conflitto</item>
         <item>Mostra aree adattate per Deuteranomalia</item>
     </string-array>
