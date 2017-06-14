@@ -258,7 +258,7 @@ Per attivare il tuo account, segui il
     <string name="restart_action">Riavvia</string>
     <string name="error_dup_binded_email">Questo indirizzo email è già associato ad un altro Mi Account.</string>
     <string name="error_invalid_bind_address">"L'email inserita non è valida."</string>
-    <string name="get_phone_bind_exceed_limit">Il numero di telefono collegato all'account ha raggiunto il massimo di account collegati(3), non può essere collegato ad altri account</string>
+    <string name="get_phone_bind_exceed_limit">"Il numero di telefono collegato all'account ha raggiunto il massimo di account collegati(3), non può essere collegato ad altri account"</string>
     <string name="just_a_second">Attendi…</string>
     <string name="get_phone_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questo numero. Aspetta 24 ore e riprova.</string>
     <string name="mi_account_identity_title">Verifica la tua identità</string>
