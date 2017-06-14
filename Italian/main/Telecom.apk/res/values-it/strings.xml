@@ -4,8 +4,6 @@
     <string name="telecommAppLabel">Telefono</string>
     <string name="userCallActivityLabel">Telefono</string>
     <string name="unknown">Sconosciuto</string>
-	<string name="tts_reset_speech_pitch_title">Ripristino punto discorso</string>
-	<string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
     <string name="notification_missedCallTitle">Chiamata persa</string>
     <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedCallsMsg">%s chiamate perse</string>
@@ -43,7 +41,8 @@
     <string name="test_account_1_short_description">Account con Market Wireless</string>
     <string name="test_account_2_short_description">Parla con tutti della vostra Cerchia</string>
     <string name="test_account_3_short_description">Chatta con gli utenti di Chat Network</string>
-    <string name="handle_restricted">LIMITAZIONI</string>
+    <string name="handle_restricted">LIMITATO</string>
+    <string name="ui_default_package_dialer">com.android.contacts</string>
     <string name="voice_report_incoming_call">Chiamata</string>
     <string name="voice_report_unknown_num">Numero sconosciuto</string>
     <string name="incall_error_call_failed">Impossibile effettuare la chiamata</string>
@@ -53,4 +52,5 @@
     <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
     <string name="can_not_dial_vt_while_voice_prompt">Impossibile effettuare video chiamate quando è in corso una chiamata</string>
     <string name="voice_dial_out">Chiamata vocale</string>
+    <string name="notification_AllMissedCallTitle">Tutte le chiamate perse</string>
 </resources>

@@ -469,6 +469,8 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="headset_settings">Impostazioni cuffie</string>
     <string name="ad_setting">Impostazioni AD</string>
     <string name="ad_recommend">Suggerimenti AD</string>
+    <string name="online_switch">Servizi di contenuti online</string>
+    <string name="online_switch_setting">Impostazioni contenuti online</string>
     <string name="music_filter">Filtra file audio</string>
     <string name="filter_by_size">Per dimensione</string>
     <string name="filter_by_size_summary">Non mostrare file audio piccoli</string>
@@ -599,6 +601,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="nav_local_all">Tutto</string>
     <string name="nav_local_favorite">Brani preferiti</string>
     <string name="nav_local_artist">Artisti preferiti</string>
+    <string name="title_online_fm_recommend">FM in evidenza</string>
     <string name="title_online_recommend">Playlist in evidenza</string>
     <string name="title_online_suggest">Potrebbe piacerti</string>
     <string name="title_online_billboard">Classifiche</string>
@@ -625,6 +628,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="is_scanning">Scansione, attendere…</string>
     <string name="is_scanning_support_online">"Scansione, 
 attendere o selezionare Musica Online."</string>
+    <string name="start_shuffle">Avvia riproduzione casuale...</string>
     <string name="online_music_enabled_title">Lo streaming gratuito è qui</string>
     <string name="online_music_enabled_subtitle">Tocca per ascoltare in streaming le tue canzoni preferite.</string>
     <string name="online_music_enabled_summary">Ascolta e scarica le tue canzoni preferite. Guarda le classifiche e le playlist ovunque ti trovi!</string>
@@ -794,13 +798,14 @@ attendere o selezionare Musica Online."</string>
     <string name="download_traffic_dialog_msg_serious">Ti restano solo %s di traffico dati. Utilizzare la rete dati mobile per scaricare i brani?</string>
     <string name="download_traffic_dialog_msg_beyond">"Hai già superato il tuo limite dati di %s. Utilizzare comunque la rete dati per scaricare i brani?"</string>
     <string name="download_traffic_dialog_position_button">Scarica</string>
+    <string name="download_traffic_dialog_position_button_serious">Ancora in download</string>
     <string name="download_traffic_dialog_negative_button">Scarica con Wi-Fi</string>
     <string name="download_traffic_dialog_buy_package">Acquista un piano dati per la musica</string>
-   <string name="download_toast">Utilizza la rete mobile per scaricare i brani</string>
+    <string name="download_toast">Utilizza la rete mobile per scaricare i brani</string>
     <string name="download_toast_with_data">Utilizzo in corso della rete dati mobile per il download dei brani, %s rimanenti</string>
     <string name="download_toast_with_beyond_data">Rete dati mobile in uso per il download dei brani. Limite suerato di %s</string>
     <string name="download_added_to_list">Aggiunto alla lista download</string> 
-   <string name="desktop_lyric_color">Colore</string>
+    <string name="desktop_lyric_color">Colore</string>
     <string name="desktop_lyric_textsize">Testo</string>
     <string name="desktop_lyric_button_lock">Blocca</string>
     <string name="desktop_lyric_button_close">Chiudi</string>
@@ -914,4 +919,11 @@ attendere o selezionare Musica Online."</string>
     <string name="text_separator">|</string>
     <string name="artist_home_search_hint">Cerca artisti</string>
     <string name="hot_icon_in_fast_indexer">H</string>
+    <string name="online_switch_message">La disattivazione dei servizi oline ha effetti sui servizi VIP e i consigli. Disattivare comunque?</string>
+    <string name="confirm">OK</string>
+    <string name="open_online_service">Devi attivare i servizi online per poter utilizzare questa funzione. Attivare adesso?</string>
+    <string name="open_service">Attiva</string>
+    <string name="online_service_title">Servizi online</string>
+    <string name="online_service_open_tip">Servizi musica online attivati</string>
+    <string name="online_play_tips">Questo brano è disponibile solo online. Attiva i servizi online nelle impostazioni per ascoltarlo.</string>
 </resources>

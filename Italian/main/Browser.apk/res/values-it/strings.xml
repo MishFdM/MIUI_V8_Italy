@@ -131,8 +131,6 @@
     <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
     <string name="cancel">Annulla</string>
     <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
-    <string name="check_permission_of_current_location">Informazioni posizione attuale</string>
-    <string name="check_permission_of_current_url">URLs delle pagine che hai visitato</string>
     <string name="choosertitle_sharevia">Condividi tramite</string>
     <string name="clear_history">Cancella cronologia</string>
     <string name="clear_most_visited">Mantieni cronologia</string>

@@ -168,4 +168,27 @@
   - Impostazione avvisi"</string>
     <string name="cloud_trash_bin_title">Elimina le note su Mi Cloud</string>
     <string name="done">Fatto</string>
+    <string name="menu_add_description">Aggiungi nota</string>
+    <string name="action_mode_switcher_list_description">Lista</string>
+    <string name="action_mode_switcher_grid_description">Griglia</string>
+    <string name="action_folder_description">Visualizza cartelle</string>
+    <string name="action_settings_description">Apri le Impostazioni</string>
+    <string name="menu_add_folder_description">Aggiungi cartella</string>
+    <string name="toolbar_share_description">Condividi questa nota</string>
+    <string name="toolbar_theme_description">Scegli un tema</string>
+    <string name="toolbar_delete_description">Elimina questa nota</string>
+    <string name="toolbar_more_description">Altro</string>
+    <string name="toolbar_undo_description">Annulla</string>
+    <string name="toolbar_redo_description">Ripeti</string>
+    <string name="toolbar_gallery_description">Aggiungi immaginr</string>
+    <string name="toolbar_check_description">Aggiungi checkbox</string>
+    <string name="edit_header_home_description">Indietro</string>
+    <string name="theme_white_description">Bianco</string>
+    <string name="theme_yellow_description">Giallo</string>
+    <string name="theme_blue_description">Blu</string>
+    <string name="theme_green_description">Verde</string>
+    <string name="theme_red_description">Rosso</string>
+    <string name="set_alarm_description">Imposta sveglia</string>
+    <string name="cancel_alarm_description">Annulla sveglia</string>
+    <string name="edit_header_done_description">Fatto</string>
 </resources>

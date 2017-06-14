@@ -74,6 +74,7 @@
     <string name="call_title_redialing_with_times">Ricomposto %d volte</string>
     <string name="card_title_dialing">Chiamata in corso</string>
     <string name="card_title_conf_call">Audioconferenza</string>
+    <string name="card_title_video_conf_call">Video conference call</string>
     <string name="card_title_threeway_call">Audioconferenza a tre</string>
     <string name="card_title_incoming_call">Chiamata ricevuta</string>
     <string name="card_title_call_ended">Chiamata terminata\u0020</string>
@@ -81,6 +82,8 @@
     <string name="card_title_hanging_up">In fase di chiusura\u0020</string>
     <string name="card_title_in_call">In chiamata</string>
     <string name="card_title_in_call_short">In chiamata</string>
+    <string name="card_title_in_video">Video </string>
+    <string name="card_video_hold_swap">Swap</string>
     <string name="onscreenEndCallText">Chiudi</string>
     <string name="calling_via_template">Chiama tramite %s</string>
     <string name="respond_via_sms_custom_message">Messaggio personalizzato…</string>
@@ -129,6 +132,8 @@
     <string name="pause_prompt_yes">Sì</string>
     <string name="pause_prompt_no">No</string>
     <string name="waiting_close_airplane_mode">Solo un attimo…</string>
+    <string name="unlock_phone">Sblocca dispositivo</string>
+    <string name="remind_unlock_message">Il tuo dispositivo è stato bloccato. \"%s\" sarà di nuovo disponibile dopo lo sblocco del dispositivo. Sbloccare adesso?</string>
     <string name="select_voice_call_sim">Scegli SIM</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">Impossibile utilizzare la SIM %2$d mentre la SIM %1$d è in uso.</string>
@@ -166,7 +171,6 @@
     <string name="ivr_menu_list_sub_menu_count_format">Premi %s</string>
     <string name="non_ivr_menu_view_menu">Mostra menu</string>
     <string name="non_ivr_menu_collapse_menu">Chiudi menu</string>
-    <string name="livetalk_left_minute">%s min rimanenti</string>
     <string name="livetalk_dial">Utilizzo pacchetto riempimento</string>
     <string name="areacode_set_default">Imposta come predefinito</string>
     <string name="default_area_code_setting">Prefisso internazionale predefinito</string>
@@ -214,10 +218,15 @@
     <string name="incoming_answer_voice_text">Risposta vocale</string>
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
+    <string name="video_conference_caller_info_name">Conference call video di %1$s</string>
     <string name="conference_callers_exceeded">Limite partecipanti superato</string>
     <string name="do_not_support_video_calls_by_remote">"Le videochiamate non sono supportate dall'altro dispositivo"</string>
+    <string name="close_camera_requesting">Disattivazione fotocamera...</string>
+    <string name="close_camera_failed">Impossibile disattivare la fotocamera…</string>
     <string name="call_button_tools_text">Funzioni</string>
     <string name="call_button_dialer_text">Tastiera</string>
+    <string name="call_button_mute_text">Muto</string>
+    <string name="call_button_conference_manager_text">Gestore conference</string>
     <string name="select_audio_dialog_title">Scegli la modalità di risposta</string>
     <string name="incoming_circle_text_reject_p">Scorri per rifiutare</string>
     <string name="incoming_circle_text_reject">Rilascia per rifiutare</string>

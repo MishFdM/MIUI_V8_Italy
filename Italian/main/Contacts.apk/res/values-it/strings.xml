@@ -619,6 +619,9 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="description_call_log_outgoing_call">Chiamata effettuata</string>
     <string name="description_call_log_missed_call">Chiamata persa</string>
     <string name="description_call_log_voicemail">Segreteria</string>
+    <string name="description_call_log_incoming_forwarding_call">Chiamata inoltrata in arrivo</string>
+    <string name="description_call_log_missed_forwarding_call">Chiamata inoltrata persa</string>
+    <string name="description_call_log_new_contact">Nuovo contatto</string>
     <string name="description_add_contact">Aggiungi contatto</string>
     <string name="description_view_contact">Mostra contatto %1$s</string>
     <string name="description_call">Chiama %1$s</string>
@@ -724,6 +727,7 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_save_alertdialog_title">Scheda contatto ricevuta</string>
     <string name="miprofile_save_alertdialog_message">La tua scheda verrà inviata automaticamente a questo contatto.</string>
     <string name="miprofile_notice_text">"Tocca per vedere la foto del profilo"</string>
+    <string name="miprofile_notice_close">Chiudi</string>
     <string name="miprofile_switch_on_alertdialog_title">Aggiornamento foto profilo</string>
     <string name="miprofile_switch_on_alertdialog_message">Scambia le schede contatti per vedere la foto profilo aggiornata.</string>
     <string name="miprofile_switch_on_alertdialog_positive">Attiva</string>
@@ -854,6 +858,8 @@ Le schede contatti sono disattivate"</string>
     <string name="multi_number_menu_delete">Elimina</string>
     <string name="video_call">Videochiamata</string>
     <string name="copy_number">Copia</string>
+    <string name="call_sim1_description">SIM 1</string>
+    <string name="call_sim2_description">SIM 2</string>
     <string name="edit_contact_card_title">Modifica dettagli contatto</string>
     <string name="preview_contact_card_title">Importazione contatti…</string>
     <string name="import_contact_card_button">Importa contatto</string>
@@ -1012,6 +1018,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="contact_unfavorite_toast">Rimosso dai preferiti</string>
     <string name="group_member_remove_toast">Rimosso dal gruppo</string>
     <string name="contact_delete_toast">Contatto eliminato</string>
+    <string name="profile_delete_toast">Profilo eliminato correttamente</string>
     <string name="duplicate_group_name">Esiste già un gruppo con questo nome</string>
     <string name="all_list_empty">Nessun contatto</string>
     <string name="favorites_list_empty">Nessun preferito</string>
@@ -1168,6 +1175,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="clear_digits">Cancella numero di telefono</string>
     <string name="call_record_setting_miui">Impostazioni registrazione</string>
     <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
+    <string name="accessibility_contact_detail">Dettagli contatto</string>
     <string name="clear_copy_number_description">Cancella numero copiato</string>
     <string name="select_groups">Seleziona gruppi</string>
     <string name="sim_capacity_content" formatted="false">Capacità totale %d | %d usata</string>
@@ -1308,4 +1316,6 @@ To avoid frequent queries, we update balance info once a day."</string>
     <string name="tomorrow">Domani</string>
     <string name="low_memory_toast">Memoria insufficiente per utilizzare questa funzione.</string>
     <string name="yellowpage_fc_toast">Errore con Pagine Gialle, impossibile utilizzare questa funzione.</string>
+    <string name="contact_search_history">Cronologia</string>
+    <string name="contact_clear_search_history">Cancella cronologia</string>
 </resources>

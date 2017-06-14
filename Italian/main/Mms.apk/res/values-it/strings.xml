@@ -411,7 +411,6 @@
     <string name="unknown_num">Numero sconosciuto</string>
     <string name="in_sms">Messaggio</string>
     <string name="sms_content">Contenuto del messaggio</string>
-    <string name="hint_search_sms">%d messaggi</string>
     <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizzazione con Mi Cloud…</string>
     <string name="cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
@@ -456,6 +455,8 @@
     <string name="back_to_message_list">Torna alla lista messaggi</string>
     <string name="select_recipient">Seleziona destinatario</string>
     <string name="add_attachment">Allega</string>
+    <string name="switch_to_editor">Modalità editor</string>
+    <string name="switch_to_menu">Modalità menu</string>
     <string name="send_sms">Invia messaggio</string>
     <string name="show_sender">Mostra info mittente</string>
     <string name="call_sender">Chiama mittente</string>
@@ -527,12 +528,6 @@
     <string name="file_create_time">Creato alle:</string>
     <string name="file_size">Dimensione:</string>
     <string name="file_title">Nome:</string>
-    <string name="mx_type_guide">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi</string>
-    <string name="mx_dspt_provision">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi. Il tuo operatore potrebbe addebitarti il costo di un SMS, necessario per attivare il servizio.</string>
-    <string name="mx_dspt_provision_ex">"Invia messaggi e chiama altri utenti MIUI senza costi aggiuntivi dal tuo operatore. VoIP supportato da Weihui. Leggi l'Informativa sulla Privacy di Weihui."</string>
-    <string name="mx_dspt_provision_ex2">Informativa sulla Privacy</string>
-    <string name="mx_activate_dlg_title">Attiva Mi Message</string>
-    <string name="mx_activate_dlg_title_ex">Attiva Mi Message e Voce</string>
     <string name="resource_price_free">Gratis</string>
     <string name="menu_send_as_common">Invia come SMS</string>
     <string name="message_sent">Inviato</string>
@@ -555,7 +550,12 @@
     <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
     <string name="audio_message_mx_offline">"Impossibile scaricare l'audio. Mi Message è offline o non disponibile."</string>
     <string name="audio_sim_card_mismatching">Nessuna connessione di rete o nessuna SIM installata. Installa la SIM dalla quale è stato inviato il messaggio e collegati alla rete.</string>
-    <string name="hms_uri_param_err">"L'URL non può essere vuoto"</string>
+    <string name="mx_type_guide">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi</string>
+    <string name="mx_dspt_provision">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi. Il tuo operatore potrebbe addebitarti il costo di un SMS, necessario per attivare il servizio.</string>
+    <string name="mx_dspt_provision_ex">"Invia messaggi e chiama altri utenti MIUI senza costi aggiuntivi dal tuo operatore. VoIP supportato da Weihui. Leggi l'Informativa sulla Privacy di Weihui."</string>
+    <string name="mx_dspt_provision_ex2">Informativa sulla Privacy</string>
+    <string name="mx_activate_dlg_title">Attiva Mi Message</string>
+    <string name="mx_activate_dlg_title_ex">Attiva Mi Message e Voce</string>
     <string name="pref_title_sms_validity_period">Periodo di validità SMS</string>
     <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>
     <string name="open_url_with_web">Aprire questo link nel browser?</string>
@@ -575,6 +575,9 @@
     <string name="security_alert_dialog_desc">Segnala questo numero (%s) ed i relativi messaggi inviandoli a Xiaomi per una verifica.</string>
     <string name="sms_report_failed">Impossibile inviare segnalazione</string>
     <string name="sms_report_success">Segnalazione inviata</string>
+    <string name="sms_report_dialog_title">Prova di nuovo</string>
+    <string name="sms_report_dialog_content">Impossibile inviarevil rapporto, prova di nuovo.</string>
+    <string name="sms_report_dialog_retry">Prova di nuovo</string>
     <string name="mx_activate_status_desc_query_activte_info">Verifica informazioni SIM…</string>
     <string name="mx_activate_status_desc_fail">Impossibile attivare Mi Message</string>
     <string name="mx_activate_status_desc_activating_now">Attivazione…</string>
@@ -651,4 +654,5 @@
     <string name="hybrid_pull_to_refresh_refreshing_label">Solo un attimo...</string>
     <string name="title_use_gsm_alphabet">Utilizza alfabeto GSM</string>
     <string name="fail_to_add_attachment">Impossibile aggiungere allegato</string>
+    <string name="select_sim">Seleziona SIM</string>
 </resources>

@@ -212,6 +212,7 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
     <string name="micloud_all_sub_2_intl_sms">Verranno inviati 2 SMS internazionali per attivare la tua SIM.</string>
     <string name="micloud_all_sub_1_sms_1_intl_sms">Verranno inviati un SMS internazionale e un SMS nazionale per attivare la tua SIM.</string>
     <string name="micloud_all_sub_resend_sms">"Quando attivi 'Trova Dispositivo', potrebbe essere inviato un SMS dopo il cambio SIM."</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync">Sincronizza solo  Contatti, Calendario e Note, per sincronizzare altri elementi vai nelle impostazioni di Mi Cloud.</string>
     <string name="sync_item_calllog_title">Sincronizza registro chiamate</string>
     <string name="sync_item_calllog_summary">Sincronizza le chiamate effettuate e ricevute su questo dispositivo</string>
     <string name="view_storage_title">Mostra spazio Cloud</string>
@@ -384,7 +385,8 @@ Ultimo backup: %2$s"</string>
     <string name="cloud_back_up_remove_success">Backup eliminato</string>
     <string name="micloud_storage">Archiviazione</string>
     <string name="micloud_member">Abbonamento Mi Cloud</string>
-    <string name="micloud_buy_member">Aggiorna abbonamento</string>
+    <string name="micloud_buy_member">Acquista iscrizione Mi Cloud</string>
+    <string name="micloud_buy_member_safe">Acquista iscrizione Mi Cloud</string>
     <string name="micloud_website">Dati cloud</string>
     <string name="micloud_member_advantage">Ottieni altro spazio di archiviazione.</string>
     <string name="micloud_main_title_sync_fail">Impossibile sincronizzare</string>
@@ -448,7 +450,7 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_notif_content_clipboard_push">Puoi incollarlo ovunque.</string>
     <string name="micloud_notif_title_multi_user_error">Impossibile sincronizzare con Mi Cloud</string>
     <string name="micloud_notif_content_multi_user_error">"Hai effettuato l'accesso con lo stesso account dello spazio originario."</string>
-	<string name="micloud_notif_title_dirty_data">Non hai sincronizzato degli elementi</string>
+    <string name="micloud_notif_title_dirty_data">Non hai sincronizzato degli elementi</string>
     <string name="micloud_notif_content_dirty_data">Dettagli</string>
     <string name="micloud_find_device_guide_title">"Accedi a %s per localizzare, bloccare o formattare il tuo dispositivo."</string>
     <string name="micloud_find_device_guide_content">Quando cambi SIM, verrà inviato automaticamente un SMS per riattivare questa funzione.</string>

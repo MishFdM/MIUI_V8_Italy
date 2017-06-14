@@ -112,6 +112,11 @@
     <string name="power_config_apps">Risparmio energia in background</string>
     <string name="app_list_title">Scegli applicazioni</string>
     <string name="power_hide_mode_app_list_summary">Impostazioni app</string>
+    <string name="sleep_config_mode_title">Modalità di risparmio notturno</string>
+    <string name="sleep_config_disable_title">Disattiva</string>
+    <string name="sleep_config_disable_description">MIUI non migliorerà il risparmio batteria notturno</string>
+    <string name="sleep_config_enhance_title">Attivato</string>
+    <string name="sleep_config_enhance_description">MIUI migliorerà il risparmio batteria notturno</string>
     <string name="power_config_mode_title">Modalità di risparmio</string>
     <string name="power_config_disable_title">Disattivato</string>
     <string name="power_config_disable_description">MIUI non limiterà le attività in background</string>

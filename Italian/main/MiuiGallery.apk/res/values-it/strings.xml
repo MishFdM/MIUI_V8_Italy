@@ -836,6 +836,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="delete_third_party_video">Eliminare questo video?</string>
     <string name="create_new_album">Crea nuovo album</string>
     <string name="album_already_exists">Esiste giàun album con questo nome</string>
+    <string name="album_already_exists_check">Mostra</string>
     <string name="create_new_album_failed">Creazione fallita</string>
     <string name="default_album_name">Nuovo album</string>
     <string name="new_album_invalid_prefix">"Non usare \".\" oo \"_\" come inizio del nome dell'album."</string>
@@ -1148,18 +1149,18 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="search_people_jump_failed">Attendi che le foto con le persone siano sincronizzate con Mi Cloud e prova di nuovo</string>
     <string name="search_album_jump_failed">Attendi che gli album siano sincronizzati con Mi Cloud e prova di nuovo</string>
     <string name="search_clear_histories">Clear</string>
-    <string name="search_loading">Solo un attimo</string>
-    <string name="loading_dots">Solo un attimo...</string>
-    <string name="load_failed">Impossibile caricare le informazioni, tocca per provare di nuovo</string>
-    <string name="load_complete">Nessun altro elemento</string>
-    <string name="people_jump_failed">Attendi fino a che le foto con persone non sono state sincronizzate con Mi Cloud e prova di nuovo</string>
-    <string name="album_jump_failed">Attendi fino a che gli album non sono stati sincronizzati con Mi Cloud e prova di nuovo</string>
     <string name="grant_permission_title">Consenti accesso</string>
     <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare corrrettamente, tocca Imposta per vedere i permessi."</string>
     <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_go_and_set">Imposta</string>
+    <string name="search_loading">Solo un attimo</string>
+    <string name="loading_dots">Solo un attimo...</string>
+    <string name="load_failed">Impossibile caricare le informazioni, tocca per provare di nuovo</string>
+    <string name="load_complete">Nessun altro elemento</string>
+    <string name="people_jump_failed">Attendi fino a che le foto con persone non sono state sincronizzate con Mi Cloud e prova di nuovo</string>
+    <string name="album_jump_failed">Attendi fino a che gli album non sono stati sincronizzati con Mi Cloud e prova di nuovo</string>
     <string name="storage_no_space">Spazio insufficiente</string>
     <string name="share_album">Condividi album</string>
     <string name="all_video_album_display_name">Tutti i video</string>

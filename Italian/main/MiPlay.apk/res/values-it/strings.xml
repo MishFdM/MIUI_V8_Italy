@@ -36,4 +36,5 @@
     <string name="enable_wifi_title">Attiva Wi-Fi</string>
     <string name="enable_wifi_message">Attiva Wi-Fi per rilevare e collegarti ai dispositivi nelle vicinanze.</string>
     <string name="enable_wifi_btn">Attiva</string>
+    <string name="media_route_controller_disconnect">Disconnetti</string>
 </resources>

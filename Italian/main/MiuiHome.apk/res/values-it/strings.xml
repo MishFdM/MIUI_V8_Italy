@@ -63,7 +63,6 @@
     <string name="menu_launcher_setting">Launcher</string>
     <string name="editing_tips">Modifica Home</string>
     <string name="editing_mode_title">%1$d selezionati</string>
-    <string name="editing_mode_title_empty">Seleziona elementi</string>
     <string name="multi_selecting_tips">"Tocca un'icona per iniziare"</string>
     <string name="editing_add_widget_tips">Aggiungi widget</string>
     <string name="editing_set_wallpaper_tips">Cambia sfondo</string>
@@ -79,13 +78,9 @@
     <string name="confirm_uninstall_dialog_title">Il clone corrispondente verrà eliminato.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">"Il clone dell'app verrà disinstallato insieme a questo."</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Le app clonate saranno disinstallate insieme a questi.</string>
-    <string name="uninstall_dialog_title_multi_format" formatted="false">Vuoi disinstallare %s ed altre %d applicazioni?</string>
     <string name="uninstall">Disinstalla</string>
-    <string name="uninstall_result_multi_succeeded">%1$d applicazioni disinstallate</string>
     <string name="uninstall_result_succeeded">Applicazioni disinstallate</string>
     <string name="uninstall_result_failed">Impossibile disinstallare %s</string>
-    <string name="uninstall_result_two_failed">"Impossibile disinstallare %s ed un'altra applicazione"</string>
-    <string name="uninstall_result_other_failed" formatted="false">Impossibile disinstallare %s ed altre %d applicazioni</string>
     <string name="starting_preset_app">Inizio…</string>
     <string name="install">Installa</string>
     <string name="cant_remove_folder">Non puoi rimuovere questa cartella</string>
@@ -226,10 +221,8 @@
     <string name="guide_install_app_msg">"Applicazione non installata. Vuoi cercare l'app sul Play Store?"</string>
     <string name="menu_customize">Personalizza impostazioni</string>
     <string name="menu_picktheme">Seleziona tema</string>
-    <string name="scroll_tip_format_when_announce_accessibility">Pagina %1$d, %2$d app</string>
     <string name="editing_mode_enter_tip_text">Pizzica con due dita per modificare la Home</string>
     <string name="delete">Elimina</string>
-    <string name="delete_wallpaper_message">Eliminare %1$d sfondo selezionato?</string>
     <string name="delete_wallpapers_message">Eliminare i %1$d sfondi selezionati?</string>
     <string name="is_system_wallpaper_message">Impossibile eliminare risorse di sistema</string>
     <string name="select_all">Seleziona tutto</string>

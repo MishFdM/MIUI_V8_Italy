@@ -841,4 +841,5 @@ Guarda con altri 170 milioni di Mi fans."</string>
     <string name="clear_record">Cancella cronologia</string>
     <string name="overwrite_msg">\"%s\" è già esistente. Tocca per sostituirlo con il nuovo file.</string>
     <string name="skip_file">Salta</string>
+    <string name="support_mtp">MTP sarà presto disponibile </string>
 </resources>

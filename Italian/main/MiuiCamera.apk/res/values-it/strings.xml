@@ -3,6 +3,7 @@
     <string name="camera_setting">Impostazioni fotocamera</string>
     <string name="path_settings">Applicazioni di sistema/Fotocamera/Impostazioni</string>
     <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento viso;Suono fotocamera</string>
+    <string name="hibernate_hint">Tocca lo schermo per avviare la Fogocamera</string>
     <string name="camera_error_title">Errore fotocamera</string>
     <string name="cannot_connect_camera_once">Impossibile avviare la fotocamera</string>
     <string name="cannot_connect_camera_twice">Impossibile avviare la fotocamera, riavvia il dispositivo</string>
@@ -383,6 +384,18 @@
     <string name="dual_camera_lens_covered_toast">"L'obiettivo è coperto".</string>
     <string name="dual_camera_use_hint">"La modalità Stereo permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere più lontano di 2 metri."</string>
+    <string name="pref_camera_zoom_mode_title">Lenti</string>
+    <string name="pref_camera_zoom_mode_entry_wide">Grandangolo</string>
+    <string name="pref_camera_zoom_mode_entry_tele">Teleobiettivo</string>
+    <string name="pref_camera_portrait_mode_title">Modalità ritratto</string>
+    <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
+    <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>
+    <string name="portrait_mode_lowlight_hint">Adesso è tropppo scuro</string>
+    <string name="portrait_mode_too_close_hint">"Allontanati dall'oggetto"</string>
+    <string name="portrait_mode_too_far_hint">"Posiziona l'oggetto entro 2.5"</string>
+    <string name="portrait_mode_depth_effect_success_hint">Effetto profondità</string>
+    <string name="portrait_with_facebeauty_hint">La funzione Bellezza adesso è disponibile inmodalità ritratto</string>
+    <string name="pref_camera_portrait_with_facebeauty_title">Funzione Bellezza in modalità ritratto</string>
     <string name="pref_camera_square_mode_title">Quadrato</string>
     <string name="simple_mode_button_text_square">Disattiva Quadrato</string>
     <string name="face_beauty_smart">Intelligente</string>

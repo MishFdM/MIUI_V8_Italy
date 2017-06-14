@@ -2,7 +2,6 @@
 <resources>
     <string name="delete">Elimina</string>
     <string name="unlockscreen_recharging_message">In carica, al %d%%</string>
-    <string name="unlockscreen_quick_charging_message">Carica rapida %d%%</string>
     <string name="unlockscreen_recharge_completed">Carica completa</string>
     <string name="unlockscreen_low_battery">Collegare il caricabatteria</string>
     <string name="lockscreen_charging_msg">In carica</string>

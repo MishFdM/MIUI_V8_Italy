@@ -808,8 +808,6 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="call_record_auto_summary">Tutte le conversazioni registrate verranno salvate nella cartella MIUI/sound_recorder/call_rec</string>
     <string name="call_record_auto_scenario_title">Registra chiamate provenienti da</string>
     <string name="call_record_whitelist_custom">Lista personalizzata</string>
-    <string name="call_record_auto_whitelist_summary_for_one">1 numero</string>
-    <string name="call_record_auto_whitelist_summary">%d numeri</string>
     <string name="call_recording_notification_title">Registrazione chiamata</string>
     <string name="call_recording_notification_title_error">Registrazione chiamata fallita</string>
     <string name="call_recording_setting">Registrazione chiamate</string>
@@ -819,7 +817,6 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="call_recording_notification_message">Tocca per ascoltare.</string>
     <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa.</string>
     <string name="call_record_add_numbers">Aggiungi numeri</string>
-    <string name="call_remove_exception_numbers_confirm">%d numeri saranno cancellati.</string>
     <string name="call_record_auto_always">Tutti i numeri</string>
     <string name="call_record_on_summary">Attivato</string>
     <string name="call_record_off_summary">Disattivo</string>
@@ -865,7 +862,6 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="auto_answer_scenario_enteries_bluetooth_only">Solo Bluetooth</string>
     <string name="auto_answer_scenario_enteries_headset_bluetooth">Solo auricolari o Bluetooth</string>
     <string name="auto_answer_summary_not_enabled">Disattivato</string>
-    <string name="auto_answer_summary_delay">" (ritardo: %s secondi)"</string>
     <string name="answer_state_setting_title">Impostazioni chiamate in arrivo</string>
     <string name="answer_state_setting_summary">Opzioni aggiuntive per chiamate in arrivo</string>
     <string name="turnover_mute_title">Capovolgi per silenziare la suoneria</string>

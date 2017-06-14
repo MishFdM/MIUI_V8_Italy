@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d elementi bloccati</item>
+        <item quantity="one">%d elemento bloccato</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d matches</item>
+        <item quantity="one">%d match</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Ultimi %d giorni</item>
+        <item quantity="one">Ultimo giorno</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d di %2$d</item>
@@ -11,17 +20,9 @@
         <item quantity="other">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>
     </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">Cancellare %1$d video?</item>
-        <item quantity="one">Cancellare %1$d video?</item>
-    </plurals>
     <plurals name="video_download_clear_info">
         <item quantity="other">%1$d video rimossi correttamente.</item>
         <item quantity="one">%1$d video rimosso correttamente.</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d minuti rimanenti</item>
-        <item quantity="one">Un minuto rimanente</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
         <item quantity="other">Eliminare %1$d elementi dalla cronologia?</item>

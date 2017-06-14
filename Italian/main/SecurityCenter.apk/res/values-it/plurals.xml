@@ -12,6 +12,14 @@
         <item quantity="other">%d other users marked it as</item>
         <item quantity="one">%d other user marked it as</item>
     </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d parole chiave</item>
+        <item quantity="one">%d parola chiave</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d numeri</item>
+        <item quantity="one">%d numero</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">"Nessun dato sull'utilizzo dati per %d app"</item>
         <item quantity="one">"Nessun dato sull'utilizzo dati per %d app"</item>
@@ -35,10 +43,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">"Hai già utilizzato %s limite giornaliero.
 
 Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti costi aggiuntivi."</item>
-    </plurals>
-    <plurals name="hints_install_apps_interval">
-        <item quantity="other">Utilizzata %d giorni fa</item>
-        <item quantity="one">Utilizzata ieri</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Cerca %d app</item>
@@ -109,6 +113,30 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="few">%1$d visualizzazioni</item>
         <item quantity="many">%1$d visualizzazioni</item>
     </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">1 elemento</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s rischi di pagamento</item>
+        <item quantity="one">%s rischio di pagamento</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s app di pagamento sono protette</item>
+        <item quantity="one">%s app di pagamento è protetta</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s app sono protette</item>
+        <item quantity="one">%s app è protetta</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s app non protette</item>
+        <item quantity="one">"%s app non protetta</item>
+    </plurals>
+    <plurals name="scan_result_description">
+        <item quantity="other">risultato scansione: %d rischi di pagamento rilevati</item>
+        <item quantity="one">risultato scansione: %d rischio di pagamento rilevato</item>
+    </plurals>
    <plurals name="system_check_content">
         <item quantity="other">%1$d elementi sicuri</item>
         <item quantity="one">%1$d elemento sicuro</item>
@@ -141,9 +169,21 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d app non hanno i permessi di ROOT</item>
         <item quantity="one">%d app non ha i permessi di ROOT</item>
     </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d eccezioni</item>
+        <item quantity="one">%d eccezione</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">"Non hai sinccronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorni"</item>
+        <item quantity="one">"Non hai sinccronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorno"</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Aggiornamento disponibile per %d applicazioni.</item>
         <item quantity="one">Aggiornamento disponibile per %d applicazione.</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">"%d giorni dall'ultimo controllo"</item>
+        <item quantity="one">"%d giorno dall'ultimo controllo"</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d pericoli,</item>
@@ -190,26 +230,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="zero">0 app trovate</item>
         <item quantity="one">%d app trovata</item>
     </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d elementi</item>
-        <item quantity="one">Un elemento</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s rischi per i pagamenti</item>
-        <item quantity="one">%s rischio per i pagamenti</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s app di pagamento sono protette</item>
-        <item quantity="one">%s app di pagamento è protetta</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s app sono protette</item>
-        <item quantity="one">%s app è protetta</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s app non protette</item>
-        <item quantity="one">%s app non protetta</item>
-    </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d app bloccate in attesa di essere cancellate</item>
         <item quantity="one">%d app bloccata in attesa di essere cancellata</item>
@@ -254,9 +274,13 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Accesso eseguito %d volte</item>
         <item quantity="one">Accesso eseguito %d volta</item>
     </plurals>
-    <plurals name="app_manager_permission_manager_summary">
-        <item quantity="other">Concessi %d permessi</item>
-        <item quantity="one">Concesso %d permesso</item>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d permessi concessi</item>
+        <item quantity="one">%d permesso concesso</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Richiesta per %d permessi</item>
+        <item quantity="one">Richiesta per %d permesso</item>
     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d volte</item>

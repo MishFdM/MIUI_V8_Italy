@@ -57,8 +57,6 @@
     <string name="gs_game_performance">Prestazioni</string>
     <string name="gs_game_duration">Orario</string>
     <string name="gs_game_disturb_msg">DND</string>
-    <string name="install_game_count">%d giochi aggiunti</string>
-    <string name="uninstall_game_count">%d giochi non aggiunti</string>
     <string name="add_game">Aggiungi gioco</string>
     <string name="add_whitelist">Aggiungi alle eccezioni</string>
     <string name="sys_cpu_title">Utilizzo CPU</string>
@@ -90,7 +88,6 @@
     <string name="dialog_text">"Verrà creata un'icona sulla home per l'avvio rapido"</string>
     <string name="anim_gamebooster_text">Solo un attimo…</string>
     <string name="intro_skip">Salta</string>
-    <string name="game_booster_total">Velocità aumentata di %1$s volte, aggiunti %2$s di durata di gioco</string>
     <string name="application_item_disable">Limitate</string>
     <string name="application_item_already_permission">Consentite</string>
     <string name="man_add_application">"Aggiungi manualmente le app all'avvio automatico"</string>
@@ -117,4 +114,14 @@
     <string name="start">Avvia</string>
     <string name="close">Chiudi</string>
     <string name="lucky_result_title">Assistente registrazione</string>
+    <string name="fastboot_status_locked_info">Fastboot non bloccato su questo dispositivo</string>
+    <string name="fastboot_status_locked_summary">Impossibile ottenere permessi di root</string>
+    <string name="fastboot_locked_question_1">Perché il bootloader dovrebbe essere bloccato?</string>
+    <string name="fastboot_locked_answer_1">Fastboot is the traditional method to flash Mi devices. When the device is in Fastboot mode, all the data stored on it can be reached and erased directly. We lock Fastboot to make sure your data stays secure in case you lose the device, as well as to guarantee the reliability of Find device features.</string>
+    <string name="fastboot_locked_question_2">Are there any risks connected with unlocking Fastboot?</string>
+    <string name="fastboot_locked_answer_2">"In case you lose your device, Fastboot guarantees the security of the items stored on it. If you unlock Fastboot, you will no longer be able to lock your device remotely or erase data using Find device. That's why we don't recommend unlocking Fastboot on your device."</string>
+    <string name="fastboot_locked_question_3">I know about the risks, but I still need to unlock my device. What should I do?</string>
+    <string name="fastboot_locked_answer_3">"You should use the unlock tool from the MIUI website. To unlock the device, we need to make sure that the device belongs to you. That's why you should sign in with your Mi Account and turn on Find device."</string>
+    <string name="fastboot_unlock_web_title">Go to the official MIUI website to get the unlock tool.</string>
+    <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
 </resources>
