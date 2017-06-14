@@ -32,12 +32,4 @@
         <item quantity="other">%1$d elementi rimossi dalla cronologia.</item>
         <item quantity="one">%1$d elemento rimosso dalla cronologia.</item>
     </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d risultati</item>
-        <item quantity="one">%d risultato</item>
-    </plurals>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d pubblicità bloccate</item>
-        <item quantity="one">%d pubblicità bloccata</item>
-    </plurals>
 </resources>

@@ -804,19 +804,17 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
     <string name="tc_diagnostic_upload_button">Riporta</string>
     <string name="tc_diagnostic_fragment_default">"Informazioni sulla dagnostica
-1. Il dispositivo si collegherà alla rete
-        dell'operatore, inviando un messaggio gratuito, in attesa della risposta dell'operatore. Potrebbe richiedere fino a 5 minuti.
-2. Puoi
-        lasciare questa pagina durante la diagnostica, questa continuerà in background."</string>
+1. Il dispositivo si collegherà alla rete dell'operatore, inviando un messaggio gratuito, in attesa della risposta dell'operatore. Potrebbe richiedere fino a 5 minuti.
+2. Puoi lasciare questa pagina durante la diagnostica, questa continuerà in background."</string>
     <string name="sim_location_diagnostic">Diagnostica posizione</string>
     <string name="operator_diagnostic">Diagnostica operatore</string>
     <string name="brand_diagnostic">Diagnostica nome operatore</string>
     <string name="tc_diagnostic_status_updating">Testando…</string>
-    <string name="tc_diagnostic_status_success">"<font color="#3EC234">Corretto</font>"</string>
-    <string name="tc_diagnostic_status_failure">"<font color="#CC0000">Errore</font>"</string>
-    <string name="tc_diagnostic_status_not_get">"<font color="#ED9523">Impossibile ottenere informazioni</font>"</string>
-    <string name="tc_diagnostic_status_no_network">"<font color="#ED9523">Nessuna connessione di rete</font>"</string>
-    <string name="tc_diagnostic_status_timeout">"<font color="#CC0000">Timeout</font>"</string>
+    <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Corretto&lt;/font>"</string>
+    <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Errore&lt;/font>"</string>
+    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Impossibile ottenere informazioni&lt;/font>"</string>
+    <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Nessuna connessione di rete&lt;/font>"</string>
+    <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Timeout&lt;/font>"</string>
     <string name="tc_diagnostic_status_error_brand">Rete operatore non trovata</string>
     <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Rete operatore risponde&lt;/font>"</string>
     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Risultato: Posizione errata&lt;br/>&lt;br/>Imposta posizione: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Posizione attuale: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
@@ -1280,59 +1278,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="path_powercenter_powerrank">Batteria e prestazioni/Utilizzo batteria</string>
     <string name="resource_payment_security">Sicurezza pagamento</string>
     <string name="keywords_payment_security">Check payment security;payment security;secure payment;secure payments;payment protection;protect payments;protected payments;secure zone;payment zone</string>
-    <string name="path_payment_security">System apps/Security/Payment security</string>
+    <string name="path_payment_security">Applicazioni di sistema/Sicurezza/Sicurezza pagamenti</string>
     <string name="app_name_securitycenter">Sicurezza</string>
-    <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>
-    <string name="unlike">No grazie</string>
-    <string name="toast_network_eror">Impossibile connettersi alla rete</string>
-    <string name="download">Scaricate</string>
-    <string name="installed">Installate</string>
-    <string name="install_sucess">%s installata con successo</string>
-    <string name="downloading">Scaricamento</string>
-    <string name="installing">Installazione</string>
-    <string name="start_install">Installa ora</string>
-    <string name="connecting">Connessione…</string>
-    <string name="promotion">Pubblicità</string>
-    <string name="open">Apri</string>
-    <string name="section_title_system">Protezione sistema</string>
-    <string name="section_title_clear_acc">Pulizia cache</string>
-    <string name="section_title_security_defend">Sicurezza</string>
-    <string name="section_clear_acc_item_title">Liberato %s. Se non hai ancora abbastanza spazio, prova ad utilizzare Pulizia.</string>
-    <string name="section_security_defend_item_title">Proteggi i tuoi dati con Blocco Applicazioni</string>
-    <string name="clean_immediately">Pulisci</string>
-    <string name="use_immediately">Utilizza</string>
-    <string name="cleaned">Puliti</string>
-    <string name="section_system_item_fixed">Ottimizzato</string>
-    <string name="optmizingbar_stop_optmize">Ferma</string>
-    <string name="optmizingbar_ready">Ottimizzazione…</string>
-    <string name="optmizingbar_optimize_done">Ottimizzato</string>
-    <string name="optmizingbar_title_system">Protezione sistema</string>
-    <string name="optmizingbar_title_clear">Pulizia cache</string>
-    <string name="optmizingbar_title_security">Sicurezza</string>
-    <string name="optmizingbar_title_acceleration">Ottimizzazione…</string>
-    <string name="optimize_result_button_see_detaills">Dettagli</string>
-    <string name="optimize_result_button_open_now">Attiva</string>
-    <string name="optimize_result_button_realname_now">Verifica</string>
-    <string name="optimize_result_button_mifi_insurance">Acquista adesso</string>
-    <string name="optimize_result_button_update_now">Aggiorna</string>
-    <string name="optimize_result_button_to_open">Attiva</string>
-    <string name="optimize_result_button_to_set">Imposta</string>
-    <string name="optimize_result_button_fix_now">Ottimizza</string>
-    <string name="optimize_result_button_onekey_restore">Ripristina</string>
-    <string name="optimize_result_button_onekey_open">Attiva</string>
-    <string name="optimize_result_button_operators_diagnose">Diagnostiche di rete</string>
-    <string name="optimize_result_button_correct_now">Calibrare</string>
-    <string name="optimize_result_button_cooldown_now">Raffredda ora</string>
-    <string name="optimize_result_button_consume_power_analysis">Scansione batteria</string>
-    <string name="optimize_result_button_purchase_flow">Acquista altri dati cellulare</string>
-    <string name="optimize_result_button_purchase">Acquista</string>
-    <string name="optimize_result_button_cloudspace">Amplia spazio cloud</string>
-    <string name="optimize_result_title_system_default_settings">Le impostazioni predefinite sono state modificate</string>
-    <string name="optimize_result_summary_system_default_settings">"L'utilizzo di applicazioni di predefinite MIUI aumenta il livello di stabilità e sicurezza del sistema."</string>
-    <string name="optimize_result_toast_system_default_settings">Ripristina le impostazioni predefinite</string>
-    <string name="optimize_result_toast_system_no_item_selected">Nessun elemento selezionato</string>
-    <string name="optimize_result_title_sucurity_risk">Trovati rischi per la sicurezza</string>
-    <string name="optimize_result_summary_sucurity_risk">Alcune funzionalità di sicurezza sono disattivate. Attiva queste funzionalità per rendere il tuo dispositivo più sicuro:</string>
     <string name="ok">OK</string>
     <string name="exit">Esci</string>
     <string name="cancel">Annulla</string>
@@ -1348,6 +1295,11 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="menu_text_networkassistants">Utilizzo dati</string>
     <string name="menu_text_networkassistants_remain">%s rimasti</string>
     <string name="menu_text_networkassistants_danger">%s oltre soglia</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
+    <string name="menu_text_networkassistants_unit_gb">GB</string>
+    <string name="menu_text_networkassistants_unit_mb">MB</string>
+    <string name="menu_text_networkassistants_unit_kb">KB</string>
+    <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_antispam">Blacklist</string>
     <string name="menu_text_license_manager">Permessi</string>
     <string name="menu_text_garbage_cleanup">Pulizia</string>
