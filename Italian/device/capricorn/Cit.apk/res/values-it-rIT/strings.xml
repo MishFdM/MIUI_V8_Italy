@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cit_external_sd_check_summary">Questo test verificherà lo stato della Scheda SD</string>
+	 <string name="sd_external_storage">"Stato memoria esterna:
+
+"</string>
+    <string name="sd_wrong_status">Stato errato</string>
+    <string name="sd_correct_status">Stato normale</string>
+    <string name="sd_total">"
+Totali:"</string>
+    <string name="sd_used">"
+Usati:"</string>
+    <string name="sd_remained">"
+Rimasti:"</string>
+<string name="cit_external_sd_check_title">Test Scheda SD</string>
+<string name="cit_torch_modify">Intensità LED</string>
+</resources>

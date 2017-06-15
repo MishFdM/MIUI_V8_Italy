@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string-array name="select_logd_size_titles">
+        <item>Disattivato</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+	<string-array name="select_logd_size_lowram_titles">
+        <item>Disattivato</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+	<string-array name="select_logd_size_summaries">
+        <item>Disattivato</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
+</resources>

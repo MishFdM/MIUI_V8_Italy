@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="tts_reset_speech_pitch_title">Ripristino punto discorso</string>
+<string name="tts_reset_speech_pitch_summary">"Ripristina l'intonazione nel punto in cui il testo è parlato in maniera predefinita."</string>
+</resources>
