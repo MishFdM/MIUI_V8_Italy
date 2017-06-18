@@ -1707,7 +1707,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="msg_update_up">Nascondi</string>
     <string name="virus_dp_update_title">Aggiornamento definizioni</string>
     <string name="virus_update_tips_title">Collegati a Wi-Fi</string>
-    <string name="virus_wait_network_dialog_message">Gli aggiornaemnti sono di grandi dimensioni. Collegati ad una rete Wi-Fi per scaricarli.</string>
+    <string name="virus_wait_network_dialog_message">Gli aggiornamenti sono di grandi dimensioni. Collegati ad una rete Wi-Fi per scaricarli.</string>
     <string name="virus_update_success">Aggiornato correttamente</string>
     <string name="virus_update_fail">Impossibile aggiornare</string>
     <string name="virus_already_update">Le definizioni non sono aggiornate</string>
