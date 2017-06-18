@@ -9,8 +9,8 @@
         <item quantity="one">1 SMS</item>
     </plurals>
     <plurals name="marked_by_others">
-        <item quantity="other">%d other users marked it as</item>
-        <item quantity="one">%d other user marked it as</item>
+        <item quantity="other">%d altri utenti lo hanno segnalato</item>
+        <item quantity="one">%d un altro utente lo ha segnalato</item>
     </plurals>
     <plurals name="st_show_num_keyword">
         <item quantity="other">%d parole chiave</item>
@@ -174,7 +174,7 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">%d eccezione</item>
     </plurals>
     <plurals name="summary_flow_verify">
-        <item quantity="other">"Non hai sinccronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorni"</item>
+        <item quantity="other">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorni"</item>
         <item quantity="one">"Non hai sinccronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorno"</item>
     </plurals>
     <plurals name="summary_app_update">
@@ -300,6 +300,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     </plurals>
     <plurals name="app_usage_year">
         <item quantity="other">"Non utilizzato da %d anni"</item>
-        <item quantity="one">"NOn utilizzato da %d anno"</item>
+        <item quantity="one">"Non utilizzato da %d anno"</item>
     </plurals>
 </resources>
