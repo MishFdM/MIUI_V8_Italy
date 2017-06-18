@@ -806,7 +806,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="qq_login_webview">Signing in to the web QQ Mail. Enter your password.</string>
     <string name="qq_next_generation_auth_toast">Turn on password protection in your browser</string>
     <string name="qq_uthentication_failed">"Couldn't verify account, sign in again"</string>
-    <string name="qq_webview_loading">Just a sec…</string>
+    <string name="qq_webview_loading">Solo un attimo…</string>
     <string name="questionnair_body_invisibility">Messaggi non visualizzati</string>
     <string name="questionnair_confirm_delete">Rimuovi</string>
     <string name="questionnair_instability">Crasha con frequenza</string>
