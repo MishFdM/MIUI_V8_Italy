@@ -426,14 +426,6 @@
     <string name="additional_system_update_menu"/>
     <string name="hotspot_accout_check_server_url"/>
     <string name="hotspot_accout_up_sell_url"/>
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_always_show_value">1</string>
-    <string name="input_method_selector_always_hide_value">2</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
-    <string name="category_key_wireless">com.android.settings.category.wireless</string>
-    <string name="category_key_device">com.android.settings.category.device</string>
-    <string name="category_key_personal">com.android.settings.category.personal</string>
-    <string name="category_key_system">com.android.settings.category.system</string>
     <string name="yes">Sì</string>
     <string name="no">No</string>
     <string name="create">Crea</string>
@@ -2184,7 +2176,6 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Attivato</string>
     <string name="battery_stats_phone_signal_label">Segnale rete cellulare</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">Tempo di attività dispositivo</string>
     <string name="wifi_on_time">Tempo accensione Wi-Fi</string>
     <string name="bluetooth_on_time">Tempo accensione Wi-Fi</string>

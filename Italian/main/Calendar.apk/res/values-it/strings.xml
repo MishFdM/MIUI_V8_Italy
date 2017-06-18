@@ -393,7 +393,6 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
     <string name="xiaomi_calendar_display_name">Calendario Mi</string>
     <string name="preferences_home_tz_default">Europa/Roma</string>
     <string name="preferences_week_start_day_default">-1</string>
-    <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="description_calendar_huangli"/>
     <string name="description_calendar_subscribe_group"/>
     <string name="lunar_day"/>
@@ -507,11 +506,6 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
     <string name="olympic_vs">VS</string>
     <string name="online_reminder_header_text">提醒</string>
     <string name="pengzu"/>
-    <string name="prefDefault_alerts_vibrateWhen">never</string>
-    <string name="prefDefault_alerts_vibrate_false">never</string>
-    <string name="prefDefault_alerts_vibrate_true">always</string>
-    <string name="preferences_default_allday_reminder_default_value">480</string>
-    <string name="preferences_default_reminder_default_value">0</string>
     <string name="preferences_import_credit_repayment">信用卡还款</string>
     <string name="preferences_import_travel">机票火车票</string>
     <string name="provided_ad">赞助商提供</string>

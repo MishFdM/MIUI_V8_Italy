@@ -30,7 +30,7 @@
     <string name="incoming_file_confirm_timeout_ok">OK</string>
     <string name="incoming_file_confirm_timeout_content">"Si è verificato un timeout durante l'accettazione di un file in arrivo da \"%1$s\""</string>
     <string name="incoming_file_confirm_Notification_title">Condivisione Bluetooth: file in arrivo</string>
-    <string name="incoming_file_confirm_Notification_caption">Vuoi ricevere questo file?</string>
+    <string name="incoming_file_confirm_Notification_content">%1$s è pronto per inviare %2$s</string>
     <string name="incoming_file_toast_msg">File in arrivo da un altro dispositivo. Conferma che vuoi ricevere il file.</string>
     <string name="notification_receiving">Condivisione Bluetooth: ricezione file %1$s</string>
     <string name="notification_received">Condivisione Bluetooth: file %1$s ricevuto</string>
