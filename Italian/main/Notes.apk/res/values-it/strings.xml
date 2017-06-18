@@ -70,6 +70,8 @@
     <string name="dialog_share_title">Condividi nota</string>
     <string name="dialog_share_as_text">Condividi nota come testo</string>
     <string name="dialog_share_as_pic">Condividi nota come immagine</string>
+    <string name="note_description_title">Informazioni</string>
+    <string name="note_description_content">"L'app Note è un ottimo strumento per scrivere velocemente le tue idee. Fornisce promemoria integrati e sincronizza i contenuti con Mi Cloud, così da consentirti l'accesso da qualsiasi posto, in qualsiasi momento. Assicurati di non avere necessità di questa app prima di eliminarla."</string>
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>

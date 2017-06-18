@@ -463,6 +463,8 @@
     <string name="yes">Sì</string>
     <string name="no">No</string>
     <string name="and">" e "</string>
+    <string name="today">Oggi</string>
+    <string name="yesterday">Ieri</strin
     <string name="home_page_empty">Vuoto</string>
     <string name="people_page_label">Volto</string>
     <string name="ignore_faces_title">Ignorato</string>
@@ -681,7 +683,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="picker_cancel_download">Annulla download</string>
     <string name="picker_continue_download">Continua il download</string>
     <string name="picker_no_network_message">Rete non disponibile, collegati alla rete e procedi con il download</string>
-    <string name="picker_mobile_data_video">Impossibile scaricare video tramite rete dati cellulare, %d operazioni fallite.</string>
     <string name="picker_download_progress_message">Download in corso, termine: %1$d/%2$d</string>
     <string name="operation_send">Invia</string>
     <string name="operation_edit">Modifica</string>
@@ -1065,7 +1066,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="user_notice_identify_summary_format">Utilizzando questo servizio, accetti %1$s e %2$s di Xiaomi.</string>
     <string name="user_notice_title">Attenzione</string>
     <string name="secret_album_display_name">Album privato</string>
-    <string name="add_to_secret_successful">"Aggiunto all'album nascosto"</string>
     <string name="add_to_secret_fail">"Inserimento nell'album nascosto fallito"</string>
     <string name="add_to_secret_exist">"Foto già esistente nell'album nascosto"</string>
     <string name="add_to_secret_failed_with_reason">"Impossibile aggiungere all'album nascosto. %1$s."</string>
@@ -1161,6 +1161,11 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="load_complete">Nessun altro elemento</string>
     <string name="people_jump_failed">Attendi fino a che le foto con persone non sono state sincronizzate con Mi Cloud e prova di nuovo</string>
     <string name="album_jump_failed">Attendi fino a che gli album non sono stati sincronizzati con Mi Cloud e prova di nuovo</string>
+    <string name="cloud_sync_card_title">Attiva la sincronizzazione con Mi Cloud</string>
+    <string name="cloud_sync_card_description">Sincronizza foto e video con Mi Cloud to access them from multiple devices</string>
+    <string name="secret_album_card_title">Prova gli album privati</string>
+    <string name="secret_album_card_description">Il posto migliore per i tuoi piccoli segreti</string>
+    <string name="comma_separator">,</string>
     <string name="storage_no_space">Spazio insufficiente</string>
     <string name="share_album">Condividi album</string>
     <string name="all_video_album_display_name">Tutti i video</string>

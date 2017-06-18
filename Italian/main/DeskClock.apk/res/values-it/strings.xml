@@ -117,6 +117,8 @@
     <string name="life_post_setting_open_title">Ricevi rapporti del mattino</string>
     <string name="life_post_setting_open_subtitle">Ricevi informazioni sul meteo quando disattivilesveglietra le 4:00 e le 9:30</string>
     <string name="life_post_setting_wake_up_list_title">Cronologia risvegli</string>
+    <string name="install_weather_app_loading">Solo un secondo…</string>
+    <string name="install_weather_app_error">"Impossibile caricare l'app"</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>

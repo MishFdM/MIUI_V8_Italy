@@ -12,7 +12,8 @@
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
     <string name="network_unavailable">Impossibile connettersi alla rete.</string>
     <string name="connect_fail">Anomalia nella connessione di rete. Prova di nuovo più tardi.</string>
-    <string name="act_find_city_hot_city_title">Città popolari</string>
+    <string name="act_find_city_hot_city_title">Città frequenti</string>
+    <string name="act_find_city_hot_attractions_title">Luoghi popolari</string>
     <string name="act_find_city_hint">Inserisci località</string>
     <string name="act_set_city_find_side">Localizzazione in corso…</string>
     <string name="act_set_city_find_side_error">Impossibile trovare la località.</string>
@@ -242,7 +243,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="minute_rain_pull_down_refresh">Trascina in basso per aggiornare</string>
     <string name="minute_rain_refreshing_now">Aggiornamento</string>
     <string name="minute_rain_let_go_refresh">Lascia che aggiorni</string>
-    <string name="aqi_display_exp">scad_%1$s</string>
     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="alert_detail_title">Dettagli avviso</string>
@@ -264,4 +264,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="particulate_matter_exceeded">Alto</string>
     <string name="particulate_matter_serious_exceeded">Troppo alto</string>
     <string name="city_exceeded_warning">Puoi aggiungere fino a 10 città</string>
+    <string name="xiaomi_weather_description_title">Informazioni</string>
+    <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzioni prima di elimiare l'app."</string>
 </resources>

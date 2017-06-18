@@ -179,4 +179,6 @@
     <string name="recognition_error_download_success">Scaricato correttamente</string>
     <string name="recognition_error_download_fail">Impossibile scaricare il motore di riconoscimento</string>
     <string name="low_version_tip">"Lo scanner non può funzionare su questo sistema, aggiorna all'ultima MIUI"</string>
+    <string name="app_description_title">Informazioni</string>
+    <string name="app_description_content">"Lo scanner può leggere codici QR, biglietti da visita e documenti. Assicurati che queste funzioninon ti servanoprima di eliminare l'app.".</string>
 </resources>

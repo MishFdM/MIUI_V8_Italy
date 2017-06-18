@@ -317,6 +317,7 @@ Nota：l'assistente Xiaomi Busta Rossa non colleziona dati sensibili dell'utente
     <string name="main_toolbar_purchase">Ricarica</string>
     <string name="main_button_usage_adjust">Sincronizza utilizzo dati mobile</string>
     <string name="main_button_usage_adjusting">Carica in corso…</string>
+    <string name="main_button_usage_adjusting_bill">Modifica in corso…</string>
     <string name="main_button_usage_adjust_manual">Imposta limite utilizzo dati</string>
     <string name="main_button_usage_package_setting">Imposta limite utilizzo dati</string>
     <string name="main_alert_message_no_mobile_package">Imposta limite dati</string>
@@ -374,6 +375,8 @@ dall'operatore"</string>
     <string name="firewall_allow_network">Consentito</string>
     <string name="firewall_network_allow">Consentito a %1$s di usare connessione %2$s</string>
     <string name="search_result_text">Nessuna app trovata</string>
+    <string name="firewall_mobile_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete dati mobile quanto questa funzione è disattivata."</string>
+    <string name="firewall_wifi_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete Wi-Fi quanto questa funzione è disattivata.​"</string>
     <string name="usage_sorted_activity_lable">Utilizzo dati</string>
     <string name="usage_sorted_loading_text">Solo un attimo…</string>
     <string name="usage_sorted_empty_text">Vuoto</string>
@@ -844,6 +847,19 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="diagnostic_attention_dialog_message">"Diagnostica per %1$s in corso. Attendi che finisca e riprova."</string>
     <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Attendi che il processo termini e riprova.</string>
     <string name="text_button">OK</string>
+    <string name="btn_back">Indietro</string>
+    <string name="firewall_allow_data">Consenti utilizzo dati rete mobile</string>
+    <string name="firewall_restrict_data">Limita utilizzo dati rete mobile</string>
+    <string name="firewall_allow_wlan">Consenti utilizzando la connessione Wi-Fi</string>
+    <string name="firewall_restrict_wlan">Limita utilizzando la connessione Wi-Fi</string>
+    <string name="firewall_allow_all">Consenti a tutte le app di connettersi utilizzando il seguente metodo</string>
+    <string name="firewall_restrict_all">Limita la connessione a tutte le app con il seguente metodo</string>
+    <string name="firewall_partial">Consenti ad alcune app di connettersi utilizzando il seguente metodo</string>
+    <string name="exception_titile">Eccezioni assistente di rete</string>
+    <string name="exception_notify_message">Eccezione statistiche di rete, si consiglia di riavviare</string>
+    <string name="exception_dialog_message">Le attuali statistiche di rete presentano anomalie, questo potrebbe causare rilevamento erroneao dei dati con conseguente superamento della soglia del proprio piano dati. Un riavvio potrebbe risolvere il problema, riavviare adesso?</string>
+    <string name="exception_dialog_ok_button">Riavvia adesso</string>
+    <string name="exception_alert_nomore">Non ricordarmelo più</string>
     <string name="celcius_symbol">°C</string>
     <string name="voltage_symbol">V</string>
     <string name="percent_symbol">%</string>
@@ -1964,6 +1980,10 @@ se se dimenticata"</string>
     <string name="bind_xiaomi_account_cancel">Annulla</string>
     <string name="bind_xiaomi_account_confirm">Aggiungi</string>
     <string name="password_promotion_title">Password di protezione privacy</string>
+    <string name="password_forget_pattern_title">Esegui il backup dei tuoi dati</string>
+    <string name="password_forget_pattern_message">Esegui localmente il backup dei tuoi dati, poi esegui un ripristino alle condizioni di fabbrica. Dopo sarai in grado di modificare la tua password.</string>
+    <string name="password_forget_pattern_confirm">Backupdei dati</string>
+    <string name="password_xspace_forget_pattern_message">Per modificare la password del tuo spazio Secondario, you should delete your current Second space and create a new one.</string>
     <string name="password_promotion_message">App lock verrà aggiornato con la password di protezione privacy. Puoi usare il tuo Mi Account per ripristinarla.</string>
     <string name="password_promotion_button_text">Ho capito</string>
     <string name="password_promotion_not_login_xiaomi_account_message">App lock verrà aggiornato con la password di protezione privacy. Puoi usare il tuo Mi Account per ripristinarla. Aggiungi il tuo Mi Account per poterlo fare.</string>

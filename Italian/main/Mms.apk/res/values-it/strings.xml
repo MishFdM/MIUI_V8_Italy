@@ -288,14 +288,12 @@
     <string name="context_menu_contact">Contatto: %1$s</string>
     <string name="context_menu_add_calendar">Mostra nel calendario</string>
     <string name="pref_sms_theme_title">Impostazioni tema</string>
-    <string name="pref_time_auto_group_title">Gruppo</string>
-    <string name="pref_time_auto_group_summary">Raggruppa per orario</string>
-    <string name="pref_time_auto_group_disabled_summary">Non supportato nella dimensione di carattere attuale</string>
     <string name="bookmark_list_title">Preferiti</string>
     <string name="delete_bookmark">Elimina messaggio</string>
     <string name="view_bookmark">Mostra messaggio originale</string>
     <string name="bookmark_confirm_delete_message">Gli elementi selezionati saranno eliminati</string>
     <string name="bookmark_empty">Nessun modello</string>
+    <string name="verification_code_list_title">Codici di verifica</string>
     <string name="phrase_list_title">Modelli</string>
     <string name="new_phrase">Nuovo modello</string>
     <string name="edit_phrase">Modifica modello</string>
@@ -321,8 +319,6 @@
     <string name="pref_edit_smsc_address">Numero centro SMS</string>
     <string name="pref_title_allow_si_sl_push">Consenti push WAP</string>
     <string name="pref_summary_allow_si_sl_push">Consenti ricezione e notifica messaggi push WAP (SI/SL)</string>
-    <string name="pref_title_show_recent_contacts">Contatti recenti</string>
-    <string name="pref_summary_show_recent_contacts">Mostra i contatti recenti durante la composizione di un SMS</string>
     <string name="pref_msg_trash_bin_title">Messaggi eliminati di recente</string>
     <string name="pref_cell_broadcast">Trasmissioni cella</string>
     <string name="send_signature_confirm_dialog_title">Invio conferma</string>
@@ -470,6 +466,7 @@
     <string name="pref_smart_messages_settings">Messaggi smart</string>
     <string name="title_show_sms_template">Controlla i codici di verifica tra gli SMS</string>
     <string name="pref_show_sms_template_summary">Copia ed inserisci automaticamente i codici di verifica</string>
+    <string name="pref_show_sms_template_entry_summary">Rileva one-time-password (OTP) negli SMS</string>
     <string name="title_show_sms_template_in">Controlla OTP negli SMS</string>
     <string name="pref_show_sms_template_in_summary">Rileva automaticamente OTP negli SMS</string>
     <string name="title_allow_network_access">Aggiorna automaticamente le informazioni</string>
@@ -655,4 +652,17 @@
     <string name="title_use_gsm_alphabet">Utilizza alfabeto GSM</string>
     <string name="fail_to_add_attachment">Impossibile aggiungere allegato</string>
     <string name="select_sim">Seleziona SIM</string>
+    <string name="verification_code_icon_name">V</string>
+    <string name="group_verification_codes_title">Raggruppa i messaggi OTP</string>
+    <string name="group_verification_codes_summary">Raggruppa automaticamente i messaggi contenenti OTP</string>
+    <string name="delete_verification_code_sms_title">Cancella le OTP</string>
+    <string name="delete_verification_code_sms_message">ELiminare tutte le OTP?</string>
+    <string name="favorite_at_time">Aggiunto ai preferiti alle: %1s</string>
+    <string name="sent_at_time">Inviato alle: %1s</string>
+    <string name="received_at_time">Ricevuto alle: %1s</string>
+    <string name="today">Oggi</string>
+    <string name="yesterday">Ieri</string>
+    <string name="earlier">Prima</string>
+    <string name="enabled">Attivato</string>
+    <string name="disabled">Disattivato</string>
 </resources>

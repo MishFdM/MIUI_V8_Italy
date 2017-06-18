@@ -14,18 +14,11 @@
     <string name="incorrect_pincode_remaining_attempts">Codice PIN errato, hai ancora %d tentativi</string>
     <string name="incorrect_pukcode">Codice PUK errato</string>
     <string name="incorrect_pincode">Codice PIN errato</string>
-    <string name="open_wifi_settings">Apri connessione di rete</string>
     <string name="lock_screen_date">EEEE, dd MMMM</string>
     <string name="lock_screen_date_12">EEEE, dd MMMM</string>
-    <string name="lockscreen_glogin_password_hint">Password</string>
-    <string name="lockscreen_glogin_checking_password">Verifica in corso…</string>
-    <string name="login_website_in_case_forget_password">Per resettare la tua password, va su i.xiaomi.com.</string>
-    <string name="lockscreen_glogin_invalid_input">Nome utente o password non validi.</string>
-    <string name="find_device_turn_off_flight_mode">Disattiva modalità Aereo</string>
     <string name="phone_locked_string">Il telefono è bloccato</string>
     <string name="phone_locked_timeout_seconds_string">Prego riprovare tra %s secondi</string>
     <string name="phone_locked_timeout_minutes_string">Prego riprovare tra %s minuti</string>
-    <string name="lockscreen_glogin_submit_button">Accesso</string>
     <string name="phone_locked_foget_password">Password dimenticata?</string>
     <string name="phone_locked_foget_password_header">Cosa devo fare se dimentico la password?</string>
     <string name="phone_locked_foget_password_content">"Puoi acedere su i.mi.com utilizzando il Mi Account associato con questo dispositivo e cancellare tutti i dati. Questa operazione eliminerà tutti i dati personali su questo dispositivo. Successivamente puoi riavviare e ripristinare contatti, messaggi, foto e altri elementi da Mi Cloud. 
@@ -67,6 +60,7 @@ Accedi su i.mi.com, vai su “Find device”, seleziona il dispositivo e premi �
     <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
     <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Devi accedere allo spazio Primario dopo il riavvio del dispositivo</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
     <string name="accessibility_enter_lock_wallpaper">Tocca lo sfondo della schermata di blocco</string>
     <string name="lock_wallpaper_learn_more">Leggi di più ></string>
     <string name="lock_wallpaper_enter">Inserisci</string>

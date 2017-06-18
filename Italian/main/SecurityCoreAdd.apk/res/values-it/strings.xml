@@ -277,4 +277,6 @@ per accedervi dalla schermata di blocco"</string>
     <string name="contact_us">Contattaci</string>
     <string name="space_deleted">Questo spazio è stato eliminato</string>
     <string name="function_not_support">Non supportato in questo spazio</string>
+    <string name="can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
+    <string name="can_not_delete_when_calling">Impossibile eliminare gli spazi durante una chiamata</string>
 </resources>
