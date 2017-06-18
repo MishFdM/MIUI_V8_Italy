@@ -1982,7 +1982,7 @@ se se dimenticata"</string>
     <string name="password_promotion_title">Password di protezione privacy</string>
     <string name="password_forget_pattern_title">Esegui il backup dei tuoi dati</string>
     <string name="password_forget_pattern_message">Esegui localmente il backup dei tuoi dati, poi esegui un ripristino alle condizioni di fabbrica. Dopo sarai in grado di modificare la tua password.</string>
-    <string name="password_forget_pattern_confirm">Backupdei dati</string>
+    <string name="password_forget_pattern_confirm">Backup dei dati</string>
     <string name="password_xspace_forget_pattern_message">Per modificare la password del tuo spazio Secondario, you should delete your current Second space and create a new one.</string>
     <string name="password_promotion_message">App lock verrà aggiornato con la password di protezione privacy. Puoi usare il tuo Mi Account per ripristinarla.</string>
     <string name="password_promotion_button_text">Ho capito</string>
