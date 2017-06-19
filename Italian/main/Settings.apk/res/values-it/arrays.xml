@@ -791,6 +791,14 @@
         <item>Normale</item>
         <item>Qualità migliore</item>
     </string-array>
+	    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Batteria</item>
+        <item>Fotocamera</item>
+        <item>Schermo</item>
+        <item>Risoluzione</item>
+        <item>Android</item>
+    </string-array>
 </resources>
 
 
