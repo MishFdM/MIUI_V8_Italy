@@ -1812,7 +1812,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="card_main_gamebooster_title">Aumento velocità di gioco</string>
     <string name="card_main_gamebooster_summary">"Aumenta la velocità e migliora l'esperienza di gioco"</string>
     <string name="card_main_hbassistant_title">Game Booster</string>
-    <string name="card_main_hbassistant_summary">Utilizza questo strumento ottimizzare la velocità dei giochi</string>
+    <string name="card_main_hbassistant_summary">Utilizza questo strumento per ottimizzare la velocità dei giochi</string>
     <string name="action_button_text_100">Ottimizza</string>
     <string name="action_button_text_80_100">Ottimizza</string>
     <string name="action_button_text_60_80">Ottimizzato</string>
