@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_dualcamera_watermark_title">Filtro doppia camera</string>
+	<string name="portrait_mode_use_hint">Questa modalità consente di sfocare lo sfondo
+con un corpo più chiaro e più bello</string>
+    <string name="groupshot_mode_use_hint">La fotocamera prenderà più foto 
+e poi crea un colpo in cui tutti sembrano migliori.</string>
+</resources>

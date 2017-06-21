@@ -3795,7 +3795,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="upload_debug_log_title">Invia automaticamente dati diagnostici</string>
     <string name="upload_debug_log_summary">"I dati diagnostici possono contenere informazioni sul tuo utilizzo di hardware, sistema operativo e app. I dati verranno utilizzati per localizzare ed analizzare i problemi nel sistema e non verranno utilizzati per identificare l'utente."</string>
     <string name="sound_vibrate_settings">Suoni e vibrazione</string>
-    <string name="my_device">Il mio dispositivo</string>
+    <string name="my_device">Dispositivo</string>
     <string name="device_miui_version">Versione MIUI</string>
     <string name="device_miui_version_update">"E' disponibile un aggiornamento MIUI"</string>
     <string name="rank_title">Classifiche</string>
@@ -4843,8 +4843,8 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
     <string name="fluency_mode_confirm_and_reboot">Riavvia adesso</string>
     <string name="gesture_wakeup_title">Doppio tocco sullo schermo per attivarlo</string>
-    <string name="aod_mode_title">Always on mode</string>
-    <string name="aod_mode_summary">Always show time, date and messages when screen off.</string>
+    <string name="aod_mode_title">Modalità Always on</string>
+    <string name="aod_mode_summary">Mostra ora, data e messaggi a schermo spento.</string>
     <string name="install_no_market_app_title">Fonti sconosciute</string>
     <string name="install_no_market_app_summary">"Consenti l'installazione di app non provenienti dal Play Store"</string>
     <string name="lock_screen_secure_after_timeout_title">Richiesta password</string>
