@@ -669,6 +669,11 @@
         <item>Connetti automaticamente</item>
         <item>Connetti manualmente</item>
     </string-array>
+	    <string-array name="traffic_balance_entries">
+        <item>Chiusa</item>
+        <item>Modalità normale</item>
+        <item>Modalità estrema</item>
+    </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Composizione numero</item>

@@ -4422,7 +4422,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
     <string name="wifi_click_share_wlan">Tocca per condividere la password</string>
     <string name="saved_wifi">Reti salvate</string>
-    <string name="traffic_balance">Intelligent traffic strategy</string>
+    <string name="traffic_balance">Strategia traffico intelligente</string>
     <string name="netcheck_title">Diagnostica di rete</string>
     <string name="main_netcheck_summary">Test di connessione per errori di rete</string>
     <string name="saved_wifi_delete">Elimina</string>
