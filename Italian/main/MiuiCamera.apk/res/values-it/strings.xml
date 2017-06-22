@@ -93,8 +93,8 @@
     <string name="pref_video_focusmode_entry_auto">Tocca</string>
     <string name="pref_camera_flashmode_title">Flash</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
-    <string name="pref_camera_flashmode_entry_on">ON</string>
-    <string name="pref_camera_flashmode_entry_off">OFF</string>
+    <string name="pref_camera_flashmode_entry_on">On</string>
+    <string name="pref_camera_flashmode_entry_off">Off</string>
     <string name="pref_camera_flashmode_entry_torch">Torcia</string>
     <string name="pref_camera_whitebalance_title">Bil. bianco</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -271,6 +271,7 @@
     <string name="pref_camera_show_gender_age_entry_off">Disattivato</string>
     <string name="pref_camera_show_gender_age_entry_on">Mostra età e genere</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostra fascia di età</string>
+	<string name="pref_camera_show_gender_age_label_on">Età e genere</string>
     <string name="face_beauty_age_alias_male_0_7">Uomo 0-7</string>
     <string name="face_beauty_age_alias_male_8_17">Uomo 8-17</string>
     <string name="face_beauty_age_alias_male_18_30">Uomo 18-30</string>
@@ -290,7 +291,7 @@
     <string name="face_beauty_age_alias_45_60">45-60</string>
     <string name="face_beauty_age_alias_60_m">60+</string>
     <string name="simple_mode_button_text_face_beauty">Disattiva Mod. Bellezza</string>
-    <string name="pref_face_beauty_title">Modalità Bellezza</string>
+    <string name="pref_face_beauty_title">Bellezza</string>
     <string name="pref_face_beauty_close">i:0</string>
     <string name="pref_face_beauty_low">i:1</string>
     <string name="pref_face_beauty_medium">i:2</string>
@@ -301,7 +302,7 @@
     <string name="pref_camera_tilt_shift_entry_parallel">Parallelo</string>
     <string name="pref_video_speed_fast_title">Time-lapse</string>
     <string name="pref_video_speed_slow_title">Slow-motion</string>
-    <string name="pref_camera_manual_mode_title">Mod. Manuale</string>
+    <string name="pref_camera_manual_mode_title">Manuale</string>
     <string name="pref_camera_settings">Impostazioni applicazione</string>
     <string name="pref_capture_settings">Impostazioni fotocamera</string>
     <string name="pref_camcorder_settings">Impostazioni videocamera</string>
@@ -357,7 +358,7 @@
     <string name="pref_camera_peak_title">Messa a fuoco Peak</string>
     <string name="pref_camera_peak_entry_off">Disattivato</string>
     <string name="pref_camera_peak_entry_on">Attivato</string>
-    <string name="pref_camera_gradienter_title">Mod. Prospettiva</string>
+    <string name="pref_camera_gradienter_title">Prospettiva</string>
     <string name="simple_mode_button_text_gradienter">Disattiva Mod. Prospettiva</string>
     <string name="confirm_recording_fail_title">Impossibile registrare</string>
     <string name="confirm_recording_fail_calling_alert">Impossibile registrare durante la chiamata</string>
@@ -382,7 +383,7 @@
     <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
     <string name="dual_camera_lowlight_toast">"Sembra che l'ambiente sia troppo buio."</string>
     <string name="dual_camera_lens_covered_toast">"L'obiettivo è coperto".</string>
-    <string name="dual_camera_use_hint">"La modalità Stereo permette di esaltare il soggetto in primo piano.
+    <string name="dual_camera_use_hint">"La modalità Dual Camera permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere più lontano di 2 metri."</string>
     <string name="pref_camera_zoom_mode_title">Lenti</string>
     <string name="pref_camera_zoom_mode_entry_wide">Grandangolo</string>
@@ -398,9 +399,9 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Funzione Bellezza in modalità ritratto</string>
     <string name="pref_camera_square_mode_title">Quadrato</string>
     <string name="simple_mode_button_text_square">Disattiva Quadrato</string>
-    <string name="face_beauty_smart">Intelligente</string>
+    <string name="face_beauty_smart">Smart</string>
     <string name="face_beauty_advanced">Pro</string>
-    <string name="face_beauty_close">Disattivato</string>
+    <string name="face_beauty_close">Off</string>
     <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
     <string name="pref_skin_beautify_slim_title">Sottile</string>
     <string name="pref_skin_beautify_eye_title">Occhi</string>
@@ -415,7 +416,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
     <string name="button_normal_video_title">Video</string>
     <string name="button_fisheye_camera_title">Fish-eye</string>
     <string name="pref_camera_groupshot_mode_title">Foto di Gruppo</string>
-    <string name="simple_mode_button_text_groupshot">Disattiva Foto di Gruppo GroupShot</string>
+    <string name="simple_mode_button_text_groupshot">Disattiva Foto di Gruppo</string>
     <string name="pref_groupshot_with_primitive_title">Salva la prima immagine nella modalità Foto di Gruppo</string>
     <string name="pref_camera_mono_mode_title">Mono</string>
     <string name="simple_mode_button_text_mono">Disattiva Mono</string>
