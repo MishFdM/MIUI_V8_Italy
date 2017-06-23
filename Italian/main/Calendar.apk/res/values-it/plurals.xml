@@ -76,8 +76,8 @@
         <item quantity="one">%1$s giorno</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">%1$s giorni dopo</item>
-        <item quantity="one">%1$s giorno dopo</item>
+        <item quantity="other">- %1$s giorni</item>
+        <item quantity="one">- %1$s giorno</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d giorni lavorativi</item>
