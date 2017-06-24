@@ -286,7 +286,7 @@
     <string name="module_finance">Finanza e Mi Wallet</string>
     <string name="module_more">Altro</string>
     <string name="module_search">Cerca</string>
-    <string name="feedback_submit_hint">Segnalaci unerrore appena lo rilevi, così ci aiuterai a risolverlo più rapidamente.</string>
+    <string name="feedback_submit_hint">Segnalaci un errore appena lo rilevi, così ci aiuterai a risolverlo più rapidamente.</string>
     <string name="toast_post_deleted">Questo argomento non esiste, è stato eliminato o modificato.</string>
     <string name="toast_log_not_exists">Il log richiesto è statoeliminato onon esiste</string>
     <string name="toast_pic_not_exists">Immagine cache eliminata</string>
