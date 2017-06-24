@@ -292,6 +292,6 @@ Impossibile inviare il feedback"</string>
     <string name="provision_no_network_title">Collegatialla rete</string>
     <string name="provision_no_network_extra">Collegati a Wi-Fi o inserisci la tua SIM ed utilizzi la rete mobile per attivar eil dispositivo senza collegarti alla rete."</string>
     <string name="provision_toast_timeout">Connessione scaduta. Verifica le tue impostazioni di rete.</string>
-    <string name="provision_toast_server_error">Impossibile collegarsi al server. Attendi unminuto o due e prova di nuovo.</string>
+    <string name="provision_toast_server_error">Impossibile collegarsi al server. Attendi un minuto o due e prova di nuovo.</string>
     <string name="provision_toast_no_network">Collegati prima alla rete</string>
 </resources>
