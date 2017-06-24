@@ -135,7 +135,7 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="restore_failed">Ripristino fallito!</string>
     <string name="local_select_sysdata">Sistema</string>
     <string name="local_select_userapp">Applicazioni</string>
-    <string name="local_select_account_contact">Account / Contatti</string>
+    <string name="local_select_account_contact">Account/Contatti</string>
     <string name="local_select_files">Scheda SD</string>
     <string name="local_select_image">Immagini</string>
     <string name="local_select_audio">Audio</string>
