@@ -544,7 +544,7 @@
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="mail">Email</string>
     <string name="mail_body_turncated">Email troppo grande per essere caricata, ne verrà visualizzata una parte e potrai leggerla per intero dal PC più tardi</string>
-    <string name="mail_description_content">"E-mail è un client email capace di gestire più  account, supporta l'invio e la ricezione, tag email e fornire funzionalità quali la Modalità Sessione, mail di fatturazione, ordinamentoemail ed altri servizi. Dopo la cancellazione di questa app tuttii dati delle email verranno persi."</string>
+    <string name="mail_description_content">"E-mail è un client email capace di gestire più account, supporta l'invio e la ricezione, tag email e fornisce funzionalità quali la Modalità Sessione, mail di fatturazione, ordinamento email ed altri servizi. Dopo la cancellazione di questa app tutti i dati delle email verranno persi."</string>
     <string name="mail_description_title">Presentazione Email</string>
     <string name="mail_header_network_not_available">Non hai una connessione di rete.</string>
     <string name="mailbox_list_account_selector_combined_view">Visualizzazione combinata</string>
