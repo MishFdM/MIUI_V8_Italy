@@ -47,7 +47,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="cloud_app_no_network">Impossibile collegarsi alla rete</string>
     <string name="button_delete">Elimina</string>
     <string name="customization"><u>Personalizza</u></string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="self_phone">Questo dispositivo</string>
     <string name="process_whole_recovery">Ripristino di \"%s\"</string>
     <string name="device_xiaomi">Dispositivo Mi</string>

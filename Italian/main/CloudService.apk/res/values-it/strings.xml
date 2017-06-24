@@ -16,7 +16,6 @@
     <string name="search_cloudbackup_pref_desc">Attiva/disattiva il backup cloud</string>
     <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/BACKUP E RIPRISTINO</string>
     <string name="app_name">Mi Cloud</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="sync_item_sms_title">Sincronizza messaggi</string>
     <string name="sync_item_sms_summary">Attiva dopo che i messaggi sono stati sincronizzati</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizza MMS solo con Wi-Fi</string>

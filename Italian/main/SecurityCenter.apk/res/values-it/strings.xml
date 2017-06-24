@@ -290,7 +290,6 @@
     <string name="note">Note</string>
     <string name="antispam_xpace_text">Si prega di passare allo spazio amministratore per le impostazioni antispam</string>
     <string name="antispam_mode_details">Dettagli lista blocco</string>
-    <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
     <string name="cta_dialog_title">Termini e Condizioni</string>
     <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza MIUI. Per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati. Continuare?"</string>
     <string name="cta_checkbox_title">Non chiedere più</string>

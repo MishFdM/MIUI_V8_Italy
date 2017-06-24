@@ -230,8 +230,6 @@
     <string name="search_statistic_keyword">keyin</string>
     <string name="search_statistic_appname">fonte</string>
     <string name="search_statistic_tag">tag</string>
-    <string name="search_statistic_match_valid">1</string>
-    <string name="search_statistic_match_invalid">0</string>
     <string name="rlv_pull_to_refresh">Tira per aggiornare</string>
     <string name="rlv_release_to_refresh">Rilascia per aggiornare</string>
     <string name="rlv_refreshing">Scansione file…</string>

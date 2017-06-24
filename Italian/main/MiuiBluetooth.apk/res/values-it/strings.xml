@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ble_profile_1">ble_profile_mi_band</string>
-    <string name="ble_profile_2">ble_profile_mi_key</string>
     <string name="app_name">MIUI Bluetooth</string>
     <string name="device_picker">Impostazioni dispositivo bluetooth</string>
     <string name="bluetooth_preference_scan_title">Ricerca dispositivi</string>

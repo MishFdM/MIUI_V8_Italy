@@ -392,8 +392,6 @@
     <string name="drawer_open">Apri pannello di navigazione</string>
     <string name="due">Scadenza</string>
     <string name="due_date_text">Pagamento finale</string>
-    <string name="eas_hotmail_email">hotmail.com</string>
-    <string name="eas_outlook_email">outlook.com</string>
     <string name="edit_quick_response_dialog">Risposta veloce</string>
     <string name="elided_padding_token"> </string>
     <string name="email_address">Indirizzo email</string>
@@ -1060,7 +1058,6 @@ Interrompere adesso?"</string>
     <string name="wait_for_manual_sync_body">"Questo account non è impostato per la sincronizzazione automatica.
 Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modifica impostazioni di sincronizzazione</b> per impostare questo account per la sincronizzazione automatica.</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
-    <string name="wait_help_context">attendi</string>
     <string name="webview_logout">Puoi provare ad accedere di nuovo</string>
     <string name="webview_logout_cancel">Non adesso</string>
     <string name="webview_logout_sure">Prova di nuovo</string>

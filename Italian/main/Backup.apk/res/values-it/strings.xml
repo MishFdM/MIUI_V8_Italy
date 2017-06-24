@@ -213,7 +213,6 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="restore_data">Ripristina dati</string>
     <string name="backup_data">Backup dati</string>
     <string name="sd_not_available">Nessuna scheda SD rilevata</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="never">Mai</string>
     <string name="every_day">Tutti i giorni</string>
     <string name="select_storage_location">Seleziona destinazione backup</string>
@@ -227,7 +226,6 @@ Dimensione aggiornamento delta: %2$s"</string>
     <string name="file_uploading">Caricamento…</string>
     <string name="new_backup">Backup</string>
     <string name="restore_backup">Ripristina</string>
-    <string name="digit_percent">%</string>
     <string name="state_waiting">Solo un attimo…</string>
     <string name="state_mounting">Accesso alla memoria del router…</string>
     <string name="abort_backup_confirm">Backup non completato. Interrompere comunque?</string>

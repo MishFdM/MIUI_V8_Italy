@@ -351,7 +351,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
     <string name="vcard_export_will_start_message">La vCard %s verrà esportata a breve.</string>
     <string name="vcard_export_request_rejected_message">Richiesta esportazione vCard rifiutata. Riprova più tardi.</string>
     <string name="vcard_unknown_filename">contatto</string>
-    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">Esportare contatti?</string>
     <string name="confirm_export_message">"L'elenco dei contatti verrà esportato nel file: %s."</string>
     <string name="exporting_contact_failed_title">Impossibile esportare</string>
@@ -1104,7 +1103,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="device_import_local_account">Account locale</string>
     <string name="import_name">Nome</string>
     <string name="import_percent">0%</string>
-    <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">"Controlla l'altro dispositivo"</string>

@@ -89,7 +89,6 @@
     <string name="button_start_now">Download</string>
     <string name="notification_title_all_paused">Download in pausa</string>
     <string name="notification_message_all_paused">"Potrebbe aumentare l'utilizzo dei dati su rete cellulare."</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="data_connection_title">Avviso utilizzo dati</string>
     <string name="data_connection_body">"L'utilizzo della rete dati cellulare per il download di questo file aumenterà il consumo dei dati. Se superi il limite previsto dal piano dell tuo operatore potresti andare incontro a costi aggiuntivi."</string>
     <string name="data_connection_button_text">OK</string>
