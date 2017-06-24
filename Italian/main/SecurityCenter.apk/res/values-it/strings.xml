@@ -411,8 +411,6 @@ dall'operatore"</string>
     <string name="pref_free_traffic_limit_warn">Avviso utilizzo dati fuori soglia</string>
     <string name="pref_special_traffic_exceed_limit">"Avvisami quando l'utilizzo dei dati raggiunge il limite"</string>
     <string name="pref_special_traffic_limit_warn">Imposta un avviso di utilizzo dati</string>
-    <string name="pref_connect_settings_enable_background">Consenti dati in background</string>
-    <string name="pref_connect_settings_enable_background_hint">Consenti alle app in background di utilizzare la rete dati mobile</string>
     <string name="pref_category_title_other">Impostazioni aggiuntive</string>
     <string name="pref_title_update_notification">Mostra utilizzo dati tra le notifiche</string>
     <string name="pref_title_diagnostics_show_float_notification">Notifiche flottanti</string>
@@ -523,8 +521,6 @@ dall'operatore"</string>
     <string name="data_usage_disabled_dialog">"Hai raggiunto il limite previsto dal tuo piano dati. Superato questo limite
  l'operatore potrebbe addebitartene i costi."</string>
     <string name="data_usage_disabled_dialog_enable">Attiva i dati</string>
-    <string name="data_usage_restricted_title">Dati in background limitati</string>
-    <string name="data_usage_restricted_body">Tocca per attivare i dati in background.</string>
     <string name="data_usage_leisure_warning_title">Limite utilizzo dati oltre soglia</string>
     <string name="data_usage_leisure_warning_body">Tocca per vedere il dettagli di utilizzo dati.</string>
     <string name="data_usage_correction_timeout_title">Sincronizzazione utilizzo dati scaduta</string>

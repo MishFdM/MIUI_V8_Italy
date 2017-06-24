@@ -34,13 +34,13 @@
     <string name="download_title">Download (%s)</string>
     <string name="uncrypt_title">Decrittazione (%s)</string>
     <string name="apply_title">Aggiornamento (%s)</string>
-    <string name="timer_title">Il dispositivo si riavvierà tra %d secondi.</string>
     <string name="progress_title_checking">Cerco aggiornamenti…</string>
     <string name="menu_more_button">Menu</string>
     <string name="menu_title_download_current_rom">Scarica pacchetto di aggiornamento</string>
     <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
     <string name="menu_title_recovery">Riavvia in Recovery</string>
     <string name="menu_title_current_version_log">Riepilogo aggiornamento</string>
+    <string name="menu_title_apply_for_alpha">Accedi al programma di beta testing</string>
     <string name="install_file_explorer">Installa prima un File Explorer</string>
     <string name="check_update_policy">Verifica impostazioni di aggiornamento</string>
     <string name="check_update_when_wifi_available">Cerca aggiornamenti usando solo Wi-Fi</string>
@@ -96,6 +96,7 @@
     <string name="recovery_power_not_enough_title">Batteria scarica</string>
     <string name="recovery_power_not_enough_msg">Collega ad un caricabatterie se la batteria è inferiore al 30%</string>
     <string name="recovery_power_not_enough_msg_plugged">La batteria deve essere superiore al 30% per poter aggiornare il dispositivo</string>
+    <string name="recovery_power_plugged_warning">"Accertati che il carica batteria resti collegato al dispositivo per tutto l'aggiornamento"</string>
     <string name="recovery_failed_msg">"Il dispositivo non ha sufficiente memoria per entrare in modalità Recovery ed aggiornare il sistema. Prova ad utilizzare Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>
@@ -253,6 +254,12 @@ Prova ad accedere di nuovo col tuo Mi Account."</string>
     <string name="vote_error5">"Si è verificato un errore.
 Impossibile inviare il feedback"</string>
     <string name="miui_BBS">" "<a href="http://www.miui.it/forum">Vai sul forum di MIUI Italia</a>" "</string>
+    <string name="alpha_apply">Accedi al programma di beta testing</string>
+    <string name="alpha_cancel">Esci dal programma di beta testing</string>
+    <string name="alpha_cancel_confirm">Uscire adesso?</string>
+    <string name="alpha_cancel_ok">OK</string>
+    <string name="alpha_cancel_cancel">Annulla</string>
+    <string name="alpha_no_network">Collegati alla rete per accedere</string>
     <string name="pm_root_acquired_button">Accesso root</string>
     <string name="pm_root_acquired_rooting">Accesso root %s</string>
     <string name="pm_root_acquired_notification_title">Accesso root</string>
@@ -277,4 +284,14 @@ Impossibile inviare il feedback"</string>
     <string name="sogou_uninstall_msg">Tastiera Sogou (Mi Edition) non è compatibile con MIUI 8. Cambia tastiera o aggiorna ad una versione più recente di Sogou.</string>
     <string name="sogou_uninstall_positive_button">Cambia tastiera</string>
     <string name="sogou_uninstall_negative_button">Aggiorna Sogou</string>
+    <string name="provision_activate_device">Attivazione dispositivo…</string>
+    <string name="provision_connect_wifi">Connessione a Wi-Fi</string>
+    <string name="provision_retry">Prova di nuovo</string>
+    <string name="provision_check_sim">Verifica SIM</string>
+    <string name="provision_have_sim">SIM inserita</string>
+    <string name="provision_no_network_title">Collegatialla rete</string>
+    <string name="provision_no_network_extra">Collegati a Wi-Fi o inserisci la tua SIM ed utilizzi la rete mobile per attivar eil dispositivo senza collegarti alla rete."</string>
+    <string name="provision_toast_timeout">Connessione scaduta. Verifica le tue impostazioni di rete.</string>
+    <string name="provision_toast_server_error">Impossibile collegarsi al server. Attendi unminuto o due e prova di nuovo.</string>
+    <string name="provision_toast_no_network">Collegati prima alla rete</string>
 </resources>

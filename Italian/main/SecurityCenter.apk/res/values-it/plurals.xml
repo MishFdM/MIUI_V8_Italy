@@ -205,6 +205,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Sembra tutto OK</item>
         <item quantity="one">Sembra tutto OK</item>
     </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">App pericolose: %d</item>
+        <item quantity="one">App pericolosa: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojan: %d</item>
+        <item quantity="one">Trojan: %d</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d app contengono minacce per la privacy</item>
         <item quantity="one">%d app contiene minacce per la privacy</item>

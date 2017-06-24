@@ -185,12 +185,6 @@
     <string name="apps_sort_type_title">Ordina</string>
     <string name="apps_sort_type_item_time">"Frequenza d'uso"</string>
     <string name="apps_sort_type_item_size">Dimensione</string>
-    <string name="hints_install_apps_today">Usata oggi</string>
-    <string name="hints_install_apps_interval">Usata %d giorni fa</string>
-    <string name="hints_install_apps_else">Usata %s</string>
-    <string name="hints_install_apps_new">Mai usata</string>
-    <string name="hints_install_apps_virus">Virus rilevato</string>
-    <string name="hints_install_apps_risk">Rischio rilevato</string>
     <string name="dialog_title_uninstall_apps">Disinstalla</string>
     <string name="dialog_title_backup_and_uninstall_apps">Backup e disinstallazione</string>
     <string name="dialog_msg_uninstall_apps">Disinstallare queste app?</string>
@@ -478,4 +472,8 @@
     <string name="app_usage_recently">Usato di recente</string>
     <string name="resutl_function_deep_clean_summary">" altri %1$s file posso essere eliminati. Libera altro spazio. "</string>
     <string name="resutl_function_wechat_clean_summary">" %1$s di cache WeChat. Libera altro spazio. "</string>
+    <string name="engine_tm">Tencent</string>
+    <string name="engine_cm">Clean Master</string>
+    <string name="app_description_title">Informazioni</string>
+    <string name="app_description_content">"L'app Pulizia trova ed elimina i file inutili per liberare spazio. Assicurati di poter fare a meno di queste funzioni prima di eliminare l'app."</string>
 </resources>

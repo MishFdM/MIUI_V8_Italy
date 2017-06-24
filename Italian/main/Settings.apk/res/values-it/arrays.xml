@@ -251,6 +251,20 @@
         <item>attiva VPN</item>
         <item>cambia wi-fi</item>
         <item>cambia bluetooth</item>
+        <item>assisti screenshot</item>
+        <item>leggi lo stato del telefono</item>
+        <item>aggiungi voicemail</item>
+        <item>utilizza sip</item>
+        <item>processa chiamata in uscita</item>
+        <item>impronta digitale</item>
+        <item>sensori del corpo</item>
+        <item>leggi trasmissione cella</item>
+        <item>posizione fittizia</item>
+        <item>leggi archivio</item>
+        <item>scrivi archivio</item>
+        <item>attiva schermo</item>
+        <item>recupera account</item>
+        <item>esegui in background</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Posizione</item>
@@ -303,6 +317,20 @@
         <item>Attiva VPN</item>
         <item>Cambia wlan</item>
         <item>Cambia bluetooth</item>
+        <item>assisti screenshot</item>
+        <item>leggi lo stato del telefono</item>
+        <item>aggiungi voicemail</item>
+        <item>utilizza sip</item>
+        <item>processa chiamata in uscita</item>
+        <item>impronta digitale</item>
+        <item>sensori del corpo</item>
+        <item>leggi trasmissione cella</item>
+        <item>posizione fittizia</item>
+        <item>leggi archivio</item>
+        <item>scrivi archivio</item>
+        <item>attiva schermo</item>
+        <item>recupera account</item>
+        <item>esegui in background</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Breve</item>
