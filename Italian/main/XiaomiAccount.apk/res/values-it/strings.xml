@@ -163,7 +163,7 @@ Per attivare il tuo account, segui il
     <string name="search_user_detail_top_key_words">Informazioni personali,Modifica immagine profilo,Cambia nome utente,Cambia Nick,Modifica compleanno,Modifica genere</string>
     <string name="search_user_detail_bottom_key_words">Modifica telefono,Modifica Email,Modifica Introiti,Modifica scuola,Modifica posizione,Modifica regione</string>
     <string name="search_user_detail_desc">Informazioni personali</string>
-    <string name="search_user_detail_path">Mi Account/Informazioni personali,Settings/Mi Account/Informazioni personali</string>
+    <string name="search_user_detail_path">Mi Account/Informazioni personali</string>
     <string name="search_account_security">Sicurezza account</string>
     <string name="search_account_security_key_words">MOdifica Telefono,Modifica Email,Protezione account,Account,Sina Weibo,QQ,Autorizzazione,Dispositivi</string>
     <string name="search_account_security_desc">Impostazioni account</string>
