@@ -274,7 +274,7 @@ Per attivare il tuo account, segui il
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="update_email_address_dialog_title">Aggiorna Email</string>
     <string name="update_email_address_dialog_message">Devi verificare la tua identità prima di aggiornare la tua email.</string>
-    <string name="account_user_info">Informazioni utente</string>
+    <string name="account_user_details">Informazioni utente</string>
     <string name="account_security">Sicurezza account</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">Servizi</string>
