@@ -252,7 +252,7 @@
     <string name="change_folders_selection_dialog_title">Cambia cartelle</string>
     <string name="change_sync_settings">Modifica impostazioni di sincronizzazione</string>
     <string name="changepw_dialog_tips">Inserisci di nuovo la password per %s</string>
-     <string name="changepw_dialog_tips_please_clikc_btn">Controlla il codice di verifica di %s eaccedi di nuovo</string>
+     <string name="changepw_dialog_tips_please_clikc_btn">Controlla il codice di verifica di %s ed accedi di nuovo</string>
     <string name="chat_item_msg_people_unit">persone</string>
     <string name="chat_item_msg_user_etc">…</string>
     <string name="check_setup_data">Validazione impostazioni server…</string>
