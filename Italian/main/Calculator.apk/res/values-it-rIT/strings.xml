@@ -10,7 +10,7 @@
     <string name="global_search_key_length_convertion">Lunghezza;Convertitore Lunghezza;Conversione Lunghezza</string>
     <string name="global_search_key_area_convertion">Area;Convertitore di Area;Conversione Area</string>
     <string name="global_search_key_volume_convertion">Unità conversione Volume;Conversione avolume;Convertitore Volume</string>
-    <string name="global_search_key_temperature_convertion">Unità conversione Velocità;Conversione Temperatura;Convertitore Temperatura;Fahrenheit;Celsius;Centigradi</string>
+    <string name="global_search_key_temperature_convertion">Unità conversione Temperatura;Conversione Temperatura;Convertitore Temperatura;Fahrenheit;Celsius;Centigradi</string>
     <string name="global_search_key_speed_convertion">Unità conversione Velocità;Conversione Velocità;Conversione Velocità;Convertitore Velocità;Velocità;Velocità</string>
     <string name="global_search_key_date_convertion">Convertitore tempo;Unità tempo;Conversione tempo;Tempo</string>
     <string name="global_search_key_weight_convertion">Unità conversione peso;Conversione peso;Convertitore peso;Kili;Kg;Kilogrammi;Pound;Pounds;lbs</string>
