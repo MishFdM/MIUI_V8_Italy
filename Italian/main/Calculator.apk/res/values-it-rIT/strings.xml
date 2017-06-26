@@ -2,7 +2,7 @@
 <resources>
     <string name="golbal_search_path_calculator_setting">App di sistema/Calcolatrice/Impostazioni</string>
     <string name="golbal_search_calculator_setting">Calcolatrice;Impostazioni Calcolatrice;Impostazioni</string>
-    <string name="global_search_key_calculation">Calcola;Calcolatrice;Unità di conversione;Convertitore;Comvertitore di unità</string>
+    <string name="global_search_key_calculation">Calcola;Calcolatrice;Unità di conversione;Convertitore;Convertitore di unità</string>
     <string name="global_search_key_exchange_rate">Exchange rate;Exchange rate conversion;Currency converter;Currency;Exchange rates</string>
     <string name="global_search_key_mortgage">Mortgage calculation;Mortgage Calculator;Mortgage</string>
     <string name="global_search_key_personal_tax">Tassa di reddito individuale;Dopotassa reddito;Calcolatrice tassa;Tassa di reddito personale;Calcolo reddito;Calcolo dopotassa reddito;Tassa reddito personale;Tassa;Tasse</string>
