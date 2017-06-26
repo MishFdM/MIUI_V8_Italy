@@ -119,8 +119,8 @@
     <string name="show_system_app">Mostra app di sistema</string>
     <string name="hide_system_app">Nascondi app di sistema</string>
     <string name="scenario_policies_title">Termini risparmio </string>
-    <string name="config_scenario_policies_title">Scene</string>
-    <string name="scenario_policies_summary">Risparmio in base alla scena</string>
+    <string name="config_scenario_policies_title">Scenari</string>
+    <string name="scenario_policies_summary">Risparmio in base agli scenari</string>
     <string name="sleep_config_enhance_title">Attivato</string>
     <string name="sleep_config_enhance_description">MIUI migliorerà il risparmio batteria notturno</string>
     <string name="vip_feedback">Feedback VIP</string>
