@@ -5068,13 +5068,13 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="privacy_password">Password di protezione privacy</string>
     <string name="msim_sim_radio_off">Disattivo</string>
     <string name="forbidden_switch_apn_string">"Le impostazioni APN selezionate non coincidono con il tipo di rete in uso"</string>
-    <string name="backtouch_enable_title">Adjust volume on the back cover</string>
+    <string name="backtouch_enable_title">Regola il volume della cover posteriore</string>
     <string name="resetting_second_space_passwd">Reimpostazione password spazio Secondario</string>
     <string name="reset_second_space_passwd">Reimpostazione password spazio Secondario</string>
     <string name="reset_second_space_passwd_detail">Inserisci la password del  Mi Account utilizzata nello spazio Primario</string>
     <string name="reset_second_space_passwd_confirm">Continua</string>
     <string name="reset_second_space_passwd_cancel">Annulla</string>
-    <string name="edge_touch_volume">Adjust volume on the Edge Touch</string>
+    <string name="edge_touch_volume">Regola il volume con i Bordi touch</string>
     <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
     <string name="keywords_airplane">Airplane;Airplane mode;Aeroplane;Aeroplane mode;Flight;Flight mode</string>
     <string name="keywords_do_not_disturb">DND;DND mode;Do not disturb;Sleep;Night;Busy</string>
