@@ -5087,7 +5087,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="keywords_torch">Flashlight;Torcia</string>
     <string name="keywords_sync">Sync;Sincronizzazione;Cloud</string>
     <string name="keywords_paper_mode">Flux;Leggere;Modalità lettura;Luce blu;Protezione occhi</string>
-    <string name="keywords_quick_ball">Assistente touch;shortcut;shortcuts;toggles;toggle</string>
+    <string name="keywords_quick_ball">Assistente Touch;shortcut;shortcuts;toggles;toggle</string>
     <string name="storage_wizard_format_confirm_third_body">Il ^1 è stato formattato</string>
     <string name="http_invoke_app">App web</string>
     <string name="http_invoke_app_summary">Apri le app più velocemente senza installarle</string>
