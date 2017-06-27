@@ -2,7 +2,6 @@
 <resources>
     <string name="wifi_fail_to_scan">Impossibile scansionare reti</string>
     <string name="wifi_security_none">None</string>
-
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_remembered">Salvato</string>
     <string name="wifi_disabled_generic">Disattivato</string>
