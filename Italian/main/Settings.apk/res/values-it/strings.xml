@@ -5071,7 +5071,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="backtouch_enable_title">Regola il volume della cover posteriore</string>
     <string name="resetting_second_space_passwd">Reimpostazione password spazio Secondario</string>
     <string name="reset_second_space_passwd">Reimpostazione password spazio Secondario</string>
-    <string name="reset_second_space_passwd_detail">Inserisci la password del  Mi Account utilizzata nello spazio Primario</string>
+    <string name="reset_second_space_passwd_detail">Inserisci la password del Mi Account utilizzata nello spazio Primario</string>
     <string name="reset_second_space_passwd_confirm">Continua</string>
     <string name="reset_second_space_passwd_cancel">Annulla</string>
     <string name="edge_touch_volume">Regola il volume con i Bordi touch</string>
