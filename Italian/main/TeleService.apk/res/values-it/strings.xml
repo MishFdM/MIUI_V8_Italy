@@ -1149,7 +1149,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="path_call_record_auto_title">Chiamate/Registra automaticamente</string>
     <string name="path_turnover_mute_title">Chiamate/Impostazioni chiamate in arrivo/Capovolgi per silenziare la suoneria</string>
     <string name="path_handon_ringer_title">Chiamate/Impostazioni chiamate in arrivo/Non vibrare</string>
-    <string name="path_crescendo_ringer_title">System apps/Phone/Incoming call settings/Increasing ringtone volume</string>
+    <string name="path_crescendo_ringer_title">App di sistema/Telefono/Impostazioni chiamata in arrivo/Incremento volume suoneria</string>
     <string name="path_flash_when_ring_title">Chiamate/Impostazioni chiamate in arrivo/Lampeggia su chiamata</string>
     <string name="path_enable_proximity_title">Chiamate/Impostazioni chiamate in arrivo/Sensore di prossimità</string>
     <string name="path_enable_antispam_strange_title">Chiamate/Impostazioni chiamate in arrivo/Silenzia numeri sconosciuti</string>
@@ -1170,7 +1170,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="path_dtmf_tones_title">Applicazioni di sistema/Chiamate/Impostazioni avanzate/Toni DTMF</string>
     <string name="path_t9_indexing_method_title">Applicazioni di sistema/Chiamate/Impostazioni avanzate/Inserimento ricerca T9</string>
     <string name="path_call_background_setting_name">Applicazioni di sistema/Chiamate/Impostazioni avanzate/Sfondo chiamata</string>
-    <string name="path_auto_retry_mode_title">System apps/Phone/Advanced settings/Auto-retry</string>
+    <string name="path_auto_retry_mode_title">App di sistema/Telefono/Impostazioni avanzate/Auto-retry</string>
     <string name="back">Indietro</string>
     <string name="sim_card_num">SIM %s</string>
     <string name="delete">Elimina</string>
