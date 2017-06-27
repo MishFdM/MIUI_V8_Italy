@@ -118,7 +118,7 @@
     <string name="disable_hide_mode_warning">La disattivazione di Risparmio Batteria MIUI potrebbe causare maggiori consumi</string>
     <string name="show_system_app">Mostra app di sistema</string>
     <string name="hide_system_app">Nascondi app di sistema</string>
-    <string name="scenario_policies_title">Termini di risparmio</string>
+    <string name="scenario_policies_title">Modalità di risparmio</string>
     <string name="config_scenario_policies_title">Scenari</string>
     <string name="scenario_policies_summary">Risparmio in base agli scenari</string>
     <string name="sleep_config_enhance_title">Attivato</string>
