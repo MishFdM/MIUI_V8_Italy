@@ -1093,7 +1093,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="voicemail_set_pin_dialog_title">Set PIN</string>
     <string name="voicemail_change_pin_dialog_title">Change PIN</string>
     <string name="voicemail_notification_ringtone_title">Suona</string>
-    <string name="voicemail_notification_vibrate_when_default">never</string>
     <string name="preference_category_ringtone">Suoneria e vibrazione</string>
     <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="pstn_connection_service_label">Built-in SIM</string>
