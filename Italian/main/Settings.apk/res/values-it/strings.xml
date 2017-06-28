@@ -254,8 +254,8 @@
  This feature is alpha, and may not work correctly.
  Press 'Wipe and convert…' to continue."</string>
     <string name="button_convert_fbe">Wipe and convert…</string>
-    <string name="picture_color_mode">Picture color mode</string>
-    <string name="picture_color_mode_desc">Use sRGB</string>
+    <string name="picture_color_mode">Modalità colore immagine</string>
+    <string name="picture_color_mode_desc">Utilizza sRGB</string>
     <string name="daltonizer_mode_disabled">Disattivato</string>
     <string name="daltonizer_mode_monochromacy">Monocromia</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rosso-verde)</string>
