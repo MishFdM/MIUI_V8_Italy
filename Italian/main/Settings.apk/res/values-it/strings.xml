@@ -3432,10 +3432,10 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="battery_saver_desc_turn_on_auto_pct">Turn on automatically at %1$s battery</string>
     <string name="not_battery_optimizing">Not using battery optimization</string>
     <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
-    <string name="default_spell_checker">Default spell checker</string>
-    <string name="choose_spell_checker">Choose spell checker</string>
-    <string name="spell_checker_not_selected">Not selected</string>
-    <string name="notification_log_no_title">(none)</string>
+    <string name="default_spell_checker">Controllo ortografico predefinito</string>
+    <string name="choose_spell_checker">Scegli controllo ortografico</string>
+    <string name="spell_checker_not_selected">Non selezionato</string>
+    <string name="notification_log_no_title">(nessuno)</string>
     <string name="notification_log_details_delimiter">": "</string>
     <string name="notification_log_details_package">pkg</string>
     <string name="notification_log_details_key">key</string>
