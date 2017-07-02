@@ -5032,6 +5032,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="security_encryption_progress_dialog_open">Crittografa…</string>
     <string name="security_encryption_progress_dialog_close">Decripta…</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Tocca per modificare</string>
+    <string name="encryption_progress_summary">Crittografia in corso, non riavviare il dispositivo.</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_skip">Salta</string>
     <string name="permission_settings_title">Permessi app</string>
@@ -5092,6 +5093,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="http_invoke_app">App web</string>
     <string name="http_invoke_app_summary">Apri le app più velocemente senza installarle</string>
     <string name="user_settings_forbidden">Impossibile cambiare impostazioni di amministratore dallo spazio corrente. Torna allo spazio Primario.</string>
+    <string name="owner_space">Spazio primario</string>
     <string name="keyguard_shortcut_title">Collegamenti</string>
     <string name="keyguard_shortcut_summary">Imposta i collegamenti per 2 app sulla Schermata di blocco</string>
     <string name="keyguard_left_function_title">Sinistro</string>
@@ -5247,7 +5249,5 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="music_dolby_mode_off">Disattivato</string>
     <string name="music_dolby_mode_music">Musica</string>
     <string name="music_dolby_mode_movie">Film</string>
-    <string name="music_notification_headset_settings">Cuffie collegate</string>
-    <string name="music_notification_headset_info">Tocca per vedere le impostazioni.</string>
-    <string name="music_notification_headset_custom">Annulla</string>
+    <string name="music_app_unavailable">"Dipende dall'app Musica,assicurati che sia disponibile"</string>
 </resources>

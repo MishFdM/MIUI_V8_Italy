@@ -116,6 +116,7 @@
     <string name="add_anniversary">Aggiungi anniversario</string>
     <string name="add_countdown">Aggiungi conto alla rovescia</string>
     <string name="add_event">Aggiungi evento</string>
+    <string name="agenda_month_empty_hint">Nessun evento oggi</string>
     <string name="alarm_label">OK</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Scaduto</string>
@@ -248,6 +249,7 @@
     <string name="insert_event_toast_add_success">Evento creato</string>
     <string name="item_num_selected">%1$d selezionato</string>
     <string name="jump_date_full">Vai al giorno</string>
+    <string name="load_more_hint">Aggiorna gli eventi di %1$d</string>
     <string name="local_calendar_display_name">Calendario locale</string>
     <string name="local_owner_account_name">Account locale</string>
     <string name="lunar_date">Data lunare</string>
@@ -269,6 +271,7 @@
     <string name="month_medium_september">Set</string>
     <string name="network_not_available">Impossibile collegarsi alla rete</string>
     <string name="no_contact_birthday_hint">Nessun compleanno importato</string>
+    <string name="no_events_hint">Nessun evento</string>
     <string name="no_network">"Impossibile collegarsi alla rete.
 Controlla le impostazioni di rete pe prova di nuovo."</string>
     <string name="no_network_btn">Riprova</string>
@@ -305,7 +308,9 @@ Controlla le impostazioni di rete pe prova di nuovo."</string>
     <string name="preferences_alerts_vibrate_title">Vibrazione e suoneria</string>
     <string name="preferences_default_allday_reminder_title">Orario promemoria per tutti i giorni</string>
     <string name="preferences_notification_ringtone_title">Suoni</string>
+    <string name="pull_to_refresh_hint">Trascina per aggiornare gli eventi di %1$d</string>
     <string name="refresh">Aggiorna</string>
+    <string name="refreshing_hint">Aggiornamento</string>
     <string name="repeat_activity_label">Ripeti</string>
     <string name="repeat_custom_activity_label">Personalizza</string>
     <string name="repeat_custom_prompt">ogni %1$s alle %2$s</string>

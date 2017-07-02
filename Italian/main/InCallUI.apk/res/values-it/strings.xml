@@ -136,6 +136,7 @@
     <string name="waiting_close_airplane_mode">Solo un attimo…</string>
     <string name="unlock_phone">Sblocca dispositivo</string>
     <string name="remind_unlock_message">Il tuo dispositivo è stato bloccato. \"%s\" sarà di nuovo disponibile dopo lo sblocco del dispositivo. Sbloccare adesso?</string>
+    <string name="user_locked_prompt">Sblocca il dispositivo per accedere ai contatti.</string>
     <string name="select_voice_call_sim">Scegli SIM</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">Impossibile utilizzare la SIM %2$d mentre la SIM %1$d è in uso.</string>

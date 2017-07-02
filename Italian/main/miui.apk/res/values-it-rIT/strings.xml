@@ -584,4 +584,6 @@
     <string name="webview_reload">Riprova</string>
     <string name="hybrid_provider">Pagina web fornita da %1$s .</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
+    <string name="immersion_button_close_description">chiudi</string>
+    <string name="search_input_description">cerca</string>
 </resources>

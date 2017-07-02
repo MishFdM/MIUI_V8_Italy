@@ -53,6 +53,7 @@
     <string name="view">Visualizza</string>
     <string name="replace">Sostituisci</string>
     <string name="remove">Rimuovi</string>
+    <string name="fail_to_view_attachment">allegato non disponibile</string>
     <string name="send">Invia</string>
     <string name="mms">MMS</string>
     <string name="type_to_compose_text_enter_to_send">Scrivi messaggio</string>
@@ -258,12 +259,10 @@
     <string name="add_contact">vCard</string>
     <string name="no_delivery_report">Nessun rapporto di consegna</string>
     <string name="me">Io</string>
-    <string name="to_count">%d contatti</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="new_message_arrived">Nuovo messaggio ricevuto</string>
     <string name="festival_sms_loading">Caricamento…</string>
     <string name="send_to">A:</string>
-    <string name="send_to_count">Messaggi inviati: %1$s</string>
     <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="message_received">Ricevuto</string>
     <string name="message_failed">Fallito</string>
@@ -274,7 +273,6 @@
     <string name="resent_message">Reinvia</string>
     <string name="group_resend_message">Reinvio (%d)</string>
     <string name="nosend_message">Non inviato</string>
-    <string name="group_message_failed_title">Invio fallito a %d contatti, riprovare?</string>
     <string name="context_menu_view_mms">Leggi MMS</string>
     <string name="context_menu_call">Chiama</string>
     <string name="context_menu_send_sms">Invia Messaggio</string>
@@ -350,10 +348,8 @@
     <string name="to_send_wrapper">Sarà inviato alle %s</string>
     <string name="group_message">Messaggio di Gruppo</string>
     <string name="close">Chiudi</string>
-    <string name="timed_message_expired_title">%d messaggio(i) programmati non inviato(i)</string>
     <string name="timed_message_expired_title_2">Vuoi inviarli adesso?</string>
     <string name="timed_message_to">a</string>
-    <string name="timed_message_in_total">… (%d in totale)</string>
     <string name="processing">Elaborazione…</string>
     <string name="mx_msg">Mi Message</string>
     <string name="mx_msg_pageview_setting_title">Impostazioni Mi Message</string>
@@ -479,9 +475,6 @@
     <string name="title_show_list_avatar">Mostra foto e info</string>
     <string name="pref_show_list_avatar_summary">Visualizza foto ed altre informazioni di contatto nella lista</string>
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
-    <string name="sp_mark_as_read">Segnare tutti i messaggi come già letti?</string>
-    <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso…</string>
-    <string name="sp_mark_as_read_menu_title">Segna come letto</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">Messaggi di tutti i servizi</string>
     <string name="sp_category_bank">Messaggi dei servizi bancari</string>
