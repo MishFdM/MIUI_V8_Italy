@@ -1708,7 +1708,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="antivirus_longtime_no_update1">Sembra che le definizioni dei virus siano vecchie. Aggiornamenti regolari aiutano ad ottenere scansioni migliori. Aggiorna le definizioni e prova di nuovo.</string>
     <string name="antivirus_sec_network_unavailable">"L'app sicurezza non può aggiornata perché hai limitato la connessione internet. Consentire a Sicurezza di accedere ad internet?"</string>
     <string name="antivirus_update_btn_contiue">Continua</string>
-    <string name="antivirus_update_btn_open">Conseni</string>
+    <string name="antivirus_update_btn_open">Consenti</string>
     <string name="antivirus_update_btn_update">Aggiorna</string>
     <string name="antivirus_toast_updating">Aggiornaemnto...</string>
     <string name="antivirus_toast_update_success">Aggiornato correttamente</string>
