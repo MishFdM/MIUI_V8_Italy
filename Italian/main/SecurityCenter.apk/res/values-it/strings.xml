@@ -1710,7 +1710,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="antivirus_update_btn_contiue">Continua</string>
     <string name="antivirus_update_btn_open">Consenti</string>
     <string name="antivirus_update_btn_update">Aggiorna</string>
-    <string name="antivirus_toast_updating">Aggiornaemnto...</string>
+    <string name="antivirus_toast_updating">Aggiornamento...</string>
     <string name="antivirus_toast_update_success">Aggiornato correttamente</string>
     <string name="antivirus_toast_update_failed">Impossibile aggiornare</string>
     <string name="antivirus_toast_already_update">Aggiornato</string>
