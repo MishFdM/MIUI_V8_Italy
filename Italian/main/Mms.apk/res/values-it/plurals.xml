@@ -2,17 +2,17 @@
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Eliminare le %1$s conversazioni selezionate?</item>
-        <item quantity="one">Eliminare questa conversazione?</item>
+        <item quantity="one">Eliminare questa %1$s conversazione?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s sec</item>
-        <item quantity="one">%s sec</item>
-        <item quantity="few">%s sec</item>
+        <item quantity="other">%d sec</item>
+        <item quantity="one">%d sec</item>
+        <item quantity="few">%d sec</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s secs</item>
-        <item quantity="one">%s sec</item>
-        <item quantity="few">%s sec</item>
+        <item quantity="other">%d secs</item>
+        <item quantity="one">%d sec</item>
+        <item quantity="few">%d sec</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s risultati per \"%2$s\"</item>
@@ -20,7 +20,7 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s contatti</item>
-        <item quantity="one">1 contatto</item>
+        <item quantity="one">%1$s contatto</item>
     </plurals>
     <plurals name="to_count">
         <item quantity="other">%d destinatari</item>
@@ -53,12 +53,12 @@
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d messaggi</item>
-        <item quantity="zero">0 messaggi</item>
-        <item quantity="one">1 messaggio</item>
+        <item quantity="zero">%d messaggi</item>
+        <item quantity="one">%d messaggio</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%d messaggi non sono stati sincronizzati</item>
-        <item quantity="one">1 messaggio non è stato sincronizzato</item>
+        <item quantity="one">%d messaggio non è stato sincronizzato</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s messaggi</item>
