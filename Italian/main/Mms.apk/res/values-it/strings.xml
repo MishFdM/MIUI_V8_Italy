@@ -38,7 +38,7 @@
     <string name="add_slide">Aggiungi diapositiva</string>
     <string name="add_slide_hint">Tocca per creare una nuova diapositiva.</string>
     <string name="discard_slideshow">Ignora presentazione</string>
-    <string name="slide_show_part">Parte %1$s/%2$s</string>
+    <string name="slide_show_part">Parte %1$d/%2$d</string>
     <string name="select_copy_text">Seleziona e copia il testo del messaggio</string>
     <string name="show_delivery_status">Mostra stato di consegna</string>
     <string name="remove_text">Rimuovi testo</string>
@@ -230,7 +230,7 @@
     <string name="saved_ringtone">Suoneria salvata</string>
     <string name="saved_ringtone_fail">Salvataggio della suoneria non riuscito</string>
     <string name="select_link_title">Seleziona azione</string>
-    <string name="slide_number">Diapositiva %s</string>
+    <string name="slide_number">Diapositiva %d</string>
     <string name="delivery_report_activity">Conferma di recapito</string>
     <string name="storage_limits_activity">Limite archiviazione</string>
     <string name="change_duration_activity">Modifica durata</string>
@@ -623,7 +623,7 @@
     <string name="force_touch_new_message_title">Nuovo messaggio</string>
     <string name="pref_delivery_ringtone">Notifica sonora</string>
     <string name="pref_summary_delivery_ringtone">Ricevi una notifica sonora per i messaggi inviati.</string>
-    <string name="privacy_password_set_password">Set</string>
+    <string name="privacy_password_set_password">Imposta</string>
     <string name="privacy_password_title1">Imposta password</string>
     <string name="privacy_password_message1">La password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
     <string name="privacy_password_title2">Usala password di protezione privacy</string>

@@ -34,10 +34,7 @@
         <item>Massimo</item>
         <item>2 giorni</item>
     </string-array>
-    <string-array name="wild_msg_sync_options">
-        <item>Sincronizza tutti i messaggi</item>
-        <item>Sincronizza messaggi da SIM selezionate</item>
-    </string-array>
+
     <string-array name="select_dialog_items">
         <item>1 secondo</item>
         <item>2 secondi</item>
