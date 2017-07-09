@@ -836,7 +836,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="delete_third_party_photo">Eliminare questa foto?</string>
     <string name="delete_third_party_video">Eliminare questo video?</string>
     <string name="create_new_album">Crea nuovo album</string>
-    <string name="album_already_exists">Esiste giàun album con questo nome</string>
+    <string name="album_already_exists_msg">"L'album '%s' è già presente</string>
     <string name="album_already_exists_check">Mostra</string>
     <string name="create_new_album_failed">Creazione fallita</string>
     <string name="default_album_name">Nuovo album</string>
@@ -958,6 +958,9 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="retry_to_create_album">Riprova</string>
     <string name="gallery_setting">Galleria</string>
     <string name="cloud_settings">Mi Cloud</string>
+    <string name="backup_sync_dialog_title">Sincronizzazione disattivata</string>
+    <string name="backup_sync_dialog_tips">Attiva sincronizzazione con Mi Cloud per cambiare le impostazioni dei backup.</string>
+    <string name="backup_sync_dialog_confirm">Attiva</string>
     <string name="backup_automatically_title">Backup automatico</string>
     <string name="backup_automatically_summary">Esegui il backup di foto e video per tutti i dispositivi su Mi Cloud. Puoi sfogliare, ordinare, modificare e condividere le foto e i video su tutti i dispositivi.</string>
     <string name="backup_only_in_wifi">Usa solo il Wi-Fi per il backup di foto e video</string>

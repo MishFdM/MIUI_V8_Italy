@@ -77,9 +77,12 @@
     <string name="card_title_video_conf_call">Video conference call</string>
     <string name="card_title_threeway_call">Audioconferenza a tre</string>
     <string name="card_title_incoming_call">Chiamata ricevuta</string>
+    <string name="card_title_answering">Risposta</string>
+    <string name="card_title_answering_fail">Impossibile rispondere, try again."</string>
     <string name="card_title_call_ended">Chiamata terminata\u0020</string>
     <string name="card_title_on_hold">In attesa\u0020</string>
     <string name="card_title_hanging_up">In fase di chiusura\u0020</string>
+    <string name="card_title_hanging_up_fail">Impossibile chiudere, prova di nuovo.</string>
     <string name="card_title_hanging_up_weak_signal">Segnale rete mobile debole. Chiusura chiamata</string>
     <string name="card_title_hanging_up_restart">Impossibile terminare la chiamata. Riavvia il dispositivo.</string>
     <string name="card_title_in_call">In chiamata</string>

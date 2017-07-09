@@ -4393,6 +4393,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="cancel_alert">Annullare le modifiche?</string>
     <string name="android_beam_witch_label">Attiva Android Beam</string>
     <string name="sim_management_title">SIM e reti mobili</string>
+    <string name="sim_management_title_cr_kolbi">SIM e reti mobili</string>
     <string name="sim_radio_off">Non attivato</string>
     <string name="slot_status_title">Informazione IMEI</string>
     <string name="next_button_label">Avanti</string>
@@ -5171,6 +5172,10 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="privacy_factory_reset_dlg_title">Esegui un Backup dei tuoi dati</string>
     <string name="privacy_factory_reset_dlg_message">Esegui un backup in locale dei tuoi dati, e successivamente un reset di fabbrica. Dopo ciò, sarai in grado di cambiare la tua password</string>
     <string name="privacy_delete_space_dlg_message">Per cambiare la password del tuo Spazio secondario, dovresti eliminare il tuo attuale Spazio secondario e crearne uno nuovo.</string>
+    <string name="privacy_password_toggle_summary">Richiede la password ogni volta che si accede a elementi privati.</string>
+    <string name="privacy_close_dlg_title">Attenzione</string>
+    <string name="privacy_close_dlg_msg">Quando la password di protezione è disattivata, i tuoi elementi non saranno più protetti.</string>
+    <string name="privacy_close_dlg_button_ok">Disattiva</string>
     <string name="privacy_factory_reset_dlg_button_text">Esegui il Backup dei tuoi dati</string>
     <string name="fingerprint_first_open_screen_password_tittle">Impronta (imposta una password per la Schermata di blocco prima di utilizzarla)</string>
     <string name="password_turned_on_text">La password è stata attivata</string>

@@ -406,8 +406,6 @@
     <string name="long_click_dialog_title">Avviso</string>
     <string name="long_click_dialog_summary">Tieni premuto per aggiungere eccezioni.</string>
     <string name="function_app_lock_title">%d app contengono rischi per la privacy</string>
-    <string name="app_install_tips_go_to">Avvia desso</string>
-    <string name="app_install_tips_install_success">%1$s installato con successo</string>
     <string name="deep_clean_uninstall_completed_tips">Disinstallato correttamente</string>
     <string name="deep_clean_completed_tips">Pulito correttamente</string>
     <string name="deepclean_normal_item_summary_empty">Sembra tutto ok, niente da pulire</string>
