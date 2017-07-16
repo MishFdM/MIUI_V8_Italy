@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Scorrimento classico</item>
         <item>Scorrimento senza rimbalzo</item>
         <item>Dissolvenza</item>
         <item>Inclinazione</item>
