@@ -475,7 +475,7 @@
     <string name="title_show_list_avatar">Mostra foto e info</string>
     <string name="pref_show_list_avatar_summary">Visualizza foto ed altre informazioni di contatto nella lista</string>
     <string name="title_show_photo_word">Assegna foto ai contatti</string>
-    <string name="pref_show_photo_word_summary">Assegna automaticamente una foto ai contatti che ne non ne hanno</string>
+    <string name="pref_show_photo_word_summary">Assegna automaticamente una foto ai contatti che ne sono sprovvisti</string>
     <string name="sp_mark_as_read_menu_title">Già letti</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">Messaggi di tutti i servizi</string>
