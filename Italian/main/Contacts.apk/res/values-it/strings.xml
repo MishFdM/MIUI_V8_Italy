@@ -964,6 +964,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="option_view_contact">Mostra</string>
     <string name="option_edit_contact">Modifica</string>
     <string name="option_delete_contact">Elimina</string>
+    <string name="option_delete_batch_contacts">Eliminazione multipla</string>
     <string name="option_send_to_desktop">Aggiungi alla Home</string>
     <string name="option_send_to_others">Inoltra</string>
     <string name="option_not_star">Rimuovi dai preferiti</string>

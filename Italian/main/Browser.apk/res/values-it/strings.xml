@@ -73,6 +73,7 @@
     <string name="add_to_quicklink">Aggiungi alla pagina iniziale</string>
     <string name="added_to_bookmarks">Aggiunto ai segnalibri.</string>
     <string name="adjust_text_zoom_toast">Cambiare lo zoom del testo può provocare problemi alla visualizzazione di alcuni siti</string>
+    <string name="agree">OK</string>
     <string name="alert_tips">Questo sito potrebbe essere un rischio per la sicurezza</string>
     <string name="allow">Consenti</string>
     <string name="app_new_version">"Hai già l'ultima versione"</string>
@@ -292,6 +293,7 @@ finestra riservata​"</string>
     <string name="error_not_acceptable">Sincronizzazione disattivata.</string>
     <string name="error_title">Impossibile sincronizzare</string>
     <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
+    <string name="exit">Esci</string>
     <string name="exit_browser_warning">Esci dal browser?</string>
     <string name="file_dir">Cartella</string>
     <string name="file_name">File:</string>
@@ -329,7 +331,6 @@ finestra riservata​"</string>
     <string name="google_bookmarks">"Google: "</string>
     <string name="have_sent_bookmark_to_home_screen">Posizionato in home</string>
     <string name="hint">Hint</string>
-    <string name="history_saved_webpage">Salva pagina</string>
     <string name="home_description">Home</string>
     <string name="homepage_delete_card_menu">Elimina</string>
     <string name="homepage_get_location">Trova posizione</string>
@@ -465,7 +466,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Connetti a questa rete</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
-    <string name="new_folder_name_lable">Nome del gruppo</string>
     <string name="next_button_label">Avanti</string>
     <string name="no_app_open_document">Nessuna app disponibile per gestire questa azione</string>
     <string name="no_matches">Nessun risultato</string>

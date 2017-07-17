@@ -1033,6 +1033,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="backup_sync_error_desc">Impossibile collegarsi a Mi Cloud</string>
     <string name="backup_sync_error_btn_text">Prova di nuovo</string>
     <string name="backup_cta_not_allow">Impossibile collegarsi alla rete</string>
+    <string name="backup_cta_not_allow_desc">Acconsento ai backup automatici</string>
     <string name="backup_cta_not_allow_btn_text">Consenti</string>
     <string name="backup_need_sync_title">Backup interrotto</string>
     <string name="backup_need_sync_desc">Premi il tasto per continuare il backup</string>
@@ -1061,6 +1062,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="cloud_storage_ok_append_desc">Disp. %s</string>
     <string name="cloud_storage_warn_title">Spazio Mi Cloud insufficiente</string>
     <string name="cloud_storage_warn_desc">Acquista cloud VIP per avere spazio aggiuntivo</string>
+    <string name="cloud_storage_extend">Aumenta lo spazio cloud</string>
     <string name="user_agreement2">" Termini del Servizio"</string>
     <string name="user_agreement4">Informativa sulla Privacy</string>
     <string name="user_agree">Accetto</string>
@@ -1082,6 +1084,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="secret_reason_unknow_reasons">Errore sconosciuto</string>
     <string name="alert_secret_album_title">Album Privato</string>
     <string name="alert_secret_album_message">"Puoi sfogliare l'album Mi Cloud nell'album privato."</string>
+    <string name="alert_secret_album_message_lower_case">" scorri in basso nell'Album per vedere gli album nascosti."</string>
     <string name="alert_secret_album_enter">OK</string>
     <string name="all_items_synced">"E' stato eseguito il backup di tutti gli album su Mi Cloud"</string>
     <string name="need_to_turn_on_sync">Attiva la sincronizzazione con Mi Cloud ora.</string>
@@ -1098,7 +1101,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="delete_from_devices_album">Tutti i dispositivi che hanno sincronizzato questo album</string>
     <string name="delete_to_trash_tips">Puoi vedere le foto eliminate di recente nelle impostazioni del cestino</string>
     <string name="delete_from_cloud">"Elimina elementi dall'album cloud"</string>
-    <string name="delete_unsynced">Elimina gli elementi di cui non hai eseguito il backup</string>
     <string name="download_title">Preparazione file…</string>
     <string name="download_retry_title">Impossibile scaricare il file</string>
     <string name="download_retry_message">Impossibile scaricare i file, verifica la connessione di rete e riprova</string>

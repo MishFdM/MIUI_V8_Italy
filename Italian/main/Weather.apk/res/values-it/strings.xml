@@ -64,7 +64,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
     <string name="sunset">Tramonto</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s dopo.</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_drawer_on_top">%1$s altri giorni</string>
     <string name="daily_forcast_drawer_on_bottom">Nascondi</string>
     <string name="daily_forcast_temperature_connect" />
     <string name="daily_forcast_wind_connect">%1$s %2$s</string>
@@ -239,7 +238,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="feedback_sand">Sabbia</string>
     <string name="feedback_result_success">Inviato correttamente, grazie per il feedback</string>
     <string name="feedback_result_fail_no_choice">Seleziona il meteo reale</string>
-    <string name="feedback_result_interval_time_too_short">%1$s secondi dopo il feedback</string>
     <string name="minute_rain_pull_down_refresh">Trascina in basso per aggiornare</string>
     <string name="minute_rain_refreshing_now">Aggiornamento</string>
     <string name="minute_rain_let_go_refresh">Lascia che aggiorni</string>

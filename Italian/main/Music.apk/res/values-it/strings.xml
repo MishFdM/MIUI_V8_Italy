@@ -466,7 +466,6 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="sleep_mode_canceled">Timer spegnimento annullato</string>
     <string name="priority_storage">Usa scheda SD</string>
     <string name="priority_storage_summary">Scarica automaticamente su scheda SD, se disponibile</string>
-    <string name="headset_settings">Impostazioni cuffie</string>
     <string name="ad_setting">Impostazioni AD</string>
     <string name="ad_recommend">Suggerimenti AD</string>
     <string name="online_switch">Servizi di contenuti online</string>
@@ -538,13 +537,11 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="no_enough_info">Informazioni sul brano insufficienti</string>
     <string name="disallow_add_to_personal_radio">La radio personale funziona solo in lettura</string>
     <string name="disallow_add_to_fm">Impossibile aggiungere brani alla radio FM</string>
-    <string name="click_to_view_new_local_audios">Tocca per vedere i dettagli.</string>
     <string name="more_about_artist">Altre info su %s</string>
     <string name="play_all_song">Riproduci tutti</string>
     <string name="download_all_song">Scarica tutti</string>
     <string name="sort_by_name">Nome</string>
     <string name="sort_by_time">Data</string>
-    <string name="sort_by_language">Lingua</string>
     <string name="upgrade_remind">Aggiornamento disponibile</string>
     <string name="service_stop">Servizio interrotto</string>
     <string name="upgrade_suggest">"Abbiamo interrotto il nostro servizio di streaming a causa di problemi con i diritti d'autore. Aggiorna all'ultima versione per ascoltare musica di alta qualità."</string>
@@ -563,6 +560,7 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
     <string name="all_music">Tutti i brani</string>
     <string name="all_artist">Tutti gli artisti</string>
     <string name="local_music">File locali</string>
+    <string name="local_header_title">Musica locale</string>
     <string name="tab_track">Brani</string>
     <string name="tab_artist">Artisti</string>
     <string name="tab_album">Album</string>
@@ -630,7 +628,6 @@ Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</
 attendere o selezionare Musica Online."</string>
     <string name="start_shuffle">Avvia riproduzione casuale...</string>
     <string name="online_music_enabled_title">Lo streaming gratuito è qui</string>
-    <string name="online_music_enabled_subtitle">Tocca per ascoltare in streaming le tue canzoni preferite.</string>
     <string name="online_music_enabled_summary">Ascolta e scarica le tue canzoni preferite. Guarda le classifiche e le playlist ovunque ti trovi!</string>
     <string name="start_to_download">Avvio download</string>
     <string name="message_delete_playlist">Eliminare playlist?</string>
@@ -672,12 +669,12 @@ attendere o selezionare Musica Online."</string>
     <string name="vip_renew_message">Non potrai ascoltare audio di alta qualità in streaming, ma alcuni brani saranno comunque disponibili in qualità normale.</string>
     <string name="vip_auto_renew_title">Rinnovo abbonamento</string>
     <string name="vip_auto_renew_message">Il tuo abbonamento a Musica verrà rinnovato automaticamente questa sera. Assicurati di avere Mi Credit sufficienti per poter eseguire il pagamento.</string>
+    <string name="vip_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
+    <string name="vip_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically tomorrow evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+    <string name="vip_after_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
+    <string name="vip_after_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically the evening of day after tomorrow. Make sure you have enough Mi Credits in your account to complete this payment.</string>
     <string name="to_mi_pay">Mi Credit</string>
     <string name="confirm_to_renew">Rinnova</string>
-    <string name="vip_renew_notification_title">"L'abbonamento scade domani"</string>
-    <string name="vip_renew_notification_message">Non potrai ascoltare musica in streaming in alta qualità una volta che il tuo abbonamento sarà scaduto.</string>
-    <string name="vip_auto_renew_notification_title">Pagamento abbonamento</string>
-    <string name="vip_auto_renew_notification_message">Aggiungi Mi Credit per rinnovare il tuo abbonamento Musica.</string>
     <string name="create_order_fail">"Impossibile creare l'ordine, prova di nuovo."</string>
     <string name="more_share">Condividi</string>
     <string name="more_add_song_list">Aggiungi</string>
@@ -740,14 +737,9 @@ attendere o selezionare Musica Online."</string>
     <string name="settings_notification_text">Mostra il widget nel pannello delle notifiche</string>
     <string name="notification_title_no_song">Guarda cosa ascoltano gli altri!</string>
     <string name="notification_des_no_song">Mi Music. Novità ogni giorno.</string>
-    <string name="notification_headset_settings">Cuffie collegate</string>
-    <string name="notification_headset_info">Tocca per vedere le impostazioni.</string>
-    <string name="notification_headset_custom">Rifiuta</string>
     <string name="notification_setting">Impostazioni di notifica</string>
     <string name="notification_play_title">Widget pannello notifiche</string>
     <string name="notification_play_summary">Mostra il brano attuale e quello successivo, mostra i testi sulla Home</string>
-    <string name="notification_favorite_title">Notifica per gli artisti preferiti</string>
-    <string name="notification_favorite_summary">Ricevi notifiche sulle uscite dei tuoi artisti preferiti</string>
     <string name="notification_recommend_title">Notifiche importanti</string>
     <string name="notification_recommend_summary">Scopri i nuovi trend musicali e le promozioni sulle app</string>
     <string name="ticket_title">Mostra biglietti</string>
@@ -926,4 +918,5 @@ attendere o selezionare Musica Online."</string>
     <string name="online_service_title">Servizi online</string>
     <string name="online_service_open_tip">Servizi musica online attivati</string>
     <string name="online_play_tips">Questo brano è disponibile solo online. Attiva i servizi online nelle impostazioni per ascoltarlo.</string>
+    <string name="date_format_str">dd-MM-yyyy</string>
 </resources>

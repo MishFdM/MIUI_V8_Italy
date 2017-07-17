@@ -72,6 +72,8 @@
     <string name="dialog_share_as_pic">Condividi nota come immagine</string>
     <string name="note_description_title">Informazioni</string>
     <string name="note_description_content">"L'app Note è un ottimo strumento per scrivere velocemente le tue idee. Fornisce promemoria integrati e sincronizza i contenuti con Mi Cloud, così da consentirti l'accesso da qualsiasi posto, in qualsiasi momento. Assicurati di non avere necessità di questa app prima di eliminarla."</string>
+    <string name="db_downgrade_clear_date_reminder">Il passaggio ad una versione diversa di MIUI richiede al cancellazione dei dati app per Note. Prima di procedere, assicurati di avere eseguito il backup delle note su Mi Cloud.</string>
+    <string name="db_downgrade_clear_button">Cancella i dati app</string>
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
@@ -193,4 +195,6 @@
     <string name="set_alarm_description">Imposta sveglia</string>
     <string name="cancel_alarm_description">Annulla sveglia</string>
     <string name="edit_header_done_description">Fatto</string>
+    <string name="refuse_to_share_as_pic_because_of_content">Questa nota è troppo grande per essere condivisa.</string>
+    <string name="refuse_to_share_as_pic_because_of_loading">Attendi fino a che la nota non è stata caricata e prova di nuovo.</string>
 </resources>

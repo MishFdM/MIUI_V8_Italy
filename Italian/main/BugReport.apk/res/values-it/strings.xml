@@ -291,4 +291,5 @@
     <string name="toast_log_not_exists">Il log richiesto è statoeliminato onon esiste</string>
     <string name="toast_pic_not_exists">Immagine cache eliminata</string>
     <string name="title_bbs_feedback_main">Maggiori informazioni sui telefoni Mi</string>
+    <string name="title_customer_service">Servizio clienti</string>
 </resources>

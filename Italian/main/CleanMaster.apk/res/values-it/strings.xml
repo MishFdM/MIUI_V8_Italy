@@ -474,4 +474,5 @@
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">Informazioni</string>
     <string name="app_description_content">"L'app Pulizia trova ed elimina i file inutili per liberare spazio. Assicurati di poter fare a meno di queste funzioni prima di eliminare l'app."</string>
+    <string name="engine_init">Inizializzazione...</string>
 </resources>

@@ -586,4 +586,7 @@
     <string name="xiaomi_mobile">Mi Mobile</string>
     <string name="immersion_button_close_description">chiudi</string>
     <string name="search_input_description">cerca</string>
+    <string name="search_mode_button_back_description">indietro</string>
+    <string name="actionbar_immersion_button_more_description">altro</string>
+    <string name="actionbar_button_up_description">indietro</string>
 </resources>

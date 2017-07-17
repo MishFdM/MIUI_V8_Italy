@@ -5,6 +5,9 @@
     <string name="wifi_remembered">Salvata</string>
     <string name="wifi_disabled_generic">Disattivata</string>
     <string name="wifi_disabled_network_failure">Connessione Internet debole evitata</string>
+    <string name="wifi_remembered">Salvato</string>
+    <string name="wifi_disabled_generic">Disattivato</string>
+    <string name="wifi_disabled_network_failure">Impossibile configurare IP</string>
     <string name="wifi_disabled_wifi_failure">Connessione Wi-Fi fallita</string>
     <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
     <string name="wifi_not_in_range">Fuori portata</string>
@@ -245,15 +248,15 @@
     <string name="select_webview_provider_title">WebView implementation</string>
     <string name="select_webview_provider_dialog_title">Set WebView implementation</string>
     <string name="select_webview_provider_toast_text">This choice is no longer valid. Try again.</string>
-    <string name="convert_to_file_encryption">Convert to file encryption</string>
-    <string name="convert_to_file_encryption_enabled">Convert…</string>
-    <string name="convert_to_file_encryption_done">Already file encrypted</string>
+    <string name="convert_to_file_encryption">Converti in file protetto</string>
+    <string name="convert_to_file_encryption_enabled">Conversione...</string>
+    <string name="convert_to_file_encryption_done">File già protetto</string>
     <string name="title_convert_fbe">Converting to file based encryption</string>
     <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
  This feature is alpha, and may not work correctly.
  Press 'Wipe and convert…' to continue."</string>
-    <string name="button_convert_fbe">Wipe and convert…</string>
+    <string name="button_convert_fbe">Cancella e converti</string>
     <string name="picture_color_mode">Modalità colore immagine</string>
     <string name="picture_color_mode_desc">Utilizza sRGB</string>
     <string name="daltonizer_mode_disabled">Disattivato</string>
@@ -412,7 +415,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_capital_on">ON</string>
     <string name="abc_capital_off">OFF</string>
-    <string name="search_menu_title">Search</string>
+    <string name="search_menu_title">Cerca</string>
     <string name="v7_preference_on">ON</string>
     <string name="v7_preference_off">OFF</string>
     <string name="menu_item_show_more">Altro</string>
@@ -633,10 +636,10 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="skip_label">Ignora</string>
     <string name="next_label">Avanti</string>
     <string name="language_picker_title">Lingua</string>
-    <string name="pref_title_lang_selection">Language preferences</string>
-    <string name="locale_remove_menu">Remove</string>
-    <string name="add_a_language">Add a language</string>
-    <string name="dlg_remove_locales_message">Text will be displayed in another language.</string>
+    <string name="pref_title_lang_selection">Preferenze lingua</string>
+    <string name="locale_remove_menu">Rimuovi</string>
+    <string name="add_a_language">Aggiungi una lingua</string>
+    <string name="dlg_remove_locales_message">Il testo verrà mostrato in un'altra lingua.</string>
     <string name="dlg_remove_locales_error_title">Can’t remove all languages</string>
     <string name="dlg_remove_locales_error_message">Keep at least one preferred language</string>
     <string name="locale_not_translated">May not be available in some apps</string>
@@ -5033,6 +5036,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="security_encryption_progress_dialog_open">Crittografa…</string>
     <string name="security_encryption_progress_dialog_close">Decripta…</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Tocca per modificare</string>
+    <string name="security_encryption_rejected_via_home_manager">"Questa funzione non è supportata nella versione demo."</string>
     <string name="encryption_progress_summary">Crittografia in corso, non riavviare il dispositivo.</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_skip">Salta</string>

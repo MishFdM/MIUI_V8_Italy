@@ -60,6 +60,7 @@
     <string name="stop_by_second_space">"Cambiando l'utente si fermerà la registrazione schermo"</string>
     <string name="cannot_change_parames">Impossibile cambiare i parametri durante la registrazione</string>
     <string name="cannot_record">Impossibile registrare, prova più tardi</string>
+    <string name="frequently_click_toast">Servizio avviato, attendere</string>
     <string name="no_sound">Muto</string>
     <string name="mic_sound">Microfono</string>
     <string name="loopback_sound">Speaker</string>
