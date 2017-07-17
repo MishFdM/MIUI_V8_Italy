@@ -5,9 +5,6 @@
     <string name="wifi_remembered">Salvata</string>
     <string name="wifi_disabled_generic">Disattivata</string>
     <string name="wifi_disabled_network_failure">Connessione Internet debole evitata</string>
-    <string name="wifi_remembered">Salvato</string>
-    <string name="wifi_disabled_generic">Disattivato</string>
-    <string name="wifi_disabled_network_failure">Impossibile configurare IP</string>
     <string name="wifi_disabled_wifi_failure">Connessione Wi-Fi fallita</string>
     <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
     <string name="wifi_not_in_range">Fuori portata</string>

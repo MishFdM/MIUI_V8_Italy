@@ -869,8 +869,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="webview_find_on_page">Trova nella pagina</string>
     <string name="webviewchromium_private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="week_picker_dialog_title">Imposta settimana</string>
-	<string name="agree">"D'accordo"</string>
-    <string name="exit">Esci</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>
     <string name="error_console_eval_button_text">Esegui</string>
     <string name="error_console_eval_text_hint">Esegui JavaScript</string>

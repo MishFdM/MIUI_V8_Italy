@@ -124,7 +124,7 @@
     <string name="sleep_config_enhance_title">Attivato</string>
     <string name="sleep_config_enhance_description">MIUI migliorerà il risparmio batteria notturno</string>
     <string name="scenario_policies_warmcontrol">Controllo riscaldamento</string>
-    <string name="warm_configure"Configurazione controllo riscaldamento</string>
+    <string name="warm_configure">Configurazione controllo riscaldamento</string>
     <string name="vip_feedback">Feedback VIP</string>
     <string name="vip_feedback_enable">Attiva Feedback automatico VIP</string>
     <string name="vip_feedback_apply">Applica Feedback VIP</string>

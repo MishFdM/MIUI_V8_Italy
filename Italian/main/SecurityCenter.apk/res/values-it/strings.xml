@@ -281,7 +281,6 @@
     <string name="st_confirm_dialog_btn_open">Apri</string>
     <string name="st_confirm_dialog_summary_stranger_call">Attenzione! Tutte le chiamate da socnosciuti verranno bloccate.</string>
     <string name="st_confirm_dialog_summary_contact_call">Attenzione! Tutte le chiamate dai contatti verranno bloccate.</string>
-    <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
     <string name="cta_dialog_title">Termini e Condizioni</string>
     <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza MIUI. Per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati. Continuare?"</string>
     <string name="kilobyte_per_second">K/s</string>
@@ -831,7 +830,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="om_settings_memory_occupy_notify">Chace di grandi dimensioni</string>
     <string name="om_settings_memocy_occupy_too_large_summary">Notifica quando la dimensione della cache è troppo grande</string>
     <string name="om_settings_cpu_over_load_notify">Utilizzo CPU</string>
-    <string name="om_settings_cpu_over_load_summary">Notifica quando l'utilizzo della CPU è troppo elevato</string>
+    <string name="om_settings_cpu_over_load_summary">"Notifica quando l'utilizzo della CPU è troppo elevato"</string>
     <string name="om_settings_memory_occupy_notify_never">Mai</string>
     <string name="om_lock_app_locked_app">Bloccato</string>
     <string name="om_lock_app_unlocked_app">Sbloccato</string>
@@ -868,7 +867,7 @@ il tuo dispositivo"</string>
     <string name="om_ill_proc_type_cpu_title">"L'app utilizza in modo intensivo la CPU e consuma molta batteria"</string>
     <string name="om_ill_proc_type_cpu_detail">Risolvi problemi dovuti al sovraccarico CPU</string>
     <string name="om_ill_proc_type_gps_title">"L'app utilizza intensamente il GPS e consuma molta batteria"</string>
-    <string name="om_ill_proc_type_gps_detail">Risolvi i problemi dovuti all'utilizzo del GPS</string>
+    <string name="om_ill_proc_type_gps_detail">"Risolvi i problemi dovuti all'utilizzo del GPS"</string>
     <string name="om_ill_proc_type_alarm_title">"L'app attiva spesso lo schermo e consuma molta batteria"</string>
     <string name="om_ill_proc_type_alarm_detail">Risolvi i problemi dovuti alle attività in background</string>
     <string name="om_ill_proc_type_radio_title">"L'app si connette spesso alla rete e consuma molta batteria"</string>
