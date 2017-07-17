@@ -636,7 +636,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="pref_title_lang_selection">Preferenze lingua</string>
     <string name="locale_remove_menu">Rimuovi</string>
     <string name="add_a_language">Aggiungi una lingua</string>
-    <string name="dlg_remove_locales_message">Il testo verrà mostrato in un'altra lingua.</string>
+    <string name="dlg_remove_locales_message">"Il testo verrà mostrato in un'altra lingua."</string>
     <string name="dlg_remove_locales_error_title">Can’t remove all languages</string>
     <string name="dlg_remove_locales_error_message">Keep at least one preferred language</string>
     <string name="locale_not_translated">May not be available in some apps</string>
