@@ -77,6 +77,7 @@
     <string-array name="invisible_app_groups">
         <item>selezionati</item>
         <item>non selezionati</item>
+    </string-array>
     <string-array name="thermal_entries">
         <item>Modalità controllo temperatura predefinita</item>
         <item>Modalità prestazioni</item>
@@ -84,6 +85,5 @@
     <string-array name="thermal_summaries">
         <item>Con questa modalità viene data la precedenza alla regolazione della temperatura</item>
         <item>Con questa modalità viene data la precedenza alle prestazioni, la temperatura potrebbe aumentare significativamente</item>
-    </string-array>
     </string-array>
 </resources>
