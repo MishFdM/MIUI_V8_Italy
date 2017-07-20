@@ -393,7 +393,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
     <string name="pref_camera_portrait_mode_title">Modalità ritratto</string>
     <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
     <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>
-    <string name="portrait_mode_lowlight_hint">Adesso è tropppo scuro</string>
+    <string name="portrait_mode_lowlight_hint">Adesso è troppo scuro</string>
     <string name="portrait_mode_too_close_hint">"Allontanati dall'oggetto"</string>
     <string name="portrait_mode_too_far_hint">"Posiziona l'oggetto entro 2.5"</string>
     <string name="portrait_mode_depth_effect_success_hint">Effetto profondità</string>
