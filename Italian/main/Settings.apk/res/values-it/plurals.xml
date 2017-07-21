@@ -146,8 +146,8 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="one">Invio bloccato per %d app</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">Permesso concesso a %1$d app per l'uso di dati non controllati quando il Risparmio Dati è attivo</item>
-        <item quantity="one">Permesso concesso a %1$d app per l'uso di dati non controllati quando il Risparmio Dati è attivo</item>
+        <item quantity="other">"Permesso concesso a %1$d app per l'uso di dati non controllati quando il Risparmio Dati è attivo"</item>
+        <item quantity="one">"Permesso concesso a %1$d app per l'uso di dati non controllati quando il Risparmio Dati è attivo"</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d rischi rilevati</item>

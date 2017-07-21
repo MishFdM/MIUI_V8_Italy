@@ -110,13 +110,13 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="few">%1$d visualizzazioni</item>
         <item quantity="many">%1$d visualizzazioni</item>
     </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d elementi</item>
-        <item quantity="one">1 elemento</item>
+    <plurals name="result_virus_header">
+        <item quantity="other">Trovati %d elementi tra virus e app non sicure</item>
+        <item quantity="one">Trovato %d virus o app non sicura</item>
     </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s rischi di pagamento</item>
-        <item quantity="one">%s rischio di pagamento</item>
+    <plurals name="result_sign_header">
+        <item quantity="other">Trovate %d app non ufficiali</item>
+        <item quantity="one">Trovata %d app non ufficiale</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d elementi</item>
