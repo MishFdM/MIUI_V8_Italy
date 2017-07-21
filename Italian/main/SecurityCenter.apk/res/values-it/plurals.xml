@@ -60,6 +60,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d app trovate</item>
         <item quantity="one">%d app trovata</item>
     </plurals>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">"%d app non funzionano correttamente e consumano eccessivamente batteria"</item>
+        <item quantity="one">"%d app non funziona correttamente e consuma eccessivamente batteria"</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d giorni "</item>
         <item quantity="one">"%d giorno "</item>
@@ -92,17 +96,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Trovati %d problemi batteria, sistemali!</item>
         <item quantity="one">Trovato %d problema batteria, sistemare!</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d elementi possono essere ottimizzati</item>
-        <item quantity="one">%d elemento può essere ottimizzato</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">Scaricato da %1$d persone</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Scaricato da %1$d persone</item>
-    </plurals>
-    <plurals name="million">
         <item quantity="other">Scaricato da %1$d persone</item>
     </plurals>
     <plurals name="view_num">
@@ -121,6 +118,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%s rischi di pagamento</item>
         <item quantity="one">%s rischio di pagamento</item>
     </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s app di pagamento sono protette</item>
         <item quantity="one">%s app di pagamento è protetta</item>
@@ -132,10 +133,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s app non protette</item>
         <item quantity="one">"%s app non protetta</item>
-    </plurals>
-    <plurals name="scan_result_description">
-        <item quantity="other">risultato scansione: %d rischi di pagamento rilevati</item>
-        <item quantity="one">risultato scansione: %d rischio di pagamento rilevato</item>
     </plurals>
    <plurals name="system_check_content">
         <item quantity="other">%1$d elementi sicuri</item>
@@ -193,18 +190,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d trojan,</item>
         <item quantity="one">%d trojan,</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d pericoli</item>
-        <item quantity="one">%d pericolo</item>
-    </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d​ pericoli rilevati, correggi adesso</item>
-        <item quantity="one">%d pericolo trovato, correggi adesso</item>
-    </plurals>
-    <plurals name="virus_clean_num">
-        <item quantity="other">Sembra tutto OK</item>
-        <item quantity="one">Sembra tutto OK</item>
-    </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">App pericolose: %d</item>
         <item quantity="one">App pericolosa: %d</item>
@@ -212,10 +197,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="white_list_trojan_header">
         <item quantity="other">Trojan: %d</item>
         <item quantity="one">Trojan: %d</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d app contengono minacce per la privacy</item>
-        <item quantity="one">%d app contiene minacce per la privacy</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Attendi %d secondi e prova di nuovo. "</item>
@@ -254,34 +235,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d giochi aggiunti</item>
         <item quantity="one">%d gioco aggiunto</item>
     </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">Sono disponibili aggiornamenti per %d app</item>
-        <item quantity="one">Sono disponibili aggiornamenti per %d app</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">Contatti letti %d volte</item>
-        <item quantity="one">Contatti letti %d volta</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">%d chiamate effettuate</item>
-        <item quantity="one">%d chiamata effettuata</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">%d SMS inviati</item>
-        <item quantity="one">%d SMS inviato</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">SMS letti %d volte</item>
-        <item quantity="one">SMS letti %d volta</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">Registro chiamate letto %d volte</item>
-        <item quantity="one">Registro chiamate letto %d volta</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">Accesso eseguito %d volte</item>
-        <item quantity="one">Accesso eseguito %d volta</item>
-    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">%d permessi concessi</item>
         <item quantity="one">%d permesso concesso</item>
@@ -309,5 +262,13 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="app_usage_year">
         <item quantity="other">"Non utilizzato da %d anni"</item>
         <item quantity="one">"Non utilizzato da %d anno"</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d giochi aggiunti</item>
+        <item quantity="one">Added %d gioco</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d giochi non aggiunti</item>
+        <item quantity="one">%d gioco non aggiunto</item>
     </plurals>
 </resources>

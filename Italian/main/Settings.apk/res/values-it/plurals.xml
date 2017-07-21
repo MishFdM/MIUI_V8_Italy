@@ -8,9 +8,17 @@
         <item quantity="other">%s app possono mostrare le notifiche</item>
         <item quantity="one">"Un'app può mostrare le notifiche"</item>
     </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d comandi sopra sono attivi</item>
+        <item quantity="one">1 comando sopra è attivo</item>
+    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per diventare uno sviluppatore</item>
         <item quantity="one">Ti manca %1$d tocco per diventare uno sviluppatore</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Rimuovere le lingue selezionate?</item>
+        <item quantity="one">Rimuovere la lingua selezionata?</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">%1$d impronte impostate</item>
@@ -43,6 +51,58 @@
     <plurals name="wrong_pin_code">
         <item quantity="other">Codice PIN errato. Hai ancora %d tentativi a disposizione</item>
         <item quantity="one">"Codice PIN errato. Hai ancora %d tentativo a disposizione, dopodiché dovrai contattare l'operatore per sbloccare il dispositivo"</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">1 elemento</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Ritardo estremamente breve(%1$d ms)</item>
+        <item quantity="one">Ritardo estremamente breve (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Ritardo molto breve (%1$d ms)</item>
+        <item quantity="one">Ritardo molto breve (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Breve ritardo (%1$d ms)</item>
+        <item quantity="one">Breve ritardo (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Lungo ritardo (%1$d ms)</item>
+        <item quantity="one">Lungo ritardo (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Ritardo molto lungo (%1$d ms)</item>
+        <item quantity="one">Ritardo molto lungo (%1$d ms)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d attività di stampa</item>
+        <item quantity="one">1 attività di stampa</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Accetta o rimuovi i certificati</item>
+        <item quantity="one">Accetta o rimuovi il certificato</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s ha installato certificati con credenziali sul tuo dispositivo, potrebbero consentire il monitoraggio delle attività di rete, incluse email, app e siti sicuri.
+
+Per maggiori informazioni su questi certificati contatta l'amministratore."</item>
+        <item quantity="one">"%s ha installato un certificato con credenziali sul tuo dispositivo, potrebbe consentire il monitoraggio delle attività di rete, incluse email, app e siti sicuri.
+
+Per maggiori informazioni su questo certificato contatta l'amministratore."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s ha installato certificati con credenziali sul tuo dispositivo, potrebbero consentire il monitoraggio delle attività di rete, incluse email, app e siti sicuri.
+
+Per maggiori informazioni su questi certificati contatta l'amministratore."</item>
+        <item quantity="one">"%s ha installato certificato con credenziali sul tuo dispositivo, potrebbero consentire il monitoraggio delle attività di rete, incluse email, app e siti sicuri.
+
+Per maggiori informazioni su questo certificato contatta l'amministratore."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Controlla certificati</item>
+        <item quantity="one">Controlla certificato</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d app possono leggere le notifiche</item>
@@ -81,9 +141,37 @@
         <item quantity="other">%1$d app hanno utilizzato la memoria nelle ultime %2$s</item>
         <item quantity="one">1 app ha utilizzato la memoria nelle ultime %2$s</item>
     </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Invio bloccato per %d app</item>
+        <item quantity="one">Invio bloccato per %d app</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">Permesso concesso a %1$d app per l'uso di dati non controllati quando il Risparmio Dati è attivo</item>
+        <item quantity="one">Permesso concesso a %1$d app per l'uso di dati non controllati quando il Risparmio Dati è attivo</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d rischi rilevati</item>
+        <item quantity="one">%d rischio rilevato</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">"%d autorizzate all'avvio automatico"</item>
+        <item quantity="one">"%d autorizzata all'avvio automatico"</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">Il PIN deve essere di %d caratteri</item>
+        <item quantity="one">Il PIN deve essere di %d carattere</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d reti condivise</item>
+        <item quantity="one">%d rete condivisa</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d dispositivi</item>
         <item quantity="one">%d dispositivo</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d persone collegate</item>
+        <item quantity="one">%1$d persona collegata</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per visualizzare le info sul dispositivo</item>

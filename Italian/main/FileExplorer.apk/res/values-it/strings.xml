@@ -82,9 +82,7 @@
     <string name="confirm_know">Conferma</string>
     <string name="confirm_clean">Pulisci</string>
     <string name="error_info_cant_send_folder">La cartella non può essere trasferita</string>
-    <string name="fail_to_create_folder">Impossibile creare la cartella, la cartella è già esistente.</string>
     <string name="fail_to_create_folder_unknown">Impossibile creare: errore sconosciuto.</string>
-    <string name="fail_to_rename">Impossibile rinominare il file o la cartella è già esistente.</string>
     <string name="error_filename_too_long">Nome troppo lungo</string>
     <string name="enable_sd_card">Abilita scheda SD</string>
     <string name="enable_usb">Collega dispositivo USB</string>
@@ -94,7 +92,6 @@
     <string name="notif_title">Server FTP in esecuzione</string>
     <string name="storage_warning">Archiviazione esterna non disponibile.</string>
     <string name="wifi_state">Stato Wi-Fi</string>
-    <string name="instruction_pre">Collegati via FTP a PC o Mac</string>
     <string name="instruction">Inserire il seguente indirizzo:</string>
     <string name="no_wifi">Nessuna rete Wi-Fi</string>
     <string name="no_wifi_hint">Nessuna rete Wi-Fi</string>
@@ -127,6 +124,7 @@
     <string name="operation_decompressing">Estrazione…</string>
     <string name="decompress_success">Estrazione completata</string>
     <string name="decompress_fail">Estrazione fallita</string>
+    <string name="decompress_corrupt">Impossibile scompattare i file. Il pacchetto è corrotto.</string>
     <string name="decompress_destination_error">Impossibile estrarre in questo percorso.</string>
     <string name="decompress_to_here">Estrai qui</string>
     <string name="decompress_to">Estrai in…</string>
@@ -167,8 +165,6 @@
     <string name="name_empty">Devi inserire un nome.</string>
     <string name="folder_name_illegal">Nome cartella non valido</string>
     <string name="folder_name_empty">Il nome della cartella non può essere vuoto</string>
-    <string name="unmount_inform_text">"L'archivio USB verrà smontato.</string>
-    <string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Riprova più tardi.</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
@@ -182,7 +178,6 @@
     <string name="category_type_meida">Media</string>
     <string name="category_type_document">Documenti</string>
     <string name="category_type_other">Altro</string>
-    <string name="phone">Telefono</string>
     <string name="category">Categorie</string>
     <string name="file_not_exist">File inesistente</string>
     <string name="action_mode_deselect_all">Deseleziona tutto</string>
@@ -243,13 +238,8 @@
     <string name="smb_loading">Solo un attimo…</string>
     <string name="online_not_support">In questo momento non è possibile vedere il file.</string>
     <string name="delete_file_error">Non è stato possibile eliminare il file</string>
-    <string name="notification_content_hint">Tocca per visualizzare</string>
-    <string name="notification_wechat_title">Notificami quando un video WeChat sta per scadere</string>
     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
     <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
-    <string name="notification_wechat_sticker_hint">Mostra notifiche quando sono disponibili nuovi adesivi WeChat</string>
-    <string name="notification_wechat_auto_backup_hint">Tocca per ulteriori informazioni.</string>
-    <string name="notification_wechat_auto_backup_switch_title">Backup video WeChat</string>
     <string name="backup_title">Eseguire il backup dei video di WeChat?</string>
     <string name="backup_confirm">Backup ora</string>
     <string name="backup_cancel">No grazie</string>
@@ -347,15 +337,12 @@
     <string name="search_result">Risultati</string>
     <string name="add_private_files">Aggiungi file</string>
     <string name="type_not_support">Questo formato non è supportato. Scompatta questo file e riprova.</string>
-    <string name="notify_private_folder_title">Proteggi i tuoi file personali</string>
-    <string name="notify_private_folder_msg">Tocca per informazioni sulle cartelle nascoste.</string>
     <string name="select_dest_folder">Seleziona cartella</string>
     <string name="menu_item_sort_by_added_time">Aggiunto</string>
     <string name="move_icon_to_desktop_hint">Crea un collegamento sulla Home per File Explorer per gestire più rapidamente i file.</string>
     <string name="move_icon_to_desktop_success">Adesso puoi vedere il collegamento del File Explorer sulla Home.</string>
     <string name="clean_hint">Tocca per liberare spazio</string>
     <string name="private_toast_hint2">Per nascondere un file toccalo e tieni premuto, poi aggiungilo alla cartella nascosta.</string>
-    <string name="private_toast_hint3">Tira in basso per aprire le cartelle nascoste</string>
     <string name="encrypt_success_first_five">"Crittografato correttamente. Tira in basso nella pagina principale di File Explorer per vedere i file.</string>
     <string name="add_private">Aggiungi file alle cartelle nascoste</string>
     <string name="private_folder_no_file_hints">Tieni premuto sul file o la cartella per nasconderli.</string>
@@ -365,7 +352,6 @@
     <string name="make_private_msg_3">Tutti i file in questa cartella verranno nascosti.</string>
     <string name="homepage_tab_recent">Recenti</string>
     <string name="homepage_tab_category">Categorie</string>
-    <string name="homepage_tab_file_view">Telefono</string>
     <string name="found_usb">Archiviazione USB collegata</string>
     <string name="found_router">Router collegato</string>
     <string name="hot_video">Video popolari</string>
@@ -438,11 +424,11 @@
     <string name="enable_documentsui">Attiva prima %s in Impostazioni/App installate</string>
     <string name="not_installed_documentsui">DocumentsUI non installato</string>
     <string name="title_enable_documentsui">Attiva DocumentsUI</string>
-    <string name="error_contains_sharer_path">"Impossibile crittografare i file in /MIUI/Gallery/cloud/sharer. Sposta i file in un'altra cartella e riprova."</string>
     <string name="server_error">Errore del server, riprova più tardi. (Errore %s)</string>
     <string name="network_not_available">Impossibile collegarsi alla rete</string>
     <string name="request_timeout">Richiesta di rete scaduta</string>
     <string name="login_expired">Accesso scaduto, accedi di nuovo.</string>
+    <string name="error_contains_sharer_path">"Impossibile crittografare i file in /MIUI/Gallery/cloud/sharer, sposta il file in un'altra cartella e prova di nuovo"</string>
     <string name="hottest_sticker_str">Popolari</string>
     <string name="no_new_content_tip">"È stato aggiornato, puoi passare al più richiesto!"</string>
     <string name="share_title_1">Ho trovato un adesivo fantastico!</string>
@@ -451,7 +437,6 @@
     <string name="video_upload_btn">passo successivo</string>
     <string name="video_upload_title">seleziona video</string>
     <string name="video_upload_item_title">%1$s (%2$s)</string>
-    <string name="video_upload_item_more">altro(%1$s)</string>
     <string name="video_comment_topic">\#aggiungi argomento#</string>
     <string name="video_comment_hint">seleziona tag di argomenti richiesti</string>
     <string name="video_comment_publish">pubblica</string>
@@ -542,8 +527,6 @@
     <string name="user_setting_new_comment_tip">Riceverai una notifica per ogni video o commento</string>
     <string name="user_setting_new_liked">Notifica Mi piace</string>
     <string name="user_setting_new_liked_tip">Riceverai un notifica quando qualcuno premerà \"Mi piace\" su un tuo video o commento</string>
-    <string name="user_setting_topic_new_msg">Nuovo avviso dinamico argomento hot</string>
-    <string name="user_setting_topic_new_msg_tip">Riceverai una notifica quando un video di un argomento di tuo interesse verrà pubblicato</string>
     <string name="user_setting_follow_new_msg">Notifiche dalle persone che segui</string>
     <string name="user_setting_follow_new_msg_tip">Ricevi notifiche per i nuovi video</string>
     <string name="user_setting_followed_msg">Notifiche da chi ti segue</string>
@@ -638,10 +621,6 @@
     <string name="download">Scarica</string>
     <string name="open_app">Apri</string>
     <string name="recent_show">Recenti</string>
-    <string name="youliao_ad_title">I migliori video sono stati aggiornati alla versione integrale!</string>
-    <string name="youliao_ad_msg">"Adesso aggiornati alla versione APP integrale, buon divertimento!
-Guarda con altri 170 milioni di Mi fans."</string>
-    <string name="youliao_ad_update">Aggiorna</string>
     <string name="setting_message_notify">Notifiche</string>
     <string name="setting_account_bind">Aggiungi account</string>
     <string name="user_setting_logout">Esci</string>
@@ -683,7 +662,6 @@ Guarda con altri 170 milioni di Mi fans."</string>
     <string name="popup_msg_wx">Condividi questo video con i tuoi amici su WeChat.</string>
     <string name="popup_msg_qq">Condividi questo video con i tuoi amici su QQ.</string>
     <string name="video_uploaded">Caricati</string>
-    <string name="video_recommend_upload">Consigliati</string>
     <string name="video_upload_kuaishou_hint">Carica video KuaiShou per avere più fan.</string>
     <string name="video_upload_wechat_hint">Carica video WeChat per avere più fan.</string>
     <string name="upload_video_failed_progress">Impossibile caricare, riprovare più tardi</string>
@@ -707,7 +685,6 @@ Guarda con altri 170 milioni di Mi fans."</string>
     <string name="sort_size_desc">Dal più grande al più piccolo</string>
     <string name="sort_size_asc">Dal più piccolo al più grande</string>
     <string name="tab_homepage">Home</string>
-    <string name="tab_claim">Richiedi</string>
     <string name="tab_discover">Scopri</string>
     <string name="tab_mine">Profilo</string>
     <string name="original_user_signal">Team Talenti</string>
@@ -715,20 +692,6 @@ Guarda con altri 170 milioni di Mi fans."</string>
     <string name="original_user_register">• entrato nella community</string>
     <string name="original_user_verify">• Grazie per far parte del gruppo!</string>
     <string name="original_user_qq_group">Entra nel gruppo QQ del Team Talenti</string>
-    <string name="claim_video">Richiedi</string>
-    <string name="claim_video_locking">Richiesta in corso…</string>
-    <string name="claim_no_video">Nessun video da richiedere</string>
-    <string name="claim_video_already_locked">Richiesto</string>
-    <string name="claim_video_already_claimed">Questo video è stato già richiesto, dovrai essere più veloce la prossima volta!</string>
-    <string name="claim_video_over">Troppe richieste per oggi, riprova domani!</string>
-    <string name="claim_operation_too_frequently">Troppi tentativi! Riprova più tardi.</string>
-    <string name="claim_video_success">Richiesto correttamente</string>
-    <string name="claim_video_failure">Impossibile richiedere, riprova più tardi</string>
-    <string name="claim_remind_dialog_title">Attenzione</string>
-    <string name="claim_remind_dialog_message">Non potrai richiedere questo video se ritorni</string>
-    <string name="claim_remind_dialog_confirm">Rimani</string>
-    <string name="claim_remind_dialog_cancel">Vedi altri video</string>
-    <string name="claim_video_unlogin">Accedi per richiedere video</string>
     <string name="video_encrypt_login_text">Accedi per riprodurre questo video</string>
     <string name="video_encrypt_login_btn">Accedi</string>
     <string name="video_encrypt_fans_text">Solo i fan possono vedere questo video</string>
@@ -797,14 +760,10 @@ Guarda con altri 170 milioni di Mi fans."</string>
     <string name="gender_choose_sub_tile">Ottieni contenuti personalizzati​</string>
     <string name="share_topic_title">"Sto leggendo #%1$s#, dai un'occhiata!"</string>
     <string name="share_topic_desc">Carica video per ottenere il premio</string>
-    <string name="comment_added">Aggiunto con successo</string>
-    <string name="comment_added_tip">"Stai aggiungendo molti commenti. Vuoi seguire questa persona?"</string>
     <string name="recommend_popup_title">Suggerimenti</string>
     <string name="need_login">"Esegui prima l'accesso"</string>
     <string name="no_videos">"Non c'è nulla qui. Controlla più in basso!"</string>
     <string name="my_follows">Il mio feed</string>
-    <string name="next_time">Non adesso</string>
-    <string name="add_follow">Segui</string>
     <string name="video_publish_watchable_limit">Puoi fare questo due volte al giorno</string>
     <string name="select_interest_str">Seleziona gli argomenti di tuo gradimento</string>
     <string name="select_interest_tip">"C'è ancora molto da scoprire!"</string>
@@ -839,5 +798,23 @@ Guarda con altri 170 milioni di Mi fans."</string>
     <string name="clear_record">Cancella cronologia</string>
     <string name="overwrite_msg">\"%s\" è già esistente. Tocca per sostituirlo con il nuovo file.</string>
     <string name="skip_file">Salta</string>
-    <string name="support_mtp">MTP sarà presto disponibile </string>
+      <string name="mtp_label">MTP</string>
+    <string name="mtp_device">Media device (MTP)</string>
+    <string name="connection_lost">Disconnesso</string>
+    <string name="error_invalid_path">Percorso non corretto</string>
+    <string name="error_create_dir">Impossibile creare la cartella</string>
+    <string name="error_create_file">Impossibile creare il file</string>
+    <string name="error_not_support">Non supportato</string>
+    <string name="error_delete_failed">Impossibile leiminare il file</string>
+    <string name="error_folder_already_exists">IL file è già esistente</string>
+    <string name="clock_in">Controllo…</string>
+    <string name="unknown_error">Si è verificato un errore. Aspetta un minuto o due e prova di nuovo.</string>
+    <string name="permission_denial">Impossibile accedere ai file. Consenti ad Explorer di accedere ai file nelle impostazioni.</string>
+    <string name="permission_required">Impossibile accedere ai file. Concedi ad Explorer di accedere ai file nelle impostazioni.</string>
+    <string name="pad">Memoria interna</string>
+    <string name="phone">Menoria interna</string>
+    <string name="instruction_pre_phone">Tocca per avviare il server FTP</string>
+    <string name="instruction_pre_pad">Tocca per avviare il server FTP</string>
+    <string name="homepage_tab_file_view_phone">Memoria</string>
+    <string name="cannot_send">Impossibile inviare file dalla memoria interna</string>
 </resources>

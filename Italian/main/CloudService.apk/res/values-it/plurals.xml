@@ -56,4 +56,12 @@
         <item quantity="other">%d elementi bloccati</item>
         <item quantity="one">%d elemento bloccato</item>
     </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Riprendi la sincronizzazione dopo %d ore</item>
+        <item quantity="one">Riprendi la sincronizzazione dopo %d ora</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Riprendi la sincronizzazione dopo %d minuti</item>
+        <item quantity="one">Riprendi la asincronizzazione dopo %d minuto</item>
+    </plurals>
 </resources>

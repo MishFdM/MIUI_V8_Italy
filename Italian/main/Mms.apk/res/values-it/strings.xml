@@ -212,6 +212,7 @@
     <string name="confirm">Conferma</string>
     <string name="message_send_read_report">Verrà inviata una conferma di lettura.</string>
     <string name="message_queued">Al momento è impossibile inviare il messaggio. Il messaggio verrà inviato non appena il servizio diventa disponibile.</string>
+    <string name="message_queued_second_space">Impossibile inviare il tuo messaggio in questo momento. Attiva la rete dati."</string>
     <string name="fdn_check_failure">Puoi inviare messaggi solo ai numeri memorizzati.</string>
     <string name="no_subject">(Nessun oggetto)</string>
     <string name="unknown_sender">Mittente sconosciuto</string>
@@ -613,7 +614,6 @@
     <string name="url_fraud_dangerous_alert">"Il sito che stai per visitare potrebbe non essere sicuro e potrebbe danneggiare il tuo dispositivo. Continuare? 
 %s"</string>
     <string name="url_fraud_visit"><u>Visita comunque</u></string>
-    <string name="url_fraud_insurance">Truffa assicurativa</string>
     <string name="sms_card_partner_label">"Socio scheda SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="add_to_browser_favorite_success">Aggiunto</string>

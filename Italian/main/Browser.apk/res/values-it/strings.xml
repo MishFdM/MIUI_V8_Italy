@@ -101,6 +101,7 @@
     <string name="block_ads_choice_continue">Continua</string>
     <string name="block_ads_message">Vuoi bloccare i messaggi da questo sito?</string>
     <string name="block_ads_title">Il contenuto potrebbe includere pubblicità</string>
+    <string name="bookmark">Segnalibro</string>
     <string name="bookmark_add_to">Aggiungi a</string>
     <string name="bookmark_btn_select_all">Seleziona tutto</string>
     <string name="bookmark_btn_select_none">Deseleziona tutto</string>
@@ -331,6 +332,7 @@ finestra riservata​"</string>
     <string name="google_bookmarks">"Google: "</string>
     <string name="have_sent_bookmark_to_home_screen">Posizionato in home</string>
     <string name="hint">Hint</string>
+    <string name="history">Cronologia</string>
     <string name="home_description">Home</string>
     <string name="homepage_delete_card_menu">Elimina</string>
     <string name="homepage_get_location">Trova posizione</string>
@@ -714,6 +716,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="sign_in_to" formatted="false">Accedi a %s1 \"%s2\"</string>
     <string name="skip_button_label">Salta</string>
     <string name="skip_current_version">Salta questa versione</string>
+    <string name="snapshot">Local</string>
     <string name="snapshot_failed">Salvataggio per lettura offline non riuscito.</string>
     <string name="snapshot_successed">Salvataggio per lettura offline riuscito.</string>
     <string name="ssl_bad_clock_date_settings">Impostazioni data</string>
@@ -863,17 +866,59 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="voice_title_please">Inizia a parlare…</string>
     <string name="voice_title_speech_again">Non riesco a comprenderti</string>
     <string name="weather_location_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."</string>
-    <string name="webpage_bookmark_title">Segnalibri</string>
-    <string name="webpage_history_title">Cronologia</string>
     <string name="webpage_title">Segnalibri e cronologia</string>
     <string name="webview_find_on_page">Trova nella pagina</string>
     <string name="webviewchromium_private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
     <string name="week_picker_dialog_title">Imposta settimana</string>
-    <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>
-    <string name="error_console_eval_button_text">Esegui</string>
-    <string name="error_console_eval_text_hint">Esegui JavaScript</string>
-    <string name="error_console_header_text_maximized">Console JavaScript</string>
-    <string name="error_console_header_text_minimized">Mostra console JavaScript</string>
+    <string name="miuichromium_error_page_description_no_connection" formatted="false">Impossibile collegarsi alla rete a causa del segnale debole o della configurazione di rete non corretta. Controlla le %s1impostazio ni dei rete%s2 e prova di nuovo."</string>
+    <string name="miuichromium_error_page_problem_access_denied">"L'accesso a %s0 è stato negato"</string>
+    <string name="miuichromium_error_page_problem_cache_miss">Questa pagina no può essere caricata dalla cache</string>
+    <string name="miuichromium_error_page_problem_cannot_open_page">La pagina non può essere aperta</string>
+    <string name="miuichromium_error_page_problem_cannot_reach_site">Il sito non è raggiungibile</string>
+    <string name="miuichromium_error_page_problem_connection_interrupted">La connessione è stata interrotta</string>
+    <string name="miuichromium_error_page_problem_file_not_found">Impossibile trovare il file</string>
+    <string name="miuichromium_error_page_problem_gateway_timed_out">%s0 ha impiegato troppo per rispondere</string>
+    <string name="miuichromium_error_page_problem_network_access_denied">Accesso di rete limitato</string>
+    <string name="miuichromium_error_page_problem_no_internet_connection">Impossibile collegarsi a Internet"</string>
+    <string name="miuichromium_error_page_problem_page_moved">La pagina %s0 potrebbe essere stata spostata o eliminata</string>
+    <string name="miuichromium_error_page_problem_page_not_found">Impossibile trovare questa pagina su %s0</string>
+    <string name="miuichromium_error_page_problem_page_not_working">Questa pagina non funziona</string>
+    <string name="miuichromium_error_page_problem_security_error">Il sito non fornisce una connessione sicura</string>
+    <string name="miuichromium_error_page_problem_server_fault">%s0 non p in gradi di soddisfeare la richiesta</string>
+    <string name="miuichromium_error_page_reason_bad_client_cert">" perché %s0 non accetta il tuo certificato"</string>
+    <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 non è in linea con gli standard di sicurezza"</string>
+    <string name="miuichromium_error_page_reason_blocked_by_response">. Accesso bloccato da %s0</string>
+    <string name="miuichromium_error_page_reason_connection_closed">. %s0 connessione interrotta</string>
+    <string name="miuichromium_error_page_reason_connection_refused">. %s0 si rifiuta di collegarsi</string>
+    <string name="miuichromium_error_page_reason_connection_reset">. Connessione annullata</string>
+    <string name="miuichromium_error_page_reason_device_slept">" quanto il dispositivo si disattiva"</string>
+    <string name="miuichromium_error_page_reason_empty_response">" perché %s0 non ha inviato nessun dato"</string>
+    <string name="miuichromium_error_page_reason_invalid_address">. indirizzo IP o porta non validi</string>
+    <string name="miuichromium_error_page_reason_invalid_response">" perché %s0 ha inviato una risposta non valida"</string>
+    <string name="miuichromium_error_page_reason_invalid_url">" perché la URL non è valida"</string>
+    <string name="miuichromium_error_page_reason_moved_or_deleted">. Potrebbe essere stata spostata o eliminata</string>
+    <string name="miuichromium_error_page_reason_name_collision">. Questo sito della intranet ha lo stesso URL di un sito esterno</string>
+    <string name="miuichromium_error_page_reason_name_not_resolved">". Impossibile trovare l'indirizzo DNS per %s0"</string>
+    <string name="miuichromium_error_page_reason_network_changed">" a causa di una modifica della rete"</string>
+    <string name="miuichromium_error_page_reason_proxy_error">. Qualcosa non funziona con il server proxy, o indirizzo proxy non corretto</string>
+    <string name="miuichromium_error_page_reason_site_unreachable">. %s0 non è attualmente raggiungibile</string>
+    <string name="miuichromium_error_page_reason_timed_out">". %s0 non risponde da troppo tempo"</string>
+    <string name="miuichromium_error_page_reason_too_many_redirects">" perché %s0 ti ha rediretto troppe volte"</string>
+    <string name="miuichromium_error_page_reason_unsafe_port">. %s0 sta utilizzando una porta non sicura</string>
+    <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 sta reindirizzando in modo non sicuro</string>
+    <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 utilizza un portocollo non supportato</string>
+    <string name="miuichromium_error_page_suggestion_check_app_proxy">Controlla le impostazioni delle app proxyinstallate sul tuo dispositivo.</string>
+    <string name="miuichromium_error_page_suggestion_check_connetion">Controlla la tua connessione Internet.</string>
+    <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dati rete mobile) Azzera il tuo %s1APN impostazioni%s2.</string>
+    <string name="miuichromium_error_page_suggestion_check_url">"Controlla l'URL che hai inserito."</string>
+    <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) COntrolla il tuo %s1proxy impostazioni%s2.</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Cancella cache (%s1Impostazioni%s2 - Cancella dati).</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cancella cache e cookie (%s1Impostazioni%s2 - Cancella dati, le informazioni del tuo accout potrebbero essere perse).</string>
+    <string name="miuichromium_error_page_suggestion_connect_and_retry">Reload after connecting to the internet</string>
+    <string name="miuichromium_error_page_suggestion_contact_admin">Contatta il tuo amministratore di sistema.</string>
+    <string name="miuichromium_error_page_suggestion_correct_url">"Controlla l'indirizzo e prova di nuovo utilizzando l'URL corretto."</string>
+    <string name="miuichromium_error_page_suggestion_grant_permission">Ricarica dopo aver concesso al Browser i permessi per accedere ad Internet.</string>
+    <string name="miuichromium_error_page_suggestion_title">. Prova così:</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="search_label">Browser</string>
 </resources>

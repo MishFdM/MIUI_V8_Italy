@@ -5,9 +5,25 @@
         <item quantity="other">%d app recenti</item>
         <item quantity="one">1 app recente</item>
     </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Recenti aperti, aapp disponibili: %d.</item>
+        <item quantity="one">Recenti aperti, app disponibile: 1.</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Recenti aperti, app disponibili: %d. Scorri in alto per chiudere, scorri in basso per bloccare.</item>
+        <item quantity="one">Recenti aperti, app disponibili: 1. Scorri in alto per chiudere, scorri in basso per bloccare.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d comandi sopra questa linea sono attivi</item>
+        <item quantity="one">1 comando sopra questa linea è attivo</item>
+    </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Nascondere le notifiche di %d app?</item>
         <item quantity="one">Nascondere le notifiche di questa app?</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Nascondi notifiche da %1$s &amp;amp; %2$d app.</item>
+        <item quantity="one">Nascondi notifiche da %1$s &amp;amp; 1 app.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Sereno</item>

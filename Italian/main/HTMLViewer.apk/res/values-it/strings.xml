@@ -4,6 +4,7 @@
     <string name="loading">Caricamento…</string>
     <string name="app_name_which_call">Applicazione: %s</string>
     <string name="app_version_which_call">Versione applicazione: %s</string>
+    <string name="pre_installed_apps">App pre-installate</string>
     <string name="policy_name">Regolamentazione: %s</string>
     <string name="mibi_license">Termini del Servizio Mi Credit</string>
     <string name="license_host_unreachable">"Impossibile connettersi alla rete. Per leggere queste informazioni adesso, 
@@ -19,4 +20,7 @@ visita %s"</string>
     <string name="settings_safetylegal_activity_unreachable">Non hai una connessione di rete. Per vedere adesso le informazioni, vai su %s da un qualsiasi computer collegato ad internet.</string>
     <string name="settings_safetylegal_activity_loading">Caricamento…</string>
     <string name="ime_privacy_policy">Scegli Tastiera</string>
+    <string name="ad_service">Servizio AD</string>
+    <string name="settings_ad_loading">Solo un secondo...</string>
+    <string name="settings_ad_loading_unavailable">Impossibile caricare informazioni.</string>
 </resources>
