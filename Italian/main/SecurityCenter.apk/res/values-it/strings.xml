@@ -343,7 +343,6 @@ dall'operatore"</string>
     <string name="firewall_fragment_tab_title_sys">Di sistema</string>
     <string name="firewall_fragment_sys_listempty">Vuoto</string>
     <string name="firewall_fragment_nonesys_listempty">Vuoto</string>
-    <string name="firewall_restrict_notify_title">%1$s non può utilizzare %2$s</string>
     <string name="firewall_network_restrict_notify_mobile">dati mobile</string>
     <string name="firewall_network_restrict_notify_message">Tocca per modificare le impostazioni.</string>
     <string name="firewall_restrict_android_dialog_title">Attenzione</string>
